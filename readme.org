@@ -1,0 +1,53 @@
+* GameFaqs Reborn
+This project is my attempt to provide a new host for the old GameFaqs text
+guides.
+
+I'm doing this for two reasons:
+
+ 1. It sucks that the old GameFaqs site is no longer hosting these text files;
+    they're a valuable resource and part of gaming history and deserve to
+    continue to live online.
+ 2. I wanted to learn a bit about writing a simple-ish full-text search service.
+
+This repo contains several parts -- a command to pre-index the text documents, a
+search service, a web front-end for the search service, and a simple service
+that serves as a proxy for where the documents are stored.
+
+** Indexer
+Rather than relying on a database or search service like ElasticSearch or
+Lucene, I wanted to pre-index the text documents and store the index in the
+search service as an embedded file. I was inspired by [[https://boyter.org/posts/abusing-aws-to-make-a-search-engine/][Ben E. C. Boyter's post
+"Abusing AWS Lambda to make an Aussie Search Engine]], as it seemed like a nice
+light-weight way to build this kind of document index.
+
+Because I'm only currently working with the archived GameFaq documents, I don't
+have to worry about updating the index in real-time as new documents are
+added. If at some point in the future folks want to add /new/ documents, I doubt
+I'll be getting so many that I can't just re-run this indexer.
+
+If I do somehow end up getting flooded with new guide submissions, well, I'll
+solve that problem then.
+
+** Search Service
+Basically a one-route service that provides the ability to run a full-text
+search against the pre-compiled index.
+
+I haven't given this part too much thought yet, but there will probably be a few
+limitations ( little-to-no pagination, etc ).
+
+** Web Front-End
+A super simple front-end that allows folks to run a search and get back a list
+of documents.
+
+Haven't designed yet, or given much thought.
+
+** Storage Proxy
+I don't want to provide the bare links to where ever I end up putting the actual
+text documents. For example, putting them in Google Cloud Storage I could just
+make the documents public and hand out the =https://storage.googleapis.com/...=
+link... but that seems like not a great idea.
+
+Plus if I want to move the documents in the future, I can do so without breaking
+bookmarks of folks who have bookmarked the proxy.
+
+
