@@ -1,5 +1,5 @@
 * GameFaqs Reborn
-This project is my attempt to provide a new host for the old GameFaqs text
+This project is my attempt to provide a new host for the old [[https://archive.org/details/Gamespot_Gamefaqs_TXTs][GameFaqs]] text
 guides.
 
 I'm doing this for two reasons:
