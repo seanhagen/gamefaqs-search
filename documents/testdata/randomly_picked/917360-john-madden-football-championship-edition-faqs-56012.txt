@@ -1,0 +1,1105 @@
+         __                              _    ___    ___    ___
+     |  /  \  |   | |\   |      /\ /\   / \  |   \  |   \  |    |\   |
+     | |    | |   | | \  |     |  |  | |   | |    | |    | |    | \  |
+     | |    | |---| |  \ |     |  |  | |---| |    | |    | |--- |  \ |
+     | |    | |   | |   \|     |  |  | |   | |    | |    | |    |   \|
+ \__/   \__/  |   | |    |     |  |  | |   | |___/  |___/  |___ |    |
+ ___   __     __   _____  __       _                        ___    _____
+|     /  \   /  \    |   | _\     / \  |    |          /   / _ \  |___  \
+|    |    | |    |   |   |  /_   |   | |    |             | (_) |  ___) /
+|--- |    | |    |   |   | _  \  |---| |    |              \__  / |___ |
+|    |    | |    |   |   ||_)  | |   | |    |              __/ /   ___) \
+|     \__/   \__/    |   |____/  |   | |___ |___          \___/   |_____/
+
+                          CHAMPIONSHIP EDITION
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Table of Contents
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[INTRO] Introduction
+[MODES] Modes of Play
+[CONTR] Controls
+[OFFPB] Offensive Playbook
+[DEFPB] Defensive Playbook
+[NOTES] FAQs and General Tips
+[VERSN] Version History
+[COPYR] Copyright
+[CONTC] Contact Information
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Introduction                                                         [INTRO]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+It seems like Vinny's taking one last trip to the gridiron before hanging up
+his cleats for the season. This might be the easiest guide I've ever written,
+since John Madden Football '93 Championship Edition is the same as the regular
+version of Madden '93, only that some of the teams are different.
+
+While John Madden Football '93 Championship Edition doesn't have today's
+graphics or updated rosters, it has a pretty deep playbook for its time and
+great music. Many features of later Madden games aren't included, like season
+play, and there are no substitutions except for quarterbacks. The 40 teams in
+Madden '93 are some of the greatest football teams of all time, although they
+don't have player names. Almost every team to make a Super Bowl is included,
+although they omit certain teams that are very similar to each other, like
+those that appear in back-to-back Super Bowls. The game leaves out the actual
+1992 teams. It may take a few minutes to learn all the spins and other moves,
+but it's a lot easier than the play control in the ultra-complicated newer
+games.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Modes of Play                                                        [MODES]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---Regular Season---
+Here you can play an exhibition game using the teams of your choice. You can
+select the field type, weather, and quarter length, too.
+
+---New Playoffs---
+This lets you play a series of games involving 16 of the best teams of all
+time. Your progress is saved after each game. If you start a new playoff series
+with one in progress, though, you'll overwrite the old saved game.
+
+---Continue Playoffs---
+Select this to resume a playoff in progress.
+
+---Sudden Death---
+Sudden Death is essentially an overtime period that matches up the teams of
+your selection. The first team to score will win the game.
+
+---Pre-Season---
+This is the same as a Regular Season game, except there's no play clock. This
+way, you can take as long as you want to call your plays.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Controls                                                             [CONTR]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+---General---
+Control pad any direction - Move player
+START - Pause game
+
+From the pause menu, you can call a timeout, watch an instant replay of the
+last play, or yank your quarterback.
+
+---Kickoff---
+Start the power bar - C
+Stop the power bar - C (when it's near the top)
+Aim kick left/right - Control Pad Left/Right
+Call an audible - A
+Line up for an onside kick (after calling an audible) - C
+Return to standard kicking formation (after calling an audible) - A
+Control the kick receiver - Control Pad any direction
+
+---Before the snap---
+(Offense)
+Fake snap signal (HUT!) - B
+Snap the ball - C
+Change players (only in 2-Player Teammates games) - C
+
+(Defense)
+Select player to control - B
+Line surge (the false start button) - C
+
+---Audibles (either offense or defense)---
+Call an audible - A
+Select an audible play (after calling an audible) - A, B, or C
+
+---After the snap---
+(Offense)
+Rushing
+Dive/QB slide - A
+Spin - B
+Burst of speed/break tackle - C
+
+(Defense)
+Dive/Power Tackle - A
+Control player closest to the ball - B
+Jump and raise hands - C
+
+---Passing---
+Move the quarterback - Control Pad any direction
+Bring up passing windows - C
+Pass to receiver A, B, or C - A, B, or C
+
+Note: The longer you hold down the pass button, the harder the throw will be.
+Don't forget that your quarterback can run, too.
+
+---Receiving---
+Take control of receiver closest to the ball - B
+Dive - A
+Jump and raise hands - C
+
+---Punting/Kicking---
+Fake snap signal (HUT!) - B
+Start power bar/snap the ball - C
+Aim the kick - Control Pad Left/Right
+Kick the ball - C
+
+---Play Calling---
+Move play selection highlight - Control Pad Up/Down
+Return to formation select screen from play screen - Control Pad Up
+
+---Menus---
+Move highlight up/down - Control Pad up/down
+Cycle through choices - Control Pad left/right
+Begin game - START
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Offensive Playbook                                                   [OFFPB]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A few notes: Since you're playing an old football video game, I'm assuming you
+have some grasp of football theory, rules, and terminology; you know what a
+tight end or shotgun formation is. That said, I'm still going to explain
+certain terms for the less football-savvy. Remember that results may vary
+depending on defense, down, hashmarks, and other factors - especially the
+individual abilities of your offensive players. I've tried to test each play
+against a variety of defenses, but there's still a chance I may have misjudged
+a few plays. Also, no play will work 100% of the time. The five-receiver
+formation wasn't around in the NFL in 1992, so don't go looking for any 5-WR
+sets or 7-DB "quarter" defenses here, or zone blitzes, for that matter. For
+those of you who are counting, there are 59 plays on offense and 64 plays in
+the defensive playbook. While some of these plays (or plays that are very
+similar) appear in the playbooks of today's Madden games, I don't recommend
+trying to use this guide with any games other than the Genesis version of John
+Madden Football '93.
+
+Far (8 plays)
+===============================================================================
+This formation is best for running, although it contains several passing plays.
+The only difference between the "Far" and "Near" formations is whether or not
+your halfback is on the same side of the formation as the tight end.
+
+---Cross Right---
+The split end (B) runs a very effective deep in. The tight end (C) is on an out
+pattern, and the halfback (A) will be available in the flat.
+
+---HB Sweep Right---
+On this play, the halfback takes the pitch and must run almost to the sideline
+before turning. There's obviously a risk here, since a blitzing LOLB will often
+stop you for a loss. However, a fast back can easily gain 5-10 yards, and
+sometimes far more than that.
+
+---Quick Slant---
+The flanker (C) goes in motion at the beginning of the play and runs a post
+pattern. Your primary target is the tight end (B), who runs a quick slant that
+may face too much traffic to be effective. The halfback (A) may be the safest
+pick.
+
+---FB Lead Left---
+The halfback lead blocks for the fullback, who runs between the left tackle and
+left guard. This is a good way to use a fullback who can break tackles. Don't
+be too fast in plowing through the line; wait for the blocking to set up before
+making your move.
+
+---HB Screen---
+Your primary option for this screen pass is, of course, the halfback (A). A
+fast halfback can easily get a first down or a touchdown if you throw a quick,
+hard pass. You can also try the split end (B) on the corner or the tight end
+(C) on the out.
+
+---FB Counter---
+Unless you have a very fast fullback who breaks tackles well, your back will be
+stuffed for a big loss, since you take the pitch quite far behind the line of
+scrimmage. Not a good play.
+
+---HB Option---
+A nervy, exciting play. The quarterback pitches out to the halfback as if this
+were a sweep right. However, you can press B to bring up the receiver windows
+and throw a pass! The best option is the split end (B) on the post. The flanker
+(C) also runs a post. If all else fails, press A to throw to the quarterback.
+Of course, you might prefer to take off running, especially if the linebackers
+are in coverage. Against a human, be sure to press B to bring up the receiver
+windows even if you choose to run; it's a great way to confuse your opponent!
+
+---FB Trap Left---
+Not the best running play in the book, even among fullback runs. If you run the
+play the way it's drawn, you probably won't gain more than a couple of yards,
+so you might prefer to run off right guard.
+
+Near (8 plays)
+===============================================================================
+---HB Trap Left---
+This trap play is pretty reliable at earning four yards, although you'll be
+stopped for a loss of one if the IRLB is blitzing.
+
+---Cross In---
+On this play action pass, your main target is the flanker (B) on the streak.
+The tight end (C) runs a very short out that's good if you want to get the ball
+off quickly, while the halfback (A) faces too much traffic against a standard
+3-4 or 4-3. It takes a little while for this play to get going, so try
+something else if you're expecting a heavy blitz.
+
+---FB Off Tackle---
+Not a bad play, but hardly remarkable or memorable. It's difficult for your
+fullback to build much momentum with this play. Running between the right guard
+and right tackle is generally most effective.
+
+---Play Action---
+This is more of a flood right than a play action. The halfback (B) is a good,
+safe option in the flat. The flanker (A) on the deep post can earn big yardage,
+while the tight end (C) will need to be quick to gain anything more than five
+yards.
+
+---FB Lead Right---
+Similar to FB Off Tackle, but a little better. The fullback normally runs off
+tackle, with the halfback as the lead blocker. If you have a fast fullback and
+the strong-side linebacker isn't blitzing, try running to the sideline as if
+this were a sweep; you might just earn 50 yards. Otherwise, run the play as you
+normally would. In Madden '94, this play is called HB Lead.
+
+---HB Counter---
+In a counter play, the running back steps in one direction to fake out the
+defense, and then he runs in the opposite direction. This is more like a plain
+old sweep right, and it will gain 10 yards even on a bad day. With a couple of
+well-timed stiff-arms, you'll score six points (seven if you make the PAT,
+obviously).
+
+---HB Screen---
+Your primary option for this screen pass is, of course, the halfback (C). A
+fast halfback can get good yardage, especially versus a blitz, but against a
+short zone, you'll have little luck. You can also throw deep to the streaking
+receivers (A and B), but they play so close together the defensive backs may
+have an easy time covering them.
+
+---HB Toss Right---
+This play isn't quite as great as it is in Madden '96, but it's still very
+effective. While this play is not guaranteed to gain yardage, it can usually
+produce a gain of ten, and frequently 50.
+
+Pro Form (13)
+===============================================================================
+The Pro Form formation, also known as Split Backs or other names, is very 
+similar to Far/Near. It's good for both running and passing, and it's probably
+the formation I use most frequently. As the most popular formation of its time,
+the Pro Form has the largest play selection of any set in the game.
+
+---FB Slant In---
+The split end (A) on the corner route is lethal if he's in single coverage.
+Less effective is the fullback (B), who lines up in the flat and runs a post
+pattern. The flanker (C) is an interception risk in man coverage, but he can
+also reach the end zone.
+
+---FB Center Trap---
+This is another fullback run, which will be pretty effective if your fullback
+runs well. Be patient and let the blockers block.
+
+---Swing Curl Left---
+All three of your passing options are quite short-range, so Swing Curl Left
+will be effective against deep zones. The fullback (A) in the flat is the
+safest pick. The halfback (B) on the wheel route can earn excellence yardage if
+he's not in too much traffic. The flanker (C), who takes the pass behind the
+line of scrimmage (technically a running play), is useless except against deep
+zones.
+
+---FB Draw Left---
+This is a relatively rare draw play to the fullback. It looks like the
+quarterback's throwing, but he's not. This works well if the defense is playing
+for the pass, but unless your fullback is fast, you'll lose big yardage against
+a blitz.
+
+---P Action Pass---
+This is another good play to use when you want to go deep on first down. The
+split end (A) and tight end (B) are on deep posts, and the flanker (C) zips
+downfield. This play isn't likely to succeed against a medium zone.
+
+---End Around---
+In an end around, the quarterback hands off to a wide receiver who's coming
+around the bend. Not surprisingly, this play is very risky but can net a big
+gain. You need a fast flanker to pull this off, as well as a strong line and a
+slow defense. This end around fails against aggressive rush. End arounds are
+also beneficial for keeping human players on their toes.
+
+---HB Toss & Pass---
+As with HB Option from the Far formation, the halfback takes the pitch and has
+the choice of running a standard outside run or throwing a pass. If you choose
+to pass, look for your receivers (B and C) on posts before dumping the ball to
+the quarterback (A).
+
+---Cross Pass---
+The B receiver runs a post pattern that can be dangerous if the safety picks
+him up. The flanker (C) goes deep, while the halfback (A) in the flat is a safe
+and remarkably effective option.
+
+---HB Toss Left---
+This is a good running play for more experienced players. If you can beat the
+right cornerback (probably with a stiff-arm), you should reach the sideline and
+score.
+
+---Down & Out---
+The halfback (A) is a very good option against blitzes and deep zones. The
+tight end (B) on the post also works well against blitzes, while the flanker
+(C) on the post is more of a deep threat. Overall, a nice play.
+
+---HB Off Tackle---
+The halfback runs between the right tackle and tight end or flanker. What more
+can you say? This is a good general-purpose run that should consistently gain
+about five yards - sometimes more - without much risk. Keep your distance from
+the LOLB.
+
+---Rollout Pass---
+As with other rollouts, you want the quarterback to leave the pocket before you
+take control of him. The split end (B) on the short is perfect against blitzing
+inside linebackers. The flanker (A), who goes in motion before the snap, may
+face too much traffic to be useful, while the fullback (C) is a good receiver
+of last resort. Good against the inside blitz, but a blitzing LOLB will be
+trouble.
+
+---Stop Clock---
+In this play, the quarterback spikes the ball to stop the clock. It's best used
+in two-minute drill situations when stopping the clock is worth losing a down.
+In this game, though, it's usually quickest just to run a play. This play
+appears in several formations (in the Super NES version of Madden '93, every
+formation).
+
+Shotgun (9)
+===============================================================================
+The Shotgun formation is good for passing because of its "shotgun" snap - the 
+quarterback gets the ball several yards behind the line of scrimmage instead of
+from right under center. It isn't great for running, though. The John Madden
+Football '93 version of the shotgun formation has three receivers, one tight
+end, and one running back. This is one receiver less than Run & Shoot. A good
+pass-blocking line helps.
+
+---Flood Right---
+If he's open, go for the flanker (B) on the deep post. Throwing to the tight
+end (A) will succeed against deep zones. Your last option is the back (C), who
+will take a while to get open.
+
+---Cross Up---
+The B and A receivers cross on post patterns, while the flanker (C) runs an
+out-and-up. This play is most effective if you have plenty of time.
+
+---Play Action---
+A play action pass seems a little weird in this formation, but this play is 
+reasonably good nonetheless. If the B or C receivers aren't open, just dump the
+ball off to the halfback (A) in the flat.
+
+---HB Toss Left---
+Outside running isn't easy in the Shotgun formation, but good blocking will 
+reward you with a big gain. Call an audible in the unlikely event your opponent
+has eight men in the box.
+
+---Flood Left---
+This is almost like a mirrored Flood Right. The B receiver on the post can net
+serious yardage, as can the C receiver on the deep out. The halfback (A) is
+again the receiver of last resort. 
+
+---Hail Mary---
+All your receivers head deep. This is best used in desperate situations where
+a quick touchdown is needed, although you could try it when you really want to
+shock the opponents. You'll usually want to take control of the receiver while
+the ball is in the air. Use your "Fast" team.
+
+---Post Out---
+The split end (A) runs a deep post that has the potential to earn big yardage.
+The tight end (B) on the in and the flanker (C) on the out are medium-length
+targets.
+
+---Fullback Draw---
+This can earn a surprising amount of yardage if the defense is expecting a
+pass. Either hit the hole between the pulling right guard and the center, or
+run off left tackle.
+
+---Stop Clock---
+Use this play to stop the clock in a two-minute drill.
+
+Run-Shoot (9)
+===============================================================================
+The Run-Shoot formation is named after the Run 'n' Shoot offensive system, as 
+this was the formation that system employed much of the time. It's similar to
+Shotgun, except that it has four wide receivers and one running back instead of
+three receivers, a tight end, and a back. Effective use of the Run & Shoot
+formation demands a deep crop of effective wide receivers and an offensive line
+that pass blocks well. Because the field is "spread out," you may find it
+easier for the quarterback to scramble, especially up the middle. Don't forget
+to take advantage of the slot receivers, who often remain uncovered or covered
+by a linebacker or safety (especially against a standard 4-3 or 3-4).
+
+---Up Hook---
+The split end (A) on the out-and-up is a great deep threat, and the B receiver
+on the quick slant is useful against deep zones and mass blitzes. The C
+receiver fakes a slant and runs a post.
+
+---Post Up---
+Your best option is the split end (A) on the deep post. If he's double-covered,
+look for the shorter tight end (B) or the C receiver on the out-and-up. This
+play will shred short zones and slow cornerbacks in man coverage.
+
+---Flag Left---
+The flanker (C) runs a flag pattern, while the B and A receivers cross on the
+left side of the field. The A-button receiver may be a good option if you need
+to get out of bounds.
+
+---Quick Outs---
+Try a quick, hard pass to the A receiver on the out. The C receiver runs
+something more like a slant. If the middle is clear, throw to the B receiver on
+the slant.
+
+---FB Draw---
+This draw play will be very successful against a Nickel, but a mass blitz will
+surely stop it for a loss.
+
+---Deep Outs---
+Your main target is the split end (A) on the deep out, who will probably score
+a touchdown if he catches the ball. Also look for your interior receivers (B
+and C) on posts. This play is best if you need quick yardage, especially in a
+two-minute drill.
+
+---Circle---
+The main receiver is the halfback (B) on the circle route, but he'll be well-
+covered in a standard 3-4 or 4-3. The A receiver goes deep on a post/corner,
+and the C receiver runs a nice quick out that's good for shorter-yardage
+situations.
+
+---Post In---
+The split end (A) on the post is a mighty tempting option if he's single-
+covered. The B receiver runs an in pattern, but passes to him are sometimes
+caught by the C receiver. The A receiver runs a slant fake/post that won't be
+fruitful except against a deep zone.
+
+---Stop Clock---
+I really shouldn't have to tell you this again, but the Stop Clock play spikes
+the ball so the clock will stop.
+
+Goal Line (8)
+===============================================================================
+This formation is full of plays that are useful only in short-yardage
+situations, especially near the goal line. There are two backs, two tight ends,
+and a receiver.
+
+---Play Action---
+The quarterback fakes a handoff on this play. Try throwing hard to the B or C
+receiver, but if they're covered, go for the riskier halfback (A) in the flat.
+
+---FB Pull---
+A good choice if you only need a yard or two. It's not particularly glamorous,
+though. As with HB Lead Left, you may prefer to run around the line for the
+score.
+
+---QB Sneak---
+The Quarterback Sneak is a low-risk play, but don't expect to gain much more
+than a yard or two. But it's very good at getting that one yard! 
+
+---HB Lead Right---
+Just like HB Lead Left, although slightly more effective.
+
+---Flood Left---
+There aren't many passing plays in the Goal Line formation, but this is one of
+them. Everyone heads left. The A receiver on the out is your most effective
+option, as he's the least likely to be in considerable traffic. You could also
+roll out to the right and run for the score. 
+
+---HB Lead Left---
+This is a halfback dive. If you need 1-2 yards, HB Lead Left is a good play to
+use.
+
+---HB Cut Right---
+The goal of this play is to avoid the congestion in the middle by running off
+right tackle, although sometimes it's also possible to plunge through the
+middle. While nothing is guaranteed inside the five, this play works very
+effectively, especially when you need two or three yards.
+
+---FB Cut Left---
+Another fullback dive, but this is a bit riskier than FB Pull.
+
+Punt (2)
+===============================================================================
+These plays will appear only if you select the "Special Teams Punt" player set.
+
+---Punt---
+When it's fourth down and too far to kick, you will usually want to punt. And 
+this is the play to select when you wish to do so.
+
+---Fake Punt---
+As you know, fake punts are risky. This is the pass form of the fake punt. Look
+for your Y, B, and A receivers and throw to whoever's open. Your B man is
+safest, while Y and A are best for longer gains. This play can be quite
+effective against human players, if just for the shock value alone.
+
+Field Goal (2)
+===============================================================================
+Use the "Special Teams Field Goal" players to access these plays.
+
+---Field Goal---
+This play lets you kick a field goal. What a surprise! Don't try to kick a
+field goal unless you're inside the opposition 30 or so, though. In newer
+Madden games, this is the play to select when you want to kick an extra point
+after a touchdown, although the two-point conversion wasn't around in the NFL
+in 1992.
+
+---Fake FG---
+Fake field goals are very risky, so use them carefully. Your best bet is the B
+option on this standard pass-based fake field goal. Ignore the kicking meter.
+As with fake punts, fake field goals are most dangerous against human
+opponents.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Defensive Playbook                                                   [DEFPB]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+I'm not going to be as verbose on the defensive plays. Instead, I'm just going 
+to give a few details about each play; you can tell a lot just from the names 
+and diagrams.
+
+4-3 (18)
+===============================================================================
+The 4-3 system has four defensive linemen, three linebackers, two cornerbacks,
+and two safeties. It's the primary defensive set of about half of the teams in
+the NFL in 1992.
+
+(Cover)
+---Mad Tiger Blitz---
+All three linebackers are blitzing. The offensive line won't be able to hold
+back the seven-man rush for long. However, the receivers will be in single
+coverage, since only four men are in coverage.
+
+---Short Zone 2---
+Needless to say, this is a short zone defense. It's designed to contain the
+short pass without being too weak against the rushing game and deep threats.
+
+---Man/Zone 1---
+Eight men are in the box, so it won't be easy to run against this defense. The
+long ball could be a problem, though, since only one safety is covering the
+pass.
+
+---Medium Zone---
+This is a medium zone defense, which contains the pass effectively but may have
+difficulty against the ground game, especially runs off guard.
+
+---Wide Zone 3---
+Four men are playing deep to protect against the long ball, but watch out for
+runs and passes up the middle.
+
+---Triple Zone---
+Triple Zone will usually put the opposition flanker in triple coverage, but the
+split end will have just one man to beat. The linebackers are playing man-to-
+man to stop the run.
+
+(Read)
+---Jet Blitz---
+The LLB is blitzing, and the DLE and DLT are on a stunt. One safety is playing
+to stop the run, while the other is in "center field" providing backup to the
+cornerbacks.
+
+---Tuf Bronco---
+Basically a mirrored former of Jet Blitz, except the safety is playing more on
+the flanker's side of the field.
+
+---Short Zone 1---
+This short zone is very similar to Short Zone 2.
+
+---Man Left---
+A man-to-man defense, with more protection on the left side of the field than
+the right.
+
+---Man Right---
+The mirrored form of Man Left. Surprise!
+
+---Wide Zone 1---
+Seven men are in coverage, so passing won't be easy. The quarterback won't be
+under much pressure, though.
+
+(Attack)
+---Monster Blitz---
+The middle linebacker blitzes, crushing the inside running game and putting
+enormous pressure on the quarterback. A pass up the middle could be dangerous,
+though.
+
+---Jam Middle---
+Both outside linebackers blitz, while the linemen rush toward the middle of the
+line. This play is good at stopping the inside run but is weaker against
+sweeps and passes to the flats.
+
+---Cheat Left---
+All of your linemen rush toward the left side of the defensive line. The idea
+is to block the left tackle and allow the blitzing RLB to come around to sack
+the quarterback or stop left outside rushes. It'll take some time for this to
+happen, though, especially if you don't have a fast linebacker. I recommend
+that you control the RLB if you want a sack. The receivers and tight end will
+be matched up in single coverage.
+
+---Cheat Right---
+The same as Cheat Left, only to the right. Consider taking control of the LLB.
+Even if you don't get the quarterback, you might be able to tip his pass.
+
+---Man/Zone 2---
+The linebackers play to stop the run, while both safeties play deep to back up
+the cornerbacks. A good first-down call.
+
+---Wide Zone 2---
+This is a fairly standard zone defense.
+
+3-4 (15) 
+===============================================================================
+The 3-4 is similar to the 4-3 in many aspects, but there are differences. The
+3-4 has three linemen and four linebackers, whereas the 4-3 uses four linemen
+and three linebackers. The primary advantage of a 3-4 is it allows teams to put
+more pressure on the quarterback in unpredictable ways. The disadvantage is it
+requires specialized personnel, such as a massive nose tackle. A real team may
+have some difficulty regularly switching between a 3-4 and a 4-3, but you can
+do it as much as you want in a video game. In real life, precisely half the NFL
+defenses used the 3-4 in 1992.
+
+(Cover)
+---Safety Blitz---
+Yikes! All four linebackers are blitzing, in addition to the safety. Wavers of
+the Terrible Towel will like this. Of course, only three players are protecting
+against the pass.
+
+---Short Zone---
+This is basically an ordinary short zone, although the safeties play fairly
+deep. This will be effective against stopping passes to the flats.
+
+---Man/Zone 2---
+Another good versatile 3-4 scheme. The defensive linemen rush toward the left
+side of the offensive line, and the safeties cover the sidelines. 
+
+---Medium Zone---
+Same as the other one.
+
+---Wide Zone 2---
+This is a lot like Wide Zone 1. You'll cover the pass, but you aren't likely to
+touch the quarterback.
+
+---Triple Zone---
+Not too different from the 4-3 version of Triple Zone; both safeties focus on
+shutting down passes to the flanker. The DLE and NT are on a stunt.
+
+(Read)
+---Man Left---
+Man Left is like it is in the 4-3; it's man coverage with more men on the left
+side of the field. 
+
+---Man Right---
+Basically the reverse of Man Left. Helps contain the tight end and flanker.
+
+---Tight Man---
+This is tight man coverage with three linebackers blitzing.
+
+---Wide Zone 3---
+Just like Wide Zones 2 and 1.
+
+---Medium Zone---
+Medium Zone will shut down a pass of 15-20 yards, but a run may cause trouble.
+
+---Monster Blitz---
+Eight men are in the box, and three linebackers are blitzing. Not a good play
+to run against.
+
+(Attack)
+---Jet Blitz---
+This is the equivalent of the 4-3 Jet Blitz. In this man-to-man system, the LLB
+blitzes, and one safety stops the run and one plays deep.
+
+---Jam Middle---
+This is one of the most run-oriented 3-4 defenses. Three linebackers are
+rushing, and both safeties play close to the line.
+
+---Man/Zone 1---
+No one blitzes here. With all the linebackers in coverage, it's going to be
+tough to find someone open, especially in the short zones.
+
+---Wide Zone 1---
+This play is designed to clog up the short zones. Good against two-tight end
+sets and passes to the flats.
+
+Nickel (10)
+===============================================================================
+The Nickel defense is best used in passing situations, as there are five 
+defensive backs instead of four.
+
+(Cover)
+---Man Tiger---
+Both linebackers blitz. Your center defensive back is also blitzing, but he's
+too far away from the line of scrimmage to do anything unless you're
+controlling him.
+
+---Safety Cheat---
+The defensive tackles are on a stunt, while the center safety comes charging
+forward. He won't reach the QB unless you take control of him manually, though.
+This safety charge could leave a hole in the deep zone in the center of the
+field.
+
+---Circle Zone---
+This is a zone defense that's shaped in a circle. The weak point is the middle
+of that circle, although even passes there aren't going to cause too much
+damage.
+
+---Full Zone---
+Every zone is covered here, including the flats. However, this play could be
+very vulnerable to an inside run, particularly a draw play.
+
+---Bump & Run---
+In Bump & Run, the linebackers play outside to stop outside runs. The defensive
+backs play man coverage.
+
+---Prevent---
+Everyone goes deep, so use this only when your opponents are in a two-minute 
+drill and are trying to gain yards quickly. It's best against a "Hail Mary" or 
+similar play.
+
+(Read)
+---Red Dog---
+Woof! Both linebackers are blitzing, so this is a good way to put pressure on
+the quarterback without forsaking the deep zones.
+
+---Tight Man---
+One linebacker is blitzing, and the defensive backs are in man coverage. The
+defensive line is rushing towards the center, so the inside run won't be able
+to do much, but an off left tackle could be dangerous.
+
+---Double FL---
+This double-teams the flanker. A good way to shut down a particularly dangerous
+receiver.
+
+---Double SE---
+Identical to Double FL, except this puts the split end (or sometimes the
+flanker) in double coverage.
+
+---Bump & Run---
+Same as in Cover.
+
+---Prevent---
+Another redudancy.
+
+Dime (9)
+===============================================================================
+The Dime formation is even more pass-oriented, with six defensive backs and
+just one linebacker. Since it's weak against most running plays, especially the
+inside run, the Dime should generally be reserved for prevent situations.
+
+(Cover)
+---CB Blitz---
+One of the cornerbacks blitzes the quarterback here, while the rest of the 
+secondary is able to fill the hole.
+
+---Center Blitz---
+The lone linebacker blitzes, while the secondary plays man coverage.
+
+---Double Blitz---
+The second cornerback and linebacker blitz, with the other five defensive backs
+providing the other assignments.
+
+---Short Zone---
+The cornerbacks and linebacker protect against the short pass, while your 
+safeties drop back to provide a last line of defense.
+
+---Prevent 1---
+The classic prevent defense. All of your defensive backs head deep to prevent 
+the big play. Because of its passive nature, you definitely don't want to use
+it except when necessary.
+
+---Prevent 2---
+This deep zone stops the outside pass but may be vulnerable against passes in
+the flat. Good in a two-minute drill.
+
+(Read)
+---Safety Cheat---
+One of your safeties will be blitzing, but unless you take manual control of
+him, you won't come near the quarterback.
+
+---Double FL---
+This play usually double-teams the flanker.
+
+---Double SE---
+This play double-teams the receiver lined up on the left side of the offense, 
+usually the split end.
+
+---Short Zone---
+The last three plays are all redundancies of the Cover set.
+
+---Prevent 1---
+The classic prevent defense. All of your defensive backs head deep to prevent 
+the big play. Because of its passive nature, you definitely don't want to use
+it except when necessary.
+
+---Prevent 2---
+This deep zone stops the outside pass but may be vulnerable against passes up
+the middle. Good in a two-minute drill.
+
+Goal Line (9)
+===============================================================================
+The Goal Line formation counters the offensive version of the Goal Line. This 
+should only be used near the goal line or possibly in certain obvious short-
+yardage situations.
+
+(Read)
+---Man Left 2---
+This is more aimed at stopping the pass and the outside left run.
+
+---Zone/Man---
+This is a man-to-man defense that's good against the pass down the middle.
+
+---Man Right 2---
+Basically a mirrored Man Left 2.
+
+(Attack)
+---Left---
+This is a general-purpose goal line defense that rushes toward the left side of
+the line.
+
+---Center---
+This is more geared toward stopping the inside run.
+
+---Right---
+Very similar to Left.
+
+(Cover)
+---Man Left 1---
+In this man coverage system, the safety provides extra coverage on the left
+side of the field.
+
+---Safety Blitz---
+One of the defensive backs will blitz.
+
+---Man Right 1---
+Similar to Man Left 1, except the safety covers the right side of the field,
+and two pairs of linemen are on stunts.
+
+Special Teams (3)
+===============================================================================
+These plays are designed to defend against punts and field goals.
+
+---Punt Rush---
+Here your team goes all out trying to block the punt, but you won't be able to 
+get a good return.
+
+---Punt Return---
+Here your personnel will be blocking for your return man in an attempt to get a
+good return.
+
+---Field Goal Block---
+Use this if you know your opponent will be kicking a field goal.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+FAQs and General Tips                                                [NOTES]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q: What plays are audibles?
+A: In John Madden Football '93, you can't set audibles manually, and you can
+only audible into a different play in the same formation, not into a different
+play in a different formation. Among offensive plays, the A audible is usually
+a pass, often a play action. The B button is used for runs, and C for anti-
+blitz plays. On defense, the A button is for stopping the run, B is a blitz,
+and C audibles are geared toward stopping the pass. For the record, this game
+has the same defensive audibles as the Super NES version of Madden '93, but not
+the same offensive audibles.
+
+                A                   B                   C
+Goal Line       HB Lead Left        FB Pull             Play Action
+Far             HB Option           FB Trap Left        HB Screen
+Near            HB Trap Left        HB Toss Right       HB Screen
+Pro-Form        Cross Pass          HB Toss Left        FB Slant In
+Shotgun         Play Action         HB Toss Left        Flood Left
+Run & Shoot     Circle              FB Draw             Flag Left
+
+Goal Line       Center (A)          Safety Blitz (C)    Zone/Man (R)
+4-3             Jam Middle (A)      Mad Tiger Blitz (C) Short Zone 2 (C)
+3-4             Jam Middle (A)      Monster Blitz (R)   Medium Zone (C)
+Nickel          Safety Cheat (C)    Man Tiger (C)       Prevent (C)
+Dime            Safety Cheat (R)    Center Blitz (C)    Prevent 2 (Both)
+
+Q: What's the difference between each player set?
+A: Before calling an offensive play, you must choose between six different sets
+of players. Unless you're kicking a field goal or punting, you'll have four
+options to choose from on normal plays. The player positions will not differ
+depending on the team you select.
+
+Normal: Your top two wide receivers, a tight end, your starting halfback, and
+a fullback: Your normal setup. Use this when you're in the Pro-Form, Far, or
+Near formations.
+
+Fast: This set features four wide receivers and your backup running back. This
+should be selected exclusively when using the Run 'n' Shoot (and maybe Shotgun)
+formation, because the lack of a tight end and fullback will make running
+difficult in other formations. Also, you'll have your third receiver replacing
+the normal halfback.
+
+Hands: This can work when using the Shotgun formation or when you know you'll
+be passing from a two-back system. Your standard starting halfback will be the
+fullback, and the backup HB will play halfback. Your third receiver will play
+split end and your fourth receiver will be the tight end, while the standard
+flanker remains in the game.
+
+Big: This two-tight end set works well in the Goal Line formation, but it might
+also be worth a try when you know you'll be running in the Pro-Form, Far, and
+Near formations. The tight end replaces the split end, and your fourth receiver
+inexplicably becomes the flanker.
+
+Special Teams Field Goal: It's what it says: Field goal plays.
+
+Special Teams Punt: Pick this set when you punt.
+
+Q: How do I use a hurry-up offense?
+A: I don't think you can. Tell me if I'm wrong.
+
+Q: How do I kick an onside kick?
+A: As in real life, onside kicks are very difficult to execute properly. First
+press A to call a kickoff audible, and then press C to change your team's
+alignment. Press C to start the power bar, and hold Right on the Control Pad to
+angle the kickoff toward the side where all your players are. You want to stop
+the power bar when it's on the way down. It takes a lot of practice to do this
+right, and even still your odds aren't great.
+
+Q: Where's the Kneel Down play?
+A: There isn't one. If you need to run out the clock without risking a fumble,
+try something like FB Pull from the Goal Line formation. Another option is to
+select a passing play and dive backwards right after you take the snap.
+
+Q: Is there fatigue in this game?
+A: No. No matter how fast a player runs, no player ever gets fatigued. Players
+could first tire in Madden '97.
+
+Q: What makes artificial turf different?
+A: Players have slightly better traction on artificial turf than on real grass
+(and in real life, players got really bad injuries on Astroturf). Also, if a
+game is played indoors, there won't be any wind, which affects special teams.
+
+Q: In real life, what teams used 4-3 defenses and which used the 3-4?
+A: All teams in this game use a 4-3 in most situations except for All-Madden,
+All-Madden Greats, Baltimore 70, Oakland 76, Denver 77, Oakland 80,
+Philadelphia 80, San Francisco 81, Cincinnati 81, Los Angeles 83, Miami 84, San
+Francisco 84, New England 85, New York Giants 86, Denver 87, Cincinnati 88,
+Buffalo 90, San Francisco 89, and New York Giants 90.
+
+Q: What teams are in this game?
+A: The complete list: All Madden, All Madden Greats, Kansas City 66, Green Bay
+66, Oakland 67, New York Jets 68, Baltimore 68, Minnesota 69, Kansas City 69,
+Baltimore 70, Dallas 71, Miami 72, Washington 72, Minnesota 73, Pittsburgh 75,
+Dallas 75, Oakland 76, Minnesota 76, Dallas 77, Denver 77, Pittsburgh 78, Los
+Angeles (Rams) 79, Oakland 80, Philadelphia 80, San Francisco 81, Cincinnati
+81, Washington 82, Los Angeles Raiders 83, Miami 84, San Francisco 84, Chicago
+85, New England 85, New York Giants 86, Washington 87, Denver 87, Cincinnati
+88, San Francisco 89, Buffalo 90, New York Giants 90, and Washington 91. The
+Redskins and Raiders have the best teams in this game, at four each. Many
+franchises aren't represented at all.
+
+Q: What's the best way to put pressure on the opposing quarterback?
+A: Select the middle linebacker. Charge past the center and squash the 
+quarterback! Even better, start running toward the line of scrimmage before the 
+snap to get a running start. There's another way, too...
+
+Q: Where is the line of scrimmage?
+A: According to this game's nearsighted referee, it's at the feet of the
+offensive linemen, not the ball. With a little practice, you can line up a
+safety or other fast player in the "neutral zone" and squash the quarterback,
+deflect the pass, or stop the runner for a loss. This works especially well
+from the Punt Rush play when you know the defense will punt.
+
+Q: Why is the computer controlling my quarterback?
+A: If you don't press any buttons after the snap, the computer takes over. The
+same goes on defense. You can usually generate better results than the
+computer, though.
+
+Q: How do I call a timeout?
+A: From the pause screen, just press A, assuming you have one or more timeouts
+remaining. As you probably know, timeouts stop the game clock, so they're
+useful in a two-minute drill or when you're about to get a delay of game
+penalty.
+
+Q: What penalties appear in this game?
+A: Basically, you can get a delay of game penalty if you take too long to call 
+your play on offense, and on defense you can get called for offsides by moving 
+past the line of scrimmage before the snap. A few other penalties are rare,
+like illegal procedure (kicking the ball out of bounds on a kickoff). And in
+2-Player Head-to-Head mode, penalties appear randomly but can be challenged.
+
+Q: What should I choose when I win the toss?
+A: It doesn't matter, although it's more fun to receive first. If you're 
+deciding the goal to defend, you might want to have a tailwind on the kickoff. 
+But it doesn't matter at all.
+
+Q: What other tips do you have?
+* If you call an audible by mistake, just wait a couple of seconds and you can
+snap the ball as normal without calling an audible (wait for "Audible" to
+disappear).
+* The set, formation, and play assigned to the B button is always "Madden's
+Choice." If you're too lazy or indecisive to call your own plays, just keep
+pressing B and you'll get a reasonable play for your situation. Also, on
+passing plays, the B receiver should generally be your #1 target.
+* This is common sense, but if you have a good running back and a weak passing
+game (like the 1985 Bears), you'll want to run the ball a lot. Likewise, if you
+pass well but can't run (like the 1987 Broncos), you should keep the ball in
+the air.
+* If you want to win with ease, pick a team that has a great running back,
+like Walter Payton for the 1985 Bears.
+* Run straight if you want to keep going fast; zig-zags slow you down.
+* Blitzes don't just increase the chances of a sack; they also make it easier
+to deflect passes.
+* Remember you can move your defenders a little past the line of scrimmage
+before the snap, making it easier to sack the opposing quarterback.
+* If you're playing on an emulator, assign the A, B, and C buttons to the X, C, 
+and V keys, respectively, to ease play-calling.
+
+Q: What other notes do you have for the game?
+A: Just a few miscellaneous tidbits:
+* I don't include team stats because there's no objective way to rate the
+teams.
+* In earlier Madden games, the "Attack" subsection of defensive playbooks is
+known as "Control."
+* You might enjoy slamming into opposing players after the whistle blows. You
+won't even get called for unnecessary roughness for doing so.
+
+Q: How many guides have you written?
+A: Currently, 56! Visit www.gamefaqs.com/features/recognition/74793.html to see
+the complete, current list.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Version History                                                      [VERSN]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Date    | Version | Size |
+--------|---------|------|-----------------------------------------------------
+3-17-09 |  1.0    | 48KB | Began - and finished - guide.
+9-29-09 |  1.1    | 48KB | Fixed a typo.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Copyright                                                            [COPYR]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(c) 2009 Vinny Hamilton. All rights reserved.
+
+All copyrights mentioned in this guide are property of their respective
+holders.
+
+You can print this guide out for your personal use.
+You can download this guide to your computer for personal use.
+You can post this guide on your Web site as long as you give proper credit to
+me AND you don't change a single letter, number, or symbol (not even a tilde).
+Remember that the latest version will always be available at GameFAQs.com, but
+don't count on there being many (if any) updates.
+You can translate this guide into a foreign language and post the translation
+on your Web site if you ask for permission first.
+You can't post this guide on your Web site and say you wrote the guide
+yourself.
+You can't post this guide on Web sites that contain (or have links to sites
+that contain) sexually explicit images of nude humans (that is, pornography), 
+racism, gambling, or flattery of totalitarian regimes.
+You can't post this guide on your Web site if you're going to change anything
+in this guide that took me so many hours to write.
+
+If you don't comply with these guidelines, your hard drive will be reformatted
+(permanently erased) inexplicably and you will suffer from constipation for the
+remainder of your life. Heed this warning.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Contact Information                                                  [CONTC]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+If you have any questions or comments about this guide, send an e-mail to
+VHamilton002@gmail.com. Remember that not all e-mails will be read. Please
+follow these rules:
+
+Do include "Madden '93" in the subject line.
+Do send polite suggestions about ways to make this walkthrough better.
+Do ask any questions you have about John Madden Football '93 Championship
+Edition gameplay. I will answer them eventually if you follow all of these
+guidelines.
+Do tell me about any errors or omissions you find in this guide.
+Do make a reasonable effort to use decent spelling, grammar, usage,
+punctuation, and capitalization so I can understand what you're saying.
+Do use patience. I check my messages rather sporadically.
+Do not send spam, pornography, chain letters, "flames," or anything that
+contains profanity or vulgarity. Again, violation of this rule will result in
+permanent constipation, so be careful!
+
+And lastly, a public service message: Fight for and affirm the rights of all
+humans, regardless of race, age, or creed! And... Don't forget to drink 6-10
+cups of water today. I don't know if anyone reads my public service messages,
+though.
+
+For Stefanie - I don't know why either

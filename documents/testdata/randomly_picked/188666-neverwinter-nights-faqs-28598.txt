@@ -1,0 +1,1266 @@
+
+                                      ,---.
+            .------------------------'/-^-\`------------------------.
+            | .-- _  _  _  _ ______ _       _   _  _           ,-.  |
+            | |_ / \|_)/ _/ \ |  | /_ |\|  |_) /_ /_\ |  |\_/| \    |
+            | |  \_/| \\_/\_/ |  | \_ | |  | \ \_ | | |_ | | |  \   |
+            | '                                                --'  |
+     _______'-------------------------------------------------------'
+    /______ \       /|
+         ,'\ |     | |
+        / _| |_____| |_    __    _______  _____      ____      __
+       | /_   _____  _/  ,'__`.  \  ___ \ \  __`.   / ___\   ,'__`.
+        \  | |  ,' | |  / /  \ \ | |___) )| |  \ \_/ /__    | (  \|
+         `.| |-'   | | | |    | ||    ,-' | |  | |\  ___\    \ `. '
+           | |     | |  \ \__/ /_| |\ \  _| |__/ / \ \____    `-.`-.
+           | |     | |   `.__.' \__| \ `.\_____,'   \____//\     )  \
+__        / /      |/_   _   ___     _`. `-._            //\\   /   /
+\ \   __,','        / \ |_    | |_| /_  `-._ `-._________\\__,-'  ,'
+ \ \  `--','|       \_/ |     | | | \_      `-.____,.-~'` `.__.-'` .
+  | |    / /__   _ _____      ____  ______  _____       _________  \`.     /|
+  | |   | | \ \ | \\  __`.   / ___\ \  __ \ \  __`.   ,'_  /\  __`. \ \  ,'/
+ / /    | | |  \| || |  \ \_/ /__   | |__) )| |  \ \ / /_| || |__) )| |,','
+| |     | | | |\  || |  | |\  ___\  |  _  / | |  | ||  __  ||  _  / | '  \
+| |     / | | | \ || |__/ / \ \_____| | \ \ | |__/ /| |  | || | \ \ | ,'\ \
+ \ \__,'  |__\|  \||____,'   \____/\__|  \_\|____,' /_|  /_||_|  \_\| |  \ \
+  \___,-|__,-`'                                               ____  | |   \ \
+                                                             `-._`'-' |    \ \
+                                                                 `~-._|     \|
+
+
+
+===============================================================================
+
+
+Current version: 0.34 - February 11th, 2004.
+
+Written By: Rune Hansen - thunderztorm@hotmail.com
+If you wish to write me with corrections/additions, please write hotu wt as
+topic.
+
+
+===============================================================================
+
+
+Table of Contents:
+
+[i]    - Version History
+[ii]   - Introduction
+[iii]  - Legal Info
+[iv]   - My Character
+[v]    - Walkthrough
+[vi]   - Henchmen List
+[vii]  - Easter Eggs
+[viii] - Wanted Information
+[ix]   - Credits
+
+
+===============================================================================
+
+
+[i] - Version History
+
+0.1 (feb 6th 2004)    - Started working on it.
+0.2 (feb 8th 2004)    - Chapter One written and completed.
+0.25 (feb 9th 2004)   - added first four parts of chapter 2.
+0.26 (feb 10th 2004)  - Minor corrections and additions.
+0.3 (feb 11th 2004)   - added 2.4 and 2.5, minor layout changes.
+0.34 (feb 24th 2004)  - ASCII logo added, few minor additions.
+0.35 (june 4th 2004)  - minor additions from other people.
+
+
+===============================================================================
+
+
+[ii] - Introduction
+
+Oi, my first real attempt at making a genuine walkthrough for a game.
+Allthough I've spent a lot of time playing, I've never really had the time
+to write one. Now it seems I, once again, have lost the time. I wonder if this
+will ever be finished. :(
+Either way, you are right now reading my very first walkthrough,
+feel free to mail any additions, forgotten things, mistakes and suggestions
+to the mail mentioned above. It may take time, but they will all be added :)
+
+
+===============================================================================
+
+
+[iii] - Legal Info
+
+This document was written by Rune Hansen. Please do not post it, copy it
+or any other of all those copyright thingies (bear with me here, you all
+know what it's supposed to say, but legal english and me is not a good match).
+Either way, if you really, really want to post this somewhere then just mail
+me (thunderztorm@hotmail.com) and ask - as long as you don't change the
+document, I'm fine with it. Really. I am. Latest version of this walkthrough
+is available at www.gamefaqs.com.
+
+
+===============================================================================
+
+
+[iv] - My character
+
+Since my SoU-char got pretty boring already through SoU, I've decided to
+start with a new char. I'll make a few pros/cons to both ways:
+
+SoU-char: You keep all cash, allthough your equipment is lost.
+You are however, or at least I was, "only" level 12.
+New char: No cash, no gear - but you're level 15, even before you see an
+enemy. I highly suggest you pick a class you've played before, since knowing
+your char's strenghts and weaknesses is imperative for success in this game.
+
+Since I don't follow my own advice, my character was a pure paladin, a class
+I admire, but rarely play (due to my desire to pick locks, remove traps and
+the likes). Either way, my char was pretty simple:
+
+Female Human Paladin (level 15) - str: 16 dex: 10, con: 14, int: 10,
+wis: 14, cha: 15. Pretty basic layout for a pally I believe. Oh well,
+let's get started on this, shall we?
+
+
+===============================================================================
+
+
+[v] Walkthrough:
+
+
+Chapter 1:
+[1.1]  - The Yawning Portal - Top Floor.
+[1.2]  - The Yawning Portal - Primary Floor.
+[1.3]  - Waterdeep.
+[1.4]  - Undermountain - Entry Chamber
+[1.5]  - Undermountain, Level 1 - Central.
+[1.6]  - Undermountain, Level 1 - North.
+[1.7]  - Undermountain, Level 1 - South.
+[1.8]  - Undermountain, Level 2 - Central.
+[1.9]  - Undermountain, Level 2 - South.
+[1.10] - Undermountain, Level 2 - East.
+[1.11] - Undermountain, Level 2 - North.
+[1.12] - Undermountain, Level 3 - Central.
+[1.13] - Undermountain, Level 3 - North.
+[1.14] - Undermountain, Level 3 - West.
+
+Chapter 2:
+[2.1]  - Lith My'Athar
+[2.2]  - Shaori's Fell
+[2.3]  - The Isle of the Maker - Island + Level 1.
+[2.3]  - The Isle of the Maker - Level 2 + 3.
+[2.4]  - Underdark - West of Lith My'Athar.
+[2.5]  - Underdark - Drearing's Deep. (The Undead army of Valsharess)
+
+-------------------------------------------------------------------------------
+
+[1.1] - The Yawning Portal - Top Floor.
+
+If you, like me, created a character from scratch, you'll start out by
+levelling up to 15. How you do that is your choice, there is no Best Way to do
+this, we all know that. When you're done, rest, and watch a sweet cutscene of
+an angry drow matron and her loyal followers telling about how you're the
+Chosen One. Like in all other games, you are no mere adventurer. You are ALWAYS
+the CHOSEN ONE. When you wake up, a drow assassin is stealing your stuff. Kill
+the culprit. If you loaded your SoU char, that would actually be all the cool
+gear you had with you from SoU in that chest. Don't worry though, you will have
+a chance of getting it later, after you found better gear of course.
+
+Now, another female joins the party. This turns out to be the innkeeper's
+daughter, Tamsil. She's of course sad that you lost your gear, and tells you
+to go to the armory to get some replacement stuff.
+Ask her everything to get a bit of basic knowledge about the situation in
+Waterdeep. Remember to loot the drow for a blue ioun stone, a drow dagger and
+a trap kit.
+
+Let's have a look at your remaining gear. A wee dagger, a Relic of the Reaper,
+a rogue stone (for use by the relic of course) and a worn book.
+The book is the story of Undrentide, written by a certain little kobold who
+used to be the servant of a white dragon. The Relic is this game's version of
+the Stone of Recall or Town Portal - whatever you wish to call it. Either way,
+you can find out about it by reading the description, or taking a trip to your
+little pocket plane and talking to the Reaper himself. You even have a journal
+entry about it, try checking your completed quests.
+
+Go out of your room, and to the right to get to the armory. It even has a
+convenient sign. Check everything, take everything, the stuff you can't use
+will do nicely for giving you a little starting cash. Don't sell the rogue
+stones however, you'll need those for your relic. you can go talk to the
+fellows in the common room. If you're really polite with Tanarell and asks
+him for all advice about Undermountain, it gives you 200xp.
+
+If you don't care about loosing alignmentr, you can break into the empty rooms
+and loot the stuff located there. There's no special equipment or anything tho,
+so you won't loose much if you don't do it.
+
+-------------------------------------------------------------------------------
+
+[1.2] - The Yawning Portal - Primary Floor.
+
+In the first room, you'll meet a few familiar names (If you played the original
+NWN campaign that is): Daelan Red Tiger, Tomi Undergallows, Linu La´Neral and
+Sharwyn. These four are right now a group of adventurers seeking glory, fame
+and the 100.000 gp award for rescuing Waterdeep. You can talk a bit to them to
+get some information. No big details, but don't worry, you haven't seen the
+last of these four buggers.
+
+Talk to Parley and listen to her story. Be polite and friendly,
+and she'll cast Bull's Strenght on you. At least, that's what she does
+if you are a melee class - any info about spellcasters would be appreciated.
+Talk to Drezzy for a funny story about his heroic deeds - no reward this time,
+except for the little laugh.
+
+Enter the door to the main room. You'll be teleported into a scene
+with all the heroes who have come to assist Waterdeep and the man
+himself, Durnan.
+After a little chitchat you'll get interrupted by a group of drow.
+Whack 'em one way or the other, and follow the others into the well room
+where another drow party is attacking. Whack 'em like the rest,
+watch the cutscene, and talk to Durnan again.
+
+Now it's time to take it easy for a second, just like Durnan tells you to.
+First, let's get rid of all that gear we took at the armory. Talk to White
+Thesta, she's the very first merchant you'll meet. She'll also give you a Rod
+of Resurrection in case the four fools get killed in their assault. Keep that
+one, you'll need it later.
+
+NOTE: This place would be a GREAT idea to make your first bind spot. It's close
+to healer, Durnan and a merchant as well. Besides, you need to learn the system
+of the Reaper anyways, so here's a good place to start.
+Don't worry too much about the rogue stones, there are quite a few in
+undermountain.
+
+There's also a possible henchman here, the ever-funny kobold Deekin.
+Wether you want him or not, you should at least take him into your party
+and take all his stuff, he does have some decent gear actually.
+
+Deekin: Reptilian, True Neutral
+Bard (14)
+Red Dragon Disciple (1)
+STR: 8
+DEX: 12
+CON: 15
+INT: 10
+WIS: 10
+CHA: 18
+He's a pretty good bard, and, in due time, he'll be a decent
+Red Dragon Disciple - if you let him, that is.
+Either way, he does have a lot of funny comments throughout the game,
+and you really should take him with you at least on one runthrough,
+just for the comments. If you lack lore or general buffs, Deekin's your man.
+Besides, he's a decent shot with his crossbow as well.
+
+That's pretty much it here. There are two possibilities now. Either proceed
+down, or go to Waterdeep.
+
+-------------------------------------------------------------------------------
+
+[1.3] - Waterdeep.
+
+You'll be confronted by a guard, but nevermind him, he'll back off once he
+finds out who you are. There are two shops here, one armor/weapon and, of
+course, a magic shoppe. Both of which have some neat items, at least for the
+first part of the game. Both has some pretty funny dialogue by the way.
+At the magic shop you can also watch a cutscene of the drow attack on
+Waterdeep's Academy. Buy what you need (or can afford), and go to the
+northeastern part of the area to battle some duergar. When you're all done,
+re-enter the Yawning Portal, and proceed downwards into Undermountain.
+
+-------------------------------------------------------------------------------
+
+[1.4] - Undermountain, Entry Chamber.
+
+A goblin will speak to you on the double. You can talk to him and get a lot of
+basic info on what's going on in Undermountain. In the end, if you send him up
+as well as return up yourself, you'll be able to get Durnan to hire the little
+bugger as a cleaner. You can also tell the new information to Durnan, and, with
+good enough persuade, convince him to give you 18000gp. Nice little reward for
+that tidbit of info, and your alignment doesn't change at all. If you need more
+shopping, do it while you're here, because next stop is Undermountain. Oh btw,
+whack the skelly that spawn when you get close to the entrance.
+By the way, each time you get new info about Halaster, you can go see Durnan
+and get a similar reward. It's around 20.000 gp everytime, so it's worth the
+trip, that's for sure.
+
+-------------------------------------------------------------------------------
+
+[1.5] - Undermountain, Level 1 - Central.
+
+In general, if you're not a trap-finder, beware of traps down here. Also, there
+are many portals, I wouldn't use them though, since they teleport you around
+seemingly random. I prefer to just walk around and explore, but of course,
+it's a matter of preference. The enemy here consists mainly of Ogres, Trolls,
+Harpies and a single group of Drow and Duergar like the ones at the inn in the
+beginning. There's loads of secret doors by the way, so a good search skill is
+of major use. Some of the doors lead to nothing, others to treasure. Oh by the
+way. All over the level you'll find locked chests. If you're not a thief
+yourself, the only option is to bash them. A few of these might take quite a
+while to bash, but every single chest is possible to break  - at least Daelan
+can do it ;)
+
+One of the first things you'll encounter is the body of Sharwyn. Resurrect her
+and let her join you if you so wish. If you don't want her to join up, she'll
+return to Durnan:
+
+Sharwyn: Human, True Neutral
+Bard (7)
+Fighter (6)
+STR: 14
+DEX: 18
+CON: 12
+INT: 13
+WIS: 10
+CHA: 20
+I haven't got any real experience with Sharwyn, so I will be honest and tell
+you that I have no idea wether or not she's a cool companion.
+You will need to get her some equipment before she's worth anything though
+- she has no equipment at all.
+
+Let's explore further. You'll soon notice a group of colored pillars.
+You can't do anything with them yet, but once you've located enough colored
+rods, you can open the entrance to level 2 there. It's rather simple,
+you start with the lever all to the right, pick one of the colums all in
+the back, and insert a rod of the same color. Repeat that until you get a path
+through the cube-like thing. Let's wait with that, however, and explore the
+entire level 1 - there's a lot of things to do here, so let's get on with it.
+
+The Central part, which is the one we start in, has several places of interest:
+
+To the west, the mirror hall. This place is sorta creepy. Behind every mirror
+except one, there is treasure. Don't destroy the mirrors, look into them, and
+choose one item to take. After that, the mirror dissapears, so choose wisely.
+(read: choose the thing you think is the most valuable). Not the biggest loot,
+but hey, it's something. One of the middle mirrors on the east side creates a
+copy of you. Hostile as it is, you'll kill copy-you of course. This is also
+where the corpse of Daelan Red Tiger is located, let's have a closer look on
+this brute as well, shall we:
+
+Daelan Red Tiger: Half-Orc, Chaotic Good
+Barbarian (13)
+STR: 23
+DEX: 14
+CON: 14
+INT: 10
+WIS: 10
+CHA: 7
+He's a straight-forward melee assault machine, so I assume he's an ideal
+partner if you're a mage, and even if you're not, he's still a pretty good
+add-on if you lack some punch. He already has a double axe +1 and a pair of
+unique gloves, so just put him in an armor (of which there are several in this
+area alone) and he's good to go.
+
+To the north we have the Hall of Kings. A lot of skellies are located in
+chairs, and in the eastern part you get to talk to Enserric. He's a long sword
+(+4 with a little extra as well), so he's a pretty badass sword to be honest.
+The catch is, you have to kill all the kings to get it. It shouldn't prove too
+hard a fight, but it's still the hardest in this area imo. The loot is worth it
+though. Enserric, full plate +4, Staff of Defense to mention some of it. (What
+is it with Forgotten Realms and talking swords by the way? It seems there's one
+in every game...)
+
+In the southeast part of the map, we have a Grim Statue - which is actually an
+Old Blue Dragon. For some reason (prolly something to do with the traps on the
+floor - there are loads, but if you don't touch them before you attack the
+dragon, it seems it won't attack you), it didn't attack me, so I can't really
+say if the fight's hard or not, allthough I assume the bugger is a pretty tough
+one. Remember to loot the treasure room after you nail it.
+
+Now, with the central area cleared, we have two choices: North to the ogre lair,
+or south to the fairy queen.
+
+-------------------------------------------------------------------------------
+
+[1.6] - Undermountain, Level 1 - North.
+
+This area's enemies are primarily Orcs, Ogres and Trolls. Lots of traps again,
+and of course secret doors. Five rooms require specific interest:
+
+All the way in the southwest part, there is a room called The Maze. It's full
+of traps, and each traps sets off a series of magic missiles. There are two
+ways to this. Either smash the columns that fire the spells, or reach the
+northern part and pull the two levers to make it all go away. Of course, with
+the two drow marksmen, this is easier said than done, especially for a mage.
+
+In the opposite corner, we got a room with a sarcophagus. Your henchman will
+claim it's evil, but go click it anyway (who listens to henchmen anyway?). A
+Mummy Lord approaches, so kill it, and loot the sarcophagus afterwards for a
+greater amulet of health. Those things are always handy ;)
+
+In the middle room to the north we have a pretty big bunch of ogres, trolls
+and orcs. Kill 'em all. The room right west of that is the room of the Ogre
+Mage. It is possible to come to an agreement with the ogre mage, and if you
+let him run, you get 500xp. If you have Daelean however, be advised that it's
+very likely that Daelean, due to his sheer power, just kills the ogre before
+you get a chance to talk. Either way, you should kill the bugger, he has some
+pretty good loot.
+In this room, there is also a way down to level 2 - if it wasn't blocked by
+rocks that is. If we could just find some explosives (hint: south part ;p).
+
+Right south of the Ogre Mage's room, there is another Drow/Duergar group.
+These ones are different from the other groups in one point, however. They have
+GOOD loot. They're still as easy as the others though, so just slaughter your
+way through 'em, and enjoy the free equipment.
+
+-------------------------------------------------------------------------------
+
+[1.7] - Undermountain, Level 1 - South.
+
+There are two ways into this area, one at the left part and one on the right
+part of the map. Both of course from the Central area. If you take the left
+part down, you'll start out in a room with three little Grigs who each summons
+a Zombie Protector (notice the three sarcophaguses). There's a little loot in
+one of the sarcophaguses.
+Proceed southwards through a room with ogres and fairies, and into a room with
+cocoons and spiderwebs. In the middle of the room (sort of), you'll get a
+web dangling down message. If you fail the reflex save, you'll have to fight
+all in all 4 spiders, with the last one being the Queen. None of them are too
+tough tho, so it's fairly easy XP. I'd suggest you keep walking over that spot
+until you fail it, and whack the spideys. ;)
+Proceed south, and go west from that room. In here you'll meet the Fairy Queen.
+She'll summon all sorts of animals to protect her while she is invisible
+herself, but nothing too hard, especially not if you got Daelan with you.
+Like the Ogre Mage, she too will surrender when she reaches near death, and she
+will talk with you. If you let her go, you get 500xp. In her treasury, you'll
+also find an Alchemist's Keg. This can be used to blow away the rocks blocking
+the door down at the Ogre Mage.
+
+On the other side (the right side) of the level, there are four rooms.
+The first room you'll enter is a measly short battle with some fairies, the
+second is another battle, this time with Duergar. The third room is special
+though. There are three gargoyle statues and a lever at each.
+Each minute or so, a "skeleton bomb" spawns, when it blows, the gargoyles turn
+around randomly. The point is to turn the statues so they point at the door.
+It's easy to see, there's a beam toward the door when they point the right way,
+pull the lever so they are protected by a force field, thus not turning when
+the skelly bomb explodes. Do this to all three and the door blows open,
+revealing another treasure room.
+
+The last room, The Bombmaker's Sanctum is pretty hard to get into. As far as
+I've understood, there are two ways to get in there. Either bet on the
+teleporters to land you in there, or locate the secret doors leading inside the
+room. Either way, the room itself isn't THAT interesting. A little fairy
+spawning Skeleton Bombs all the time. I assume that those bombs are the same
+ones spawning at the before mentioned room, so you could go in there, kill the
+maker, and have all the time in the world to solve the puzzle at the gargoyles.
+It doesn't really matter much though. The Bombmaker fairy got a Rogue Stone, so
+that should be enough of an excuse to kill it ;)
+
+Now, when all this is done, we have two ways of moving downstairs to level 2.
+Either we use all the weird colored rods we've found scattered about on this
+level or we use the alchemist's keg on the door in the northern part. Whatever
+road you choose, clearing a way down gives you 2000xp.
+
+-------------------------------------------------------------------------------
+
+[1.8] - Undermountain, Level 2 - Central.
+
+Either way you choose to go down, you start out at the same place, and only the
+door to the east to go through. You start with watching a cutscene of a golem
+running through a door, and some drow trying to open it afterwards. The point
+is that you need to put n four chains at each of the colored pillars. Seems the
+chains teleport randomly around after the door is closed.
+Enter the door, and watch a fleeing goblin get killed by two drow. Kill the
+drow and loot the goblin for the yellow chain, and a small key.
+Now you only miss three chains, and funnily enough, there's three doors from
+the central part. North, South and East. What a coincidence, right? ;)
+Right when you enter the "main room", which actually is more of one giant cave
+thingie, you'll see some piles of treasure just to the north. One of those
+piles spawn a mummy lord and two mummies. The rest is genuine free treasure,
+among other things a ring of free thought +3 (mages, rejoice).
+Between the east and north door, there's a trap btw. In the middle of it all,
+at the door down, the two drow are still trying to bash down the door. Kill em.
+While you're here, try checking out the text to the statues, seems the devs
+have a sense of humor ;)
+Anyway, let's head south first - things will happen there that'll help you a
+LOT in the eastern part.
+
+-------------------------------------------------------------------------------
+
+[1.9] - Undermountain, Level 2 - South.
+
+This area consists of five rooms all in all, and each room is following the
+other directly. All but the last room consists of a group of drow/duergar
+trying to kill you. The last one has a Drow sub-commander (who is a mage,
+and a decent one indeed) - and the body of little Tomi Undergallows.
+Kill the drow bastard, and resurrect Tomi (500xp, just like the others). The
+drow has some very nice equipment, and of course he has the second chain.
+Two down, two to go. But, let's have a closer look at Tomi:
+
+Tomi Undergallows, Halfling, Chaotic Neutral
+Rogue (11)
+Shadowdancer (3)
+STR: 10
+DEX: 23
+CON: 16
+INT: 12
+WIS: 10
+CHA: 10
+Tomi is the only real thief you can get, and thus an obvious choice as a
+henchman if you have problems with traps and the likes.
+Tomi starts out with a Kukri +3, Tomi's Armor and a pair of Elvenkind Boots.
+His shadowdancer abilities makes him pretty damaging with sneak attacks,
+so in general he's a decent killer to have around.
+
+Also on this level, in the trapped drow chest, you'll find a Djinni Bottle.
+Rub it, and talk to the Djinni for an "Activation Stone" and the possibility of
+shopping at the Djinni. Now you got your own portable loot-selling place,
+he doesn't pay as much as White Thesta though. (She'll pay 7500 as maximum for
+an item, while the Djinni will only pay 5000). In the description it tells you
+that he'll add new gear when he gets a Soul Gem from you. I'm not too sure I
+ever found one of these, but I'll make sure to let you know if I come across
+one. I AM sure that there is none in the abovementioned areas though.
+
+-------------------------------------------------------------------------------
+
+[1.10] - Undermountain, Level 2 - East.
+
+Now, remember the Djinni told about a portal in the eastern part? Well, let's
+go in, walk through the first door, kill the Rakshaka buggers and loot their
+corpses for some fine stuff. A nymph cloak +5 among other things. Well, one of
+the corpses has a key, so let's use it and open the next door. Hmm, a group of
+slaves and a portal. How interesting. Talk to Shareesh and agree to find the
+activation stone. Remember the stone we got from the Djinni? Tell him you have
+it, and the Djinni shows up,  telling you that Shareesh isn't exactly a human
+slave. Shareesh goes mad, and demasks himself. Turns out him and the other
+slaves are Rakshaka. Kill them all, and loot Shareesh's corpse for the third
+chain.
+
+We aren't completely done here yet though, so rest up if needed, and proceed
+to the next room. Here we have another group of Rakshaka mages. Kill 'em all,
+and loot the chests. In the sarcophagus in the middle you'll find Linu, the
+last of the four fools rushing down the well. Resurrect her, and bring her
+along if you feel you lack a healer:
+
+Linu La'Neral, Elf, Neutral Good.
+Cleric (15)
+STR: 16
+DEX: 12
+CON: 12
+INT: 10
+WIS: 23
+CHA: 12
+Linu is the only cleric in the game, so if you feel the need for healing during
+combat, she's the obvious choice. She also has a mace +3 and a unique robe. I
+haven't got much experience with her though, so I can't say if she's a good
+choice.
+
+Oh, if you, after you clear the area of course, use the activation stone on
+that portal thing, you'll get a portal that sends you right outside the Yawning
+Portal. Pretty handy I'd say, allthough it's a bit useless since we're pretty
+close to level 3 :)
+
+-------------------------------------------------------------------------------
+
+[1.11] - Undermountain, Level 2 - North.
+
+This whole area is Goblin-land. Full of traps and some archers that use paint
+arrows on you. That paint makes you easier to hit, but it can't really be
+avoided, so just kill 'em as fast as you can. If the paint doesn't dissapear,
+save and reload. It's a bug in the game, it's supposed to dissapear but it
+doesn't always.
+
+Behind the first eastbound door, you'll find Stoney, a big bugger with nice
+loot. I dunno why he's named though, he's hostile right away, and there's no
+way to avoid killing him. Either way, he does give a white dragon armor and a
+nice club. Nothing more here, so move on westwards and kill some more
+goblin archers, goblin elites and goblin shamans (hey, I told you it was
+Goblin land, didn't I?).
+
+Eventually, you'll come across a bridge, and, if you're not either a thief or
+an archer of some sort, you'll be insanely mad. Those goblins will fire away at
+you while you try to make Tomi understand that he needs to remove the traps and
+pick the locks. I found the best way (as a melee char) was to just bash one of
+the doors, run away, heal up, bash the next and go on a killing spree, Tomi is
+simply way too confused to be any good here.
+
+After the bridge, you get into a room with a named goblin who's pulling some
+levers. Kill him, loot everything including the last chain, and - if you can -
+try working out what those levers are for. I have no idea personally, after
+spending something around an hour or so just toying around with 'em, I thought
+to myself: they do nothing, move on you fool. Any info otherwise would be very
+appreciated.
+
+Now let's move down to level 3. Go back to the chains, attach them all in the
+right colors, and watch the pool turn active. Click the pool and watch the
+colors. You have to pull the right chains in the right order afterwards, so
+remember them. The colors change each time, but it's always six colors though,
+and the same color can come more times in a row.
+My last one was green, red, green, green, green, yellow for example.
+
+When you're past that, talk to Halaster's son - a flesh golem. He tells you
+that the drow has captured Halaster, allthough it seems rather odd that such a
+powerful wizard as him could be captured by normal drow, it is what has
+happened. So, after you promise the poor little golem that you'll free his
+father, you're ready to move down and enter the third level of Undermountain.
+
+-------------------------------------------------------------------------------
+
+[1.12] - Undermountain, Level 3 - Central.
+
+The first thing you'll notice is the change of scenery, now it looks natural
+caves instead of a built dungeon. Seems you've gone pretty deep. The second
+thing you'll notice is the group of drow attacking you. Kill 'em, and move
+forward through the west door. A drow female will approach you, and tell you
+that she's a member of a rebel force whose intention is to stop the Valsharess
+(ooh, our enemy has a name now. You've seen that Valsharess girl, it's the evil
+drow from the intro cutscene.) Anyway, this Nathyrra broad tells you that the
+drow has captured some formians to do slave labour for them. She suggests you
+free them to gain some allies down here. That seems to be a good idea, so go
+straight south from where you start, and kill all the drow guarding the
+formians. Pull the lever at the queen. She'll thank you and promise to repay
+the debt. Some say that you can use Halaster's magnifying glass (found earlier)
+to kill the formians. I haven't tried that, since I always help them - any info
+about how and why would be nice.
+
+So, after you IDed all the magical stuff those drow dropped, return to the
+westbound entrance, and move forward. In the room just before the drow camp,
+the formians return to you.
+They give you two options: Either they'll make a tunnel so you can sneak around
+the drow or they'll help you fight them. Even though they don't give any
+important items I'd still say you should kill them. I don't like the feeling of
+having a large group of drow behind me when I move forward. It's your choice
+though, it shouldn't matter much wether you kill them or not, but hey, the only
+good drow is a dead drow, right? Except Drizzt and Nathyrra's rebels of course.
+
+Either way, that's it for this part, we'll move on to the North part of this
+level.
+
+-------------------------------------------------------------------------------
+
+[1.13] - Undermountain, Level 3 - North.
+
+Nothing special here. You move a few steps and Nathyrra returns, telling you
+that a large camp of drow is very close. She also tells you that you can sneak
+up behind them, take control of their catapults, and whack 'em that way. I
+always do this, as there are a LOT of drow in that camp so sneak up north, use
+the hidden entrance, kill the controller and fire the catapult some times, and
+*poof* no more drow camp. One thing though, you won't get any XP of those
+kills, so if you're an XP-hunter, just whack the two controllers so they at
+least won't fire at you while you clear out the camp.
+
+You'll find all your old gear (if you loaded) in one of the chests down there
+by the way. By now, the gear should be fairly useless though - but at least you
+now know that you won't meet a drow dressed in your stuff ;)
+
+When you're ready, move on to the western part.
+
+-------------------------------------------------------------------------------
+
+[1.14] - Undermountain, Level 3 - West.
+
+Right when you move forward, you'll once again meet up with Nathyrra. She'll
+tell you that Halaster is being held just behind the gate, and that she'll help
+you free him. Very well, get ready, open the gate, watch a cutscene and go to
+battle. This battle is pretty tough, archers on hills to both sides, two mages
+and a handmaiden combined with a group of soldiers. This is a badass group of
+drow. Once most are dead, smash the three stones around Halaster, and he'll
+finish the remaining drow off. Now, BEFORE you talk to Halaster, there are a
+few things to do. Firstly, if you have some of the four resurrected people as
+henchmen, take their equipment. Trust me, they won't need it anymore. None of
+them will follow you to chapter 2. Deekin doesn't matter though, he'll follow
+along anyways. Make sure you also loot everything, you won't get the chance
+after speaking to Halaster.
+
+When you're ready, talk to that insane wizard. He is not too pleased to be
+saved. It seems his capture was a plan to lure the Valsharess herself to him,
+where his copy would then teleport in and kill her. He then puts a geas on you,
+thereby forcing you to kill Valsharess. Thereafter, he sends you to the
+Underdark, and to my knowledge, only Deekin and Nathyrra will follow you down.
+Thus ends chapter one of Hordes of the Underdark.
+
+-------------------------------------------------------------------------------
+
+Chapter 2:
+
+
+[2.1] - Lith My'Athar
+
+You have been sent to the drow city of Lith My'Athar. Talk to the seer, and
+after that to Nathyrra and Valen Shadowbreath. Both of these will give you some
+advice about how to defeat the Valsharess. Both will also join forces with you
+if you so wish:
+
+Nathyrra: Elf, Lawful Evil
+Wizard (9)
+Rogue (3)
+Assassin (6)
+STR: 12
+DEX: 20
+CON: 16
+INT: 14
+WIS: 10
+CHA: 10
+Nathyrra is, to me at least, an obvious choice as replacement for Tomi. Alltho
+she can't do traps and locks as well as him, she still has a highly dangerous
+sneak attack - and to top it off, she's a pretty decent wizard as well.
+
+Valen Shadowbreath: Tiefling, Chaotic Good
+Fighter (13)
+Weapon Master (5)
+STR: 19
+DEX: 15
+CON: 19
+INT: 15
+WIS: 12
+CHA: 10
+Valen is this chapter's Daelan, easy as that.
+
+Now, when you're all set, you should have some new entries in your journal:
+The ilithid, the undead and the beholder - all armies of Valsharess, and two
+about the islands where you should be able to get some needed help for your
+quest to stop the Valsharess army. This little temple building here would be
+the perfect spot to make your first bind spot in this chapter btw, especially
+since you by binding inside, can avoid the outside of the city. This matters,
+because once you've completed four of the five missions, Valsharess will launch
+an attack. This attack, however, will not happen before you enter the city
+after completing four missions. So, with a bind inside the temple, you can
+complete all five missions. Anyways, let's go outside.
+
+Let's start out with checking out the city first though, there's a few things
+to do here.
+First of all, there's two new merchants to trade with: High Wizard Gulhrys and
+the smith, Rizolvir. The wizard is an ordinary merchant, but Rizolvir can
+upgrade your weapon. He can add all sorts of enchantments to weapons. It does
+cost quite an amount of cash, but I find it to be of very good use. Doing the
+right things can create you a highly dangerous weapon - and upgrade your
+henchmen's as well. For dualwielders, it's only the right-hand weapon he talks
+about, so if you want to upgrade the off-hand weapon, switch 'em around ;)
+
+While moving from Gulhrys to Rizolvir, you'll encounter a group of Maeviir drow
+harassing some of the Eilistraee followers. If you have Nytharra with you, she
+will take care of it and that little matter gives you 500xp.
+-evonne has updated me on this, it seems that you only get the xp if Nytharra
+is with you. Otherwise, zero, zip, nada.
+
+The last place of interest in the city is the Maeviir house to the southwest.
+Talk to Zesyyr, located inside, and accept her proposal. Now, you must choose.
+Either kill the Matron Mother or betray Zesyyr - I am not yet certain of the
+consequences, but it seems that one of these two will betray you later. Which
+one, however, I am not sure. The reward for killing the mother is 20.000 gp and
+5000xp. To top it off, with a high persuade, you can also get a magic scythe
+which used to belong to the mother's personal bodyguard.
+
+Now with the city all done it is, yet again, time to choose where to go. You
+don't have to follow my path at all, feel free to jump around and choose your
+own order of the following five quests - and remember that Valsharess will
+attack after you've completed four of them.
+
+Head north to the weird thing called Cavallas. It seems this Cavallas is the
+only creature able to sail on the rivers in the Underdark, which is good, since
+you need to get to those two islands. Talk to him, and end up by choosing the
+strange island.
+
+-------------------------------------------------------------------------------
+
+[2.2] - Shaori's Fell
+
+Enter, and be attacked by a group of Drow led by Sabal. She'll run away when
+she gets too low on health, but you'll meet her a few times here. Proceed, and
+meet the most unlikely creature to meet in the Underdark, the winged elves,
+Avariel. Now this is odd, but don't worry, you'll find out what is going on.
+Let's proceed to the castle, do it with caution tho, since right before the
+castle, Sabal and another group of drow will ambush you. Sabal runs away yet
+again.
+Enter the castle, kill all the Driders and go to the throne room. Talk to the
+fool to find out what is going on in this city - and find out that you need
+five mirror parts to create a very powerful magic mirror. You'll find out that
+Sabal and her drow minions are also hunting these mirror parts. Let's make sure
+she at least won't get all of them, and head for the temple.
+
+Kill the driders outside, and go inside. There are two ways to do this. Either
+we do as the cleric tells us and complete the five battles, or we do it the
+easy way and whack the cleric. He carries an antidote for your poisoning, so
+don't worry too much about that. No matter how you do it, you'll get the first
+part of the mirror here.
+
+Now for the merchant and the library. First talk to the merchant. Since
+everything is the opposite of what it used to be, the merchant wants something
+of less value than a broken mirror. Very well, into the library and find out
+that the librarian is a medusa. Go to the south room, take the potion of sight
+warding, use it, and talk to her. Answer her riddle with Mud - whatever your
+henchmen say. Remember, it is the opposite of what it should be in this place.
+Before you leave, take a burnt book from the pile the medusa is burning.
+
+Return to the merchant and trade the burnt book. He'll give you a compass which
+will show you where he hid the mirror. Back to the library, go round the back
+and start the compass. Locate the hidden pile, and grab the mirror shard. Three
+down, two to go.
+Head for the cave. Right before you enter, some drow will come out. Say hello
+to your old friend, Sabal. Kill 'em, and watch Sabal port away again. Talk to
+the former Queen inside the cave, and find out that she gave the mirror shard
+to Sabal. Oh well, you still have three of 'em, so it's bound to end in combat
+anyways, isn't it?
+
+The last piece unaccounted for is in the wizard's tower so let's head there.
+The former archmage is standing outside, ask him everything, and enter the
+tower.
+NOTE: The tower is a WILD MAGIC ZONE, so spellcasters, beware!
+
+On the first level, you'll jump straight into battle with some vrock and a
+balor on the one side, and - of course - drow on the other. Kill em all. Valen
+is really in his ace here, considering his weapon has large bonuses against
+outsiders like the vrock and balors. Next level is also infested with Drow,
+Vrocks and a Balor. In the southwestern room, there's even a Balor Lord. Kill
+everything, and move upwards.
+On level three, the first you'll meet is a group of Slaads. The southwestern
+room is full of zombies, so this is a good place to check out the feat greater
+cleave ;)
+In the northeastern room, you'll find Jansil, smack him down to near death, and
+he'll surrender. He'll give you the mirror piece freely as a reward for letting
+him live. If you kill him anyways, you will loose alignment, and his loot isn't
+really worth it imo.
+Remember to check out the treasury on your way out (this can be tricky if you
+aren't a thief, but with enough beatings you'll eventually bash the door).
+
+Head back to the castle for a final showdown between you and Sabal. Kill her
+any way you see fit, and recover the magic mirror. Remember, you can use the
+mirror shards on the pillars to unleash magic on your enemies. The mirror
+itself has a lot of invisibility/seeing spells as bonuses, but nothing unique
+and special.
+Now it's time to return to the Seer to tell the good news and prepare for
+the second island, The Isle of the Maker. When you talk to the seer, you get a
+choice between giving her the mirror or keeping it yourself. Keep it, you'll
+need it later on.
+
+-------------------------------------------------------------------------------
+
+[2.3] - The Isle of the Maker - Island and Level 1
+
+On the island itself, you'll run into a group of Duergar merchants. You'll meet
+them again once you're done in the dungeon - they won't be too happy about you
+stealing all their stuff. We'll take that in detail after we've completed this.
+
+Now, the dungeon itself has an annoying golem. It's called a Scavenger Golem,
+and the only thing it does is to rebuild the golems in the halls. Pretty damn
+annoying if you ask me. However, it keeps saying the same two words (Sinth
+Thesti), and in a book, you'll find out that those words mean two numbers (54).
+In the control room to the north, you'll be able to type those numbers, thereby
+killing it. The same move can be done against the Guardian Golem blocking the
+door down to level 2. It does give around 1500 xp if you kill it by yourself
+tho, so it's a matter of choice.
+
+NOTE: Having trouble hurting golems? - go to the right in the hallway at the
+beginning and find the short sword Unmaking - it has powerful bonuses vs
+constructs like golems and minogons.
+
+There's also two rooms, besides the control room, that require special
+attention. The first is a room with a golden armor in the centre. A whole
+square around it is a trap, and it cannot be disarmed. Go around the trap
+and behind the throne. With a good enough search skill (Nathyrra will do fine)
+you'll find a lever. Pull it, and the trap dissapears. Now go click on the
+armor, and it will be transferred to your inventory. Enjoy.
+The second room is the only room where the door is already open. When you enter
+your weapon will become haunted, and attack you (just like a Mordenkainen's
+Sword, except that it's YOUR weapon). So, without a backup weapon, you're
+screwed. Either way, there's good loot to be had in there, especially if you're
+a halfling.
+
+For the rest of the rooms this counts: Kill all golems and loot everything,
+especially the items you haven't seen before, like colored powder and so forth.
+Those things will be used in the alchemist's lab to the northeast, where you
+can make three golem items (The instructions are in one of the books you find
+on this level - common for all three is two powders and an item).
+
+Once everything is vacuumed for loot and enemies, proceed downwards to level 2
+where you'll meet intelligent golems.
+
+-------------------------------------------------------------------------------
+
+[2.4] - The Isle of the Maker - Level 2 + 3
+
+The first thing you'll see is a cutscene showing how flesh golems and bronze
+golems fight each other. The fleshies are sided with Aghaaz, the bronzies with
+Ferron. Even golems wage war it seems. Either way, kill em all, head north
+until you meet a flesh golem that wants to talk. He leads you to Aghaaz, who is
+a demonflesh golem. After a little discussion, he agrees to help you if you
+kill Ferron. Now, when you reach Ferron, he too agrees to help you if you get
+the Power Source from Aghaaz. There's no way Aghaaz will give it up willingly
+though, so you would have to fight him and his menagerie of golems to get it.
+
+Which side you choose is entirely up to you - I usually side with Ferron, since
+he seems like the most chaotic good choice ;). No matter what side you choose,
+remember to loot both areas, there's some seriously nice equipment around.
+
+Either way, when you've chosen side and done your job, there's a little more to
+do on this level. In the neutral area, there's a door that just won't open
+unless you're a thief (pick/disable) or a ranger (get a rat to open it). Behind
+it, we have a ghostly man and a pillar. The ghost will, in exchange for the gem
+on the pillar (is it a soul gem, I can't remember?) tell you a password to pass
+the defenders in the hall downstairs where the Maker is located. Without this,
+you'll have a tough fight on your hands.
+
+Anyways, proceed down. First you get trapped behind four mirror-like things.
+destroy the mirrors with a ranged weapon (there's a sling and bullets in the
+bones) before they fire on you, and move forward. Battle what must be battled,
+(if you didn't get the pass from level 2, you'll have to fight two mithral
+golems, they aren't invinvible, but they hit hard as hell) and meet the Maker.
+A good old Demilich, how wonderful. Kill him. Succeed where I cannot. I know
+from a friend that mages can kill him in a matter of seconds, but fighters are
+a whole different ballgame. Enjoy the battle
+
+After completing this part with my friend who's a wizard, I found out that
+the Maker has a key for the golem machine. It seems that, if you're a mage,
+you'll locate golem parts on the 2 above levels - these parts can be made into
+a shield golem down here - if any wizard can go into further detail, feel free
+to mail me. I did notice that he needed to cast certain spells for certain
+effects on the golem (magic resistance, str increase and so forth). That part
+is described in a book you find down there.
+
+Tempest Stormwind took my plea for a details litteraly, prolly best to quote:
+
+Playing any character with a fair bit of spellcasting ability (I've heard it
+done with pure wizards/sorcs, but I've done it with a fighter/wizard/pale
+master -- and only 6 levels in Wizard means a caster level of 6. I don't know
+precisely what makes a character eligable, but if the monster manual is any
+help, I guess you need the spellcasting ability of a 15th level wizard to pull
+this off), one will find a variety of golem parts on the first two levels.
+They're in the chests that are scattered about, so if you're looking for
+goodies (such as the parts needed to make the anti-golem weapons on the first
+floor), you can't miss them if your character's eligable. There's six in all --
+a head, a torso, two hands, and two legs.
+
+Placing all of these in the box with the controlling amulet will lock it and
+activate four pillars. These pillars will prompt you to cast spells on them; if
+you don't have the spells prepared the game checks to see if you've got the
+spells on scrolls (this is in part the reason behind the buttload of scrolls
+you'll find in the Maker's sanctum). If you don't have the spells, feel free to
+use the Relic and return to the Seer and purchase the ones you need.
+
+As to which ones you need, there's two books in the bookshelves that only show
+up if you're eligable as well. One details the construction process as I've
+been doing thus far. The other lists spells, and here's my quick summary:
+Greater Spell Mantle: bonus to Spell Resistance
+Bigby's Crushing Hand: bonus to Strength
+Greater Sanctuary: bonus to AC
+Time Stop: grants the golem Regeneration
+Premonition: bonus to damage reduction (not sure which part just yet)
+Mass Haste: permanant haste effect
+True Seeing: permanant true seeing effect
+Chain Lightning: When attacked, the golem will freely and automatically shoot a
+Lightning Bolt at the attacker (like that Searing Armor that you can find on
+level 1 does with Searing Light).
+Mordenkainen's Disjunction: much like the Blackstaff spell, the golem's attacks
+now dispel magic.
+
+You can choose only four, and once chosen none can be changed. You also can't
+pick the same spell more than once.
+
+Anyway, casting these on the pillars will cause a shield guardian golem to
+appear and you'll get the Controlling Amulet. The amulet acts as a Natural
+Armor amulet +4, grants you +4 reflex saves, and has a unique power. The golem
+itself is (unlike the normal, 12th level ones) 20th level and very cool. Using
+the amulet's power will call the golem to your side, but it's not a summoning
+effect (so it won't unsummon your minions nor will summoning minions unsummon
+it). Speaking to the golem also opens a prompt -- the golem itself behaves as
+one of Isaac's Sequencer Robes, only you store spells in it via conversation
+rather than by raw casting. The golem will open with these spells and then
+proceed to reap the battlefield with his 26 strength, Improved Power Attack,
+Improved Knockdown and absolutely amazing Discipline score (he's gotta have a
+racial bonus on that sucker...)
+
+To date mine (with autodispel, regeneration, haste and boosted DR to compensate
+for the relatively low 160 HP) has never died, so I can't tell you what would
+happen if it did (my guess is since Bioware doesn't like to piss off their
+customers, you'll probably have to rest before summoning it again). The other
+key thing about it is that if it's within reach of you (and it's got a big
+reach), you're treated effectively as being in parry mode (although you can
+still attack). I haven't yet figured out what the parry score is for these
+checks, but it's very hard to be hit physically if you're close to it. This
+goes without saying as a huge boon to casters of all sorts.
+
+Quote End. Amazing info Tempest, sorry it took so long before it got online :)
+</pre><pre id="faqspan-2">
+Adam Feldman has given this tactic to killing the Maker with a rogue:
+Quote:
+The way I defeated it (with my Rogue) was to cast Greater Sanctuary, which I
+just happened to have on me (remember to put points in Use Magic Device).  Now
+that the lich couldn't attack me at all, I explored the bookcases.  I found a
+Black Blade of Disaster scroll (I don't know if it's always there or if it's
+random), which I cast.  The blade's first hit killed the lich when it failed
+to make a save.  I realize I was lucky, but the moral of the story is that at
+least Rogues (and Bards) can simulate being high level magic users with
+scrolls.
+Quote End.
+
+So, with or without the Maker killed, we now have golems in our army, and the
+mission is complete. Return to the island and behold: The Duergar are mad.
+You can persuade them to give it up, since you DID get farther in the dungeon
+than they ever could, but hey, it's XP and they WANTED to fight! Besides, they
+have some very nice loot, so they really should be killed.
+
+Return to the Seer to tell her the good news about the golems. Now that the two
+islands are done with, it's time to explore the area around Lith My'Athar and
+wreck havoc on the Valsharess' allies.
+Let's start by leaving the town through the gate area. Nothing to do here (yet)
+but don't worry, you haven't seen the last of that gate. From the gate, move
+further west into:
+
+-------------------------------------------------------------------------------
+
+[2.4] - Underdark - West of Lith My'Athar.
+
+This area connects the three armies. In the northwest we have the entrance to
+the Ilithid, in the west we have the Beholder entrance and to the south, the
+undead are hiding.
+In the eastern part the mobs are mainly Umber Hulks, Harpies and a single drow.
+Also, in the southeast, there's a little cave with a corpse in it. You'll find
+Nasher's Cloak of Protection (+3 AC deflection) on it.
+Strangely enough, the western part of the map is empty - when you talk about
+enemies that is.
+Yet again, you're free to choose when you take which areas from here, my order,
+however, is south - west - northwest. So, let's go south, and get rid of some
+undead.
+
+-------------------------------------------------------------------------------
+
+[2.5] - Underdark - Drearing's Deep. (The Undead army of Valsharess)
+
+This seems like a friendly city of former slaves - at least in the beginning it
+does. You'll soon find out that the city hides something darker. Make a tour of
+the city, and locate the big temple and the gong.
+There are a few ways into the temple. The simplest is to just smash the door
+and kill the two guards. You can also ring the gong and claim that you want to
+be sacrified. Anyway, you'll end up on the first level, where you'll have to
+fight off a group of cult knights and some skeletal devourers.
+Since the door down is locked, let's go upwards.
+
+On level 2, you'll encounter cult knights, skeletal devourers and some shadow
+fiends. Also, you'll soon notice a large altar, surrounded by dragon statues.
+Loot the two small rooms for some nice stuff (including 2 black pearls and a
+studded leather armor +6).
+
+Click the altar and place one of the black pearls you just found on it to gain
+an on hit: ability drain DC-24 strength enchantment to your main weapon. This
+can be done once per weapon, and it requires a black pearl each time.
+Anyways, let's proceed to level 3.
+
+There are quite a few traps on this level, so watch your step. Kill the Cult
+Elite Guard here, loot the room to the left and prepare for a battle versus a
+mage called Sodalis, the head priest of the cult. Loot his corpse for the key
+to the lower levels. Remember to loot the little room to the south as well,
+there's a lot of nice mage loot here, gloves of spellcraft +30 and amulet of
+power as the coolest, together with a LOT of spells like horrid wilting, time
+stop and meteor swarm.
+
+Now, let's move down. The entrance downwards from here is guarded by three
+bone golems. Kill all three of 'em, take the rope from the chest, attach it
+and proceed down to the Inner Sanctum.
+
+You'll encounter a monk and two bone golems. Kill all three and follow the
+strange misty shape to a sarcophagus. Aha, it's vampires we're up against. Go
+to the room across the sarcophagus and bash the chest. Pick up the splinter and
+click the sarcophagus to drive it through the corpse. This is how you kill a
+vampire, and don't worry, you'll get plenty of training in it. When you kill
+this first one, you'll also get an Energy Orb - you'll need this in a matter of
+seconds.
+
+Go north, and proceed to the left side of the room. Click the single pillar and
+put the energy orb in it. When the door's smashed, take the energy orb again.
+Enter, and kill the four vampires. Remember to find their sarcophaguses, if you
+don't want to kill them several times that is. At the altar in the centre,
+there's a negative energy trap that heals the vamps, so try to kill them before
+they get there.
+
+Oh, there are four sarcophaguses to each side, but only two are used. Proceed
+south from here and loot the library. If you haven't already, then whack some
+furniture to get a got reserve of splintered wood. No need to rush around after
+it when you can have a few ready. Return to the north part and move forward to
+meet a Cult Elder Monk. Kill it, disable the trap on the door, unlock it, and
+drive a pole through that monster's heart. Loot the remains to get another
+energy orb. Loot the chests for a Warlord's Plate (+5, +6 cha) and some other
+gear.
+
+Return to the central room, go straight over eastern side and place one energy
+orb in each of the two pillars to open the next door. Remember to take both
+orbs again - and if you need to rest, I suggest you return south and go up the
+rope, you won't get disturbed up there.
+Now, let's enter the eastern part. Go round the corner, kill the golems and
+hunt down the Shadow Master. He'll run constantly, but just run after him. The
+first time I played, he went invisible all the time, but second time I could
+see him all along. Maybe a bug. Remember to go all the way north through the
+trapped door and put a stake in his heart, no need to kill him twice.
+Loot the sarcophagus room to get a Nullifier Rod + some nice gear. Return back.
+The first room got four bone golems, but the next has a group of drow, two of
+which has some nice equipment (the elite warrior and the handmaiden). Now, go
+back to the room where you first met the Shadow Master, and check out that
+device thingie with the trapped Astral Deva, Lavoera. You already have her
+weapon, but how to get her out of there. There's two ways to this. Either use
+the device to create three bone golems that'll follow you - and kill her in the
+progress (which will spawn a Planetar to revenge her death). Or you can use the
+Nullifier Rod to disable the device and free her. If you free her, you can
+either get her to help you against Vix'thra, or to help the rebels defend Lith
+My'Athar - on top of that, she will give you a very special amulet.
+Anyhow, it's time to open the last door - the door that will lead you to
+Vix'thra itself.
+
+First, however, you need to kill Sodalis again - this time for good. Remember
+to whack the corpse in the sarcophagus, no need to kill him three times ;)
+Now, prepare for a hard, hard battle. Go down, and find out that Vix'thra is a
+Dracolich - just as humans become liches, dragons become dracoliches. Do NOT
+attack at first, go around it, all the way to the back (either through the
+traps, or through the hidden door just to the right of the corridor), and bash
+the phylactery. If you don't do this, you'll have to kill that bastard four
+times. With the phylactery destroyed, one time will do.
+
+Once you've killed Vix'thra and his four bone golems, loot the place and return
+to the Seer to tell the good news (as usual). Remember to restock, buy all you
+need and so forth, since you'll be in the middle of a siege if you do so after
+you stop the next army.
+
+-------------------------------------------------------------------------------
+
+[2.6] - Underdark
+
+
+
+
+
+===============================================================================
+
+
+[vi] - Henchman List
+
+I know they're listed in the walkthrough, but I enjoyed the seperate listing of
+these in a bg2 walkthrough, so I'll do the same:
+
+Deekin: Reptilian, True Neutral
+Bard (14)
+Red Dragon Disciple (1)
+STR: 8
+DEX: 12
+CON: 15
+INT: 10
+WIS: 10
+CHA: 18
+Located: The Yawning Portal, Well Room (chap 1)
+
+Sharwyn: Human, True Neutral
+Bard (7)
+Fighter (6)
+STR: 14
+DEX: 18
+CON: 12
+INT: 13
+WIS: 10
+CHA: 20
+Located: Undermountain, Level 1 - Central. (chap 1)
+
+Daelan Red Tiger: Half-Orc, Chaotic Good
+Barbarian (13)
+STR: 23
+DEX: 14
+CON: 14
+INT: 10
+WIS: 10
+CHA: 7
+Located: Undermountain, Level 1 - Central. (chap 1)
+
+Tomi Undergallows, Halfling, Chaotic Neutral
+Rogue (11)
+Shadowdancer (3)
+STR: 10
+DEX: 23
+CON: 16
+INT: 12
+WIS: 10
+CHA: 10
+Located: Undermountain, Level 2 - South. (chap 1)
+
+Linu La'Neral, Elf, Neutral Good.
+Cleric (15)
+STR: 16
+DEX: 12
+CON: 12
+INT: 10
+WIS: 23
+CHA: 12
+Located: Undermountain, Level 2 - East. (chap 1)
+
+Nathyrra: Elf, Lawful Evil
+Wizard (9)
+Rogue (3)
+Assassin (6)
+STR: 12
+DEX: 20
+CON: 16
+INT: 14
+WIS: 10
+CHA: 10
+Located: Temple of Lloth, Lith My'Athar (chap 2)
+
+Valen Shadowbreath: Tiefling, Chaotic Good
+Fighter (13)
+Weapon Master (5)
+STR: 19
+DEX: 15
+CON: 19
+INT: 15
+WIS: 12
+CHA: 10
+Located: Temple of Lloth, Lith My'Athar (chap 2)
+
+
+===============================================================================
+
+[vii] - Easter Eggs
+
+
+Bridge Control at Beholder Caves (sent in by Felipe Barbirato):
+
+Found some weird stuff on Hordes Of The Underdark that wasn't mentioned in any
+of your faqs it's about the bridge control at the entrace of the beholder caves
+If you character has the pearl of tongues or the pearl of bashing you'll get
+other choices and some weird easter bunnies.
+here's what the items do:
+when you insert the pearl of bashing a strange message will appear
+root@faerun.prime.com:/games/nwn#  its like an email or something tell me if
+you find out anything about it.
+when you insert the pearl of tongues (can be purchased with the djinny) you
+will be able to choose the language of the panel (in case you dont have a high
+lore).
+
+Addition by Dolch:
+
+Well, the message you recieve looks like a Linux command line telling you that
+you have recieved administrative rights inside a Perl comment.
+To get the message you have to insert the Pearl of Bashing, BASH being a shell
+for Linux.
+
+
+==============================================================================
+
+
+[viii] - Wanted Information
+
+Any and all information about rangers and what the animals say will be
+wonderful news for me as I doubt I will have the patience to play through with
+a ranger as well :)
+
+Info about Sharwyn and Linu as henchmen - are they worth anything?
+
+General info I've missed, items worth mentioning, anything you can think of
+actually.
+
+
+===============================================================================
+
+
+[ix] - Credits
+
+Hints/Tips:
+Michael Skrubel
+Adam Feldman
+Evonne
+Tempest Stormwind
+
+ASCII Logo:
+Osrevad (AIM: nahuwe - e-mail: omohasiosrevad@hotmail.com)
+If you would like a logo like the one I have, just contact this man :)
+
+Easter Eggs:
+Felipe Barbirato
+Dolch
+
+
+===============================================================================
+
+The End?
+

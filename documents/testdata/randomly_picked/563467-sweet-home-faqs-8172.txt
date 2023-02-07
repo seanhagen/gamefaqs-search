@@ -1,0 +1,359 @@
+SWEET HOME WALKTHROUGH
+By Justumaru (Justumaru@yahoo.com)
+Version 0.1
+
+Table of Contents
+1. Revision History
+2. Introduction
+3. Disclaimer
+4. Controls
+5. Charachters
+6. Tips
+7. Walkthrough
+   a. First Floor
+   b. Second Floor
+   c. East Wing
+   d. East Garden
+   e. Third Floor
+   f. The Courtyard
+   g. The Basement
+   h. Beginning of the End
+8. Special Thanks
+
+1. Revision History
+Ver 0.1
+Added some sections to the walkthrough. 
+Added Special Thanks
+
+Ver 0.0
+First version
+
+2. Introduction-
+
+And the crowd said, "Sweet WHAT?"
+Ladies and gentlemen, the long lost father of Resident Evil has been found! His name is Sweet 
+Home, and he's been hiding in the net, away from the fans. It was due to the shame of never 
+recieving a translation that he never made his face known to the rest of the world. 
+But, Sweet Home is not bitter. He understands that he was an extremely violent game, and far too
+scary for those at Nintendo of America to accept. And, with the help of Gaijin Translations, 
+Sweet Home may now be reunited with his children, and all the bitter fans who never got to play
+this game. 
+All monkeyshines aside, Sweet Home is an NES game, released by Capcom back in 1990. Many are 
+quick to lable it an RPG, but this isn't quite the case. Its more like the precursor to the 
+survival horror genre. I hate survival horror.
+But, i like this game. Why? Because the Resident Evil series is light on horror, heavy on 
+survival. Don't tell me you were scared by the umpteenth time a zombie leapt out at you from the 
+window, or cieling... 
+What's that? You were?
+Here, have a blankie...
+But, this game will scare the bejeseus out of you, blankie or no. Its also a little confusing. 
+I currently am still trying to beat it. But, with any luck, i'll get through on my own.
+Barring this (I expect it to be barred), contributions are always welcome.
+For months, i'd been checking Gamefaqs to see if they had an FAQ for this game. Noone had done 
+so yet. Funny, i thought everyone loved Capcom and their Survival Horror games. Oh well.
+Because i'm such a nice guy, and also thanks to the translation to this game, i decided to write 
+the damn FAQ myself, as opposed to just waiting for it. So here it is! Expect revisions and 
+additions as time goes by. I don't expect to finish this for a long time. I suck at survival 
+horror. Even if this is an RPG, as opposed to an action title.
+
+Yes, i know this file is currently a mess. Its a work in progress. I'll reformat it when i have 
+to.
+
+3. Disclaimer
+Hi. Sweet Home is copyright 1989/2000 by Capcom. 
+This FAQ is my property. You may read it, print it out, save it and even send it to a friend, so 
+long as:
+1) You DO NOT alter the content of this file in any way at all.
+2) You do not post it on your webpage. You MAY NOT post this file on your webpage. DO NOT EVEN 
+ASK ME to allow you to post this file on your page unless your name is Al Alamoo. Only he and 
+CJayC have my permission to post it.
+3) DO NOT ASK ME IF YOU CAN POST THIS ON YOUR PAGE. IF YOU DO, I WILL IGNORE YOU! I don't want to
+be mean, but THREE people asked me for posting rights my Dark Half FAQ. Three people more than i 
+said i'd give permission to. Don't push me. Please.
+4) You do not make a profit off of it. 
+5) You don't use any info in the file in a file of your own creation witout giving me credit. 
+This action is better known as PLAGARISM, and should not be done. Besides being against the law,
+its also very sucky. And you don't want to suck, do you?
+
+4. Controls-
+D-pad Move
+A Menu
+B Party ststus
+
+The Manual.txt included in Gaijin translation's patch should explain the commands sufficently.
+It does not, however, explain the tools. While they are self-explanitory, i will describe them 
+anyway. You WILL need them.
+
+One thing i will explain is Pray. I don't know its full uses yet, but using Pray in battle will
+make you do a lot of damage. It can also save a party member if he was cought by a Zombie or some
+similar happening. That being said, don't use it in battle if you can help it. Leveling up a lot
+accomplishes the same thing... 
+
+Ok, if enough people ask me to explain the commands, i will... 
+
+5. Charachters-
+
+Kazuo
+Tool- Lighter. Use it to burn things.
+Probally the best fighter. Lighter comes in handy a lot. It can hurt insects.
+
+Akiko
+Tool- First Aid Kid (+Kit). Restores to normal from some status anamolies. 
+Not such a good fighter, but the First Aid kit restores you from Stun and Poison...
+
+Taro
+Tool- Camera. Use to to take pictures. Also, the bright flash hurts Bats.
+Moderate fighter. Camera is probally the most important tool, as its the only way to gain the 
+clues from the frescoes.
+
+Asuka
+Tool- Vacuum. Used to vacuum things. Don't laugh.
+The vacuum is far more useful than you think. Dust, glass, and many other things strewn 
+throughout the mansion are all swept away by this lovely tool. One caveat, tho. He's the heaviest
+charachter. He almost always causes wooden planks to fall. Only have him cross such a brige if he
+must, make sure he is not leading, and make certian he is not alone. Have him cross last if 
+possible.
+
+Emi
+Tool- Key. Opens some locked doors. 
+Not much to say here. But, her key does not open all doors... If this happens, you weren't meant 
+to open it from that side.
+
+Items-
+
+Here i will describe items used in the game. This is so i don't have to describe their uses in 
+the walkthrough more than once.
+
+Wax Candle- Lights darkened rooms.
+Wood- Bridges gaps. 
+Mallet- Breaks rocks and other fragile items. 
+Tonic- Restores Pray and Life of everyone nearby. 
+Rope- Used to cross gaps. 
+Log- Bridges streams in the lake. 
+Gloves- Resist throns.
+Boots- Resists sticky floors.
+Ax- Removes wood piles.
+Pills- Same as First Aid Kit, and also restores from Fear.
+Matches- Same as Lighter.
+Broom- Same as Vacuum.
+Camera- Hmm... I wonder...
+Key- Oh, come on, do i HAVE to tell you everything?
+
+6. Tips- 
+
+-Travel in groups, always. The combonations i usualy use are Kazuo/Taro/Akiko and Emi/Asuka.
+But like i said, make sure noone is alone.
+-Save your Tonics. Use them only if someone is close to death. 
+-Make sure nobody dies! I can't see there being a way to restore the dead, and you need 
+everyone's tools, so keep everyone alive!
+-Take anything that is not nailed down. 
+-Make sure everyone is using a good weapon. Fruit Knives only get the job done for so long!
+
+7. Walkthrough
+
+   a. First Floor
+Watch the intro. Now, use Asuka's vacuum to remove the glass. Get everyone out of the foyer.
+Like the text tells you, go into the left room. In here is a Tonic, Wax Candle, Fruit Knife, a
+note and the first Fresco. Read the note, then Look at the Fresco. Have Taro take a picture of 
+it. It will give you a clue (i think something about the three frescoes giving clues to the 
+exit).
+Now, exit and go to the right room. Make sure one of the people in the group has the candle. 
+Also make sure the group also has the knife. You can be attacked in this room. Use the lighter
+to burn the rope, then take the wood later in the room. Avoid the blue flames, they will carry 
+you back into the hall. Keep going and take the Silver Knife. Take the wood. 
+In the next room, use the Candle to light your way, then, in a group of two or more, go north and
+Use the wood on the gap. A bridge! Now, cross, take the Oak Spear, and get out of there. If
+someone falls down, use the Team command to save him. If the bridge didn't fall, take it too.
+Now, go back to the main hall. Ok, your ready to move on... Not! Go back into the room with the
+blue flames in a group of three. Get this group up to level 3-4. Then, take someone from this 
+group, place him with the other two, and get them up to level 3-4. Now, in the main hall, cross
+the gap with the wood. Expect it to fall at least once. Go up the stairs and talk to the Zombie.
+Yikes! Go to the left and get the Axe with somebody who needs it. Now, go back to the main group.
+Stay away fro those eerie looking shadows, k? Just to the left is a door that has the second
+Fresco in it.  Use the vacuum to remove the glass, then take a picture to see the second clue- 
+You need a Mallet to break boulders. Look at the Skeleton to get a warning- The light may 
+fall. Now, exit and go the the left. Crap! The light fell! Dodging right usualy works to avoid 
+this hazard. To the south is a door with some Silver Statues in it. Ignore this room for now. 
+Go left, past a door you can't open, to a door you can. Take the spear and move through this room
+with everyone. Yes, i know using a plank at the gap accomplishes the same thing. Its wasteful 
+and dangerous. And you'd miss the weapon.
+To the north is a room you can't open. Just to the east and south of that is a room that is. 
+Inside, there is a clue to there being another key and camera in the house, but the cieling 
+collapses, barring your entry.  Again, crap! Now, exit and go north. Unlock the door. Inside is
+a room with many tables, some weapons and items, a fireplace, and the stairs to the second floor.
+Exit and go east, you'll be back here in a minuite.
+Go east with a candle. In this room, there are some boulders. Remember this place, you'll be back
+here later. 
+Before you leave, now would be a good time to fight the enemies in the hall until your level 
+5-7. If you want, take the weapons from the dining hall first. Don't do it in the dining room, 
+the Skulls and Bats are far too dangerous at this point. 
+Now, return to the dining hall. Get all the stuff and vacuum away the glass at the stairs to go
+up. 
+
+   b. Second Floor
+Once here, take the stuff. Read the note. Beware of the enemies here, they're dangerous. You 
+might want to level up some here and now, but you shouldn't have a problem. Be careful anyway.
+Unlock the north door. If you enter, you get kicked out. Hm. You can't unlock the east door. 
+So, go west. Cross the bridge with Asuka and Taro. In this room is the third fresco, a rope, an 
+axe, a log and some wood. Look at the Fresco. Take a picture for the third clue, the mallet is 
+under the desk in the room with the small beast. Return to the room with the mouse in it. Go to 
+the upper right corner of the table and try to Move an item into your inventory as you would any 
+other item. You'll get the Mallet. Now, go back downstairs with everyone.
+
+   c. East Wing
+Go into the room directly across from the dining hall. Smash through the rockfall with the 
+mallet. Take the items in here. They include a tonic, Pills, Wire, and a spare camera. I guess
+this spare is in case Taro dies. Yes, well, you can probally leave it behind, but take everything
+else. Now, go into the room with the boulders and smash them with the mallet. 
+No, the mallet does not work on the rocks blocking the front door, sorry... 
+Anyway, go through the room. Take the wood if you need it. You'll see a Fire Extingusiher, some 
+matches and a broom. Leave these for now. A note in this room tells you that light will banish 
+shadows. Along the east wall, there is a door Emi can open. Inside is a Shiv and another Fresco.
+Hm... The plot thickens, does it not? Now, go north. A letter here tells you that in the east is 
+a garden. (If you had gone north beforehand, into the already open door, a skeleton would have
+warned you that the generator is in the east garden.)
+Cross the chasm to the east. It'll take two planks. Don't remove any as you cross. Before you do,
+make sure everyone is out of the way of the chasm. Now, cross and take the Flashlight. Now, RUN!
+A boulder will start rolling. It'll do some damage to whoever is unfortunate enough to be in 
+front of it. Now, with the flashlight, return to the room where you got a clue as to how to 
+defeat shadows. Go north and use the flashlight on the shadows. Your way will be cleared. 
+Before going on, make sure everyone is level 8-10.
+Now, go east, pick up the tonic and go south. Vacuum away the glass, unlock the door, and enter.
+Take the fire extinguisher if you don't have one, and enter the rooms. Each room with those odd 
+symbols will fill the room with fire. Using the extinguisher will remove the flames. Please note
+that its consumed after use... 
+In the first of these rooms is a fresco. It gives the clue "Where there is lightning..." 
+Yeah. Why do i have a bad feeling my 'Special Thanks' section is going to grow with every update?
+Further in this room is a knight statue. Near it is a message written in blood "Cannot enter...
+Without Prayer..." Look at the Knight and Pray before him. You'll draw the spear. Now, take it,
+but as a normal item, not as a weapon. Exit this room. 
+The next open room on the west wall has another flaming trap, and another fresco. This one 
+provides the clue "A Knight needs a spear." Ah ha! Now, we're cooking with gas! Exit and go 
+south, burn the rope and go west. Unlock this door for a shortcut back to the main house. Now, go
+back east, to the open door on the east wall. Look at the statue and use the Armor Spear on the 
+Knight. Then, Pray, using at least 20 points. This will open up the East garden.
+
+   d. East Garden
+With a change of music comes a change of chapters. There are rocks here, but don't worry if you
+dropped your Mallet elsewhere. There's one out here. Get the Old Sword. You'll be needing it. 
+Take the Gas as well. Now, break the rope, vacuum the door, burn the glass and unlock the 
+rocks... Wait, um... Ah hell, you get the idea... 
+In here is a large machine. When you get a message telling you its the generator, use the Gas, 
+then Look at the generator and switch it on. Yeah! Now, return to the Second Floor. Go into the 
+room you were kicked out of. Do not fight with those Armors, they will kick your ass. Go north.
+
+   e. Third Floor
+Um... Does that creepy music have anyone ELSE scared? You should be. Like i said, level 10 would
+be nice by now. I'm not kidding. Look at those gouges in the walls. Check out those skeletons. 
+I am NOT trying to waste your time, you'll get creamed if your any lower. 
+Once your done heeding or ignoring my warning, use the rope to cross the gap. Check out that hole
+in the center, then go west and open the door. There's a message that tells you that Boots can 
+help you walk through sticky floors. Good to know. 
+Read the note outside. Residing evil, heh heh... 
+Go south, and reenter the house. Go up the stairs and grab the weapons. Now, comes the dangerous
+part. Four steps on sticky floors seals your fate. You can Team to rescue stuck people, but its
+still dangerous as all hell, because a stuck member is as good as dead. Go north, then east 
+through the door. Grab the stuff (espically the Boots), then go east again, then south. After 
+unlocking the door, you will find a ladder. Use the Boots to avoid getting stuck on this... green
+splooge, and grab the weapons.Now, return to the room with the big pit within. Go north and use 
+the boots again. Read the notes, grab the Long Sword and clean the fresco. Then take a picture
+for the message "My wife killed... Our child... By accident..." You knew this was comming, right?
+I know this sounds bad, but get up to level 12 or so at this point. Actually, i'd reccomend 
+getting as high as 15. Hey, i didn't design the game. 
+Whenever your ready, use the ladder on the pit and prepare to enter the next room.
+Note that, from this point on, i won't always tell you what tools you need to use. You should
+always have team mates nearby, so it should not be a problem to get them. I WILL tell you what 
+items you need, however. So don't sweat. 
+
+   f. The Courtyard
+You can pretty much ignore this area, just have a mallet to smash the mirrors. One of the mirrors
+along the north wall holds a secret door. Explore at your own risk, but there's nothing here 
+that's really worthwhile. Oh, except a Fresco. 
+Oh, allright. Without going into painful detail, using the Pick keeps you from taking damage in 
+the water. Pushing the statue stops the water. The Mallet breaks the statues. 
+In the fresco room, water comes out of the walls. The Pick won't protect you. If you send someone
+to get the items, make sure they are alone. The Fresco is dirty, and tells you "The statue... 
+Back to a lake..." Um, whatever. Head for the secret door. Look at the fountain here twice. 
+Drink the water. It will turn to blood! Now, go south and take the Pail. Look at the fountian 
+again and Use the Pail. Now, go back south and use the Pail on the green statue. Now, you can go
+on. But first, go north twice. There's a fresco there that tells you... Well, what i already told
+you. But photograph it anyway. ;p 
+In this long hallway, go west and you will be outside. Is it just me, or does this sound like 
+music from Shadowgate? Don't touch those thorns until you get the Gloves. Piles of wood block 
+your way. Go south and follow the shore until you see the message "If only we had a bridge..." 
+Use the log in that spot. Get the gloves and then use them. Then take the Ax. Its an item and not
+a weapon, like the Armor Spear. Use the ax on the piles of wood. You'll need another log to 
+cross. There's a zombie who tells you "Don't break it..." Good advice, i'm sure... Use another 
+log to cross, as single trees always mark streams you can cross with logs. I hope. You need 
+ANOTHER log now. They're laughing at me. Can you hear them? The programmers are reading this file
+and they are laughing at me. Excuse me for a moment. *goes all the way back to the main house to
+find a log* *comes back* Sorry about that delay... So you do not need to go back and find the 
+last log, i'll tell you what the Zombie to the left says- "F-Lite... Jinibi..." Keep that in 
+mind. Now, head for the long center path and use the log where you can see boats you can reach.
+They're only for two, however. Use them to get the Shovel. Now, go directly north from there to
+find the Memorial Tower. Look at it and then use the shovel. You can't focus... Pray! Look in the
+hole until the Low Key appears. Now you have the Basement Low Key! All right, head back to the 
+main house. Yamamura will talk to you and lead you to the basement. Follow him for a long while. 
+He tells you why the house is haunted- The body in the memorial was dug up. If you could find the
+body, mabye you could put the spirit to rest... Mabye. As he leads you to the basement, a spirit 
+kills him. He tells you to find the basement. Remember that he lead you through a bunch of 
+rooms. Now, return to the room with a lot of rocks in it, just north of your location. In the NE
+corner is a dirty fresco. The clue? "Use at the site with four stones." ... They're laughing at
+you, too? I can understand... Take the Bow. There's a boulder on the right side, be careful. 
+Now, go north again. Be careful, these rooms are as dangerous as all hell. Don't walk recklessly.
+First, in the room with the pegs, arm Taro with the Rope and send him alone to the fresco. 
+You get the clue "Melt the blue statue for a sign to the basement." 
+In the next room, arm him with the Bow and do the same. "My wife... Killed a child... for a 
+playmate..." *becomes VERY pale* Um... Yikes. Let's get out of this house as soon as we can!
+Torwards that end, go into the wodded area north of either fresco. Push on the statue from the 
+right side, and follow it. When it slides into the bloody fountain, it will become the Tool.
+Return to the place Yamamura was killed at. Use the Tool in the place where the four pillars are.
+Boom! Basement! Ikuzo!
+
+   g. The Basement
+If you don't have a Fire Extinguisher, get one. One is in the Third Floor, near the room with 
+sticky floors and moving Armors... Unless you moved it. Go right as you enter and use the 
+extinguisher to douse the flames, then grab the next one and look at the fresco. The clue?
+"The Gem is guarded by a statue." Good to know. Exit and go north. Do NOT enter the open door 
+yet. Do not try to cross the searing flames yet (*chuckle*). Unlock the door. Make sure someone
+has a FireX. Douse the flames ASAP. Read the note, clean the fresco and take the junk. Then, get
+yet another message- "I thought it was over after the suicide..." Well, no shit, Sherlock. 
+Use the FireX in the open room and get the weapons. Cross the fire just north of the fresco room,
+and head for the ground you see at once. Enter the cave and speak to the man. He tells you that 
+you need a shovel. If you left yours behind (I did. *groan*), go back and get it, otherwise, tell
+the man you do have one. Your entire party gets scattered. *fume* Once you re-unite, go to the
+room that was blocked by a statue- Its gone now. Enter, if you dare! Muhahahahaha... (Sorry, this
+game is driving me insane...) Get the Gem and Flash Knife. Now go right in the main room. Note 
+the oh-so-scary blue flame. Enter the first open door on the left. Nice room, huh? Read the note.
+I'm sure you already know whose REALLY haunting this house, huh? Now, enter the open door on the 
+right. Clean the fresco and photograph it. "The blue fire... Pray with the gem in hand..." Also, 
+the note tells you that in order to end the horror, you must find Lady Mamaiya's room, which is 
+on the second floor. 
+Go back to the flame. Use the Gem, then the Low Key. Enter the room. Its the incenerator room. 
+(*gulp*) Use the Low Key to open the door. Within are the coffins. The second from the right
+holds the diary key. Take it and go left. Read the note and the bloody messages. Now, go back 
+upstairs.
+
+   h. Beginning of the End
+Return to the diary room (on the third floor). Use the diary key on it. You'll read about the 
+verdana that leads into Lady Mamaiya's room, and her undying rage and hate. It seems Ichirou was 
+never to blame at all... 
+You now have the power to move aside those bronze statues that have been heckeling you since the 
+very beginning. Go back to the third floor and push asdie the statues there. You need the Bow to 
+cross. Unlock the door with the Low Key and enter. It'll say something about a strange wall. 
+Someone must go alone in this hall. Or you'll all get squashed by the boulders... Stay out of
+the room with the bodies, there's nothing in there you want. Go east. SAVE OFTEN. You might 
+stumble into those damned bodies, so be careful. There's a Rope and a Bow here if you need them-
+You probally do. 
+
+Comming Next Time:
+The rest of this game, hopefully! 
+Hoin us, same net.time, same net.channel! 
+
+8. Special Thanks
+
+masterskull99@yahoo.com- For telling me how to get the mallet. 
+Lady Raven (therave2003@hotmail.com)- For telling me what a BUNCH of items do! 
+
+Remember! This is a work in progress! Only by playing this game and giving me aid can i ever hope
+to finish this game! 

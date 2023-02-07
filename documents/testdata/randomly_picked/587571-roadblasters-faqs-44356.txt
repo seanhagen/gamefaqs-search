@@ -1,0 +1,305 @@
+Roadblasters FAQ
+Version 1.1
+
+By chessjerk (John Kearsley IV)
+
+Created - August 13, 2006
+Updated - February 18, 2012
+
+Questions?  Comments?  Contact me: chessjerk@msn.com
+
+===============================================================================
+
+Welcome to my Roadblasters FAQ. Tired of regular old shoot-em-up games? Well, 
+this game may pique your interest.
+
+===============================================================================
+Table of Contents:
+===============================================================================
+
+I. The Object of the Game
+II. Controls
+III. Special Weapons
+IV. The Enemy
+V. List of Levels
+VI. Strategies
+VII. Credits/Disclaimer
+VIII. Version History
+
+===============================================================================
+I. The Object of the Game
+===============================================================================
+
+The object of the game is to drive the car down a winding road, fending off 
+other cars, turrets, motorcycles, even various obstacles in the road to reach 
+the finish line before fuel runs out.
+
+On each level the car is given a certain amount of fuel that slowly decreases 
+as time passes. Approximately halfway through each level the car receives a 
+fuel bonus. If the car runs out of fuel at any time, it begins to slow down. If 
+it comes to a complete stop before reaching a level midpoint or the finish 
+line, the game is over.
+
+The bottom of the screen details the car's current status, including:
+
+Current score multiplier
+Mine detector
+Main and reserve fuel tank gauges
+Current speed
+Current score
+Special weapon indicator
+
+If at any time the car comes in contact with an enemy or gets shot by a turret, 
+the car explodes and a new one is set up in the middle of the road.
+
+At the end of each level, bonus points and additions to the reserve tank are 
+awarded based on the current multiplier, up to a maximum of 10,000 points. The 
+multiplier increases by one every time an enemy is shot with the regular gun 
+(up to a maximum of 10x), and decreases by one with every regular shot that 
+misses a target. The multiplier does not change as a result of firing the 
+special weapon UZ Cannon (neither hits nor misses from the UZ Cannon change 
+the multiplier). All points earned are multiplied by the resulting multiplier 
+(e.g., if an orange car is shot with a 1x multiplier, the multiplier goes up to 
+2x and 2x50=100 points are earned).
+
+===============================================================================
+II. Controls
+===============================================================================
+
+Up         - Accelerator
+Down       - Brake
+Left/Right - Turn car left/right
+B          - Fire special weapons (see Special Weapons section)
+A          - Fire guns
+Select     - No use
+Start      - Pause the game
+
+===============================================================================
+III. Special Weapons and Other Items
+===============================================================================
+
+At predetermined points of most levels, a plane flies overhead and drops an 
+apparatus. Drive the car underneath it to catch it and equip it to the car. If 
+the car crashes, the special weapon is lost. If the car reaches the finish line 
+with an unused portion of a special weapon, the unused portion carries over to 
+the next level. If a new weapon is caught while an unused weapon is attached, 
+the unused weapon is lost and replaced by the new one. There are four different 
+weapons: 
+
+1. UZ Cannon      - Rapid fire gun, doesn't affect multiplier, lasts a while
+2. Nitro Inject   - Very high speed for a short time, 3 uses
+3. Cruise Missile - Destroy everything on screen (good and bad), 3 uses
+4. Electro Shield - Makes the car invincible for about 5 seconds, 3 uses
+
+Occasionally, green globes appear on the road. Pick these up by driving over 
+them to increase the car's fuel by a small amount. Destroyed orange cars may 
+leave orange globes behind. These restore more fuel than the green ones, and 
+are essential on levels when there is a shortage on fuel to begin with (See the 
+"Sensors detect fuel globes" explanation in the List of Levels section).
+
+===============================================================================
+IV. The Enemy
+===============================================================================
+
+Here is a list of the enemies to be faced (point value in parentheses):
+
+Orange Cars (50) - They are the most common enemy seen, and they are the 
+easiest to deal with. Shoot them once to destroy them.
+
+Blue Cars (100) - These cars cannot be destroyed normally. Certain special 
+weapons can get rid of them. However, like the orange car, it doesn't launch 
+any attacks, it simply gets in the way on the road.
+
+Motorcycles (100) - Similar to orange cars, they are destroyed with one shot 
+but are much smaller and harder to hit than the orange cars.
+
+Rat Jeeps (50) - These tricky rascals sneak up and try to ram the car from 
+behind. Sometimes a warning is issued at the beginning of the level that they 
+are coming, but sometimes not. Stay alert for them, especially in the later 
+levels.
+
+Turrets (200) - These are stationary guns on the side of the road that fire a 
+steady pattern of bullets. They are easier to shoot on turns since they are 
+right in front of the car. On straight-aways their shots are easily avoided by 
+simply driving straight down the middle of the road at maximum speed.
+
+Mine (none) - Next to the reserve tank indicator there is a box that sometimes 
+flashes along with an audible warning. When it flashes, there are mines are on 
+the road nearby. Sometimes they can be very difficult to see on the road. 
+Driving over a mine causes a crash. They cannot be destroyed.
+
+Toxic Spill (none) - These black puddles in the road cause the car to do a 360 
+degree spin at its current speed, often causing the car to crash directly into 
+oncoming traffic. Avoid them whenever possible.
+
+Boulders (none) - Don't drive on the shoulder unless necessary to drive around 
+an enemy. The car slows down dramatically, and if a boulder is nearby, the car 
+probably crashes into it. Level 35 is odd in that the first enemy encountered 
+is a boulder in the middle of the road (!). Keep alert for it.
+
+===============================================================================
+V. List of Levels
+===============================================================================
+
+Each section can be divided into levels, as follows:
+
+Bubble City     -  1 to  3
+Forest Section  -  4 to 10
+Desert Region   - 11 to 14
+Ground Zero     - 15 to 18
+Crystal Palace  - 19 to 22
+Weapons Factory - 23 to 26
+Power Plant     - 27 to 30
+Science Complex - 31 to 34
+Molten Zone     - 35 to 38
+Ground Zero     - 39 to 42
+Bubble City     - 43 to 46
+Sunset Strip    - 47 to 50
+
+Here's a list of each level's message displayed before the level begins, any 
+weapons available in that level, and any other important notes to consider. The 
+first four messages seen are simply general tips for playing the game.
+
+If the message is "Sensors detect fuel globes", the car starts the level with a 
+low fuel gauge, however, the orange cars in that level drop orange globes much 
+more often. Pick them up to survive.
+
+If the message is "Rat Jeep wave, Watch for cross traffic", Rat Jeeps are 
+waiting in that level (see Rat Jeep in section IV). Sometimes this message is 
+not given in a level with Rat Jeeps. This generally happens in the first level 
+of a new section, since pre-level messages are never given in this case.
+
+Legend for special weapons:
+(1) UZ Cannon
+(2) Nitro Inject
+(3) Cruise Missile
+(4) Electro Shield
+
+#  Weapons   Messages/Comments   
+                                         
+1  N/A       None
+2  (1)       "Shoot opponents for score"
+3  N/A       "Shooting accuracy increases multiplier"
+4  (2)       "Reserve fuel awarded based on score"
+5  (1)       "Catch special weapon to increase performance"
+6  N/A       "Sensors detect fuel globes"
+7  (3)(1)    None
+8  (1)       None
+9  N/A       None
+10 N/A       "Sensors detect fuel globes"
+11 (3)       None
+12 (1)       "Rat jeep wave, Watch for cross traffic"
+13 (4)       None
+14 N/A       "Sensors detect fuel globes"
+15 (2)(1)    None
+16 (1)       "Rat jeep wave, Watch for cross traffic"
+17 (3)       "Rat jeep wave, Watch for cross traffic"
+18 (1)       "Sensors detect fuel globes"
+19 (2)       None
+20 (4)       None
+21 (2)(2)    None
+22 N/A       "Sensors detect fuel globes" This level is different from the 
+             other low fuel levels since none of the orange cars drop fuel 
+             globes. There are green globes that need to be collected to 
+             survive.
+23 (1)(4)    None
+24 (2)(1)    None
+25 (2)       None
+26 (3)       "Sensors detect fuel globes"
+27 (2)       None
+28 (4)       None
+29 (1)       "Rat jeep wave, Watch for cross traffic"
+30 (2)(2)    "Sensors detect fuel globes"
+31 (4)       None (watch for Rat jeeps)
+32 (1)       "Rat jeep wave, Watch for cross traffic"
+33 (1)(1)    "Rat jeep wave, Watch for cross traffic"
+34 (4)(4)    "Sensors detect fuel globes"
+35 (2)       None (watch for Rat jeeps) As mentioned previously, the first 
+             enemy encountered is a boulder sitting smack dab in the middle of 
+             the road. Be alert and swerve around it.
+36 (1)       "Rat jeep wave, Watch for cross traffic"
+37 (1)(2)    None
+38 (3)       "Sensors detect fuel globes"
+39 (4)       None (watch for Rat jeeps)
+40 (3)       "Rat jeep wave, Watch for cross traffic"
+41 (4)(1)    "Rat jeep wave, Watch for cross traffic"
+42 (4)       None (should be "Sensors detect fuel globes")
+43 (1)       None (enemies consist of orange cars only)
+44 (4)       None (enemies consist of blue cars only)
+45 (2)       None (enemies consist of motorcycles only)
+46 (1)       "Rat jeep wave, Watch for cross traffic" (enemies consist of Rat 
+             jeeps only)
+47 (1)       None (enemies consist of turrets only)
+48 (4)       None (enemies consist of mines only)
+49 (2)       None (should be "Sensors detect fuel globes") The car begins this 
+             level with next to no fuel in the main tank. A full Reserve tank, 
+             as well as collecting all orange and green spheres, is necessary 
+             to survive.
+50 (1)(3)(2) "Final Rally, Tanks Full, One Chance" This final level throws 
+             everything at the car (including the kitchen sink), but the car 
+             receives two full tanks of fuel to finish it. Just keep shooting 
+             and collect as many fuel globes as possible since many crashes 
+             await. Good luck!
+
+At the beginning of the game, there is a choice given of where to start: (at 
+level 1, 4 or 11). Whichever one is chosen, the game progresses until level 14 
+is cleared, at which time another choice is offered (this time level 15, 19, or 
+23). Every time four levels are completed, this option is offered, until Ground 
+Zero is reached. Since there are only two levels after Ground Zero, Bubble City 
+must be driven through to get to Sunset Strip. This allows for a very quick 
+completion of the game since tougher levels can be skipped.
+
+===============================================================================
+VI. Strategies
+===============================================================================
+
+- It is important to master the art of shooting the cars as they approach. At 
+first the shooting can be very awkward when driving at full speed due to the 
+curves of the road or the enemies switching lanes. Use the first few levels to 
+hone the car's shooting skills while the enemies are still easy.
+
+- Keep the multiplier at or near the maximum of 10x at all times. It can be 
+very easy to have a bad run where the car crashes multiple times and the 
+reserve tank has to be consumed. With a constantly high multiplier, the reserve 
+tank is guaranteed to be filled after every level, thus allowing a cushion to 
+be retained in case a level is very difficult.
+
+- Don't hold on to the special weapons. Use them up when acquired, since (1) 
+they are lost if the car crashes (which happens a lot in later levels), and (2) 
+the car can't carry more than one special weapon, and later levels sometimes 
+have multiple weapons in one level, so don't be shy about using them quickly.
+
+- Don't make a habit of going after the turrets. If they are encountered on a 
+sharp turn and they are directly in front of the car, great, take them out 
+while the car turns. But on a straightaway, it is much simpler to just drive 
+straight through at maximum speed to avoid their shots rather than risk an 
+unnecessary crash.
+
+- Similar to the turrets, don't go after other tough to hit enemies, such as 
+motorcycles, especially if they are swerving from side to side, making them 
+damn near impossible to hit. It is much more prudent to watch their movements 
+and when they swerve to one side, swerve to the other side to pass them.
+
+- At the end of every level is the same straight stretch of road with 3 or 4 
+boulders on each side of the road. If the car is low on fuel and this stretch 
+of road approaches, simply floor the accelerator and race to the finish line.
+
+===============================================================================
+VII. Credits and Disclaimer
+===============================================================================
+
+This FAQ is copyright 2006/2012 by John Kearsley IV. This FAQ may be 
+distributed freely as long as it is not altered and I am credited for its 
+existence.
+
+Thanks go to everyone else involved with the NES FAQ Completion Project, of 
+which I am proud to be a part. Also, thanks go to GameFAQs.com and CJayC for 
+hosting a great site. Keep up the good work!
+
+===============================================================================
+VIII. Version History
+===============================================================================
+
+Version 1.0 - Original FAQ submitted
+Version 1.1 - Minor spelling/formatting changes
+

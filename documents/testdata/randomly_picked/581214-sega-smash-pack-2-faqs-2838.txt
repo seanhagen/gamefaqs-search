@@ -1,0 +1,2794 @@
+Game: Shining Force: The Legacy of Great Intention
+
+System: Sega Genesis/Megadrive
+
+Year of Game's Release: 1993
+
+Author: Sephirstein
+
+Guide Type: FAQ/Walkthrough/Strategy Guide
+
+Version: 1.36a Final
+
+Current Size: 121 KB
+
+E-Mail: jj_frap@hotmail.com
+
+ICQ: 301110342
+
+Message Boards: GameFAQs, Shining Force Central
+
+Date Started: August 2, 1999
+
+Date Completed: February 25, 2003
+
+Latest Version Available at:
+
+http://www.geocities.com/sephirstein/sf_walk.html
+http://sephirstein.topcities.com/sf.html
+http://sephirstein.0catch.com/sf.html
+http://www.sephirstein.tk
+http://www.shining-force.tk
+http://www.shiningforce1.tk
+
+Please use a different page if one page runs out of bandwidth. Save it to your
+computer to save bandwidth, if possible.
+
+================================================================================
+=======
+T A B L E  O F  C O N T E N T S
+================================================================================
+=======
+
+                   1. Introduction
+                   2. Revision update
+                   3. Walkthrough
+                   3. Battle guide
+                   5. Character guide
+                   6. Class and promotion guide
+                   7. Items and weapons
+                   8. Monster guide
+                   9. Boss guide
+                  10. Spell guide
+                  11. Cheat codes
+                  12. Useless item guide
+		  13. Mathematical errata
+		  14. Bugs and stuff
+                  15. Frequently Asked Questions
+                  16. Futre progress
+		  17. Credits
+                  18. Links
+		  19. Disclaimer
+
+================================================================================
+=======
+1. I N T R O D U C T I O N
+================================================================================
+=======
+
+My  name is  Sephirstein, and  many of   you may  know  me  from Shining   Force
+Central or  from GameFAQs.   Shining Force  is  an  excellent game   for me   to
+write a guide about because  I find  the  FAQs  on  GameFAQs  to  be, with   all
+due respect  to the authors, somewhat  incomplete. Besides, Shining Force is  an
+awesome RPG  that deserves  a kick  ass  Guide.  Naturally,  this  work   is  as
+much a    gathering of  information as   it is  a guide,  for  I  have  included
+many  important pieces  of information  from other sources. If  anyone  has  any
+suggestions about how  I can make    my guide  better,  don't  be afraid   to  E
+-Mail  me, post  me  a message on Moogie's  Shining Force forum or  the GameFAQs
+Shining Force forum, or give me a shout on ICQ. Hopefully,  this   guide is able
+to help you  with any  problems you  may  have with this  game, and  teach you a
+you a few new  things about it at the same time.
+
+================================================================================
+=======
+2. R E V I S I O N  U P D A T E ?
+================================================================================
+=======
+
+Version 0.5b:  Everything is  complete expect  chapters 3-8  of the walkthrough,
+chapters 3-8 of the battle guide, and a proper strategy on defeating Dark Dragon.
+I will add this as I replay more of the game.  Tell me what else you want me  to
+improve or add.
+
+Version 0.51b: Removed some underlines and all the hyphenation because it looked
+horrible in GameFAQS. This should allow you to read this without seeing  hyphens
+in the middle of words. I also fixed a couple of spacing problems and  mentioned
+in one of my FAQs that Moogie's Ultimate Shining Force Guide also includes  info
+on how to get Shining Force 2.
+
+Version  0.8b: Lots of new stuff in this  version. Finished the walkthrough  and
+battle guide up to Chapter  5 and added a difficulty  rating out of 10 for  each
+battle. Also added an FAQ  on how to gain levels  quickly ad easily, a guide  to
+getting Kokichi to join the force (added to one of my FAQs,) and some  more info
+about Arthur and Earnest in the  character guide. I also explained a  very cheap
+way to beat Elliot, Balbazak  and Ramladu as well as  an FAQ on the best  way to
+promote characters. I proceeded  to make a couple  fixes to the item  guides and
+to various typos. I also added Karl Plouffe to my credits  list for some  of his
+info  regarding  Arthur and  easy level ups. This  could be the last update in a
+while as I start school on September 7th.
+
+Version 0.85b: Greatly improved the format and the readability of my FAQ  thanks
+to tips from Kao Megura's FAQ writing suggestions. Also changed my disclaimer to
+a slightly  modified version  of one  of his  disclaimers because  it was  a lot
+better than the one I had.
+
+Version 1.0: The final version is ready.  Sorry if it is almost a month  late. I
+honestly could have finished it at pretty much anytime, but I just never  really
+felt much like  doing it. In  this version, I  continued to do  minor formatting
+improvements (including the much needed Word Wrap), and I dotted a few "Is"  and
+crossed a  few "Ts"  in my  disclaimer and  credits section.  I also corrected a
+couple  of  grammatical  errors.   Now, for  the  good  stuff.  I overhauled  my
+character section, improved my boss guide,  added a couple of FAQs, and,  as I'm
+sure you've all been waiting for, I have completed my Walkthrough and my  Battle
+Guide. Let me  know if there  are any  information errors  or major  grammatical
+errors or if there is anything you feel needs to be added.
+
+Version 1.1:
+
+-Rewrote much of the introduction
+
+-Fixed up  most of  the countless  spelling, grammar,  and wording problems that
+plagued this guide
+
+-Added an FAQ and updated some others
+
+-Updated the Special Thanks
+
+-Added a Links section to make the websites I discuss easier to find
+
+-Added a future progress section
+
+-Added some more information to the battle guide
+
+-This guide looks best in Internet Explorer or UltraEdit 9.X
+
+-Maded the preliminary information before the introduction easier to read
+
+Version 1.3:
+
+-Added a couple of new FAQs (one involves choosing your Force, another  involves
+comparing SF1 with SF2, and another examines Centaur Knights)
+
+-Added Vankar's initial level upon joining the force (see walkthrough)
+
+-Fixed some minor errors
+
+-Added  another boss  strategy upon  deciding that  the Ghoul  from Shade  Abbey
+merits consideration as a boss
+
+-Thanks to anyone  who told me  that Elliot will  sometimes move when  you fight
+him. I now know that you guys are right. Sorry if I messed anyone up.
+
+-Updated the  Monster Guide  so that  the attack  of armed  enemies includes the
+weapon they have equipped  in battle. Knowing that  Kane has 65 attack  when you
+face him is much more useful than knowing that his attack when barehanded (which
+will NEVER happen) is 25.
+
+-Adden further updates to the Monster Guide
+
+-Changed  the  majority of  character  ratings and/or  descriptions  around. Pay
+special attention to Pelle and Kokichi, although you may wish to read the entire
+character guide.
+
+-Clarified the Metapha section of the walkthrough (in Chapter 7)
+
+-Improved a few battle strategies
+
+-Rewrote Chapter 8 walkthrough due to numerous errors
+
+-Added a Mathematical Errata section
+
+-Added a Bugs and other Miscellaneous stuff section
+
+Version 1.3a:
+
+-Oops, forgot to update the date completed. Should be right now.
+
+Version 1.3b:
+
+-Corrected a spelling mistake in my initial information (strateguy?)
+
+-Retitled the game as Shining Force: The Legacy of Great Intention in my initial
+information, replacing the more vulgar Shining Force 1
+
+-Added   information   about    exactly   what   sort    of   guide   this    is
+(FAQ/Walkthrough/Strategy Guide)
+
+Version 1.3c:
+
+-Properly updated the date (now 2002 instead of 2001)
+
+Version 1.32:
+
+-Used UltraEdit to greatly improve format and readability
+
+-Corrected a few minor errors in the Walkthrough and Battle Guide
+
+-Updated Links Page
+
+-Updated Special Thanks Page
+
+-Fixed some typos
+
+-Finally, Steve Snake has returned to the emulation community!!!
+
+Version 1.32a:
+
+-Oops, forgot to change the version number on initial info. Should be right now.
+
+Version 1.32b:
+
+-Cleaned up the introduction
+
+-Fixed typos in the Revision Update section
+
+-All references to this Shining Force Guide call it a "guide" instead of an FAQ,
+a walkthrough, or any other misleading name.
+
+Version 1.33:
+
+-Added a section to bugs and  weird stuff comparing the first two  Shining Force
+games to major events in international ice hockey.
+
+Version 1.35f:
+
+-This final text version of the FAQ is just an announcement that JBaker prepared
+an HTML version of this FAQ for me. Links are available at the top of the  page.
+Please not that the international ice hockey section is currently not in the
+HTML version (2.1).
+
+Version 1.36 Final:
+
+-Yep, another update. Since  SF is consistently in  the Top 3 among  Genesis game
+guides that people read, I figured I'd inform you all that my new E-Mail address
+is  jj_frap@hotmail.com and my new ICQ number is 169697695.  Sorry if  I  missed
+answering  any  of  your  questions because  of this change.  I will update  the
+HTML version to reflect these changes.
+
+Version 1.36a Final:
+
+-Another new ICQ number. (Sorry guys.)
+
+-Added three new links to my strategy guide. (Tokelau is God! Visit www.dot.tk)
+
+================================================================================
+=======
+3. W A L K T H R O U G H
+================================================================================
+=======
+
+Don't be  afraid to  go outside  the boundaries  of my  walkthrough, and explore
+everything this game has to  offer or you will miss  out on a lot of  the gaming
+experience as well as  some easy-to- find items  that I can't remember  where to
+locate or that I can't be bothered  to discuss. Keep in mind that chests  can be
+opened both while exploring and while battling. It is imperative to open  chests
+as soon as you can, as you may not be able to later. Also, realize that I  won't
+tell you when  to change your  active force. All  I'll say is  that Balbaroy and
+Amon are the first characters  who start in headquarters. Finally,  don't follow
+my recommended levels to the tee. They are on the higher side, and the game  can
+be enjoyed at lower levels, as I have done on numerous occasions. Remember  that
+some characters only have one class. Thus, my recommended levels do not apply to
+them.
+
+Chapter 1
+---------
+ Guardiana:  You start  outside the  side door  of Guardiana's  chapel. Talk  to
+ Varios, enter the chapel and talk to Lowe. Afterwards, exit the chapel from the
+ side door and talk to Varios again. He'll be sent to the castle by a guard.  Go
+ to the castle and  listen to the King  and Varios, and afterwards,  talk to the
+ King. He'll send  you to the  Shrine of the  Ancients. Now exit  the castle and
+ Lowe, Ken, Tao, Luke  and Hans will join  the force. Don't forget  to visit the
+ bar and talk to one  of the people there. His  name is Gort and he'll  join you
+ later. You may have to talk to him  now to get him, however. Save your game  in
+ the chapel and exit town. You'll ride a cart to the Shrine of the Ancients.
+
+New Force Members:
+
+-Max (SDMN 1)
+-Lowe (HEAL 1)
+-Tao (MAGE 1)
+-Luke (WARR )
+-Ken (KNTE 1)
+-Hans (ACHR 1)
+
+Shrine of the  Ancients: You'll fight  your first battle  here. When it  is your
+leader's turn, (I'll be  referring to him Max,  his default name, from  now on.)
+cast Egress to exit the battle and return to Guardiana. Leave town on foot,  and
+head to the small house next to the  shrine. You'll find a monk who serves as  a
+friar.  You  can also  talk to  Gong, who  joins you  at this  juncture, and  to
+Jogurt, to trigger the events that can him to join you much later  in the  game.
+Save your game and return to the first battle at the shrine and win it.
+
+New Force Members:
+
+-Gobg (MONK 1)
+
+Recommended level after Battle 1: 3
+
+Road to Guardiana: After this battle, you'll leave the shrine and see  Guardiana
+attacked by soldiers. You  have to fight another  battle to get into  Guardiana.
+Egress if anyone died during the first battle, or if you wish to save your  game
+at the monk's house.
+
+Recommend level after Battle 2: 4
+
+Guardiana: After you win the battle, enter Guardiana. You'll see that the town's
+been severely crippled by  an attack from Runefaust.  Go to the bar  to get Gort
+(the old  dwarf with  the axe)  to join  you, and  proceed to  enter the castle.
+Explore the  castle area  to find  the treasury  and collect  the treasure. (You
+couldn't do this earlier because there was a guard stopping you.) Afterwards  go
+to the throne  and you'll see  Kane attacking the  King and Varios.  Talk to the
+King and his daughter, Mae will join  the force. The armoury is now open.  Check
+it out and buy any better weapons that you find.  Save your game and leave town.
+
+New Force Members:
+
+-Gort (WARR 2)
+-Mae (KNTE 2)
+
+Road to Alterone: There's another battle here. Win it and enter Alterone.
+
+Recommended level after Battle 3: 4-5
+
+Alterone: Explore  the whole  town as  there is  A LOT  of treasure. When you're
+done, go to the armoury/bar and talk  to the people there. One of them  will ask
+you if you're from Guardiana. Answer yes to this question and to the guy's other
+question  so that  the guards  will let  you enter  Alterone castle.  Enter the
+castle, and explore it throughly for treasure. Again, there's quite a bit.  Talk
+to the King and he'll ask you to  follow him to meet Kane. Talk to Kane  and you
+will be imprisoned in  the dungeon. Talk to  the imprisoned friar to  raise dead
+characters and save your game. Then, search the cell door. A young Elven  healer
+named Khris will  come to unlock  the door and  she will enter  the cell. She'll
+open up a  secret passage to  allow you to  escape. She also  joins the Force at
+this point. Enter  the passage and  you'll end up  in headquarters. Exit  to the
+town, and  you'll find  yourself in  the final  battle of  the chapter.  Win the
+battle, and return to the castle. Explore  the castle again, as there are a  few
+chests which you could not previously access. Afterwards, speak to the King  and
+he'll apologize for betraying you. Accept his apology and he'll tell you to pull
+the chain that looks like a dragon's head southwest of the throne. Find it  near
+a waterfall and pull it. Enter the passage that appears and go through  it. When
+you reach the end and exit, Chapter 1 will come to a close.
+
+New Force Members:
+
+-Khris (HEAL 2)
+
+Recommended level after battle 4: 5-6
+
+Chapter 2
+---------
+
+Rindo: You'll start the chapter just outside  of the town of Rindo but the  only
+thing you can do  is enter town as  the paths to the  north and to the  west are
+both blocked by fences.  Upon entering the town,  head to the theatre  and watch
+the play for a  good laugh. When you're  down exploring town (remember  to go to
+the house where you meet Guntz, as you  may need to if you want him to  join the
+force later on), head to the armoury. (Didn't I say to do that in every town? Oh
+well this  is the  last time  I'll tell  you, unless  I have  a good reason to.)
+Upgrade your weapons, remembering especially to buy Power Staffs for your  mages
+and healers. They will now be fighting machines for the balance of the  chapter.
+Afterwards, go to the mayor's mansion and talk to the mayor. He'll tell you that
+you can't have his  boat. Leave town and  the west fence will  be gone, allowing
+you to exit the area. You'll enter a battle as you head to Manarina.
+
+Recommended level after Battle 5: 6
+
+Manarina: After winning the fight, enter  Manarina and go to the chapel  to save
+your game. Afterwards, talk to one of  the mages not far from where you  entered
+the city (I think his name is Onat or something).  He'll tell you to get the Orb
+of Light from the Cave of Darkness. Explore this city of mages and look for Anri
+(she talked to you  when you first entered)  and she will join  the Force.  Also
+find the Domingo egg in a room with  a mage and an odd machine by searching  the
+machine. Don't forget to  talk to Arthur so  that he'll join you  after the next
+battle. Now, head to the Cave of Darkness.
+
+New Force Members:
+
+-Anri (MAGE 3)
+
+Cave  of  Darkness:  Fight the  battle  and  win. Search  the  chests  along the
+battlefield for some nice  items, including the Orb  of Light which you  need to
+proceed further into the game.
+
+Recommended level after battle 6: 7
+
+Manarina: Go north of the stairs by which you entered the cavern to talk to  the
+Spirit of the  Holy Spring. Use  the Orb of  Light on the  big silver thing that
+looks like it has  an eyeball drawn on  it to here what  she has to say.  Now go
+talk to Arthur again  to get him to  join the force. Afterwards,  leave town and
+return to Rindo.
+
+New Force Members:
+
+-Arthur (KNTE 4)
+
+Rindo: Enter the town and talk to the mayor again. He'll tell you that he'll  do
+whatever you  want if  you bring  his grandson  back from  the circus.  Exit the
+mayor's house and head for the circus tent near the docks.
+
+Circus Tent:  Enter the  tent and  you'll run  into Mishaela  (whom you may have
+spoken to in Alterone) and she'll send Marionette and some other monsters  after
+you. Defeat Marionette, and you'll rescue the mayor's grandson. Search the chest
+for an iron arrow (thank God) and some other nice stuff.
+
+Recommended level after battle 7: 8
+
+Rindo: Talk to the mayor  and he'll let use his  ship. Proceed to the ship   and
+Mishaela will burn it.  Return  to the mayor and talk  to him and his SON   (not
+grandson). They'll tell  you to head  to Shade Abbey.  If you want  to, you  can
+watch the new version of the theatre's play for another laugh. Leave town,   and
+head north  (the north  fence is  now gone)  until you  reach a small building.
+Enter this building.
+
+Shade Abbey: You are  now in Shade Abbey.  Talk to all the  people including the
+"friar", and  head due  north from  the entrance.  Keep going  until you reach a
+large chapel. Enter the chapel and all the people will follow you and block your
+escape. (Hopefully you'll be able to figure out that something nasty's goin'  on
+by now.) Head towards the stoned Balbaroy (heh heh) and the friar will  teleport
+in. It's Kane! It's Kane! Kane will leave you to fight another battle. After you
+win this battle, Amon and Balbaroy will join you.
+
+New Force Members:
+
+-Amon (BDMN 5)
+-Balbaroy (BDMN 5)
+
+Recommended level after battle 8: 9-10
+
+Chapter 3
+---------
+
+Bustoke: You begin this  chapter in the town  of Bustoke. Explore the  town (the
+armoury and item  shop have no  logo here), and  speak to the  Queen to find out
+about Runefaust and the  Quarry. Afterwards, speak to  Diane to get her  to join
+the force. Also find out about Moon Stone, Lunar Dew and how they'll help  Zylo.
+When you're done, head to the Quarry.
+
+New Force Members:
+
+-Diane (ACHR 6)
+
+Quarry: Win the  battle and enter  the cave. You'll  find a chest  with the Moon
+Stone the Moon Stone. Return to Bustoke afterwards.
+
+Recommended level after Battle 9: 10-11.
+
+Bustoke: Talk to the old alchemist and he'll make Lunar Dew from the Moon Stone.
+When done, head to the jail cell where  Zylo is found and talk to the girl  just
+outside of the cell. She'll open it. Now talk to Zylo and use the Moon Dew (from
+the item menu) on him.  He'll join the force, and  is a valuable asset. Head  to
+one of the houses and find Kokichi  trying to make a flying machine. Search  the
+machinery and talk to Kokichi. He'll offer  to test it for you. Follow him,  and
+he'll fly around and fall off Bustoke Mountain. Now, leave Bustoke.
+
+New Force Members:
+
+-Zylo (WRWF 9)
+
+Road to Pao Bridge: Win this easy battle and head to Pao Bridge.
+
+Recommended level after Battle 10: 11
+
+Pao Bridge: Win the Laser Eye battle to win the chapter and Pelle will join you.
+
+New Force Members:
+
+-Pelle (KNTE 8)
+
+Recommended level after Battle 11: 11
+
+
+Chapter 4
+---------
+
+Pao: Explore the  town and talk  to Elliot. Afterwards,  explore the new  wagons
+that  the guards  now let  you enter.  Once inside,  talk to  the Princess,  the
+engineer,  and than  the Princess  again to  get Pao  to move.  Once again,  the
+armoury is unmarked and remember that you must buy new weapons before Pao  moves
+to use them in the next battle. Make sure to buy a Power Spear for Pelle because
+it's easy to forget like I often  do. When Pao moves Kokichi will join,  and you
+can also  get Vankar by  finding him  around the  area. Leave  Pao upon  getting
+Vankar.
+
+New Force Members:
+
+-Vankar (KNTE 8)
+-Kokichi (WGKN 7)
+
+Elliot Battle: Get one  Heat Axe from  one of the Lizardmen  and Egress  back to
+Pao.
+
+Pao: Talk to Vankar to get him to join and then enter the  Chapel. Stand left of
+of the  Friar to see Jogurt fall over (assuming you met him in Chapter 1). He'll
+now be in your force.
+
+New Force Members:
+
+-Jogurt (YGRT 1)
+
+Elliot: Leave Pao and defeat Elliot,  making sure to kill the Heat  Axe wielding
+Lizardman again. You'll notice that Pao  has moved to a new location.  Return to
+Pao's original location to get Kokichi if you met  him in Bustoke. You  can also
+can also get Vankar to join by talking to him if you haven't done so already.
+
+New Force Members:
+
+-Jogurt (YGRT 1)
+
+
+Recommended level after Battle 12: 12.
+
+2nd Pao:  There are  new chests  abound, as  well as  a man  that will warm your
+Domingo Egg (assuming you remembered to find it in Manarina) to allow Domingo to
+hatch and join you. The armoury may  also have new stuff, but I can't  remember.
+Head  to the Pig  Pen and  Guntz will join  the Force. Now leave town,  and it's
+onward to the Wimpy Fortress of Balbazak.
+
+New Force Members:
+
+-Domingo (MGCR 1)
+-Guntz (SMKN 8)
+
+Fortress of Balbazak: Win the easy battle.
+
+Recommended  level  after  Battle 13:  Train  to  Level 13  or  14,  promote all
+characters currently having weapons  available which require promotion,  as well
+as all character who fight unarmed, and train them  to about Level 4. The others
+are fine at 13 - 14
+
+Uranbatol (Nice pun...:)):  Nothing to do  here. Earnest will  join you and  you
+have to talk to a guard to get  him to open the shipyard. Now remember your  two
+Heat Axes from the  Elliot battle? Equip 'em  on Gort and Luke now that they are
+they are promoted to make them fighting machines.
+
+New Force Members:
+
+-Ernest (KNTE 8)
+
+Shipyard: Kill Balbazak and get the ship to win the chapter.
+
+Recommended level after Battle 14: 4 Promoted, 14 for unpromoted characters
+
+
+Chapter 5
+---------
+
+Ship: Wimpy monsters attack your ship. Beat them and your now-damaged ship will drift to
+the island town of Waral.
+
+Recommended level after Battle 15: 5 Promoted, 14 - 15 for unpromoted characters.
+
+Waral: Uh oh, your ship is damaged and you cannot sail onward. Talk to the  King
+(who is also  the weapon and  item shop salesman)  and explore the  town on foot
+before getting on guest boat. Note that you need to use the guest boat to access
+the chapel. At this point it may be a good idea to promote everyone who is still
+first class, because the  next two battles are  EASY, and new weapons  requiring
+promotion are now available. Now head to buoys and talk to the Mermaid  blocking
+the opening. She'll move out  of the way if you  answer yes to her question.  Go
+through the opening and you'll drift and get knocked out.
+
+Ring Reef: You'll wake up  in a house. Talk to  the friar and exit the  house to
+find yourself on Ring Reef. Enter this  little blue thing in the walled area  to
+go to the Shining Path area.
+
+Shining Path Area: Follow the Skeleton and you'll fight a battle to gain  access
+to the Shining Path. Win the battle and the Master Mage boss will sacrifice  its
+life to block the Shining Path. If you Egress you'll wind up back in Waral. Just
+go to  where you  originally got  the guest  boat and  a new  one will magically
+appear, allowing you  to return to Ring  Reef. This time, you must get  there on
+your own without getting knocked out.
+
+Recommended level after Battle 16: 7 Promoted.
+
+Waral: Talk to the King to get your ship back and you'll leave Waral. Answer his
+question however the heck you want.
+
+Ship: Another easy sea battle (yawn). Just win to complete the chapter.
+
+Recommended level after Battle 17: 7-8 Promoted
+
+Chapter 6
+---------
+
+Rudo:  You start  Chapter 6  in the  town of  Rudo, which  has  been  overrun by
+children. The layout of the town may be slightly confusing at first, but  you'll
+get the hang of it after exploring thoroughly, which you will have to do anyways
+as you  are blocked  off from  leaving the  town. Pay  special attention  to the
+buildings, as Lyle can be found in one of them and he will join the force.  When
+you're done doing that, talk to Karen, who will tell you about Bleu, visit  Krin
+in the library, and talk to Karen again. You will now be able to leave Rudo. Do
+so after getting all the chests and upgrading your weapons as necessary.
+
+New Force Members:
+
+Lyle (ASKT 9)
+
+Road to Dragonia: Win this battle. It's not too bad.
+
+Recommended level after Battle 18: 9 Promoted
+
+Dragonia: (Note, do  not enter the  city until you  are ready, you  cannot leave
+until you defeat Kane)  Explore the town, getting  all the chests. Talk  to Bleu
+when finished. Follow him as he runs away and he will eventually be attacked  by
+Kane. When  the scene  is done,  talk to  Kane, who  will announce his intent to
+fight you after giving you time to prepare. Bleu also joins the force at  around
+this juncture. Go to the  local Headquarters to resurrect dead  characters, save
+your game, and  make any necessary  changes to your  party before leaving.  Kane
+will attack you when you exit HQ. Defeat him in battle. Afterwards, follow  Kane
+to the gate in the middle of the  city where a Hero of Light and of  Darkness is
+needed. Proceed through the gate until you see a chest. Darksol will appear  and
+take the contents of  the chest and then  proceed toseverely  injure Kane. After
+the scene, leave Dragonia and return to Rudo.
+
+New Force Members:
+
+-Bleu (DRGN 9)
+
+Recommended level after Battle 19: 10-11 Promoted
+
+Rudo: Return to the library and talk  to Karen and then to Krin. They  will tell
+you about a castle that appeared somewhere outside  of town. Leave town to fight
+another battle.
+
+Recommended Level after Battle 20: 11 Promoted
+
+Skull Castle: Defeat  Mishaela. Just be  careful not to  get the Sword  of Light
+until you have gotten all the  other treasure chests (It's in the  chest closest
+to Mishaela's throne). Defeating Mishaela AND retrieving the Sword allows you to
+continue you to Chapter 7.
+
+Recommended Level after Battle 21: 11-12 Promoted
+
+Note: Do not  worry as much  about levels any  more. You should easily be strong
+enough to finish the game without any more levelling up.
+
+Chapter 7
+---------
+
+Prompt: You begin the chapter in Prompt. Head to the Castle and talk to the King
+after having explored the city. You will be imprisoned, and some guy named Boken
+whom you may have met  over the course of your  travels will save you. When  you
+are freed, talk to the  King again and you will  be forgiven. As well, the  King
+will request that you talk to Kane, who is severely injured in bed. Talk to Kane
+and then  leave  the castle and  look for a  big building in  the city with  two
+doors and a white sign. Search the sign to get Musashi to join your force. Don't
+forget  to add  him to  the battle  roster, as he is  God-like. Leave town after
+checking out the weapon shop and go to the Tower of the Ancients.
+
+New Force Members:
+
+-Musashi (SMR 10)
+
+Road to the Tower: Win the battle and head East.
+
+Tower of the Ancients: Enter the Tower, get the chests, and win the battle. Note
+that there  is a  chest in  the battlefield  that I  believe can  only be gotten
+during the  battle. It  contains the  almighty Valkyrie,  the best  Spear in the
+game. You may need a flying character  to get it. After winning the battle,  you
+will encounter Alef and Torasu, a wizard and a priest from Prompt. They join the
+force, but are in desperate need of levelling up (15 unpromoted...lol). You must
+then proceed  to a  certain place  in the  tower where  you will again encounter
+Darksol trying to get an important item for the release of Dark Dragon (I  think
+he was  named Lucifer  in the  Japanese version.  The name  was changed to avoid
+offending any redneck Christian  fundamentalists). Kane will appear  and Darksol
+will kill him as he tries  to save your butt. After  you have finished with  the
+with the tower, return to Prompt.
+
+New Force Members:
+
+-Alef (MAGE 15)
+-Torasu (HEAL 15)
+
+Prompt: Return to the King, who will  tell you about another way to the  Shining
+Path that can  be reached from  the castle. He  will also give  you the Sword of
+Darkness. Talk to  the scholars in  the castle library  and then go  through the
+Shining Path, which and be accessed on the floor just below the Castle, to reach
+Metapha.
+
+Metapha: Metapha is not  a town. It actually  feels like an extension  of Prompt
+Castle. Explore the area until you find a pool. Use the Orb of Light to  contact
+the Sprit of the Spring as you did in Chapter 2 and she will tell you about  the
+Chaos Breaker (CB) (the most powerful  sword in the game) and about  your quest.
+Talk to Adam, who is near the spring afterwards, and a sequence will trigger  in
+which Chaos will attack you with some other monsters. Adam is in your force now,
+and if for some strange  reason you feel like taking  him, Egress to put him  in
+your battle party. Defeat Chaos and you will be able to progress into a new area
+of Metapha. Summon the Spirit  of the Spring in the  new pool that you see,  and
+create  the  CB by  using  the Sword  of  Light and  the  Sword of  Darkness  as
+prescribed by the sign. Unfortunately, you will lose the two swords,  but the CB
+looks a Lightsabre. When you are finished, return to Prompt.
+
+New Force Members:
+
+-Adam (RBT 9)
+
+Prompt: Talk to the King and then leave town.
+
+Road to Runefaust: Head South and you  will see a gate guarded by enemies.  This
+is the gate to the Kingdom of Runefaust. Kill all the enemies to win the chapter.
+
+Chapter 8
+----------
+
+Runefaust: You  will now  be inside  the gate.  Enter the  city of Runefaust and
+explore the  city, upgrading  your weapons  if necessary  (though I doubt you'll
+need to). Next, talk to Mahtato in Runefaust Castle, and the guards blocking the
+way to Ramladu's castle will leave. Now,  look for a bush somewhere in the  city
+with a glowing starry or shurikeny shaped thing on it. Search it, and Hanzou the
+Ninja will join you. When finished, head West to what looks like an exit out  of
+the city.  In  reality, it leads to  Ramladu's  Castle (Not to be  confused with
+Runefaust Castle).
+
+New Force Members:
+
+-Hanzou (NINJ 10)
+
+Ramladu's Castle: In the first battle and get all the chests in the area.  Then,
+head farther up to fight King (Emperor?) Ramladu. When you defeat King  Ramladu,
+leave the castle and you will be back in Runefaust.
+
+Runefaust: Enter Runefaust  Castle (in the  North end of  the city) and  talk to
+some  guy  named Mahato  who  will tell  you  how to  raise  the Castle  of  the
+Ancients.*optional*
+
+Ramladu's Castle: Head west from the  are where you first enter the  castle, and
+you should find an  alcove with stairs. Climb  down the stairs and  you'll be in
+the wilderness west of Runefaust. Now  go to the westernmost point of  the coast
+and use the Chaos Breaker as an item to raise the Castle of the Ancients in  the
+middle of the sea.
+
+Castle of the  Ancients: Enter the  Gate of the  Ancients (which looks  like the
+first one near Guardiana)  near Runefaust and head  North. You will teleport  to
+the Castle  of the  Ancients and  fight Colossus.  Defeat Colossus  and continue
+through the Castle of the Ancients to fight Darksol. Defeat Darksol and he  will
+resurrect Dark Dragon and you will battle him right away. Defeat Dark Dragon  to
+finish the game. Remember,  however, that Egressing  while fighting Dark  Dragon
+Dragon will force you to rebattle Darksol.
+
+================================================================================
+=======
+4. B A T T L E  G U I D E
+================================================================================
+=======
+
+Read the FAQs  for a trick  or two about  battle that I  won't bother mentioning
+here. Remember though, that if Max dies, you'll return to the last town in which
+you saved , and lose half of your gold. You'll keep experience and items  earned
+in battle, however. The names of the battles were invented by me, the number  of
+enemies  in each  battle was  taken from  Col. G.  L. Sicherman's  FAQ and  the
+strategies, difficulty, and recommended levels are all my own work. Please  note
+that you should actually play this game a couple of levels below the recommended
+levels unless you have trouble. Finally, a word of caution. When gaining a level
+in this game,  you do not  carry over excess  experience like in  future Shining
+Force games. In  other words, if  you have 99  experience points (XP),  and your
+next attack earns you 23 XP., you will gain a level, but will start with 0 XP on
+your new level, rather than 22 XP. If you remember this, your levels will be far
+more balanced, and you will not to level up as much,  for there are fewer wasted
+XP.
+
+Chapter 1
+---------
+
+Battle 1: The Ancient Shrine
+
+Enemies: Goblin x5, Dark Dwarf x2, Rune Knight (mini-boss) x1
+
+Difficulty: 3.5/10
+
+Winning Conditions: Nighty-night Rune Knight!
+
+Strategies: As it is the first battle, This battle is not too tough. Follow  the
+directions in the walkthrough (with  regards to getting Gong) before  you fight.
+Use everyone to fight but cast Blaze  with Tao and heal with Lowe and  Gong when
+necessary. The Goblins are passive and  tend not to attack you unless  your next
+to them.  Use this  to your  advantage. Be  careful when  you approach  the Rune
+Knight because  the Dark  Dwarves will  go after  you. They  do more damage than
+Goblins and have high defense. The Rune Knight is even stronger and has high HP,
+but his defense is only slightly higher than that of the Goblins. Watch out  for
+him,  however,  as  he is  quite  aggressive. Killing  the Rune Knight wins  the
+battle.
+
+Recommended level after Battle 1: 3
+
+
+Battle 2: The Return to Guardiana
+
+Enemies: Goblin x6, Dark Dwarf x3, Rune Knight x2
+
+Difficulty: 2.5/10
+
+Winning Conditions: Defeat all enemies or enter Guardiana with Max.
+
+Strategies:  This should  be an  easy battle  if you  levelled up  on the  first
+battle, and even  if you're only  at 1 -  2, you should  still win without  much
+difficulty. At the beginning,  the terrain is bad  so there will be  a few turns
+where  nothing happens.  Just approach  your enemies  keeping your  force close
+together with Hans, Tao and maybe Max going ahead of everybody else to slaughter
+the goblins. Hans  fights well in  the forest and  you gotta use  that loser for
+something. Tao is also useful as she may already have Blaze 2 if your levels are
+high, which is good against the goblins because they are bunched together.  Your
+leader can protect Hans and Tao, but I doubt you'll need him to because  Goblins
+are weaklings and will barely hurt  you. After taking care of the  Goblins, move
+up to the Dark Dwarfs  with the whole force and  take 'em out. The Rune  Knights
+are extremely harmless in  this battle because of  a little trick. Hans  and Ken
+have a range of two  so have them stand across  the river from the Rune  knights
+and bombard them with spears and arrows. They won't attack you cause you're  not
+next to them, and  they are not programmed  to move until you  cross the bridge.
+This is the  first of many  examples of this  game's pathetic AI.  Killing every
+enemy or entering Guardiana with Max will steal the day.
+
+Recommended level after Battle 2: 4
+
+
+Battle 3: The Road to Alterone
+
+Enemies: Dark Dwarf x5, Rune Knight x5, Giant Bat x5
+
+Difficulty: 6/10
+
+Winning Conditions: Kill all the enemies or enter Alterone with Max.
+
+Strategies: Unfortunately,  this battle  is quite  a bit  tougher than the first
+two. The Giant Bats will attack you from the river area, while the Dark  Dwarves
+will mount an attack on you right away. Send a few people to take out the  bats,
+while  the rest of the force takes  out the dwarves. Watch out, however, as  the
+bats, while almost as puny as Goblins, can put to sleep with their attacks. When
+finished, move your entire force up as a group and go after the Rune Knights and
+the bats that cowered to  the top of the screen.  Watch out for the knights,  as
+they are still very dangerous and seem to like ganging up on a single character.
+Make damn sure that no one important falls asleep because of the bats. Win  this
+battle by killing all the enemies or by entering Alterone with Max.
+
+Recommended level after Battle 3: 4-5
+
+
+Battle 4: The Battle of Alterone
+
+Enemies: Dark Mage I x1, Rune Knight x4, Sniper x2, Dark Dwarf x4, Giant Bat x4
+
+Difficulty: 4.5/10
+
+Winning Conditions: Slaughter then all!
+
+Strategies: This battle is  still a bit tough  but is easier than  the last one.
+Early on, the Giant  Bats will go after  you. Slaughter there wimpy  behinds and
+continue on with  the fight. Move  up a bit,  and the Dark  Mage and the Snipers
+will taunt you by  going into a position  where you can attack  them with ranged
+attackers but they'll have the advantage.  Remember that Snipers have arrows and
+Dark Mages can cast Blaze 2 four times before running out of MP. Ignore them for
+now, and take them out later. Two  Rune Knights will charge you. Kill them,  but
+heal if  anyone is  hurt after  you defeat  them. The  other 2 knights guard the
+bridge you need to cross to  progress. Take them out with long-range  attacks as
+they won't  move to  attack you,  and you  can kill  them with  nary a  scratch.
+Continue towards  the remaining  enemies who  will be  all bunched together. Hit
+them with Blaze 2s from Tao and  use physical attacks to finish 'em off.  Again,
+watch out for the Snipers and especially the mage. Killing all the  enemies wins
+this battle.
+
+Recommended level after Battle 4: 5-6
+
+
+Chapter 2
+---------
+
+Battle 5: The Road to Manarina
+
+Enemies: Dark Mage I x3, Zombie I x4, Giant Bat x4, Dark Dwarf x3, Sniper x2
+
+Difficulty: 7.5/10
+
+Winning Conditions: Kill everything or enter Manarina with Max,
+
+Strategies: This outdoor battle can really be a doozey towards the end.  Luckily
+the beginning is extremely easy and just consists of bats and dwarves guarding a
+bridge. Take 'em out, but be careful to  not be put to sleep by the agile  bats.
+Move up  through the  desert (which  is excruciatingly  slow) and  take out  the
+Snipers. As you  approach Manarina, you'll  have 4 Zombies  and 3 mages  to deal
+with. Zombie's are extremely strong with high defence and the ability to poison.
+I'm sure you're already  sick of Dark Mages.  Anyways, use a couple  Blaze 2s on
+the Zombies, as they are weak against fire and take out the mages with  physical
+attacks while being careful  to protect Max and  your weak characters. It  might
+also be advantageous to not allow your characters to make horizontal or vertical
+contact with one another so  that the Dark Mages can  only target them one at  a
+time with Blaze 2. This strategy is any time you face multiple magic users in  a
+small  area of  a battle  field. DON'T  FORGET IT.  Win the  battle by  reaching
+Manarina with Max or by sending your enemies to an early grave.
+
+Recommended level after Battle 5: 6
+
+
+Battle 6: The Cavern of Darkness
+--------------------------------
+
+Enemies: Skeleton I (mini-boss) x1, Zombie I x3, Dark Mage I x4, Giant  Bats x5,
+Snipers x2
+
+Difficulty: 6.5/10
+
+Winning Conditions: Rattle the Skeleton's bones!
+
+Strategies: The beginning of the battle consists of a couple zombies guarding  a
+passage.  Kill them  with Blaze  and  physical  attacks from  strong characters.
+Afterwards continue across the bridge and you'll fight some Giant Bats,  Snipers
+and a Dark  Mage. Take them  out with Blaze  2s, attacks and  Anri's Freeze 1 or
+Blaze 2  (if she  has already  learned it).  Next, you'll  run into 3 Dark Mages
+which is very dangerous if they get  you before you get them. Don't let  them do
+so, and use your  magic defense formation, and  you should be able  to kill them
+without much trouble. Now you still have Mr. Bones left to deal with. Use  Blaze
+1 to annihilate him . but try not to use physical attacks unless it's absolutely
+necessary. The  Skeleton is  even stronger  than those  darn Zombies,  but never
+moves (a problem it  shares with many  bosses). Killing good ol'  Mr. Bones wins
+wins this fairly challenging battle.
+
+Recommended level after Battle 6: 7
+
+
+Battle 7: Rumble in the Tent
+
+Enemies:  Marionette  (boss) x1, Dire  Clown x2, Mannequin x3, Evil  Puppet  x3,
+Giant Bat x3
+
+Winning Conditions: Snap Marionette's strings!
+
+Difficulty: 9/10
+
+Strategies:  Don't let  the unimpressive  number of  enemies fool  you. This  is
+definitely the  hardest battle  so far,  and easily  one of  the toughest in the
+whole game. The bats  fall easily and give  you just about no  experience so you
+can  ignore  them  unless they  make  you  feel sleepy.  The  puppets  look like
+pushovers but they have Freeze 1 and Ominous Incantation. (10-15 damage!!).  Get
+rid of  them! The  Mannequins aren't  too bad  because all  they have is poison,
+which is  weak and  easily treatable.  The Dire  Clowns are  almost as  tough as
+Zombies so  be careful.  Now, after  you take  out the  henchmen, it's  time for
+Marionette.  She is  HARD. Watch  out for  her Freeze  3 with  can hit  up to  5
+characters for 14-18 damage, usually killing  them in one hit. Remember to  keep
+Max FAR, FAR  away from  her! For more  tips on  how to  beat her, read  my Boss
+Strategies section, but don't forget the magic defense formation.
+
+Recommended level after Battle 7: 8
+
+
+Battle 8: Church of the Living Dead
+
+Enemies: Zombie I x2, Skeleton I x3, Zombie II x4, Ghoul (boss) x1
+
+Difficulty: 8.5/10
+
+Winning Conditions: Give that Ghoul some ghastly treatment!
+
+Strategies: Once  again, bad  things come  in small  packages. This tough battle
+only has 10 enemies.  You'll notice that Max  starts away from the  rest of your
+force. Move him towards them as soon as you can or he'll perish rather  quickly,
+costing you the battle. Since the  undead baddies here are extremely strong  but
+weak against fire, Blaze  'em to death and  protect your mages, as  they are the
+key to  victory. Don't  worry about  the Zombie  IIs because  they have the same
+stats as Zombie's, but  give you more gold  and much more EXP.  After taking out
+the enemies, go after the Ghoul with a barrage of physical and magical  attacks.
+The Ghoul  is basically  a Skeleton  on steroids,  but it  can put you to sleep.
+Watch out! Killing the Ghoul gets you  out of this evil Chapel and into  Chapter
+3.
+
+Recommend level after Battle 8: 9-10.
+
+
+Chapter 3
+
+Battle 9: The Rocky Quarry
+
+Enemies: Skeleton I  x6, Dark Priest  x4, Master Mage  (mini-boss) x1, Lizardman
+x1, Dark Elf x2, Dark Mage II x2
+
+Difficulty: 6/10
+
+Winning Conditions: It's mage mashing time!
+
+Strategies: This battle  can be fairly  tough, but if  you won the  last two, it
+shouldn't be much of a problem. You'll run into with a couple of skeletons early
+on, which  are easily  dealt with  now that  you got  better weapons. After that
+you'll fight some  Dark Priests, which  are pretty weak  but can heal  and some,
+Dark Elves, a more powerful archer,  but with poor defense. Go after  the elves,
+being  careful not  to stand  2 squares  from them,  and take  out the  priests.
+Continue down and you'll fight a few more wimps before dealing with the powerful
+Lizardman and  the dangerous  Master Mage.  Take 'em  out but  watch out for the
+Master Mage  because he has  33 attack  and can  cast Freeze  2. Kill this  evil
+wizard and victory is yours.
+
+Recommended Level after the battle, 10-11.
+
+
+Battle 10: The Road to Pao Bridge
+
+Enemies: Lizardman x2, Pegasus Knight x4,  Sniper x2, Dark Mage II x2,  Skeleton
+x5
+
+Winning Conditions: Bridge or massacre...your choice.
+
+Difficulty: 3.5/10
+
+Strategies: This is an easy battle. Just move up and take out the enemies. Watch
+out for the Pegasus  Knights, who are quick  and fairly strong, and  use Zylo to
+his full potential because the terrain here slows almost everyone down but gives
+him a BIG advantage. Kill all the enemies or have Max reach the bridge to win.
+
+Recommended level after the battle: 11.
+
+
+Battle 11: We'll Cross that Bridge When We Come to It...
+
+Enemies: Dark Elf  x3, Silver Knight  x2 (mini-boss), Laser  Eye, Pegasus Knight
+x3, Lizardman x5, Dark Priest x2
+
+Difficulty: 6/10 (or 1/10)
+
+Winning Conditions: As insulting  as it sounds to  the might of your  Force, you
+must kill that puny Silver Knight on the far side of the battle filed.
+
+Strategies: This battle isn't as difficult as you'd think. Basically, you should
+just wait about a gazillion turns for the Laser Eye to kill the Dark Priest  and
+the  3 Lizardmen.  After that,  charge the  bridge and  go after  the Laser  Eye
+quickly while taking out  Pegasus Knights that get  in your way. Kill  the Laser
+Eye or just go past  it and then defeat the  boss, the Silver Knight that's  the
+farthest from where your characters start the battle. Again, watch your position
+regarding the Dark  Elves. I don't  know why the  heck the Silver  Knight's boss
+because he's actually the wussiest enemy in the battle.  Alternatively, you  can
+ignore  almost  everything in  this  battle, and  kill  the Silver  Knight  with
+Balbaroy right away (assuming you're using him).
+
+Recommended level after the battle: 11.
+
+
+Chapter 4
+
+Battle 12: General Elliot's Last Stand
+
+Enemies: Elliot (Boss), Artillery I x1, Pegasus Knight x4, Lizard Man x5, Silver
+Knight x4, Dark Priest x3
+
+Difficulty: 4.5/10
+
+Winning Conditions: You can figure it out on your own...I hope.
+
+Strategies: This battle is not that  hard. Move across the prairie and  take out
+the Pegasus Knights and the Lizardmen.  One of the Lizardmen is very  strong and
+will give you a Heat Axe. It is recommended that you fight this battle at  least
+twice to get 2 Heat Axes so that Gort and Luke will each have one when promoted.
+It pays off big time! Anyways, continue on by taking out the Silver Knights  and
+the Dark Priests. You'll  be left with an  Artillery, Elliot and a  Dark Priest.
+Kill the  Dark Priest  and the  Artillery (realizing  that the  Artillery is  an
+archer type and can only attack  from 2 squares). Finally, surround Elliot  with
+as many characters as possible so  as to limit the effectiveness of  his ability
+to automatically restore 15 HP per  turn. For obvious reasons though, don't  use
+Max against Elliot himself unless absolutely necessary. Oh yeah, upon replaying
+the game, I've found out that Elliot can move.
+
+Recommended level after Battle 12: 12.
+
+
+Battle 13: The Wimpy Fortress of Balbazak
+
+Enemies: Silver Knight x6, Artillery x1, Hell Hound x2 (mini-boss), Dark  Priest
+x3, Pegasus Knight x3
+
+Difficulty: 1/10
+
+Winning Conditions: I think one of the door guards is a sub-boss...
+
+Strategies: Just annihilate everything, Egress to do it again, and gain a ton of
+levels. This is  an extremely easy  battle with enemies  that give a  lot of EXP
+(except the Dark Priests).  The only threats to  the force (ande th  only reason
+this battle did not  get a 0) are  the Hellhounds, as they  occasionally breathe
+fire which can hurt you  between 9-13. The  Hellhound guarding  the door  is the
+boss.
+
+Recommended level after battle: 3 - 4 Promoted, 13 for unpromoted characters
+
+
+Battle 14: Rumble in the Shipyard
+
+Enemies: Balbazak (Boss), Hellhound x2, Artillery x3, Silver Knight x2, Seabat
+x5, Evil Puppet x1, Dark Priest x1
+
+Difficulty: 2.5/10
+
+Strategies: This guy's even easier than Elliot. Just annihilate the enemies, and
+exploit the fact that Balbazak never moves. Seabats are weak versions of Pegasus
+Knights, yet they give TONS of experience for some reason.
+
+Recommended level after battle 14: 4 Promoted, 13 - 14 for unpromoted characters.
+
+
+Chapter 5
+
+Battle 15: Lost at Sea
+
+Difficulty Level: 0/10
+
+Winning Conditions: It's more challenging to lose than it is to win...
+
+Enemies: Shellfish x2, Conch x3, Seabat x4, Pegasus Knight x3
+
+Strategies: This battle doesn't need strategy because it's so pathetically easy.
+Just kill everything. If you  really want strategy, split your  force in two and
+have each side fight on one half of the ship.
+
+Recommended level after Battle 15: 4-5 Promoted, 14 for unpromoted characters
+
+
+Battle 16: The Fellowship of the Ring Reef
+
+Enemies: Hellhound x5, Skeleton II x5, Seabat x4, Worm x3, Master Mage x1
+
+Difficulty: 1.5/10
+
+Winning Conditions: Mash that mage again!
+
+Strategies: This  battle is  more challenging  than the  last, but  it's still a
+cinch. Just divide your characters and slaughter the insanely weak enemies. Kill
+the mage to win.
+
+Recommended level after Battle 16: 6 promoted.
+
+
+Battle 17: Sailing Away to Prompt
+
+Enemies: Gargoyle x1, Conch x6, Shellfish x4, Seabat x5, Pegasus Knight x2
+
+Difficulty: 0/10
+
+Winning Conditions: How stupid are you?
+
+Strategy: See  Battle 15  except that  wimpy monsters  appear during  the battle
+(reflected in  the enemies  section of  this battle).  Just a  warning that  the
+enemies are about much stronger next chapter, so don't sit on  your rear end and
+expect to breeze through the rest of the game.
+
+Recommended level after Battle 17: 7 promoted
+
+
+Chapter 6
+---------
+
+Battle 18: Road to the City of Dragons
+
+Enemies: Durahan (Shouldn't that be Dullahan?) I x1, Artillery II x5, Golem  x5,
+Master Mage x3, Worm x4, High Priest I x1,
+
+Difficulty: 5/10
+
+Winning Conditions: All your mistranslated enemy are belong to death.
+
+Strategy: This one is  more challenging than it  looks, but is still  relatively
+easy. Head through to the  rough terrain towards the enemies  guarding Dragonia,
+but be careful, as enemies will  magically appear to block your path.  The Worms
+and Artillery II are pathetically weak, but the Golems have good defense and the</pre><pre id="faqspan-2">
+Master Mages  still have deadly  spells. Win  by defeating  the Durahan guarding
+Dragonia or by entering Dragonia with Max.
+
+Recommended Level after Battle 18: 8 - 9 Promoted
+
+
+Battle 19: Am I Kane or am I Cain?
+
+Enemies: Kane/Cain (boss), Gargoyle x3, Golem x4, High Priest I x2, Durahan I
+x2, Master Mage x3
+
+Difficulty: 7/10
+
+Winning Conditions: Mistranslated boss have no chance to survive make his time.
+
+Strategy: Although Kane himself is deadly, many of the enemies do not pack  much
+of a  punch. The  Gargoyles are  harmless, the  Golems do  not cause much damage
+despite their defense and even Master Mages are showing their wear, though their
+Freeze 2 is still brutal. Don't be  lulled though, as Kane has 2 Durahans  and a
+Master Mage  to protect  him, as  well as  a High  Priest to  kill him. When you
+finally get to Kane and his little  posse, kill the High Priest first, kill  the
+Master Mage afterwards, and  then kill the Durahans.  With his defenders out  of
+the way, Kane should be less deadly. But watch out for his high attack power and
+his Desoul magic which  he can use through  his Dark Sword. For  safety reasons,
+keep Max FAR away. Eventually, you will win with a  coordinated effort from your
+entire force.
+
+Recommended Level after Battle 19: Level 10 Promoted
+
+
+Battle 20: The Endurance Trek
+
+Enemies: Bowrider x2, Belial x3,  Gargoyle x2,  Master Mage x4,  Golem x4,  High
+Priest I x2
+
+Difficulty: 5.5/10
+
+Winning Conditions: Survive the trek by killing all the enemies or entering Skull
+Castle
+
+Strategy: As the lame  name suggests, this is  one LONG battle, unless  you have
+Guntz,  Kokichi,  and/or Balbaroy!  (Guess  why) Although  many  of the  enemies
+present are  pretty much  cannon fodder,  the Bowriders  have fairly high attack
+power and the Belials can screw you  over with a couple of nasty Bolt  1 spells.
+The terrain is also bad, but this makes  the battle  more long that  it is hard.
+hard. Keep it up and you'll eventually reach Skull Castle.
+
+Recommended Level after Battle 20: Level 11 Promoted
+
+
+Battle 21: Misfortune of the Fortune Teller
+
+Enemies: Mishaela (boss), Gargoyle x3, Master Mage x4,  High Priest x1, Bowrider
+x3, Durahan II x2, Belial x3
+
+Difficulty: 7/10
+
+Winning Conditions: The title of this battle says it all...
+
+Strategy: Without Mishaela, this would be one of those relatively easy  battles.
+Most of the enemies are weak, although the Belials, the Master Mages (which  can
+Freeze 2  you 4  times in  a row  because of  their positioning),  and even  the
+Bowriders  can  cause problems  if  you are  not  careful. Take  out  Misahela's
+flunkies quickly and then proceed with caution towards Mishaela. When you  reach
+her, watch out for her Bolt 2, and use the Power Ring on the character attacking
+her,  as only  one character  can hit  her from  one square  a way.  Obviously,
+archers, flyers and mages help a lot as you can hit with more than one character
+at a time, which makes her HP  recovery far less annoying. Just remember to  get
+the Sword of Light  after you've open every  other chest, otherwise the  chapter
+will end and you will miss out on some nice items.
+
+Recommended Level after Battle 20: Level 11-12 Promoted
+
+
+Chapter 7
+---------
+
+Battle 22: The Trail to the Tower
+
+Enemies: Minotaur x1 (mini-boss), Wyvern x2, Torch Eye x2, Jet x2, Durahan II x3,
+Durahan III x1, Belial x2
+
+Difficulty: 6.5/10
+
+Winning Conditions: Kill big dumb barbarian.
+
+Strategy: This  is another  battle in  rough terrain  that also  introduces some
+deadly new  enemies. Pretty  much enemy  here can  be dangerous  except for  the
+Durahan II and Belials. The Torch Eye is especially deadly, as it has an  attack
+range of 2 and can  hit for around 20 HP  of damage regardless of your  defense.
+The wyvern has lower  attack power but features  a more powerful version  of the
+Hellhound's Flame ability, while the Jets  are fast (duh) and packs some  decent
+attack,  good defense,  and above  average magic  power. The  big, slow,  strong
+Minotaur guarding the Tower of the Ancients  is the boss here and you should  be
+able to come through if you are well-levelled or plan an intelligent strategy.
+
+
+Battle 23: The One Tower
+
+Enemies: Demon Master II x1 (mini-boss),  Ice Worm x5, Wyvern x2, Torch  Eye x3,
+Steel Claw
+x4, Jet x3
+
+Difficulty: 7.5/10
+
+Winning Condition: Whip that Demon Master good...
+
+Strategy: Ah, dreaded "climbing  the tower" battle found  in both this game  and
+its sequel. Luckily, although still challenging, it is considerably easier here.
+Despite this fact, the battle is no creampuff. Every enemy here has a  dangerous
+attack  and is  a worthy  opponent. Thus,  unless you  have a  wide variety   of
+fighting  styles, you  are at  a disadvantage.  The Demon  Master, who  is  your
+target, is especially bad, as it  has Freeze 3, and because of  its positioning,
+it can often hit you 1 or 2 turns before you can even attack it. Unless you have
+good fliers and ranged attackers, you will only be able to use one attacker at a
+time. Remember to get the chest containing the  Valkyrie, as I believe  you will
+be unable to obtain it after this battle.
+
+
+Battle 24: The Chaos Theory
+
+Enemies: Chaos (Boss), Minotaur x2, Demon Master II x3, Torch Eye x4, Ice Worm
+x4, Jet x4
+
+Difficulty: 4/10
+
+Winning Conditions: Break Chaos' circuits.
+
+Strategy: Don't let the enemies fool  you: this boss battle is not  difficult at
+all for one reason only: Chaos will come charging right at you. Chaos,  although
+fairly strong, is a  weakling compared to Kane  (which is unacceptable for  this
+stage of the game...imho).  Therefore, he should fall  within a couple of  turns
+before many of the enemies can  even touch you. Nevertheless, watch out  for the
+Torch Eyes and don't get cocky and fight everything unless your  levels are high
+are high. Otherwise, you may be overwhelmed.
+
+
+Battle 25: Ramming the Gate
+
+Enemies: Armed Skeleton x5, Horseman x3, Cerberus x4, Demon Master I x2,
+Minotaur x3, High Priest II x1
+
+Difficulty: 7.5/10
+
+Winning Conditions: Kill the Armed Skeleton Guarding the gate.
+
+Strategy: This battle  can be nasty.  The Cerberi are  like Wyverns except  they
+cannot fly,  Minotaurs should  not be  very intimidating  anymore, and the Demon
+Masters and  High Priest  are placed  in positions  were they  are not  all that
+dangerous. The Horsemen are moderately powerful archers with horrendous defense,
+but  the Armed  Skeletons make  this battle  fairly challenging  if you're  not
+careful, as they are the strongest normal  enemy you have faced up to now.  They
+can attack from up to 2 spaces  with a laser-like power that hurts for  about 20
+and they have 62 in attack power with their Great Axes. Just be careful and  you
+should be able to win this battle but with some difficulty. This battle finishes
+Chapter 7.
+
+Chapter 8
+---------
+
+Battle 26: Castle of Horrors
+
+Enemies: Blue Dragon x3, Chimera x5, Armed Skeleton x3, Cerberus x3, Horseman
+x3, High Priest II x2
+
+Difficulty: 7/10
+
+Winning Conditions: The monsters must do what they do best...
+
+Strategy: This one's  a toughie. The  Chimeras have excellent  all around stats,
+can fly, and evade frequently. Take  them out quickly with powerful before  they
+wreck havoc on your ranks. Watch out for their Firebreath as well. Blue  Dragons
+are like  Chimeras, only  they are  ice-based and  significantly less dangerous.
+When you take them out though, watch out for the Horsemen backing them up.  They
+can reach you but you can't reach them unless you have Lyle or a good mage.  The
+Armed Skeletons are as dangerous as  ever, but the High Priests and  the Cerberi
+are far from  worthy opponents. Take  out everything cautiously  and efficiently
+and you should get to King Ramladu in the next battle.
+
+
+Battle 27: Ramladus's Technological Trap.
+
+Enemies: Ramladu (Boss), Torch Eye x6, Steel Claw x6
+
+Difficulty: 5/10
+
+Winning Conditions:
+
+<Chumbawamba>
+
+Farewell the jewelled crown,
+Farewell to the velvet gown,
+Watch it all come tumbling down,
+Goodbye to the Crown
+
+</Chumbawamba>
+
+Strategy: There are two ways to beat this battle: The easy way and the fun  way.
+The easy way consists  of charging up and  slaughtering Ramladu, whilst the  fun
+way consists of busting up his robo-guards as they chase you. If you go the easy
+way, kill Ramladu quickly, as he recovers 24 HP per turn and has 93  attack!!!!!
+If you choose  to kill the  Robo-guards, Ramladu himself  will cause a  lot less
+trouble. Use Bolt 3 and powerful attacks to kill the robots, cast Aura 4 to heal
+your party to full power, and defeat  Ramladu, being as careful  as possible due
+to his high attack.
+
+
+Battle 28: Three Heads Are Better Than One
+
+Enemies: Colossus I x1 (boss), Colossus II x1 (boss), Colossus III x1 (boss)
+Chimera x6, Blue Dragon x3, Jet x3, Horseman x2,
+Armed Skeleton x3
+
+Difficulty: 7.5/10
+
+Winning Conditions: Topple Collosus.
+
+Strategy:  The beginning  can be  quite difficult,  as Jets,  Blue Dragons,  and
+Chimeras will surround you from the air while Horsemen and Armed Skeletons  will
+pepper you with ranged attacks. Once  you manage to defeat the Blue  Dragons and
+the Chimeras, this battle becomes a  lot easier. The Jets are honestly  not much
+to worry  about anymore,  the Horsemen  often fall  to one  blow, and  the Armed
+Skeletons are much easier  to deal with if  you destroy their back-up.  Colossus
+himself  isn't  too  bad either.  He  consists  of three  heads  which  can move
+independently to different sections of the battlefield. One head casts Blaze  3,
+the other casts Freeze 3, and the only that cause any real trouble is the  third
+which casts Bolt 3. Kill the centre head (the one that casts Bolt 3)  to win the
+battle.
+
+
+Battle 29: Caller of the Dragon
+
+Enemies: Darksol (Boss), Torch Eye x8, Steel Claw x5, Blue Dragon x2, High
+Priest II x2
+
+Difficulty: 8/10
+
+Strategy: This  battle is  all about  strategy if  you do  not have  Archers and
+Fliers to help you. First off, you should wait a couple turns for the Torch Eyes
+to position  themselves. Move  up towards  Darksol with  your characters,  being
+careful to  stop out  of range  of the  Torch Eyes.  When you reach Darksol, the
+worst is over, but the battle is still no walk in the park. Darksol has quite  a
+few powerful flunkies  around him and  has a powerful  attack of his  own: Demon
+Breath, which can hurt a small group of characters for 30 - 35 points of damage.
+Take him out quickly  with powerful attackers and  be careful not to  get anyone
+killed, as you will not have an opportunity to heal before you fight Dark Dragon
+(unless you feel  like challenging Dark  Sol again). That  fact alone makes  the
+battle considerably harder.  If you do  have Lyle and  Kokichi (or any  inferior
+archer-flier combination), you can disregard most  of what I just said, as  this
+battle is a cakewalk. Just exploit the stupid AI and you can kill everything  in
+this battle, with the exception of Dark Sol and the the two Blue Dragons  aroumd
+him, without even getting hit.
+
+
+Battle 30: Return of the King
+
+Enemies: Dark Dragon x3 (Boss), Armed Skeleton x2+
+
+Difficulty: 3/10
+
+Strategy:  See the Dark Dragon section of the boss guide.
+
+
+================================================================================
+=======
+5. C H A R A C T E R  G U I D E
+================================================================================
+=======
+
+If any one would like to add something or offer a different opinion about  these
+characters please  E-Mail me  and I  may put  it into  the description if I have
+time. Character's whom I have not used sufficiently to  completely judge will be
+marked with an asterix.
+
+Max (8.5/10): You're main  character. He has incredible  attack, average-to-very
+high HP, and decent agility throughout the game. His defence becomes quite  good
+when he's promoted but it's only  about average before promotion. Some may  play
+him conservatively because, if he dies, the  battle is lost, along  with half of
+your gold.
+
+Start: SDMN, Promoted: HERO.
+
+Lowe (6.5/10): Lowe is  a good healer with  great healing magic, and  he gets to
+use it a lot. His fighting ability is not that bad either and he has fair HP and
+defence.
+
+Start: HEAL, Promoted: VICR
+
+Tao (6/10): A decent mage with great fire magic  but poor fighting and defensive
+ability. She has lots of MP. I personally prefer Anri.
+
+Start: MAGE, promoted: WIZD
+
+Luke (8/10): A good warrior with high attack, high defence and decent HP. He's a
+bit slow though.
+
+Start: WARR, promoted: GLDT.
+
+Ken (3/10): A knight with high  HP, decent attack, decent agility  but  very low
+defence. I tend not to keep him past Chapter 5 because  Pelle, Mae, Kokichi, and
+Guntz are A LOT better.
+
+Start: KNTE, promoted: PLDN.
+
+Hans (2/10): A very crappy archer. He  starts off good but all he winds  up with
+is a  lot of  speed because  he only  gains agility  when he  goes up levels and
+almost never  earns attack  or defence.  I don't  think I've  ever kept him long
+enough to promote  him. He's good  for the last  2 battles of  chapter 2 when he
+gets the Steel Arrow, but starts to suck again when others get nicer weapons.
+
+Start: ACHR, promoted: BWMS.
+
+Gong  (6.5/10): A  decent healer  with great  fighting ability  and defence.  Be
+careful not to let him lag in levels  and don't promote him too early or at  the
+wrong time. Otherwise, he'll suck.
+
+Start: MONK, promoted: MSMK.
+
+Mae (7/10): Another  knight. Though her  attack is only  above average, she  has
+extremely high defence and agility. Her  HP can also grow to really  high levels
+later in the game.  By the time she reaches level 8-9, her attack is higher than
+Ken's and her attack  and HP get high  once she becomes promoted.  Sometimes she
+doesn't turn out THAT great though.
+
+Start: KNTE, promoted: PLDN.
+
+Gort (7/10): Like Luke but  better early on, yet  not quite as good  towards the
+end.
+
+Start: WARR, promoted: GLDT.
+
+Khris (6.5/10): A lot of people think she sucks but she's a lot like Lowe if you
+keep her levelled up with the rest of  the force. She has a bit more attack  and
+defence but has less MP. She also has some different (imho better) spells. Don't
+let her lag behind though.
+
+Start: HEAL, promoted: VICR.
+
+Anri (8/10): She starts off  very weak and is similar  to Tao but with a  better
+balance of attacking  spells (Freeze 4,  Bolt 2, Blaze  2). Her defence  becomes
+high when she gets  promoted, but she's not  quite among the best. Pretty low HP
+though.
+
+Start: MAGE, promoted: WIZD.
+
+*Arthur (5/10):He  still sucks,  but not  quite as  hard. He's  a somewht  wimpy
+knight with  low attack  that becomes  tolerable when  he gets  the Power Spear,
+fairly poor defence, and very crappy agility and HP. He won't last long in  your
+force though, but can be nice till you get Pelle. He does learn Bolt 1, Blaze 1,
+and Freeze  1 at  high levels  due to  his experience  in Manarina. Karl Plouffe
+informed me that Arthur eventually becomes  a strong member of the force.  A few
+others have agreed,  so consider that.  I have further  information too. Eternal
+Dragon  (and a  few others)  states that  Arthur gains  incredible stats  before
+promotion if you level him right up to 20. It's up to you to decide whether he's
+worth it.
+
+Start: KNTE, promoted: PLDN.
+
+Balbaroy (6.5/10): Don't be fooled. This Birdman starts off weak but that's only
+because he joins at a very low level. Balbaroy is not spectacular, but has  some
+nice  offensive  stats,  as well  as sharing  an uncanny  ability to  dodge with
+Kokichi. His defense is  somewhat weak  though. Take him if you like to use more
+than one flying character.
+
+Start: BDMN, promoted: SKYW.
+
+*Amon (1/10): Nothing  good to say  here. A very  weak version of  Balbaroy with
+whom I never bothered. Take her if you want the game to be harder but otherwise,
+throw this ugly  birdlady in the  trash heap with  Arthur and Hans.  The saddest
+part is that she's Balbaroy's wife, so you'd expect her to be useful.
+
+Start: BDMN, promoted: SKYW.
+
+Diane  (4.5/10): A  big improvement  over Hans.  Her attack  is actually  strong
+enough to damage  the bad guys  and she won't  die in one  hit like her pathetic
+sparring partner Unfortunately, she won't survive the long haul..
+
+Start: ACHR, promoted: BWMS.
+
+Zylo (8/10): This Wolf dude starts off  a lot better than Diane or Balbaroy  and
+is much more  experienced so you  don't have to  train him as  much. He has high
+attack, high defence,  decent HP and  incredible agility and  movement range. He
+can move through  forest no movement  range penalty. Be  careful though, if  you
+promote him too early, he'll fight  like he's been a practicin' with  Arthur and
+Amon. Unlike  what I said  before, he suffers no  movement  range  penalty while
+moving indoors, but is penalized when moving through hills.
+
+Start: WRWF, promoted: WFBN.
+
+Pelle (7.5/10): Looks like I went a  bit easy on him last time. His  stats start
+off ridiculously high  (as in almost  strong enough to  defeat Elliot 1-on-1  at
+level 8 unpromoted), but  his growth isn't that  good, and he drops  quite a bit
+upon promotion. Fortunately, he'll gain a lot back later on and can develop into
+one of the best knights in the game anyways.
+
+Start: KNTE, promoted: PLDN.
+
+Vankar (6/10): I tried him now, and  I gained more respect for him. If  you keep
+him for a while,  he turns ito an  okay character, but he's  really not anything
+that special, and there are far better knights.
+
+Start: KNTE, promoted: PLDN.
+
+Kokichi (10/10): I definitely stand corrected on Kokichi. I decided to take  him
+once, and I was  very impressed. He has  high attack and agility,  good defense,
+above-average HP, and a tendency to dodge  often. Did I mention that he can  fly
+and that he uses Spears?  His attack may not be  that cool, but he is  without a
+doubt one of the two  best characters in this game,  as well as the best  flying
+character in both Genesis Shining Force games.
+
+Start: WGKN, promoted: SKYL.
+
+Jogurt (0/10): Did I say Amon and  Hans suck? God I'm stupid! This is  the worst
+character in any RPG that I've ever played.  He has 1 in every stat and can  get
+no higher than level 1. If by some miracle, he actually kills an enemy, you  get
+a Jogurt Ring which makes another  character look like Jogurt for one  battle if
+it is e quipped. Whoopee. If you like him,  maybe  you should  play a loser game
+like Barbie's Dream Vacation.
+
+Start: YGRT, promoted: N/A.
+
+Guntz (10/10): Without a doubt, Guntz is the best character in the entire  game.
+Upon getting him, you'll probably groan at having another spear/lance user,  but
+stick with him. His stats start  fairly good, but are not quite  Pelle-like. His
+growth, however, is spectacular to the point that I once saw him gain 1  attack,
+5 defence, 2 agility, and 3 HP BEFORE promotion. WOW! As he develops his  attack
+and defense become second-to-none, his agility may become become decent, and his
+HP will range from low to slightly-above-average depending on how lucky you are.
+While his default  movement is o nly 4,  absolutely NOTHING  gives him  movement
+penalties, and a movement ring or turbo pepper are always a nice option from him.
+
+Start: SMKN, promoted: SBRN
+
+Domingo (7/10): A special magical  creature  with a screwed up  sense of  humour
+(really, I prefer Kyle  from Lunar: SSSC). His  starting stats are a  little low
+but he gets incredible magic and his defence gets very high. His attack is below
+average but he is quick and can last quite a while in battle. He floats when  he
+moves and  he gains  levels quickly  which could  be why  all his  stats get  so
+freakin' high, although he does become a  little weaker by the end of the  game.
+Domingo is a master of Freeze  magic, but his selection  isn't quite as nice as
+as Anri's or Alef's.
+
+Start: MGCR, promoted: N/A.
+
+*Earnest (4.5/10): A lot of people really like him but I don't take him  because
+I have better  characters and I  don't need  another  darn knight. Besides,  his
+stats are actually a bit worse  overall than Vankar's, which is pathetic.  A few
+people have told me that Earnest is a useful character, so try him if you want.
+
+Start: KNTE, promoted: PLDN
+
+Lyle (8.5/10): Lyle may start off fairly weak (with the exception of his  decent
+attact) but if you  train him, WOW!!!!! You  got an archer with  65+ plus attack
+and 35+ defense  by the end of the game. Definitely worth it for the more patient
+players.
+
+Starts: ASKT, promoted: SKNT
+
+Bleu (7/10): To reflect  different playing styles, I  felt it necessary to  tone
+Bleu's rating  down. Basically,  Bleu annihilates  everything (he's  at least as
+good  as Guntz)  if you  spend a  long time  allowing him  to catch  up to  your
+characters when you first get  him. Otherwise, Bleu  completely sucks and should
+not spend a second on your team.
+
+
+Start: DRGN, promoted: GRDR.
+
+Alef (7/10):  The best  mage in  the game,  but like  Bleu, she  takes a  lot of
+training. She is a Bolt  specialist who is also  competent in Blaze  and Freeze.
+Her physical stats are slightly below Anri's, but her magic is a bit better.
+
+Start: MAGE, promoted: WIZD.
+
+Torasu (8/10): Like Alef. he's the best at what he does after he is trained  for
+a couple of hours. Torasu becomes an Aura specialist after gaining a few levels.
+For  a cost  of 18  of his  65+ MP, he  can  cast  Aura 4  and bring all  living
+characters back to full HP. Another el cheapo character.
+
+Start: HEAL, Promoted: VICR.
+
+Musashi (9/10): A samurai. His attack and defence are incredible (to the tune of
+57/41). Take  him or else,  but please let  him have  a  mobile ring or a  turbo
+pepper, as his movement is 5!
+
+Start: SMR, promoted: N/A.
+
+*Adam (1/10): A  robot. He starts  at level 9  unpromoted and has  an attack and
+defense in the low 20s. Did I mention that you get  him in Chapter 7? Did I also
+mention that he has a movement of 4 and that you get him AFTER Musashi??
+
+Starts: RBT, promoted: CYBG
+
+Hanzou (6.5/10): I am torn about Hanzou. He has a few mediocre magic spells, but
+his physical stats are significantly  lower than Musashi's, though he  is fairly
+quick. He might make a  nice choice if you give  him 3 or 4 levels, but  you get
+him so late he is almost irrelevant.
+
+Start: NINJ, promoted: N/A
+
+================================================================================
+=======
+6. C L A S S  A N D  P R O M O T I O N  G U I D E
+(Taken from Col. G. L. Sicherman's FAQ)
+================================================================================
+=======
+
+
+                RANKS - symbols, names, and moves
+
+      unpromoted              promoted               move
+
+       ACHR  archer            BWMS  bowmaster         5
+       ASKT  assault knight    SKNT  strike knight     7
+       BDMN  birdman           SKYW  sky warrior       7
+       DRGN  dragon            GRDR  great dragon      5
+       HEAL  healer            VICR  vicar             5
+       KNT   knight            PLDN  paladin           7
+       MAGE  mage              WIZD  wizard            5
+       MGCR  magic creature                            5
+       MONK  monk              MSMK  master monk       5
+       NINJ  ninja                                     7
+       RBT   robot             CYBG  cyborg            4
+       SDMN  swordsman         HERO  hero              6
+       SMKN  steam knight      SBRN  steam baron       4
+       SMR   samurai                                   5
+       WARR  warrior           GLDR  gladiator         6
+       WKNT  winged knight     SKYL  sky lord          6
+       WRWF  warwolf           WFBN  wolf baron        7
+       YGRT  yogurt                                    7
+
+================================================================================
+=======
+7. I T E M S  A N D  W E A P O N S
+================================================================================
+=======
+
+(Taken from Moogie and  Sir Fil's Shining Force  Page except for the  shop guide
+which was taken from Col.  G. L.  Sicherman's page. Some  small corrections and
+changes were made to Moogie and Sir Fil's info.)
+
+----------------------------------------------------------------------------
+                            Weapons
+----------------------------------------------------------------------------
+
+                             Swords
+                            --------
+
+ Weapon                Equip On                Attack         Notes
+ ------                --------                ------         -----
+
+ Short Sword          SDMN, WARR, BDMN          +5              -
+
+ Middle Sword         SDMN, WARR, BDMN          +8              -
+
+ Long Sword           SDMN, BDMN                +12             -
+
+ Steel Sword          HERO, NINJ, SKYW, SMR     +16             -
+
+ Broad Sword          HERO, NINJ, SKYW, SMR     +20             -
+
+ Doom Blade           HERO, NINJ, SKYW, SMR     +25             -
+
+ Katana               HERO, NINJ, SKYW, SMR     +30             -
+
+ Sword of Light       HERO                      +36           Bolt 2
+
+ Sword of Darkness    HERO, SKYW                +40          Desoul 1
+
+ Chaos Breaker        HERO                      +40          Freeze 3
+
+----------------------------------------------------------------------------
+
+                       Spears and Lances
+                       ------------------
+
+ Weapon             Equip on              Attack        Notes
+ ------            ----------             ------        -----
+
+ Spear             KNTE, WGKN, SMKN         +6            -
+
+ Bronze Lance      KNTE, WGKN, SMKN         +9            -
+
+ Power Spear       KNTE, WGKN, SMKN         +15           -
+
+ Steel Lance       PLDN, SBRN, SKYL         +18           -
+
+ Chrome Lance      PLDN, SBRN, SKYL         +22           -
+
+ Halberd (Lance)   PLDN, SBRN, SKYL         +25         Bolt 1
+
+ Valkyrie (Spear)  PLDN, SBRN, SKYL         +35           -
+
+ Devil Lance       PLDN, SBRN, SKYL         +35         Cursed
+
+----------------------------------------------------------------------------
+
+                              Axes
+                              ----
+
+ Weapon       Equip on       Attack      Notes
+ ------      ----------     --------    -------
+
+ Hand Axe     Warr             +7          -
+
+ Middle Axe   WARR             +11         -
+
+ Battle Axe   WARR             +16         -
+
+ Heat Axe     GLDT             +22      Blaze 2
+
+ Great Axe    GLDT             +26         -
+
+ Atlas Axe    GLDT             +33      Blaze 3
+
+----------------------------------------------------------------------------
+
+                             Staves
+                             ------
+
+ Weapon              Equip On        Attack         Notes
+ ------              --------        ------         -----
+
+ Wooden Staff        HEAL, MAGE        +4             -
+
+ Power Staff         HEAL, MAGE        +12            -
+
+ Holy Staff          VICR              +26            -
+
+ Guardian Staff      VICR, WIZD        +18            -
+
+ Demon Rod           WIZD              +35     Steals MP, Cursed
+
+----------------------------------------------------------------------------
+
+                             Arrows
+                             ------
+
+ Weapon              Equip on         Attack        Notes
+ ------              --------         ------        -----
+
+ Wooden Arrow        ACHR, ASKT         +8            -
+
+ Iron Arrow          ACHR, ASKT         +13           -
+
+ Elven Arrow         ACHR, ASKT         +18           -
+
+ Assault Shell       BWMS, SKNT         +27           -
+
+ Buster Shot         BWMS, SKNT         +35           -
+
+----------------------------------------------------------------------------
+                             Items
+----------------------------------------------------------------------------
+
+                        Restoring Items
+                        ---------------
+
+ Item                 Use
+ ----                 ---
+
+ Medical Herb         Restore 10 HP
+
+ Healing Seed         Restore 20 HP
+
+ Antidote             Cure poison
+
+ Shower of Cure       Heal all characters
+
+ Angel Wing           Return you to last town you saved in
+
+----------------------------------------------------------------------------
+
+                         Boosting Items
+                         --------------
+
+ Item                   Use
+ ----                   ---
+
+ Bread of Life          Increase max HP
+
+ Power Potion           Increase attack
+
+ Defense Potion         Increase defence
+
+ Legs of Haste          Increase agility
+
+ Turbo Pepper           Increase movement range
+
+----------------------------------------------------------------------------
+
+                             Rings
+                             -----
+
+ Item             Equip      Spell       Location
+ ----             -----      -----       --------
+
+ Speed Ring       AGI +4     Egress       Rindo
+
+ Power Ring       ATT +4     Boost 1      Cavern of Darkness
+
+ Mobility Ring    MOV +2        -         Waral
+
+ Shield Ring      DEF +4        -         ???
+
+ White Ring       DEF +6     Aura 1       Demon Castle
+
+ Black Ring       ATT +6     Blaze 3      Demon Castle
+                             Cursed
+
+ Evil Ring        ATT +8     Bolt 3       Demon Castle
+                             Cursed
+
+ Yogurt Ring      Figure it     -         Kill monster with Jogurt
+                  Out Yourself
+
+Note: Spells can be used without equipping the rings. Useful when using a
+cursed ring to cast a spell.
+
+----------------------------------------------------------------------------
+
+                           Key Items
+                           ---------
+
+ Item            Use                 Location
+ ----            ---                 --------
+
+ Domingo Egg     Hatch it to         In a room with a mage and a machine in
+               get Domingo         Manarina. Search the machine to find
+
+ Orb of Life     To speak to the     In a chest in the Cave of Darkness
+                 Spirit of the
+                 Holy Spring
+
+ Moon Stone      To make Lunar dew   The Moonstone Cave in Bustoke Quarry
+                 needed to cure
+                 Zylo
+
+ Lunar Dew       Cures Zylo          Give the Moonstone to the old man in
+                                     Bustoke
+
+-----------------------------------------------------------------------------
+
+                           Shop Guide
+
+                    Guar Alte Rind Bust Pao  Uran Wara Rudo Drag Prom Rune
+
+WEAPONS
+
+Short Sword     100  x    x
+Middle Sword    250            x    x
+Long Sword      750                      x
+Steel Sword    2500                                x    x
+Broad Sword    4800                                               x    x
+Spear           150  x    x    x
+Bronze Lance    300            x    x    x
+Power Spear     900                 x    x         x
+Steel Lance    3000                                x
+Chrome Lance   4500                                     x         x    x
+Hand Axe        200  x    x
+Middle Axe      600                 x    x
+Battle Axe     2600                                x    x
+Great Axe     10000                                               x    x
+Wooden Staff     80  x    x    x
+Power Staff     500            x    x    x         x
+Guardian Staff 3200                                     x
+Holy Staff     8000                                               x    x
+Wooden Arrow    320  x    x    x
+Steel Arrow    1200                 x    x
+Elven Arrow    3200                                x    x
+Assault Shell  4500                                               x
+Buster Shot   12400                                                    x
+
+  ITEMS
+
+Medical Herb     10  x    x    x    x    x    x    x    x    x    x    x
+Healing Seed    200  x    x    x    x    x    x    x    x    x    x    x
+Antidote         20            x    x    x    x    x    x    x    x    x
+Angel Wing       40  x    x    x    x    x    x    x    x    x    x    x
+
+=====================================================================
+=======
+8. M O N S T E R  G U I D E
+=====================================================================
+=======
+
+                 HP  MP  Atk. Def. Move Agl. Cns.
+Armed Skeleton   36  --   62   33    5   32 2120
+Artillery I      14  --   24   15    4   14  180
+Artillery II     14  --   24   15    4   14  450
+Balbazak         65  --   34   18    5   20  520
+Belial           21  35   26   20    6   22  680  BOLT I; MUDDLE I; Demon
+                                                                Smile
+Blue Dragon      50  --   63   32    5   42 2500  Cold Breath
+Bowrider         18  --   40   11    7   14  900
+Cain - see Kane
+Cerberus         27  --   42   26    7   38 1700  Fire Breath
+Chaos            65  --   50   35    6   32 2000  Laser
+Chimera          56  --   65   30    6   40 2300  Fire Breath
+Colossus I       65  ??   50   40    4   37 2500  BLAZE III
+Colossus II      65  ??   50   40    4   37 2500  FREEZE III
+Colossus III     65  ??   50   40    4   37 2500  BOLT III
+Conch            21  --   20   15    6   16  230  Poison
+Dark Dragon L R 240  ??   65   40    0   60 ----  BLAZE II; FREEZE II; BOLT
+                                                                         IV;
+            M   280   "    "    "    "    " ----  DESOUL II; Demon Blaze
+Dark Dwarf       12  --   12    8    4    5   25
+Dark Elf         16  --   26    9    6   10  160
+Dark Mage I      13  26   10    6    5    9   92  BLAZE II
+Dark Mage II     14  26   19    8    5   12  170  BLAZE II
+Dark Priest      16  25   21    9    5   10  125  HEAL I
+Darksol         150  ??   40   35    6   54 ----  Demon Blaze
+Demon Master I   27  46   43   24    6   45 1520  FREEZE III
+Demon Master II  27  46   52   24    6   50 1850  FREEZE III
+Demon Master III 27  46   43   24    6   45 1520  FREEZE III
+Dire Clown       15  --   18   11    5    7  130
+Durahan I        22  --   39   28    5   13  700  Sleep
+Durahan II       22  --   39   32    6   13  840  Sleep
+Durahan III      22  --   44   32    6   13  840  Sleep
+Elliott          60  --   32   17    5   16  450
+Evil Puppet I    14  15   14   10    5    7  100  FREEZE I, ominous incant.
+Evil Puppet II   14  15   26   14    5    7  100  HEAL I, ominous incantation
+Gargoyle         18  20   26   15    6   20  440  MUDDLE I; sleep
+Ghoul            25  --   23   14    6    9  200  Sleep
+Giant Bat        14  --   11    6    7    9   60  Sleep
+Goblin           12  --    9    6    5    5   12
+Golem            17  --   28   28    4   16  380
+Hellhound        19  --   10   13    7   13  200  Fire Breath
+High Priest I    20  33   13   14    6   13  750  HEAL IV
+High Priest II   20  33   39   14    6   13 1340  HEAL IV
+High Priest III  20  33   39   14    7   13 1340  HEAL IV
+Horseman         24  --   53   16    7   17 1550
+Ice Worm         30  12   40   25    5   26 1030  Cold Breath; Sleep
+Jet              28  --   45   32    7   33 1430
+Kane             70  24   65   30    6   29 1200  Desoul
+Laser Eye        30  --   14   19    0   27  350  Laser Blast
+Lizardman        20  --   24   12    6   12  150
+Mannequin        16  --   16   10    5    8  125  Poison
+Marionette       35  ??   25   13    6   13  200  FREEZE III
+Master Mage I    22  32   33   13    5   26  850  FREEZE II; Sleep
+Master Mage II   22  32    7   13    5   26  850  FREEZE II; Sleep
+Minotaur         31  --   46   30    5   31 1500
+Mishaela         65  ??   42   30    6   35 1500  BOLT II
+Pegasus Knight   18  --   21   16    7   12  180
+Ramladu          99  ??   93   40    6   49 3000  AURA III
+Rune Knight      14  --   16    7    7    7   45
+Seabat           22  --   20   14    7   14  350
+Shellfish        25  --   23   16    6   23  270  Poison
+Silver Knight    16  --   18   12    7   11   75
+Skeleton I       15  --   21   16    6    7  140
+Skeleton II      15  --   25   20    6    7  140
+Sniper           13  --   15    5    5    7   80
+Steel Claw       25  --   43   31    5   31 1220  Laser
+Torch Eye        28  --   42   32    6   27 1350  Laser
+Worm             17  --   20   16    4   16  400  Sleep
+Wyvern           32  --   39   30    7   31 1350  Fire breath
+Zombie I         15  --   18   13    5    7  100  Poison
+Zombie II        15  --   18   13    5    7  140  Poison, tends to evade often
+
+(Taken from Col. G. L.Sicherman's walkthrough with some  significant changes, as
+he welcomes additions and corrections.)
+
+================================================================================
+=======
+9. B O S S  G U I D E
+================================================================================
+=======
+
+Note: All bosses expect Laser Eye and some of the later ones are extremely
+resistant to magic. Magic can still  be useful to  inflict an extra couple
+of damage, however.
+
+(Number in brackets indicates the number of HP recovered by this boss per turn.)
+
+Marionette (7): The first real boss.  She's a real **censored** as she  can kill
+most of  your characters  in one  hit with  her Freeze  Level 3  spell. She also
+regains HP and MP. To beat her, kill all the other enemies and surround her.  If
+someone dies,  replace that  character immediately  as she  doesn't cast  Freeze
+Level 3 as often  when she is surrounded.  This boss is still  tough because her
+attack is pretty high. Oh and one  more thing, keep Max as far  away from her as
+possible.
+
+Ghoul (0): The Ghoul is  not necessarily a boss, but  it is a unique enemy  that
+you only see at  Shade Abbey, has magic  resistance, and killing it  does indeed
+win the battle. Anyways, just follow  my strategy outlined in the section  about
+the Shade Abbey battle in Chapter 2, and you should be fine.
+
+Laser Eye (0):  Though you don't  have to kill  it to win  the battle, it's very
+dangerous because it can wipe out weaker characters in its line of fire. Kill it
+quickly and  then do  whatever you  want to  win the  battle. You  can also  use
+Balbaroy to fly around it and kill the wimpy Silver Knight that you must kill in
+order to win the battle. If you're REALLY patient you can wait for the Laser Eye
+to  kill all  the Dark  Priests and  Lizardmen guarding  the path  to it  before
+chargin  it (I  suggest using  an emulator  and cranking  the speed  as fast  as
+possible if you don't want to spend hours by using this method.
+
+Elliot (15): Eliiot's much easier than Marionette and Laser Eye, but still packs
+a good punch if  you're not careful. Kill  all his wimpy friends  first and then
+surround him with strong  dudes before proceeding to  beat the crap out  of him.
+Previously I said that Elliot doesn't move. A couple of people informed me  that
+such was not the case, and  upon replaying  the game, I found  that Elliot might
+indeed move to attack.
+
+Balbazak (15): Just  kill everyone around  him and exploit  his unwillingness to
+move. He's  really easy  and I cannot  understand why he  gives so  many  people
+trouble.
+
+Kane (15): Now you're in trouble. Thank God his little buddies usually only hurt
+you for 1 point of  damage. His attack is extremely  high as is his defence.  He
+also has the Sword  of Darkness which can  cast Desoul, possibly killing  one of
+your characters automatically.  Fight him like  Elliot and Balbazak  but be very
+careful and don't use your leader on him. In fact make your leader stay far, far
+away. Don't worry if he gives you  at least as much trouble as Marionette.  He's
+tough.  For some  reason though,  he is  called Cain  in this  battle and  Kane
+everywhere else. Hmmm...  maybe Sega should  have let Working  Designs translate
+this game. Oh well, at least  the translation's better  here than in the sequel.
+Right Evil Spilit?
+
+Update: Nix the  Workind Designs idea...After  what they did  to Shining Wisdom,
+(Parmecia = Palacia?, Zeon = Zhaion??, Bowie = Puck?????) they  should stick  to
+remakes.
+
+Mishaela (15): Her attack sucks but watch  out, as you can only attack her  with
+one character at a time (unless  you have fliers, archers, and magic  users) and
+her defence is quite high.Watch out for her Bolt Level 2 and use the Power  Ring
+if you need it to hurt her. Heck, don't be afraid to break the ring if you  have
+too. Like Kane,  thank God, this  battle has weak  enemies. I think I'm the only
+person who actually has trouble with her (probably because most of you are still
+stuck on Balbazak...;-) ).
+
+Chaos (15): He has high attack but it's not quite as high as Kane's. He has a 18
+- 21  damage laser  attack. Kill  him fast  because the  other enemies are a lot
+stronger than in the last few battles and are capable of pulverizing you if  you
+are not careful.  Your prizes for  beating him are  Adam(whoopee) and the  Chaos
+Breaker (Whoo Hoo!).
+
+Ramladu (24):  He has  the highest  attack of  any enemy  in the game (arrgh! 95
+attack). He also has Aura  3 so he can heal  a lot of damage in  addition to his
+boss heal ability, although  I do not think  he has ever used  the spell. Ignore
+the extremely strong enemies  and kill him ASAP,  or you'll probably die  unless
+you're at Level 20+ promoted. Once again though, you can also kill him using the
+same cheap strategy that works on Elliot and Balbazak which makes this battle  a
+lot easier to win, but  be forewarned, it  will take a while as he recover 24 HP
+per round.
+
+Colossus  (0): Colossus  is  actually  not too  tough, but  he does  have strong
+enemies with him. In the introduction, Collosus splits into three, with one part
+having  Blaze 3,  the other  having  Freeze  3 and  the greatest  possessing the
+dreaded Bolt  3. Colossus  will give  you a  good taste  of what  to expect when
+fighting Dark Dragon.  Take out the  enemies before you  take him out  than deal
+with each Colossus one at a time. (They're all spread out which makes this quite
+easy because you won't get bombarded with spells from all cylinders.)
+
+Darksol (0): He's pretty much a wimp in terms of physical attacks but watch  out
+for his Demon Breath ,as  it can do 30+ damage  to a small group of  characters.
+There are High Priests here which can fully restore his HP with Heal 4 (although
+they're positioned  horribly and  never seem  to do  much besides  stand halfway
+across the battle field from Darksol). Defeat Darksol as quickly as possible and
+Be careful not to have any characters die. Do not use important items, as you'll
+have  to  fight Dark  Dragon  without a  chance  to regroup  back  in Runefaust.
+(although your MP will be restored  between the two battles). If you  do regroup
+during the Dark Dragon  battle, you'll have to  fight Darksol all over  again. I
+think Darksol's the last boss in Shining in the Darkness, but I didn't like the
+game so I'm not sure.
+
+Dark Dragon  (0): Compared  to some  of the  last bosses  I fought in RPGs, this
+guy's not very challenging at all.  First off, kill the two Armed  Skeletons and
+start attacking Dark Dragon's centre head, as it has a more powerful version  of
+Darksol's Demon Breath  attack, as well  as Desoul II  (I've never seen  him use
+it). As soon  as you kill  the skeletons (which  should only take  1 or 2 hits),
+stand on the point where they spawned  at the beginning of the battle with  your
+healers so that  they will not  respawn . Keep  beating on the  centre head with
+physical attacks and Level 4 magic spells and use characters that cannot get  to
+thecentre head to start attacking the  two side heads. The centre head  will die
+after you do 200 -  250 points of damage. After  the centre head is dealt  with,
+this battle should be a piece of  cake. The side heads only have Blaze  2 (lol),
+Freeze 2 (lol),  Bolt IV (I've  only seen III)  and are also  very vulnerable to
+magic. They too have 200  - 250 HP. Every single  one of Dark Dragon's heads  is
+comically slow, and will only attack between 2 and 4 times before being  killed.
+After you kill  the side heads,  take a deep  breath, relax and  give yourself a
+paton the back for completing  the second easiest Strategy-RPG ever  made. Watch
+the ending for a  foreshadow of Shining  Force Gaiden 3: The Final  Conflict for
+Gamegear (never released outside of Japan).
+
+================================================================================
+=======
+10. S P E L L  G U I D E
+================================================================================
+=======
+
+(Taken [again] from Col. G. L. Sicherman's FAQ.)
+
+Note: Promotion preserves advancements of level and adds 1.
+
+Level:    I        II       III      IV
+
+<leader>
+ EGRESS  <>
+
+Alef
+ BLAZE   <>        <>
+ BOLT    <>        L12      L17      L25
+ DESOUL  L21
+ FREEZE  <>        <>
+
+Anri
+ BLAZE   <>        L8
+ BOLT    L19       L26
+ FREEZE  L5        L13      L16      L23
+ MUDDLE  L10
+
+Arthur
+ BLAZE   L15
+ BOLT    L25
+ FREEZE  L20
+
+Domingo
+ BOOST   L20
+ DESOUL  L17
+ FREEZE  <>        L4       L13      L26
+ MUDDLE  L7
+
+Gong
+ AURA    L30
+ HEAL    <>        L8       L16      L24
+
+Hanzou
+ DESOUL  L25
+ DISPEL  <>
+ SHIELD  L15
+ SLEEP   <>
+
+Khris
+ AURA    L20       L28
+ HEAL    <>        L5       L16      L21
+ QUICK   L12
+ SLOW    L8
+
+Lowe
+ DETOX   L4
+ HEAL    <>        L7       L16      L22
+ QUICK   L13       L25
+ SLOW    L10       L19
+
+Tao
+ BLAZE   <>        L4       L12      L20
+ BOOST   L27
+ DISPEL  L16
+ SLEEP   L8
+
+Torasu
+ AURA    <>        L14      L18      L22
+ DETOX   <>
+ HEAL    <>        <>
+ SHIELD  <>
+
+================================================================================
+=======
+11. C H E A T  C O D E S
+================================================================================
+=======
+
+(Taken from Col. G. L. Sicherman's walkthrough and  Moogie and Sir Fil's Shining
+Force Page.)
+
+1. Name all characters:   Start a new game  and go to the  "Name Your Character"
+screen.  Press and hold Start, A, B,  and C on controller 2 and press  Start, A,
+and C on controller 1.  Another character appears. Now you can cycle through and
+name every character in the game.
+
+2. Message Test: You can also access a special "Message Test" simply by  holding
+the  B button  at Simone's "Good  Luck" message.  Now  you can  read all  of the
+game's dialogue.
+
+3. Whole game access: press Up and Start on the second joypad, then turn on  the
+Genesis. Keep the buttons pressed until the Sega Logo comes up. Now press A  and
+C (still holding down Up and Start) and press Start on the first joypad to begin
+the game. When Simone appears on the option screen, carry on from where you left
+off and  press A, B or C. A will give you  Chapter select. Button B gives  you a
+Battle select and Button C will take you to the ending of the game.
+
+Note: you can't  actually save your  game when you  use this  cheat, unless  you
+statesave using an emulator.
+
+================================================================================
+=======
+12. U S E L E S S  I T E M  G U I D E
+(Taken from G. L. Sicherman's walkthrough with a couple of minor changes.)
+================================================================================
+=======
+
+1. Search a wall of the Moon Stone  Cave in Bustoke Quarry to find a chest  with
+the Sugoi Mizugi (Awesome Swimsuit). Give it to Tao and she will wear it.
+
+2. Search a corner of  the archers' butte near Pao  Bridge to find a chest  with
+the Kitsui Fuku (Daring Dress). Give it to Anri and she will wear it.
+
+3. A chest  hidden in an  alley outside Balbazak's  Fortress contains the  Kenji
+(Public Prosecutor), which has no known use.
+
+4. A chest hidden in the port bow of the ship on the second voyage contains  the
+Teppou (Rifle), which has no known use.
+
+5. Search a wall in the northwest part of the Colossus Room during Battle 28  to
+find a chest with the Kaku-chan (Papa Doll), which has no known use.
+
+6. The Forbidden Box  exists within the game's  data, but has never  been found.
+You must thus use  GenEdit or do some  hex editing to access  it. Various people
+claim that the  Forbidden Box allows  you to level-up your entire  force in some
+very bizarre manner when used.
+
+================================================================================
+=======
+13. M A T H E M A T I C A L  E R R A T A
+================================================================================
+=======
+
+Note that  all of  this is  extremely rough  and  incomplete. Please submit  any
+further information to sephirstein@hotmail.com
+
+Damage Calculations:
+
+The basic formula for physical damage appears to simply be:
+
+Attacker's AT - Defender's DF = Damage
+
+Factors like land effect can significantly alter this equation, but I am unclear
+as to how.  As a general  rule, indoor damage  will be far  closer to this ideal
+equation then outdoor damage
+
+Different  magic  spells   do  a  different   amount  of  damage.   Most  bosses
+(particularly in the first half of  the game) take about 50% damage  from magic,
+while enemies  weak/strong against  a certain  element take  between 10% and 20%
+more/less damage respectively.
+
+Movement Calculations:
+
+Flying characters  can move  anywhere with  no movement  penalty, Guntz can move
+anywhere non-flying characters can move  with no movement penalty, and  Zylo can
+move anywhere except for hills  with no movement penalty. Other  characters take
+between a 40% and 60% penalty  to their movement rate on desert,  hills, forest,
+and possibly a few other  terrain types. Only  flying characters  can move  over
+over water, air, and mountains.
+
+================================================================================
+=======
+14. B U G S  A N D  S T U F F
+================================================================================
+=======
+
+-After you  win a  battle, you  see the  force still  on the battle field before
+leaving the screen.  You can't access  the menu when  you stand on  a scare also
+occupied by a fellow force meember.
+
+-The A.I. is generally so pathetic it deserves to be called a bug.
+
+-Marionette's magic is almost as powerful as the magic possessed by the two side
+heads of Dark Dragon.
+</pre><pre id="faqspan-3">
+-Dark Dragon and  Dark Sol, two  Devil kings, take  full damage from  magic, yet
+some buffoon like Balbazak has magic resistance.
+
+-The "sheep" in Pao are acutally pigs.
+
+-Shining Force and International Ice Hockey:
+
+Pause for thought:
+
+Shining Force 1: The  1980 Miracle on Ice,  in which an unexpected  group of rag
+-tag  heroes  (led  by captain  Mike  Eurizone  aka Max)  led  the  Americans to
+consecutive victories over the  Soivets and the Fins  (Dark Sol and Dark  Dragon
+respectively)  and to  a 1980  ice hockey  Winter Olympics  gold medal  in Lake
+Placid. This  broke the  Russian streak  of 5  consecutive olympic  gold medals.
+Kane, of course, is Vetislav Tretiak, the Russian goalie.
+
+Shining Force 2:  More links here.  I like to  think of SF2  as the 1972  Summit
+Series between Canada and the Soviet Union (so what if it came before).  Canada,
+led by  Paul Henderson  (aka Bowie),  overcame many  cheap traps  set-up by  the
+Soviets and the their  supporters to eventually defeat  them and win the  series
+(in Moscow, symbolized by  Arc Valley). I like  to think of Odd  Eye as Vetislav
+Tretiak, and Bowie's victory over him representing Paul Henderson's game winning
+goal in the final victory. The victory over Zeon is more symbolic of the  defeat
+of the Russians as a whole. Of  course, like the Canadians as compared with  the
+Americans, the Shining Force was not as rag-tag in Shining Force 2, though  like
+in the Summit Series, the victory was a bit of an upset.
+
+-Please submit any more bugs and weird facts to sephirstein@hotmail.com.
+
+================================================================================
+=======
+15. F R E Q U E N T L Y  A S K E D  Q U E S T I O N S
+================================================================================
+=======
+
+1) How do I beat (insert boss here)?
+
+See my boss section.
+
+2) How do I get these cheat codes to work?
+
+I don't know. I was never  able to get them to work  on a real Genesis or on  an
+emulator.
+
+3) Where can I find SF1?
+
+Try your local used game store or go to a specialty store dedicated to gaming. I
+think Microplay, a franchise  in Canada, may have  used copies at some  of their
+stores (assuming there still  are some Microplays open).  You can get more  info
+about places to find the game and its  sequels and spinoffs in the US and UK  at
+Shining Force Central.  Don't forget to  check out online  auctions at Yahoo  or
+EBay.
+
+4) Where can I find the ROM?
+
+Moogie has all the  Genesis and Game Gear  Shining ROMs at her  Ultimate Shining
+Force 2. I recommend using Gens to  play it, as it is exponentially better  than
+any other Genesis emulator in existance.
+
+5) Do you have a website, Sephirstein?
+
+I'm sure nobody cares, but no, and I don't think I will in the near future.
+
+6) Where is the Forbidden Box?
+
+No one knows, so don't ask. You can use some hacking programs to get it  though.
+Supposedly it messes around with your characters' levels when you use them.
+
+7) What about the other useless items?
+
+See the useless item guide.
+
+8) Where do I find Hanzou, Musashi, Jogurt, Domingo and Kokichi?
+
+Hanzou:  In  Runefaust, look  in  the bushes  for  something that  looks  like a
+shuriken. Search it and Hanzou will join.
+
+Musashi: On one of the buildings in Prompt, there is something that looks like a
+small white piece of paper with  black text. Search it AFTER you  are imprisoned
+by the King of Prompt, and Musashi will be in HQ.
+
+Jogurt: He's somewhere around the chapel in the first Pao. Stand to the left  of
+the  friar and  he'll appear  just outside  of the  chapel. He  will now  be in
+headquarters. I think you can't get him until the town moves.
+
+Domingo: In  the town  of Manarina,  there's a  room with  a mage  and a strange
+machine. Search it for a Domingo Egg. Keep the egg with you until you get to the
+second Pao and give it  to a guy looking for  weird eggs. He'll get it  to hatch
+and Domingo will emerge from the egg and join your force.
+
+Kokichi: After you beat the Quarry Battle in Bustoke, explore the houses. One of
+the houses will have a guy trying to make a device to fly. Search the  machinery
+and he'll ask you to follow him.  The man, who is Kokichi, will test  the flying
+device and fall into the fields of  Pao. Wait until the next Chapter, and  he'll
+join you after the wagons in the first Pao move.
+
+9) I want my characters to level up, how do I do this?
+
+Kill  everything in  a battle  except one  enemy and  cast Egress  to leave  the
+battle. Keep  fighting the  battle over  and over  until you  reach the  desired
+level.
+
+10) Where is the dragon head with a chain that the King of Alterone talks about?
+
+Southwest of  the throne  not far  from a  waterfall. Note  that pulling it will
+accomplish nothing until you talk to the King upon beating the Alterone battle.
+
+11) How many times have you completed this game, Sephirstein?
+
+Many  times on  a Genesis  but I  no longer  have my  Genesis  and  I have  only
+completed once or twice using emulators.
+
+12) Is there an advantage to giving knights both a spear and a lance?
+
+Though lances are often more powerful than spears, it's also a good idea to give
+a knight a  spear as a  secondary weapon so  that they can  equip it and  attack
+enemies from a range of two squares if need be.
+
+13) I have  a new character  and they're not  appearing in battle,  how do I get
+them to join?
+
+Egress from the battle  and return to the  headquarters of the nearest  town and
+talk to Nova to  be given the option  of changing characters. Note  that you can
+only take 12 characters into battle at once.
+
+14) There's a chest in Alterone that's on an island surrounded by water. How  do
+I get it?
+
+I told you to explore everything. See what happens if you don't listen?  There's
+a girl near the water. Push the  nearby cart towards her and it will  splash mud
+on her. Talk to her and she'll push  you in the water. You can swim in  the area
+you're in and onto the island. Open  the chest (it contains a Power Potion)  and
+swim back to the mainland of the town.
+
+15) When and on whom should I use Power Potions and Defence Potions?
+
+Don't use them until you're promoted, otherwise, your stats will be lowered more
+than usual by your promotion. Just use them on whichever character you feel will
+most benefit from it. It's a judgement call really.
+
+16) Why do my stats go down when I promote characters?
+
+It's  part  of  the game.  Don't  worry  though, because  you  get  massive stat
+improvements when you level up. Just wait until at least Chapter 4, Battle 3  to
+start promoting characters.
+
+17) Are there any cheap tricks to make my characters stronger?
+
+Yes, when  using an  emulator, save  you're state  when you're  about to  gain a
+level. If you're not satisfied with your stat improvements, load your state  and
+keep trying till you get a good  level since level gains are random. Since  this
+is a form  of cheating, I  advise you to  actually beat the  game at least  once
+before you start  doing this. I  do, however, condone  doing this if  you gain a
+level in which your stats  do not improve at all  even if you have never  beaten
+the game.
+
+18) Some enemies have Shield Rings. How do I get one?
+
+You can't, as far as I know. Hack them in if you must.
+
+19) What are the URLs of all  the websites you mention above without giving  the
+URL?
+
+Read the links section.
+
+20) How do I use a special ability of an item or a weapon while in battle?
+
+Select use from the item menu and select the item you wish to use. Make sure  to
+repair the item at a weapon or item shop if you are warned of damage (ie.  smoke
+rises from the  heat axe or  the ring cracks).  You can load  your state if your
+piece of equipment is damaged and try again to make sure it doesn't get damaged.
+
+21) What do I do to finish the game after I've done everything that I needed  to
+in Runefaust and Runefaust Castle?
+
+Leave Runefaust and go to the westernmost point on the outdoor map. Now use  the
+Chaos Breaker from the wilderness and a castle will appear in the water. You can
+teleport to it from the nearby shrine.
+
+22) What are good areas to traun ridiculously strong characters?
+
+Any battle from the second battle on  Chapter 4 to the last battle of  Chapter 5
+is  good  because the  enemies  are insanely  weak  and give  a  good amount  of
+experience  until  your  levels  are quite  high.  Another  good  idea to  train
+characters with ranged weapons is too stand two squares from a boss who  doesn't
+move and has no ranged attacks or  has run out of magical ranged attacks.  Since
+the boss will recover HP and won't hurt you, you can do this indefinitely. I got
+Diane to  Level 16  unpromoted in  the first  battle of  Chapter 3 by using this
+trick on the Master  Mage boss. The battle  against Ramladu also works  for this
+trick. Keep killing the robots and than Egress. I heard you can get up to  Level
+40 Promoted with this trick. Thanks to Karl Plouffe for the Ramladu trick.
+
+23) When should I promote my characters?
+
+Don't  promote them  right away  when they  hit Level  10  or  the game  will be
+extremely tough. Get them up to Level 13  or 14 and promote them at Battle 2  of
+Chapter 4  (Battle 13).  You may  also be  better off  waiting until  there is a
+weapon available for a characters that is only usable when he or she is promoted
+(middle of  Chapter 5,  usually). This  does not  apply to  characters who fight
+unarmed.
+
+24) Why are General Elliot and Balbazak more resistant to magic than Darksol  or
+Dark Dragon?
+
+I know it makes no sense, but ask the programmers.
+
+25) What's the deal with Cain?
+
+Like they did with  much of the Phantasy  Star series, Sega of  America probably
+butchered a lot of the translation. The  error in which Kane was referred to  as
+"Cain" when you fought him was particularly glaring. I do not know why Sega  did
+this.
+
+26) Sephirstein, what's you're A/S/L?
+
+18/Male/Canada.
+
+27) Sephirstein, how did you first find Shining Force?
+
+I was bored one day  during the summer and rented  it at Microplay a year  or so
+after completing the sequel. I believe it was the summer of 1995.
+
+28) Why are Chapters 4 and 5 so much easier than the rest of the game?
+
+This is a questions I have pondered countless times while playing Shining  Force
+or working on this guide.  Fortunately, Sashanan proposed an interesting  theory
+in his magnificent Shining Force  review (available at GameFAQs). Basically,  he
+argues that Chapters 4  and 5 were dumbed  down to compensate for  the fact that
+you lose stats once  promoted. Unfortunately, this dumbing  down was taken to  a
+ridiculous extreme, and  characters start gaining  levels extremely quickly  for
+doing next to nothing upon being promoted. Since promoted level gains bring HUGE
+statistical increases, these enemies  quickly become outgrown, and  will provide
+no  challenge  whatsoever  to  the  force,  while  at  the  same  time  giving a
+considerable amount of experience.
+
+29) Why isn't the entire guide your original work?
+
+Put it this way, what's the point in going through the game to copy enemy, spell
+and item lists if its already been done? Besides, give ma a break. I did correct
+any errors that were found and I did have permission.
+
+30) Between the two Sega Genesis Shining force games, which is better?
+
+Whoa...This  one's a  toughie. Shining  Force 2  has considerable  better AI,  a
+cleaner and easier to use interface  (Shining Force is very annoying to  control
+for a while after  playing through SF2), far  better game balance, more  overall
+challenge (including a  much harder sequence  of battles approaching  the end of
+the  game), a  tougher  final  boss, a  longer game  more freedom,  more overall
+polish, and a better variety of character classes. In other words, Shining Force
+2  is  a  technically  superiour  game  that  reflects  the  experience  of  the
+developers. Shining Force, on the other hand, features more interesting  locales
+(nothing in SF2 even  touches Manarina or Waral),  a wider variety of  character
+designs (except of course for those  darn centaurs), and a more whimiscal  feel.
+In other words, it reflects upon the exuberance felt by the less experiences (at
+the time) developers.  I also find  that Shining Force  had nicer looking  enemy
+mages. As for story, it's really hard to compare the two. Both have stories that
+ultimately involve saving  the world from  the Devils, and  both have a  general
+lack of character development. SF2  has Peter, a deeper more  coherent story,and
+much better dialogue (in spite of some questionable translations). Shining Force
+has a funner  story though, and  the whimisical touch  and the exciting  locales
+really do a much better job of fleshing the world of Rune. Again, it's a toss-up
+between the technical  superiority of SF2,  and the artistic  superiority of the
+original (sorry for  sounding like a  figure skating judge).  Overall, they both
+tickle my fancy depending on my mood,  and I'll leave it to the reader  to judge
+the game from his/herself.
+
+31) How should I choose my Force?
+
+In  my opinion,  the question  of choosing  a Force  is much  more important  in
+Shining Force 2 than it is  in the original Shining Force, because  choosing the
+best mix of strength, mobility, and magic requires considerable more thought and
+can  make  the  difference  between  able  to  play  a  well-flowing,  technical
+masterpiece of a game with, little-to-no levelling up, and being forced to playa
+monotonous game of overpowered whack-whack,  in which most of the  game consists
+of greatly overpowering your force so as to completely outmuscle your enemies. I
+won't  go  into more  detail  to avoid  straying  too far  off  topic. The  most
+important thing to  consider when choosing  a Force in  Shining Force 1  is this
+single question: Do I  want to choose characters  such as Pelle or  Musashi, who
+will give me  good power right  out of the  box, or would  I rather spend  a few
+hours levelling-up someone  like Bleu, and  massacre everything in  my path with
+him for the rest of the game? Answer this question for yourself, and you'll have
+little-to- no-trouble choosing  the Force that's  right for you.  Just make damn
+sure you know how to tell the difference between a good Knight like Pelle and  a
+shit Knight like Ken.
+
+32) Why are there so many Knights anyways?
+
+Of the 30  characters in Shining  Force, there is  1 Hero, 1  Ninja, 1 Samurai 3
+Wizards, 1 Miscellaneous Magic Users, 2 Warriors, 4 Unarmed Physical Fighters  3
+Healers, 1  Monk (also  unarmed), 3  Archers, 2  Birdmen, 6  Centaur Knights,  2
+Miscellaneous Knights.  Needless to  say, these  numbers are  very unbalanced in
+favour of knights. Of course, the two Miscellaneous Knights (Guntz and  Kokichi)
+and Arthur are nice  to have, as they  are specialty characters with  attributes
+that differentiate  them from  generic Centaur  Knights. Having  5 other Centaur
+knights is ridiculous (especially considering that 3 of them suck pretty bad  to
+begin with),  and the  game was  designed that  way because  of artist laziness.
+Sorry, I  just can't  think of  a better  theory. Oh  well, at  least this  game
+doesn't have Higgins.
+
+33) How big a stat gain is possible upon gaining a level after promotion?
+
+Theoretically, I do  not know if  there is a  limit. The highest  I can remember
+gaining is  probably 12  Defence with Anri. Force2000  claims to have  gained 25
+Attack with Zylo. Submit any spectacular stat gains to me.
+
+================================================================================
+=======
+16. F U T U R E  P R O G R E S S
+================================================================================
+=======
+
+Note: There is no guarantee that any of these things will happen or that nothing
+else will happen.
+
+-I hope to eventually include  a statistical analysis of the  game's characters,
+as a opposed to just the subjective qualitative analysis I have now.
+
+-I hope  to eventually  HTMLize this  guide, now  that I  have more  than enough
+skills to do so. (Maybe someone can offer to do this: hint hint)
+
+-I hope to update Col. G. L.  Sicherman's enemy guide so that it includes  enemy
+statistics with weapons instead of without weapons (DONE).
+
+-I hope to fix any errors currently in the guide.
+
+================================================================================
+=======
+17. C R E D I T S
+================================================================================
+=======
+
+Moogie: For letting  me use the  information from Moogie  and Sir Fil's  Shining
+Force 1 Page (now defunct, though she has a new one) and for being the leader of
+the online Shining Force cmmmunity
+
+Sir Fil: For working with Moogie on Moogie and Sir Fil's Shining Force 1 Page.
+
+Col. G. L. Sicherman:  For allowing people to  make additions or corrections  to
+his walkthrough which gave me access to some information that saved me at  least
+a   few   days.   His  E-Mail   addresses   are   gls@atpsol.cvu.lucent.com  and
+gls@hrcms.att.com.
+
+CAmerica: For his excellent Shining  Force walkthrough even though I  didn't end
+up using it. (Captain-America3@yahoo.com)
+
+CJayC: For putting my guide on his webpage, GameFAQs and for working his ass off
+for the gaming community.
+
+Sega:  For  creating the  Genesis,  publishing SF1  and  releasing it  in  North
+America. Too  bad I  can't remember  the name  of the  developer. I think it was
+Sonic Team and Climax.
+
+Sardu (Bloodlust Software): For making Genecyst, my original emulator of  choice
+and the best DOS Genesis emulator
+
+Steve Snake: For making another great DOS-based Genesis emulator that I've  used
+in the passed, KGEN 98. Steve Snake  has now return, after a 3.5 year hiatus, to
+create Kega, an  exciting new Win9x/2k Genesis/Sega CD emulator.
+
+Stef: For creating  Gens, the best  Genesis/SegaCD/32x emulator ever  made. It's
+even Win9X/2K based.
+
+All other emulator authors and  emulation website maintainers: For making  great
+programs and allowing the emulation community to grow. All emulation fans go  to
+Zophar's Domain or  Emucamp if you've  never been there  as they are  both great
+sites with links and downloads of the aforementioned emulators.
+
+All ROM dumpers: For  dumping many ROMs (such  as SF1) for many  older videogame
+consoles.
+
+Corel: For making Corel WordPerfect 8 and  10, which I used to write this  guide
+before converting to a .txt file. 9 also kicks ass, but I never used it for this
+guide.
+
+Karl Plouffe: For telling me that trick to gain levels in the Ramladu fight  and
+for telling that Arthur doesn't suck if you actually promote him. E-Mail him  at
+Flame77@hotmail.com.
+
+Kao   Megura:  For   writing a   guide  that  helped  me   greatly  improve  the
+appearance, readability, format  and disclaimer  of  my guide. Hey  Kao,  thanks
+for helping me with that darn Gold Chocobo a few years ago.
+
+For anyone else  who has helped  me with this  guide or who  has posted my guide
+with permission.
+
+For everyone in the Shining community for allowing such an increible game series
+to live.
+
+Me: For writing this guide.
+
+Dallas: For his outstanding FAQ writing guide that introduced me to UltraEdit
+
+IDM Computer Solutions: For creating UltraEdit, an outstanding Notepad replacement
+
+The Government of Tokelau: For giving people free domain names. Faka fetai!
+
+================================================================================
+=======
+18. L I N K S
+================================================================================
+=======
+
+Moogie's Shining Force Central: shining.zophar.net (includes
+pages for many different shining games)
+
+GameFAQs: www.gamefaqs.com
+
+Zophar's Domain: www.zophar.net
+
+Emulation Camp: www.emucamp.com
+
+Genecyst: Defunct, get it at Zophar's Domain
+
+KGen/KGen 98: Defunct, get it at Zophar's Domain
+
+Kega: http://www.eidolons-inn.de/kega/
+
+Gens: go.to/gens
+
+Sega: www.sega.com
+
+Sashanan's Review: www.gamefaqs.com
+
+Kao Megura's Page: Defunct
+
+IDM Computer Solutions: www.UltraEdit.com
+
+Dallas: http://www.dallasmac.com/faqwarp/
+
+Free .tk Domain Names @ http://www.dot.tk
+
+================================================================================
+=======
+19. D I S C L A I M E R
+================================================================================
+=======
+
+This guide and everything included within this file cannot be reproduced in  any
+way, shape or form (physical, electronic, or otherwise) aside from being  placed
+on a freely-accessible, non-commercial web  page in it's original, unedited  and
+unaltered format.  This guide cannot be used for profitable purposes (even if no
+money would be made from selling it)or promotional purposes.  It cannot be  used
+in any sort of commercial transaction.  It cannot be given away as some sort  of
+bonus, gift,  etc., with  a purchase  as this  creates incentive  to buy  and is
+therefore prohibited.  Furthermore, this guide cannot be used by the publishers,
+editors,  employees or  associates, etc.  of any  company, group,  business, or
+association, etc., nor can it be used  by game sites and the like. It  cannot be
+used  in magazines,  guides, books,  etc. or  in any  other form  of printed  or
+electronic  media (including  mediums not  specifically mentioned)  in ANY  way,
+shape,  or  form (including  reprinting,  reference or  inclusion),  without the
+express written permission of the author, myself.  This guide was created and is
+owned  by  me,  Joshua Frappier  (Sephirstein@hotmail.com).  For  information by
+Moogie, you must get her or Sir  Fil's permission as well as mine if  you intend
+to use  the modified  versions present  in this  file. Col.  G. L. Sicherman has
+given permission for the contents of his walkthrough to be added to or corrected
+so go ahead  and use his  information however you  want as long  as you give him
+credit. Just don't copy his walkthrough and try to pass it off as your own. Also
+realize that I am not responsible for any harm that comes to you, your  Genesis,
+your PC, your game or your loved ones that is caused by this guide, the  Shining
+Force game or the  Shining Force ROM including  any legal consequences that  may
+arise from the  illegal use of  said ROM. Shining  Force is a  trademark of Sega
+Enterprises©) 1993 and all other copyrights and trademarks are acknowledged  and
+respected that are not specifically mentioned within the contents of this file.
+
+Unpublished Work Copyright Joshua Frappier (Sephirstein) 1999-2003
+
+
+
+
+
+
+
+

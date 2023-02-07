@@ -1,0 +1,613 @@
+ *****************************************************************************
+*                                                                             *
+*                                 WE RULE RED                                 *
+*                              FAQ/Strategy Guide                             *
+*                             V1.00    by ToiletPro                           *
+*                                                                             *
+ *****************************************************************************
+
+I have probably filled this guide with mistakes, completely by accident. I'd
+appreciate it if you let me know by sending me an email, which is all in the
+"Credits and Legal Info" section of the guide (at the end).
+
+Also, if you have any suggestions or ideas that you'd like to be put into the
+guide, please, let me know! I'd love to make this guide better.
+
+If you'd like this guide in non-plain-text form, you can get it at my website.
+http://sites.google.com/site/toiletproguides/guides/we-rule
+
+
+   #########################################################################
+   ###                                                                   ###
+   ###                          TABLE OF CONTENTS                        ###
+   ###                                                                   ###
+   #########################################################################
+
+
+I. Version history
+
+II. Getting started
+    A. What is We Rule RED?
+    B. Downloading and Plus+
+    C. Why another version?
+    D. The tutorial
+
+III. Farming guide
+     A. In general
+     B. Crop chart
+
+IV. Business guide
+    A. Making your own businesses
+    B. Ordering from others
+
+V. Mojo guide
+   A. What is Mojo?
+   B. How do you get Mojo?
+   C. Buying Mojo
+
+VI. Realms guide
+
+VII. Other stuff
+
+VIII. Credits and legal info
+      A. Credits
+      B. Copyright info
+      C. Contact info
+      D. Conclusion
+
+
+   #########################################################################
+   ###                                                                   ###
+   ###                        I. VERSION HISTORY                         ###
+   ###                                                                   ###
+   #########################################################################
+
+
+* Version 1.00 - Submitted on 21 July, 2010.
+                 Modified this guide from my main We Rule guide (it's hardly
+                 different) and submitted it. Here's a list of things that I
+                 changed:
+                 * Changed "We Rule" to "We Rule RED" in some places
+                 * Changed download links to the one download link
+                 * Added a "Why another version?" section
+                 * Removed information about We Rule RED
+
+
+   #########################################################################
+   ###                                                                   ###
+   ###                      II. GETTING STARTED                          ###
+   ###                                                                   ###
+   #########################################################################
+
+
+=======================
+A. What is We Rule RED?
+=======================
+
+We Rule is a social kingdom game by developers ngmoco and Newtoy for iOS
+devices. Players build and expand their kingdoms, making money with
+businesses, farms, and help from other players.
+
+We Rule RED is simply an alternate app for We Rule. It gives existing players
+10 extra Mojo (see the "Why another version?" for more information).
+
+========================
+B. Downloading and Plus+
+========================
+
+Download We Rule RED from the iTunes App Store by simply searching for it, or
+by downloading it from the link below:
+
+http://itunes.apple.com/us/app/we-rule-red/id368843783?mt=8
+
+Once you've downloaded We Rule RED, you need to log in to a Plus+ account.
+Plus+ is a social gaming network (similar to Xbox Live) created by ngmoco. If
+you already have an account, log in. If not, create an account and you can
+begin.
+
+=======================
+C. Why another version?
+=======================
+
+There is already an app that is ALMOST identical to this one: the original We
+Rule title for the iPhone.
+
+For users, the main difference is that if you already have a We Rule kingdom,
+installing We Rule RED gives players 10 extra Mojo.
+
+ngmoco's reason for this is a bit more complicated. If the original We Rule
+hits the top of the app lists, it'll be downloaded a lot, but will
+eventually go off of those lists. We Rule RED is a new app that will attract
+old players (for the free Mojo) to bump a We Rule title back up the charts.
+
+===============
+D. The tutorial
+===============
+
+Tap to enter your kingdom (it's on the left), and your tutorial will begin. Pay
+attention to the tutorial -- this knowledge will be useful for the rest of the
+game.
+
+Objective: Build a Farm
+-----------------------
+
+Welcome to your kingdom! It's rather sparse right now, but in a few minutes,
+it'll be beautiful. I promise.
+
+You need to build a farm to get the ball rolling. Click on the Build menu at
+the bottom-right (it's a picture of a hammer). In the menu that pops up, click
+on "Farm" and place it somewhere in your kingdom by clicking the green button.
+
+When you complete this first objective, you'll get 25 XP.
+
+Objective: Harvest
+------------------
+
+After your farm has been built, you need to grow some crops in it. Tap your
+newly-built farm and select the only product you can grow: corn.
+
+Wait 45 seconds for it to grow. When it does, click on it to harvest the corn.
+Each product gives you a certain amount of coins and XP; in corn's case, you
+will get 5 coins and 1 XP.
+
+After harvesting some corn, you'll get 500 coins and 25 XP (but just this once,
+not every time you harvest corn).
+
+Objective: Build more Farms
+---------------------------
+
+Like you did before, go back into the Build menu and select Farm. This time,
+however, build two farms. You can place them wherever you want.
+
+After building two farms, you'll get 40 XP.
+
+You should also level up to Level 2. You should now be able to harvest Wheat,
+build one more farm, and use 3 Mojo (which we'll learn about in a bit).
+
+Objective: Use your Mojo
+------------------------
+
+Plant some Wheat in one of your farms. Wheat usually takes 5 minutes to
+harvest, but we're going to use Mojo to speed it up. Click on the farm again
+and click the blue "Use Mojo" button, and your crop will be harvested
+instantly.
+
+You'll receive 100 coins and 50 XP for completing this objective.
+
+Objective: Decorate
+-------------------
+
+This next objective asks you to plant 5 pine trees. Go into the Build menu
+and click on the green tree tab. The first item (and the only that isn't
+locked) is the Pine Tree. Select it and build five of them anywhere in your
+kingdom.
+
+When you plant the trees, you'll get 50 XP.
+
+You'll also level up, unlocking a number of things. Most notably, you'll now be
+able to harvest onions and you'll also gain 4 Mojo.
+
+Objective: Build a Cottage
+--------------------------
+
+This next objective will ask you to build a cottage. Unfortunately, you may not
+have enough coins to do that (you need 100). To get that money, plant some
+crops. If you're going to be actively playing for some time, Corn will yield
+the most profit in the shortest time. However, if you're going to be away for
+an hour, plant Onions. You could also plant Onions and use Mojo.
+
+Once you have at least 100 coins, go into the Build menu and build an Orange
+Cottage. Place it anywhere in your kingdom.
+
+Building this cottage will give you 50 XP.
+
+Objective: Collect Taxes
+------------------------
+
+The cottage will need to be constructed, which takes two minutes. But after
+that, the people in your cottage will be "out laboring" for 4 hours. When they
+return, you can collect taxes.
+
+Go do something else for 4 hours. If you want, plant some Onions, let them
+grow, and then come back in an hour.
+
+Collecting these taxes will give you 50 XP.
+
+Objective: The Social Map
+-------------------------
+
+This objective will take you back to the "Social Map," where you can see the
+kingdoms of all your We Rule friends.
+
+If you don't have any friends, you can invite some or check the myriad "add me"
+threads on various message boards (GameFAQs is one of them). To add someone,
+go to the Social Map and click the Plus+ icon at the top. The Plus+ interface
+will appear. Go to the Friends tab at the middle of the bottom. Click the + at
+the top-right to add a friend.
+
+Once you visit someone else's kingdom, come back to yours and you'll receive
+100 XP.
+
+Objective: Expand your Kingdom
+------------------------------
+
+If you've reached Level 4 (which you probably have), you can upgrade your
+kingdom and your castle. This costs 750 coins. It'll take awhile, but you can
+farm your way there. You may wish to buy another farm to speed up your farming.
+
+When you have enough money, go to the Build menu and click on the gray castle
+tab. Doing this will expand your kingdom by 30%, give you a prettier castle,
+and 100 XP.
+
+Objective: Hire your Friend
+---------------------------
+
+You'll need to go back to the Social Map for this one. Go look for a kingdom
+that has an "Open" sign over it. In that kingdom, there should be a building
+with the same sign. Click on that building and order their services.
+
+Return to your kingdom and receive 1000 coins and 300 XP.
+
+And that's the whole tutorial! You're done.
+
+
+   #########################################################################
+   ###                                                                   ###
+   ###                         III. FARMING GUIDE                        ###
+   ###                                                                   ###
+   #########################################################################
+
+
+Farming is a good way to make money and gain XP. You have a variety of crops to
+choose from, with varying harvest times and profits to be made.
+
+=============
+A. In general
+=============
+
+Here are some general tips for making farming awesome:
+
+* Always maximize the number of farms that you have.
+
+* If you're playing actively, Corn gives the most coins. Wheat gives the most
+  XP.
+
+* Try to have something growing at all times. If you're coming back in five
+  minutes, grow Wheat. If you're going to sleep, grow Potatoes or Oats. Don't
+  rework your real life around We Rule, though. Because that makes you too
+  obsessed.
+
+* There's a great web app, accessible from a desktop computer, iPhone, iPod
+  Touch, or iPad. It's called CropCalc, and it figures out the best crop to
+  harvest based upon what level you're at and when you're available to play.
+  Use it when deciding what crops to crow (if you're not sure).
+  http://werule.moodbenders.nl/
+
+=============
+B. Crop chart
+=============
+
+Here is a list of crops and data about them. You can analyze this data, but
+you could also just use CropCalc: http://werule.moodbenders.nl/
+
+   .--------------.------------------------------------------------------.
+   | Crop name    | Lvl. | Cost | Time | Profit | XP  | Coins/hr | XP/hr |
+   |--------------|------|------|------|--------|-----|----------|-------|
+   | Corn         | 1    | 0    | 45s  | 5      | 1   | 397      | 80    |
+   | Wheat        | 2    | 5    | 5m   | 20     | 8   | 250      | 96    |
+   | Onions       | 3    | 25   | 1h   | 100    | 40  | 100      | 40    |
+   | Beans        | 4    | 85   | 1d   | 340    | 140 | 14       | 5.833 |
+   | Squash       | 5    | 45   | 5h   | 180    | 75  | 36       | 15    |
+   | Carrots      | 6    | 65   | 12h  | 260    | 105 | 22       | 8.75  |
+   | Strawberries | 8    | 30   | 1.5h | 120    | 50  | 80       | 33.33 |
+   | Pumpkins     | 9    | 40   | 3h   | 160    | 65  | 53       | 21.67 |
+   | Potatoes     | 10   | 50   | 6h   | 200    | 80  | 33       | 13.33 |
+   | Asparagus    | 11   | 500  | 1d   | 1250   | 350 | 52       | 14.58 |
+   | Peas         | 12   | 20   | 30m  | 80     | 33  | 160      | 66    |
+   | Watermelon   | 13   | 75   | 16h  | 300    | 125 | 19       | 7.813 |
+   | Artichokes   | 14   | 80   | 18h  | 320    | 120 | 18       | 6.667 |
+   | Rice         | 15   | 10   | 15m  | 55     | 22  | 220      | 88    |
+   | Peppers      | 16   | 60   | 10h  | 255    | 105 | 26       | 10.5  |
+   | Cauliflower  | 17   | 750  | 1d   | 2250   | 500 | 94       | 20.83 |
+   | Broccoli     | 18   | 45   | 2h   | 130    | 58  | 65       | 29    |
+   | Lettuce      | 19   | 55   | 4h   | 160    | 70  | 40       | 17.5  |
+   | Eggplant     | 20   | 15   | 18m  | 60     | 25  | 180      | 83.33 |
+   | Oats         | 21   | 60   | 8h   | 240    | 100 | 30       | 12.5  |
+   | Cotton       | 22   | 100  | 1d   | 400    | 165 | 17       | 6.875 |
+   | Pineapples   | 23   | 70   | 15h  | 305    | 130 | 20       | 8.667 |
+   | Tomato       | 24   | 20   | 30m  | 95     | 35  | 190      | 70    |
+   | Radishes     | 25   | 50   | 5h   | 200    | 85  | 40       | 17    |
+   '--------------'------------------------------------------------------'
+
+We see that, in general, shorter times means more coins per hour and more XP
+per hour. Wheat is best for XP, and Corn is best for money.
+
+
+  #########################################################################
+  ###                                                                   ###
+  ###                         IV. BUSINESS GUIDE                        ###
+  ###                                                                   ###
+  #########################################################################
+
+
+There are a variety of businesses available in We Rule, from Tailor Shops to
+Windmills to Dragon's Lairs. Players can order services from other players,
+giving both of them coins and XP.
+
+=============================
+A. Making your own businesses
+=============================
+
+Making your own businesses is fairly simple -- simply enter the Build menu and
+make a business. After it's constructed, it's ready for action!
+
+In general, it is best to create businesses that cost more. While they may set
+you back a lot, they pay themselves back very quickly, especially when other
+players order from you. The more expensive the business, the more money and XP
+you can make.
+
+After you make these businesses, make sure you've got some buddies on Plus+ to
+order from you. You make much more money and XP when other players order from
+you than if they don't (though you still do make some money and XP).
+
+=======================
+B. Ordering from others
+=======================
+
+Go to the Social map and look for other kingdoms that have an "Open" sign on
+them. Order from their businesses. This benefits them and you -- do it!
+
+It's always a good idea to order from businesses that give you the highest
+coins and XP.
+
+
+  #########################################################################
+  ###                                                                   ###
+  ###                           V. MOJO GUIDE                           ###
+  ###                                                                   ###
+  #########################################################################
+
+
+================
+A. What is Mojo?
+================
+
+Mojo is a magical liquid that speeds things up. Construction, business orders,
+and crop-growing can take hours. If you use Mojo, it can be completed in
+seconds.
+
+=======================
+B. How do you get Mojo?
+=======================
+
+You can get Mojo in one of three ways:
+
+1. Buying it from the Mojo Store (see section below) using real money.
+
+2. Get it when you level up.
+
+3. Get it from downloading "special offers" applications, which will be
+   advertised on login. These apps are usually free, so if you'd like some
+   Mojo, this is a great way to get it.
+
+==============
+C. Buying Mojo
+==============
+
+If you want to spend your real-life money on Mojo, go for it. In general, the
+best value is the higher amounts of Mojo, though you may not want that much.
+
+I've never spent a dime on Mojo, so don't feel like you have to. I don't often
+use Mojo, so there's no need for me to buy it.
+
+Here a chart showing the cost of Mojo, the amount you get, and the cost per
+Mojo, in US Dollars:
+
+                  .----------------------------------------.
+                  | Name    | Amount | Cost   | $ per Mojo |
+                  |----------------------------------------|
+                  | Flask   | 30     | $4.99  | $0.17      |
+                  | Bottle  | 75     | $9.99  | $0.13      |
+                  | Carafe  | 165    | $19.99 | $0.12      |
+                  | Case    | 300    | $29.99 | $0.10      |
+                  | Vintage | 800    | $49.99 | $0.06      |
+                  '----------------------------------------'
+
+We see that the best deals are on the more expensive containers.
+
+Once again, don't feel that you have to pay for it to do well in the game -- I
+seldom USE Mojo, let alone buying it.
+
+
+  #########################################################################
+  ###                                                                   ###
+  ###                          VI. REALMS GUIDE                         ###
+  ###                                                                   ###
+  #########################################################################
+
+
+Realms are a rather new addition to We Rule. They allow the player to expand
+their land into another, separate area. They are then accessed by clicking on
+an arrow on the edge of your main realm.
+
+The first realm (the South Realm) is unlocked at level 15, and is free. The
+other compass directions are unlocked at levels 20, 25, and 30, and each cost
+150,000 coins. You can later expand them for more coins.
+
+Realms have the advantage that they give the player more land. They have the
+disadvantage, however, that lazy neighbors won't go to your realm to order from
+your businesses. I'd recommend putting your decorations and farms there, and
+other things that don't require other players (such as Cottages).
+
+At the moment, you cannot move buildings/etc from one realm to the other. It
+was said in the following tweet from @WeRuleGame:
+
+  " Currently things can't be moved from one Realm to another for all those "
+                asking. You'll need to raise new structures!  
+              http://twitter.com/werulegame/status/17101776114
+
+
+  #########################################################################
+  ###                                                                   ###
+  ###                          VII. OTHER STUFF                         ###
+  ###                                                                   ###
+  #########################################################################
+
+
+Awards
+------
+
+There are a bunch of Awards that you can get in We Rule. You can see them by
+going to the Plus+ menu at the top-right. Each award gives your Plus+ profile
+more points, but that's all it does.
+
+There are 500 points to be had in We Rule:
+
+* Castle Builder I - 15 points
+  Upgrade your castle and expand your kingdom. You'll need to be at level 4 and
+  have 750 coins to get this.
+
+* Castle Builder II - 25 points
+  Upgrade your castle and expand your kingdom. You'll need to be at level 10
+  with 3000 coins to get this.
+
+* Castle Builder III - 35 points
+  Upgrade your castle and expand your kingdom. This upgrade is available at
+  level 15 for 15,000 coins.
+
+* Social Butterfly I - 15 points
+  Create a connection with 1 of your friends. Be ordered from or order from one
+  friend.
+
+* Social Butterfly II - 25 points
+  Create a connection with 5 of your friends. Be ordered from or order from
+  five friends.
+
+* Social Butterfly III - 35 points
+  Create a connection with 10 of your friends. Order from or be ordered from 10
+  friends.
+
+* City Builder I - 15 points
+  Build a Tailor, a Schoolhouse, and a Mining Camp. You'll need 5000 coins to
+  buy these three.
+
+* City Builder II - 25 points
+  Build a Lumber Mill, Windmill, and Guild Hall. You'll need 17,500 coins for
+  these.
+
+* City Builder III - 35 points
+  Build a Bakery, a Butcher, and a Stables. This'll cost 44,000 coins.
+
+* City Builder IV - 50 points
+  Build a Tavern, a Magic Emporium, and a Candle Maker. This costs 95,000
+  coins.
+
+* Forester I - 15 points
+  Plant 20 trees. This costs 500 coins for the cheapest trees, but you may want
+  to go for the following two awards before you plant the rest of them.
+
+* Forester II - 25 points
+  Plant 3 Weeping Willows. This costs 1200 coins.
+
+* Forester III - 35 points
+  Plant 3 Lightning Bug Trees. This costs 1800 coins.
+
+* Tax Collector I - 15 points
+  Build 5 cottages. This costs 500 coins.
+
+* Tax Collector II - 25 points
+  Build 10 cottages. This costs 1000 coins.
+
+* Tax Collector III - 35 points
+  Build 20 cottages. This costs 2000 coins.
+
+* Banker I - 15 points
+  Collect 2,000 coins.
+
+* Banker II - 25 points
+  Collect 10,000 coins.
+
+* Banker III - 15 points
+  Collect 100,000 coins.
+
+Community resources
+-------------------
+
+ngmoco has a Twitter page set up for We Rule. If you want to get short updates
+or ask questions, follow @WeRuleGame on Twitter.
+
+* http://twitter.com/werulegame
+
+There are a number of forums in which players can exchange Plus+ usernames to
+help out with businesses and discuss the game.
+
+* Mojo-Farm Forum
+  http://www.serifwebresources.com/phpBB2/?forumid=339260
+
+* GetSatisfaction We Rule forum
+  http://getsatisfaction.com/ngmoco/products/ngmoco_we_rule
+
+* GameFAQs Message Boards for We Rule
+  http://www.gamefaqs.com/boards/993140-we-rule
+
+Move the loading screen
+-----------------------
+
+On the loading screen, there will be a banner that appears a few moments after
+the first one. You can flick it around and see that it's just an image overlay.
+
+We Rule GOLD
+------------
+
+We Rule GOLD is the exact same app as We Rule and We Rule RED, but if you
+already have another We Rule kingdom, you'll be given 10 free Mojo.
+
+
+   #########################################################################
+   ###                                                                   ###
+   ###                    VIII. CREDITS AND LEGAL INFO                   ###
+   ###                                                                   ###
+   #########################################################################
+
+
+==========
+A. Credits
+==========
+
+* ngmoco and New Toy for making We Rule and We Rule RED.
+
+* Me, ToiletPro. I wrote this.
+
+=================
+B. Copyright info
+=================
+
+This FAQ was written by ToiletPro and is licensed under the Creative Commons
+Attribution 3.0 United States License.
+
+Visit for more info: http://creativecommons.org/licenses/by/3.0/us/
+
+When giving credit, I'd love it if you linked to http://toiletpro.tumblr.com/
+but you can just credit ToiletPro if you must.
+
+===============
+C. Contact info
+===============
+
+If you wish to contact me, please send me an email. And please don't spam me.
+My email is below, but replace the "at" with @ and "dot" with a period.
+
+toiletpro at gmail dot com
+
+Visit my website.
+
+http://toiletpro.tumblr.com/
+
+=============
+D. Conclusion
+=============
+
+And there's my guide to We Rule RED! I hope it's helped you have great success
+in your kingdom!
+
+- ToiletPro

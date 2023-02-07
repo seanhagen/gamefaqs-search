@@ -1,0 +1,217 @@
+                       *********************************
+                                    TAKARA's
+                                  Fatal Fury 2
+                             For The Super Nintendo
+                         Written By Positive Individual
+                         (Formerly TBO a.k.a. Gamer 12)
+				Copyright (C) 2003
+                       **********************************
+
+
+
+  _/_/_/_/_/_/_/_/_/_/
+_/Table of Contents_/
+_/_/_/_/_/_/_/_/_/_/
+01. Updates (History)
+02. Intro
+03. Basics - Controls
+   -Direction Pad Controls
+   -Button Controls
+04. Into Mai Shiranui, "The Enchanted Ninja Maid"
+   -Character Background
+   -Movelist
+   -Combos
+   -Extra Information
+05. Codes
+06. Tips and Tricks
+07. Thank You's
+08. Copyright - About 
+
+
+
+  _/_/_/_/_/_/_/_/_/_/_/
+_/U  P  D  A  T  E  S_/
+_/_/_/_/_/_/_/_/_/_/_/
+
+12/20/99 - vERSION 0.0: Started my sixth FAQ and this time it's my first character 
+guide. 
+
+01/18/03 - vERSION 0.1: VERY small update, only a few edits - nothing added.
+
+
+
+  _/_/_/_/_/_/_/_/_/_/_/_/
+_/I    N    T    R    O_/
+_/_/_/_/_/_/_/_/_/_/_/_/
+   
+  I decided to write this Mai Shiranui Character Guide because first off I've 
+never done one, second I really liked Mai when I saw her on Samurai Showdown 
+(SNES, Cameo appearance or even possibly as a secret character!), and third she 
+just looks like a good all around character. As more updates come, I hope that this Guide 
+will be more indepth, complete, and full or facts about this character. In the 
+mean time, Enjoy!
+
+
+
+  _/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
+_/B A S I C S - C O N T R O L_/
+_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
+
+*Note: Sometimes I may just put out the complete direction to do certain moves 
+(e.g. F is Forward. So I'll just have the word "Forward" instead of "F")
+
+([ Direction Pad Controls ])
+U- Up
+D- Down
+F- Forward
+B- Backward
+
+QCF- Quarter Circle Forward ( D,DF,F )
+QCB- Quarter Circle Back ( D,DB,B )
+HCF- Half Circle Forward ( B,DB,D,DF,F )
+HCB- Half Circle Back ( F,DF,D,DB,B )
+Air- While in the air
+
+([ Button Controls ])
+Light Punch- Y                 Light Kick- B 
+Hard Punch- X                  Hard Kick- A
+
+Knock Opponent to Background/Foreground- L
+Jump To Background/Foreground- R
+Side Step- Up/Down (When opponent is on the background/foreground)
+
+Start- Start/Pause        Select- Nothing
+
+Taunt-
+Depending on where you stand and how far away from the opponent you are, press X 
+once or twice. Mai should taunt by standing up-straight fannig her face while 
+laughing at the opponent.
+
+  _/_/_/_/_/_/_/_/_/_/
+_/Into Mai Shiranui_/
+_/_/_/_/_/_/_/_/_/_/
+
+Name: Mai Shiranui
+Fighting Style:  Ninjutsu
+Birth:  January 1, 1974
+Origin:  Japan
+Location:  Aokigahara, Japan
+Blood Type:  B
+Height:  164cm
+Weight:  50kg 
+Size:  Bust 85cm | Waist 54cm | Hip 90cm | Foot 24cm
+Hobby:  Cooking Osechi (New Years') dishes
+Favorite Food:  Ozoni
+Best Sport:  Battledore (similar to badmitton) 
+Important Value:  Kansashi from her Grandmother
+Favorite Music:  Heavy Metal
+Dislikes:  Bears
+
+````````````````````````````````````````````````````````````````````````````````
+Move                                          How To Perform Move
+````````````````````````````````````````````````````````````````````````````````
+*** Throws ***
+Leg Throw                                     Forward + C
+Cherry's Dream                                Down + C
+
+*** Special Moves ***
+Dragon Flame Fandango                         Down,Down-Back,Back + A/C
+Deadly Ninja Bees                             HCF + B/D
+Butterfly Fan                                 QCF + A/C
+Squirrel Attack                               Down(CH),Up + C
+Cho Hisatsu Shinobibachi                      Forward,Down-Back,Forward + B+C
+
+
+===================================
+"Special" Names | Traditional Names
+===================================
+
+Leg Throw                                  Leg Throw
+Cherry's Dream                             Yumezakura 
+Dragon Flame Fandango                      Ryuenbu 
+Deadly Ninja Bees                          Hisatsu Shinobibachi 
+Butterfly Fan                              Kachosen 
+Squirrel Attack                            Musasabi-no Mai 
+Cho Hisatsu Shinobibachi                   Cho Hisatsu Shinobibachi 
+
+
+======
+Combos
+======
+
+None Yet
+
+==========
+Extra Info
+==========
+On Mai's stage [Background is completely water filled and you fight on a log 
+type of stage], Some guy (looks like Hanzoh from World Heroes) "surfs" by on a 
+fish.
+
+Character Rankings (From Galen Komatsu FF2 FAQ/Movelist and Gamest Magazine):
+
+Fatal Fury 2  (from June 1993 GAMEST)
+      | C  J  A  K  M  T  J  B |
+      | h  o  n  i  a  e  u  e | Totals
+______|_e__e__d__m__i__r__b__a_|_________
+Cheng | -  5  6  5  5  6  7  8 | 42  + 6
+Joe   | 5  -  6  6  5  6  5  7 | 40  + 4
+Andy  | 4  4  -  5  6  6  6  6 | 37  + 1
+Kim   | 6  4  6  -  5  5  6  6 | 36  -+0
+Mai   | 6  6  4  6  -  6  6  4 | 35  - 1
+Terry | 4  4  4  5  4  -  5  6 | 32  - 4
+Jubei | 3  5  4  4  4  5  -  7 | 32  - 4
+Bear  | 2  3  4  4  6  4  3  - | 26  -10
+
+
+
+  _/_/_/_/_/_/_/_/_/_/
+_/C   O   D   E   S_/
+_/_/_/_/_/_/_/_/_/_/
+
+Sound Test:
+Pause the game during a battle and press A, B, C, D, A for a sound test.
+
+
+
+  _/_/_/_/_/_/_/_/_/_/_/_/_/
+_/T I P S  &  T R I C K S_/
+_/_/_/_/_/_/_/_/_/_/_/_/_/
+
+None yet
+
+
+
+  _/_/_/_/_/_/_/_/_/_/_/_/
+_/ T H A N K  Y O U 'S _/
+_/_/_/_/_/_/_/_/_/_/_/_/
+
+Here is a "Thank You" list to those who have contributed to the making of this 
+Character Guide.
+
+* Galen Komatsu (gkomatsu@uhunix.uhcc.hawaii.edu) for letting me have permission 
+to base parts of this character guide on his Complete Fatal Fury 2 Movelist.
+
+* Takara for making some great fighting games like the Fatal Fury Series.
+
+* GameFAQs for having/posting up my other FAQ, Movelists, and Walthroughs.
+
+
+
+  _/_/_/_/_/_/_/_/_/_/_/
+_/ Copyright - About _/
+_/_/_/_/_/_/_/_/_/_/_/
+
+This FAQ, Walkthrough, Startegy, Guide, and/or Movelist; along with any other
+of my works, can be downloaded at www.GameFAQs.com ONLY. This is the only
+website I actually visit when it comes to gaming help and what-not; so from now
+on, anyone asking to post this FAQ on their site can get my answer... NO!
+Sorry, but I honestly can't visit every gaming website for walkthroughs and
+cheats.
+
+This FAQ is also Copyright (c) C.T. Unonu 2003 and can not be altered,
+modified, or used in print without my consent AND permission. That includes
+being sold. It is not to be made profit off of in anyway without WRITTEN and
+SIGNED permission by myself.
+
+This FAQ made using Microsoft Notepad and/or Miscrosoft Word 97/2000

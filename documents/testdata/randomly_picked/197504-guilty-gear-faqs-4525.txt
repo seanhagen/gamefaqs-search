@@ -1,0 +1,716 @@
+  _____         _  _  _             _____
+ / ____|       (_)| || |           / ____|
+| |  __  _   _  _ | || |_  _   _  | |  __   ___   __ _  _ __
+| | |_ || | | || || || __|| | | | | | |_ | / _ \ / _` || '__|
+| |__| || |_| || || || |_ | |_| | | |__| ||  __/| (_| || |
+ \_____| \__,_||_||_| \__| \__, |  \_____| \___| \__,_||_|      
+                            __/ |
+                           |___/   Version 1.6 Copyright 1999 Valsoft.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+This Faq should only be available at 
+                        http://www.gamefaqs.com 
+                        http://www.console-gamer.com
+                        http://www.allanime.com
+
+
+Table of Contents
+Whats New!..................Section N=New
+Legal Items.................Section L=Law
+Story.......................Section A
+Controls....................Section B
+Credit......................Section C
+Instant Kill and Codes......Section D
+Strategies..................Bottom of Faq
+Rival List..................Bottom of Faq
+Recognition.................Bottom of Faq
+
+Character Profiles with Moves 
+
+Sol Badguy..................Section I
+Ky Kiske....................Section II
+May.........................Section III
+Kliff Undersn...............Section IV
+Potemkin....................Section V
+Axl Low.....................Section VI
+Zato-ONE....................Section VII
+Chipp Zanuff................Section VIII
+Dr. Baldhead................Section IX
+Millia Rage.................Section X
+
+Secret Characters and Moves
+Justice.....................Section XI
+Testament...................Section XII
+Baiken......................Section XIII
+
+***********************************************************************
+Section N--Whats New!
+***********************************************************************
+v1.5 to v1.6
+1. New Ascii Logo
+2. Trying to position it correctly.
+
+v1.4 to v1.5
+1. Added an Ascii Logo made with SigZag. Good program indeed.
+
+v1.3 to v1.4
+1. Added another site which holds this faq exclusively.
+
+V 1.2 to 1.3
+1. Thanks to Britt King for sending in the other half of the Rival List.
+2. Few more grammar and spelling corrections.
+3. Added Recognition section
+------------------------------------------------------------------------
+
+V 1.1 to 1.2
+1. I have added part of the Rival List, located at bottom of page.
+2. A few more grammar changes.
+------------------------------------------------------------------------
+V 1.0 to 1.1
+
+1.Added a comment about the Character Code in Section D.
+2.Added a few more Basic Strategies towards the bottom of the page.
+3.Fixed the note on how to obtain Baiken located on bottom of page.
+4.Fixed a few spelling errors, if you see anymore please tell me.
+
+***********************************************************************
+Section L--Legal Items
+***********************************************************************
+Neither the author of this FAQ, nor any person who distributes it in any 
+way, shall be responsible or liable for anything that results from using 
+this FAQ for any purpose. This FAQ may be freely distributed provided 
+that it is kept unmodified and in its entirity. This FAQ may not be 
+sold, or included as part of a publication that is sold, without the 
+author's express permission. Guilty Gear was made by(c) ARC System Works 
+and Team Neo Blood, 1998. The use of any trademarks within this FAQ is 
+not intended to represent a challenge to their validity.
+
+***********************************************************************
+Section A--Story 
+***********************************************************************
+
+ The 22nd Century... Mankind has succeeded in his dream of developing a 
+natural, limitless energy supply. It was the dawning of the Age of 
+Magic.
+ Science and industry, the source of enviromental pollution and weapons 
+of mass destruction, were outlawed. This controversial decision was to 
+bring history as mankind knew it to an end...
+ However, the abolition of technology did little to soothe mankind's 
+suffering. A war erupted, fueled by fearsome weapons based on rapidly 
+developing magical theory. Eventually, shockingly powerful biological 
+weapons were produced by fusing human and animal DNA with magic, 
+resulting in a horrible mix of vitality and raw strength. This was the 
+birth of the Gears.
+ The powerful military state that produced the Gears monopolized the 
+manufacturing process, bringing countless other lands under its control. 
+These Gears were designed to be litle more than slaves, incapable of 
+independant thought. Yet from among their ranks a rebel appeared, 
+announcing himself to be self-aware. This insurrectionist, calling 
+himself Justice, gathered an army of fellow Gears and declared war on 
+all mankind. Despite heavy initial casualties to these renegade Gears, 
+the humans put their differences aside and formed an elite group of 
+warriors to combat the Gear menace. This group of brave heroes became 
+know as the Sacred Order of Holy Knights. One hundred years of brutal 
+war later...
+ The fierce battle between the Gears and the humans, which had become 
+known as the Crusades, was finally at an end. The heroic Sacred Order 
+had sealed Justice inside an impenetrable dimensional prison, and it was 
+only a matter of time before the remaining masterless Gears were rounded 
+up and destroyed.
+ However, five years after the end of the Crusades, the walls of 
+Justice's dimensional prison have unexpectedly begun to erode away. 
+Assessing the threat before them, the world's leaders quickly organize 
+an internalional fighting tournament to select members for a proposed 
+Second Sacred Order of Holy Knights. Astoundingly, the prize for this 
+tournament was said to be literally anything one desired: The victor 
+would get to make a single wish... any wish at all.
+ Yet in the panic surrounding the imminent decay of Justice's 
+dimensional prison, few seemed to take notice of the rather suspicious 
+rules of this tournament, such as the welcoming of criminals, and the 
+permission to shed blood during the matches...
+
+***********************************************************************
+Section B--Controls
+***********************************************************************
+Note: If you have the dual shock controller and want the rumble 
+function, enter options menu and turn it on.
+
+F : Foward
+B : Back
+D : Down (Crouch)
+U : Up (Jump) - 2x 
+    Continue this with FF, BB to Fly
+
+
+P : The PUNCH button (Square by default)
+K : The KICK button (X by default)
+WS : The WEAK SLASH button (Triangle by default)
+HS : The HEAVY SLASH button (Circle by default)
+S : Either the WEAK SLASH or HEAVY SLASH button
+L1 : The TAUNT button 
+R1 : The CHARGE button 
+Start button.... Pause Game
+Select button....Open Exit menu while paused
+ 
+  Note: All moves in this faq assume that you are facing right, the                                
+Player 1 side. Reverse commands if facing the opposite.
+
+************************************************************************
+Section C--Credit
+************************************************************************
+ This is my first attempt at creating a faq. I have done all I could to 
+make this as detailed as possible so that you will not have any 
+difficulties playing and enjoying this game. I would like to thank Atlus 
+for publishing Guilty Gear they made an awesome choice, and I hope that 
+Arc Systems and Team Neo Blood create a second installment.
+
+If you have any problems in regard to this faq,send questions & comments 
+to:                       valkryie@ignmail.com
+
+************************************************************************
+Section D--Instant Kill and Codes
+************************************************************************
+Note:Do not learn, but master the Instant Kill move and how to evade it,      
+god knows how many times I fell victum to the Computer.
+
+Instant Kill-Works with all characters
+
+Press P + K (Close to opponent) Screen will flash Red
+      In this instant(during Red screen) press
+      D,DF,F + P + K if it connects you will know
+
+To evade the Instant Kill
+
+      When the screen turn Red(from your opponents actions)
+      Quickly do the instant kill backwards
+      D, DB,B + P + K
+
+Codes-How to Obtain Justice, Testament and Baiken without beating the                   
+game.
+
+      When you first boot the game, andthe white "Sony" screen appears, 
+hold (Down + Square + L1 + R2) and keep them down throughout the booting 
+process up until the message "Team neo blood" fades out. When you start 
+the game, Testament, Justice and Baiken will be unlocked without you 
+needing to finish the game. 
+
+Note: This Code does work, instead of revealing the Secret characters,it  
+instead puts the game in HARD mode, which you will see blinking on the 
+bottom of every match. Believe me, its suicide playing in this mode. I 
+have not once been able to get it to work and believe its a lie. Even my 
+friends cannot get it to work. Some joke huh? To find out how to get the 
+characters the hard way goto the bottom of the faq.
+
+************************************************************************
+Character Profiles with Moves, and basic strategies
+************************************************************************
+Section I-Sol Badguy
+
+Height: 6'
+Weight: 163 lbs
+Blood Type:"Unknown"
+BirthPlace: America
+Birthday:"Unknown"
+Eye Color: Brown
+Hobbies: Listening to Queen
+Favorite Thing: Queen's Album "Sheer Heart Attack"
+Dislikes: Great effort, "Doing your best"
+
+MOVES
+charge - F,D,DF + R1 
+
+Gun Flame: D,DF,F + S 
+
+Vulcanic Viper : F,D,DF + S (air)
+
+ Lev 1 - Standard Uppercut 
+
+ Lev 2 - Higher Uppercut 
+
+ Lev 3 - Stright Uppercut, create huge fire wall 
+
+Bandit Revolver: D,DF,F + K (air) 
+
+Riot Stamp: D,DB,B + K
+
+Super: Dragon Install: D,DB,B,D,DB,B + WS 
+
+       Tyrant Rave : F,DF,D,DB,B,F + HS
+
+-----------------------------------------------------------------------
+Section II-Ky Kiske
+
+Height: 5'11
+Weight: 128 lbs
+Blood Type: AB
+BirthPlace: France
+Birthday: November 20th
+Eye Color: Blue-Green
+Hobbies: Collecting Teacups
+Favorite Thing: Happy Faces, Laughter
+Dislikes: Sol
+
+MOVES
+charge - D,DF,F + R1 
+
+Stun Edge: D,DF,F + S 
+
+ Lev 1 - Standard projectile 
+
+ Lev 2 - Bigger projectile 
+
+ Lev 3 - The biggest and chained projectile 
+
+Flying Stun Edge: (jump) D,DF,F + WS 
+
+Vapor Thrust: F,D,DF + S (air) 
+
+Stun Dipper: D,DF,F + K 
+
+Needle Spike: F,DF,D,DB,B + K
+
+Super : Ride The Lighting: B,DB,D,DF,F,B,DB,D,DF,F + HS
+
+-----------------------------------------------------------------------
+Section III-May
+
+Weight: 5'2
+Weight: 93 lbs
+Blood Type: B
+Birthplace: "Unknown"
+Birthday: May 5th(The day Johnny Saved her)
+Eye Color: Black
+Hobbies: Thinking of Johnny
+Favorite Thing: Johnny
+Dislikes: Bald people
+
+MOVES
+charge - D,DF,F + R1 
+
+Aqua Rolling: D,DF,F + WS (air) 
+
+ Lev 1 - Standard Roll 
+
+ Lev 2 - Lesser range with larger damage 
+
+ Lev 3 - Short range with tons of damage 
+
+Restive Rolling: F,D,DF + WS (air) 
+
+Continue with WS to drop 
+
+Mist Finer: D,DB,B + WS Continue with WS + WS + WS ... to speed up 
+
+Overhead Kiss: B,DB,D,DF,F + P 
+
+Crescent Aqua Rolling: B,DB,D,DF,F + WS 
+
+ Lev 1 - Standard Roll 
+
+ Lev 2 - Lesser range with larger damage 
+
+ Lev 3 - Short range with tons of damage 
+
+Dolphin Attack: B,DB,D,DF,F + HS
+
+Super : Aqua Final Blow: B,F,DF,D,DB,B + HS
+
+------------------------------------------------------------------------
+Section IV-Kliff Undersn
+
+Height: 5'10
+Weight: 121 lbs
+Blood Type: AB
+Birthplace: Switzerland
+Birthday: September 9th
+Eye Color: Brown
+Hobbies: Sailing
+Favorite Thing: His priceless Japanese teacups
+Dislikes: Fashionable,voguish words
+
+MOVES
+charge - D,DF,F + R1 
+
+Houkou Gaeshi: D,DF,F + P 
+
+ Lev 1 - Standard small projectile 
+
+ Lev 2 - Longer range 
+
+ Lev 3 - Covers half the stage 
+
+Sugaisai: D,DB,B + WS Kubimatagi: D,DB,B + K 
+
+Urokohagashi: WS + WS + WS ... 
+
+Damaging Taunt: L1 
+
+Dodge: BB (unreliable) Continue with P to attack
+
+Super : Earth Shake: B,DB,D,DF,F,B,DB,D,DF,F + HS
+
+------------------------------------------------------------------------
+Section V-Potemkin
+
+Height: 8'
+Weight: 1446 lbs
+Blood Type: 0
+Birthplace: Zepp
+Birthday: October 18th
+Eye Color: White
+Hobbies: Sketching
+Favorite Thing: Indestructible Pencil Cases
+Dislikes: Pencils that snap under 4 tons of Weight
+
+MOVES
+charge - F,D,DF 
+
+P Buster: (close) F,DF,D,DB,B,F + P 
+
+Nitro Hook: B,DB,D,DF,F + P 
+
+Mega Fist: D,DF,F + P 
+
+Megaton Stomp: F,D,DF + P 
+ 
+ Lev 1 - Standard earthquake 
+ 
+ Lev 2 - More damaging earthquake 
+
+ Lev 3 - Burning earthquake 
+
+Second Throw: (close) F + K
+
+Super : Ultimate Spin: F,DF,D,DB,B,F + HS
+
+------------------------------------------------------------------------
+Section VI-Axl Low
+
+Height: 5'10
+Weight: 172 lbs
+Blood Type: B
+Birthplace: England
+Birthday: December 25th
+Eye Color: Blue
+Hobbies: Billiards
+Favorite Thing: His girlfriend, Megumi
+Dislikes: Preachy People
+
+MOVES
+charge - None 
+
+Rensen Geki: B,F + WS 
+
+  Continue with Up + HS to uppercut 
+
+Benten Gari: F,D,DF + WS 
+
+Tenhou Seki: D,DB,B + P 
+
+Raiei Sageki: B,DB,D,DF,F + K 
+
+Dototsu: D,DB,B + K 
+
+Super : Yousou Renjin: F,DF,D,DB,B + K 
+
+        Hyakue Renshou: D,DF,F,DF,D,DB,B + HS
+
+------------------------------------------------------------------------
+Section VII-Zato-ONE
+
+Height: 5'11
+Weight: 150 lbs
+Blood Type: A
+Birthplace: Spain
+Birthday: January 28th
+Eye Color: Was blue
+Hobbies: Attempting to understand the language of the flowers
+Favorite Thing: His pride
+Dislikes: Millia
+
+MOVES
+charge - DD + R1 
+
+Drunkard Shade: D,DB,B + P/K 
+
+Invite Hell: DD, S (air) 
+
+ Lev 1 - Standard ground drill 
+
+ Lev 2 - Triple ground drill 
+
+ Lev 3 - Ground drill covers the ground 
+
+Climb Darkness: B,DB,D,DF,F + HS 
+
+   Continue it with HS to attack 
+
+Break The Law: F,DF,D,DB,B + WS 
+
+   Continue it with WS to cancel 
+
+Rise and Fall: F,D,DF +P
+
+Super : Dark Sentinel: F,DF,D,DB,B,F,DF,D,DB,B+HS
+
+------------------------------------------------------------------------
+Section VIII-Chipp Zanuff
+
+Height: 6'
+Weight: 148 lbs
+Blood Type: B
+Birthplace: He insists Japan(Born really in America)
+Birthday: February 9th
+Eye Color: Red
+Hobbies: Dreaming
+Favorite Thing: Sleeping Pills
+Dislikes: Nightmares, the Mafia, gangs, yakuza
+
+MOVES
+charge - F,D,DF + R1 
+
+Alpha Blade: D,DF,F + P (air) 
+
+Beta Blade: F,D,DF + P (air) 
+
+ Lev 1 - Standard Uppercut 
+
+ Lev 2 - Bigger Uppercut 
+
+ Lev 3 - Double Uppercut 
+
+Gamma Blade: B,DB,D,DF.F + HS 
+
+Ten'i: D,DF,F + WS 
+
+Meisai: D,DB,B + K 
+
+Sebone Ori: (close) F,DF,D,DB,B,F + K 
+
+Stomp Kick: (jump) D + K
+
+Super : Banki Messai: D,DF,F,D,DF,+ K
+
+------------------------------------------------------------------------
+Section IX-Dr. Baldhead
+
+Height: 9'4
+Weight: 121 lbs
+Blood Type: 0
+Birthplace: China
+Birthday: August 21st
+Eye Color: Black
+Hobbies: Performing elaborate operations
+Favorite Thing: His Huge Scalpel
+Dislikes: Cancerous Cells
+
+MOVES
+charge - F,D,DF + R1 
+
+Souten Enshin Rambu: D,DF,F + P 
+
+   Continue with FF/BB to move and attack 
+
+   Continue with P/K to attack 
+
+   Continue with D to cancel 
+
+Metta giri: F,D,DF + WS 
+
+ Lev 1 - Standard combo 
+
+ Lev 2 - Higher combo 
+
+ Lev 3 - More damaging combo 
+
+Going my Way: D,DB,B + WS (air) 
+
+Rerere no Tsuki: B,DB,D,DF,F + HS 
+
+   Continue with BB to combo
+
+Super : Crazy Operation : (close) D,DF,F,DF,D,DB,B + HS
+
+------------------------------------------------------------------------
+Section X-Millia Rage
+
+Height: 5'7
+Weight: 106 lbs
+BloodType: B
+Birthplace: Russia
+Birthday: "Unknown"
+Eye Color: Blue
+Hobbies: Playing with cats
+Favorite Thing: Her Honor
+Dislikes: Zato, and losing some of her hair in battle.
+
+MOVES
+charge - D,DF,F + R1 
+
+Living Lancer: D,DF,F + WS 
+
+ Lev 1 - Standard spike 
+
+ Lev 2 - Bigger spike 
+
+ Lev 3 - Double sized spike 
+
+Living Lancer II: D,DB,B + WS
+
+ Lev 1 - Standard spike 
+
+ Lev 2 - Bigger spike 
+
+ Lev 3 - Double sized spike 
+
+Condemned Top: F,D,DF + WS 
+
+Zenten : D,DB,B + K 
+
+Lust Shaker: WS + WS + WS...
+
+Super : Iron Maiden: D,DF,F,D,DF,F + HS
+
+************************************************************************
+Secret Characters and Moves
+************************************************************************
+Note: You obtain Testament and Justice by Beating the game. They become       
+available in only Versus Mode. Baiken becomes available if you                   
+beat the game without losing or continuing using either Sol, or Ky.
+------------------------------------------------------------------------
+Section XI-Justice
+
+MOVES
+charge - None 
+
+SBT: B,D,DB + K 
+
+Imperial Ray: F,B,DB,D,DF,F + WS 
+
+Valkyrie Arc: D,DF,F + P 
+
+Michael Sword: B,DB,D,DF,F + WS
+
+Super : Omega Laser: B,F,DF,D,DB,B,F,DF,D,DB,B + HS
+
+------------------------------------------------------------------------
+Section XII-Testament
+
+MOVES
+charge - None 
+
+Exe Beast: B,DB,D,DF,F + HS 
+
+Phantom Soul: D,DF,F + P 
+
+Grave Digger: D,DF,F + WS 
+
+Scythe Slash: D,DB,B + K
+
+Super : Poison Blow: D,DF,F,D,DF,F + HS
+
+------------------------------------------------------------------------
+Section XIII-Baiken
+
+MOVES
+charge - F,D,DF + R1 
+
+Tatami Gaeshi: D,DF,F + K (air) 
+
+ Lev 1 - One tatami 
+
+ Lev 2 - Two tatamies 
+
+ Lev 3 - Three tatamies 
+
+Youzansen: F,D,DF + WS (air) 
+
+Kumaitachi: B,DB,D,DF,F + HS 
+
+Super : Multi Slash: D,DF,F,DF,D,DB,B + HS
+
+************************************************************************
+Basic Strategies
+************************************************************************
+This is just an overall way to beat the computer if its being cheap 
+towards you. In future updates I hope to include boss meetings(Rivals 
+ect.. you meet before the end)and Individual Strategies to beating 
+them(They are usually the hardest to defeat).
+
+1.)If your ever in a corner, GET OUT!, that is the worst spot to be in,    
+try to lead the computer there and knock a few hits off. Repeat if       
+its a cheap character(Justice anyone?)
+
+2.)If the computer makes the screen flash Red, quickly use the reverse    
+Instant kill to evade his attack, and try to reverse it onto him.    
+Chances are you can probably pull it off since he is in a vulnerable    
+state.
+
+3.)When Fighting Sol, never stay on the ground. Stay in the air and    
+slash attack him. Repeat but never get to close, since he will    
+attempt the instant kill. Watch out for his Riot Stamp since that is       
+his basic strategy next to his supers.
+
+4.)When going against Justice, jump attack him and when you connect with 
+the hit and land immediatly do a combo attack. You will do incredible 
+amounts of damage to him. If the air attack doesn't connect get away 
+from him as fast as you can and try to repeat it. NEVER EVER STAY CLOSE 
+TO HIM, or too far away or he will use his massively cheap super giga 
+laser on you.
+
+************************************************************************
+Rival List
+************************************************************************
+Note: This list is partially complete. I have yet to beat the game with 
+a few characters to see their sub bosses. Your help would be 
+appreciated.
+
+Character                  Fights
+---------                  ------
+Ky Kiske..................Sol Badguy
+Sol Badguy................Ky Kiske
+Cliff Undersn.............Ky Kiske
+Millia Rage...............Zato-ONE
+Zato-ONE..................Millia Rage
+Dr. Baldhead..............Potempkin 
+Potempkin.................Dr. Baldhead 
+Axl Low...................May 
+May.......................Axl Low 
+Chipp Zanuff..............Ky Kiske 
+
+
+*More to come later as I am working on beating the game with the 
+remaining characters. Also my time has been leaning towards my Tenchu 
+Stealth Assassins Faq which should be completed soon.
+
+************************************************************************
+ Recognition
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+I would like to thank Britt King(jentle@istar.ca) for submitting the 
+other half of the Rival List, which I was very lazy to figure out 
+myself. Thanks alot Britt!
+
+
+************************************************************************
+ If you gamers have any questions regarding this faq, or would like to 
+contribute a few items please feel free to do so. Credit will be given 
+to those who assist. 
+   Contact me at: valkryie@ignmail.com
+
+I need a Character Rival List(Like Ky fights Sol before Testament) So if 
+anyone can help please do so. I hope you enjoy the faq, and enjoy Guilty 
+Gear.
+
+Valkryie
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,423 @@
+-------------------------------------------------------------------------------
+-----------------------[SUPER STREET FIGHTER II FAQ/MOVELIST]------------------
+-------------------------------[by Ice Queen Zero]-----------------------------
+----------------------------------[FM TOWNS]-----------------------------------
+-------------------------------------------------------------------------------
+
+o--------------------o
+      INTRODUCTION
+o--------------------o
+
+FM Towns is one of those computers that came out only in Japan but it's been
+known to have released arcade perfect ports for its system. The first game I
+will do for this system will be Super Street Fighter II which introduced 4
+new fighters to the previous 12 fighters in the cast. They are Cammy, Fei Long,
+Dee Jay, and T(hunder) Hawk. The old fighters got a few new moves up there
+arsenal and some new animations for some of their normal attacks.
+
+o--------------------o
+        CONTROLS
+o--------------------o
+
+u=up
+uf=up/forward
+ub=up/back
+b=back
+f=forward
+d=down
+df=down/forward
+db=down/back
+
+Press u, uf, or ub to jump
+Press d, df, or db to crouch
+Press b to move backwards (away from opponent)
+Press f to move forwards (towards opponent)
+Press b to block attacks that aren't low
+Press db to block low, non-air attacks
+
+o--------------------o
+        SYSTEM
+o--------------------o
+
+Choose a character and the object is to defeat the other 12 fighters inside a
+best two out of three wins match. You get to play as the bosses this time, YAH!
+
+o--------------------o
+      MOVELIST
+o--------------------o
+
+Each character has a set of special moves in addition to the normal attacks
+given to them. They are executed by moving the joystick in a certain sequence
+and pressing the appropiate attack button. Sometimes, a character can perform
+an extra move by doing a normal attack at close range.
+
++---------------------+
+         Ryu  
++---------------------+
+Seoi Nage: close, b or f + Medium or Hard Punch
+Tomoe Nage: close, b or f + Medium or Hard Kick
+Fireball (Hadouken): d, df, f + Punch [Faster than Ken's]
+Dragon Punch (Shoryuken): f, d, df + Punch 
+Hurricane Kick (Tatsumaki Senpuu Kyaku): d, db, b + Kick
+Air Hurricane Kick: d, db, b + Kick in air [knocks down on impact]
+Fire Hadouken: b, db, d, df, f + Punch
+Axe Kick: close, Hard Kick
+Drop Knee: Light Kick in air
+
+~Descriptions~
+
+SEOI NAGE: Ryu tosses the opponent like a sack of potatoes.
+TOMOE NAGE: Ryu does a back roll to monkeyflip the opponent away.
+HADOUKEN: Ryu shoots a blue projectile with copys of his hands flying forward.
+SHORYUKEN: Ryu does a leaping uppercut. Used as an anti-air but it no longer
+           has its invincibility from the previous games.
+TATSUMAKI SENPU KYAKU: Ryu spins several times in the air towards the opponent.
+                       Knocks down in one hit. The air version was modified in
+                       Super Street Fighter II to angle with the jump.
+FIRE HADOUKEN: Red version of the Fireball.
+AXE KICK: A 2-hit Hard Kick when done up close.
+DROP KNEE: Just a simple leaping Light Kick that sets up combos.
+
++---------------------+
+      Edmond Honda
++---------------------+
+Hundred Hand Slap [Hyakuretsu Harite]: Punch button rapidly
+Sumo Headbutt(Zutsuki): b~f + Punch
+Sumo Smash [Hyakkan Otoshi]: d~u + Kick
+Sabaori: close, b or f + Hard Punch
+Hyounage: close, b or f + Medium Punch
+Sekkan Kiri: close, b or f + Hard Kick
+Flying Sumo Press: Jump foward, d + Medium Punch
+Hiza Kyaku: close, b or f + Medium Kick
+Harai Kyaku: not close, b or f + Hard Kick
+
+HYAKURETSU HARITE: Honda attacks his one hand in rapid succession.
+ZUTSUKI: Honda attacks with a Torpedo Headbutt.
+HYAKKAN OTOSHI: Honda leaps upward then drops down on opponent. Knocks down in
+                one hit.
+SABAORI: A bearhug grab move.
+HYOUNAGE: A throw done also in Sumo wrestling.
+SEKKAN KIRI: Multiple Knee Bashes.
+HIZA KYAKU: 2-hit knee strike
+HARAI KYAKU: Standing foot sweep.
+
++---------------------+
+     Jimmy Blanka
++---------------------+
+Electric Attack: Punch button rapidly
+Rolling Attack: b~f + Punch
+Vertical Rolling Attack: d~u + Kick
+Rock Crush: close, b or f + Medium Punch
+Double Knee: close, Medium Kick
+Wild Fang: close, b or f + Hard Punch
+Backstep Rolling: b~f + Kick
+
+ELECTRIC ATTACK: Blanka shocks enemies at close range. Not immune to far foot
+                 sweeps or projectiles.
+ROLLING ATTACK: Blanka rolls at the opponent like a cannonball.
+VERTICAL ROLLING ATTACK: Vertical version of the Rolling Attack. As of SSF2, 
+                         Blanka does a kick attack at the end.
+ROCK CRUSH: Two-Hit headbutt.
+DOUBLE KNEE: No need to hold forward anymore.
+WILD FANG: Blanka tears into the opponent's face with his teeth.
+BACKSTEP ROLLING: Blanka jumps back then arcs forward in a cannonball form.
+
++---------------------+
+     William Guile
++---------------------+
+Sonic Boom: b~f + Punch
+Flash Kick: d~u + Kick
+Dragon Suplex: close, b or f + Hard Punch
+Shoot Throw: close, b or f + Medium Punch
+Flying Mayor: close, b or f + Medium or Hard Punch in air
+Flying Buster Drop: close, b or f + Medium or Hard Kick in air
+Spinning Back Knuckle: f + Hard Punch
+Knee Berserker: b or f + Light Kick
+Rolling Sobat: b or f + Medium Kick
+Reverse Spin Kick: close, b or f + Hard Kick
+
+SONIC BOOM: Guile throws a spinning razor-like projectile at opponent.
+FLASH KICK: Guile does a somersault kick that adds a flash effect to it.
+DRAGON SUPLEX: A back suplex
+SHOOT THROW: Guile tosses the opponent over his head.
+FLYING MAYOR: Slams opponent to the ground.
+FLYING BUSTER DROP: Catches opponent and brings them down to the ground.
+SPINNING BACK KNUCKLE: The motion is change to f + Hard Punch.
+KNEE BERSERKER: Guile lunges at opponent. Motion change to f + Light Kick.
+ROLLING SOBAT: Simple spin kick
+REVERSE SPIN KICK: Used to be Guile's close Hard Kick
+
++---------------------+
+      Ken Masters
++---------------------+
+Seoi Nage: close, b or f + Medium or Hard Punch
+Tsukami Hiza Kiri: close, b or f + Medium Kick
+Jigoku Kuruma: close, b or f + Hard Kick
+Fireball (Hadouken): d, df, f + Punch
+Dragon Punch (Shoryuken): f, d, df + Punch [Hard version burns]
+Hurricane Kick (Tatsumaki Senpuu Kyaku): d, db, b + Kick
+Air Hurricane Kick: d, db, b + Kick in air
+Axe Kick: close, Hard Kick
+Drop Knee: Light Kick in air
+
+SEOI NAGE: Tosses the opponent far.
+TSUKAMI HIZA KIRI: Multiple Knee Strikes.
+JIGOKU KURUMA: Rolling Tomoe Nage is the best way to describe it.
+HADOUKEN: Ken throws a fireball with his hand imprinted in it.
+SHORYUKEN: Rising uppercut, the Hard version has fiery aftereffects.
+TATSUMAKI SENPUU KYAKU: Spinning Kick that hits up to three times.
+AIR HURRICANE: Angles when used in the air.
+AXE KICK: No need for comment
+DROP KNEE: Leaping Light Kick that stops most attacks.
+
++---------------------+
+        Chun Li 
++---------------------+
+
+Lightning Kick [Hyakurestu Kyaku]: Kick button rapidly
+Spinning Bird Kick: d~u + Kick
+Kikouken: b~f + Punch
+Heel Stomp: d + Medium Kick in air
+Tora Kasane Tou: close, b or f + Medium or Hard Punch
+Ryuusei Ochi: close, b or f + Medium or Hard Punch in air
+Chest Flip Kick: f + Medium Kick
+Flipping Neck Breaker: f + Hard Kick
+
+HYAKURETSU KYAKU: Lightning fast multiple kicks.
+SPINNING BIRD KICK: Motion changed to b~f + Kick
+KIKOUKEN: Chun Li shoots a fireball forward
+HEEL STOMP: Chun Li uses her heel to bounce on opponent's head.
+TORA KASANE TOU: Tosses opponent low to the ground.
+RYUUSEI OCHI: Air version of Tora Kasane Tou.
+CHEST FLIP KICK: Kick to the midsection then flips away.
+FLIPPING NECK BREAKER: Flips forward and comes down with a smash.
+
++---------------------+
+        Zangief
++---------------------+ 
+Double Lariat: All three Punch buttons simultaneously
+Screw Piledriver: close, 360 + Punch
+Quick Double Lariat: All three Kick buttons simulatneously
+Headbutt: not close, b or f + Medium or Hard Punch
+Kuuchuu Headbutt: in air, u + Hard Punch
+Flying Body Attack: jump at opponent, d + Hard Punch
+Double Knee Drop: jump at opponent, d + Light or Medium Kick
+Kamituski: close, b or f + Hard Kick
+Iron Claw: close, b or f + Hard Punch
+Pile Driver: close, b or f + Medium Punch
+Brain Buster: close, b or f + Medium Kick
+Stomach Claw: db or df + Medium or Hard Punch
+Kuuchuu Deadly Drive: close, b or f + Medium or Hard Punch in air
+Kuuchuu Leg Throw: close, b or f + Medium or Hard Kick in air
+Atomic Body Press: close, 360 + Kick
+Flying Powerbomb: afar, 360 + Kick
+
+DOUBLE LARIAT: Spinning Clothesline.
+SCREW PILEDRIVER: Zangief takes his opponent for an upward spin and crashes
+                  down on their skull.
+QUICK DOUBLE LARIAT: Faster Spinning Clothesline.
+HEADBUTT: Zangief leaps at the opponent then headbutts them.
+KUUCHUU HEADBUTT: air version of the headbutt.
+FLYING BODY ATTACK: Leaps at opponent with splash formation.
+DOUBLE KNEE DROP: Jumps at opponent with his knees.
+KAMITSUKI: Bites the opponent's face.
+IRON CLAW: No need to comment on that.
+PILE DRIVER: Turns opponent upside-down and smashes them.
+BRAIN BUSTER: Changed to f + Medium Kick. Zangief now leaps while doing it.
+STOMACH CLAW: Same as Iron Claw but grabs the stomach instead.
+KUUCHUU DEADLY DRIVE: He now does his Power Slam in the air.
+KUUCHUU LEG THROW: He now does his Alley Oop move in the air.
+ATOMIC BODY PRESS: Suplex followed by a leaping suplex.
+FLYING POWERBOMB: Zangief rushes at opponent then powerbombs them.
+
++---------------------+
+         Dhalsim
++---------------------+
+Yoga Fire: d, df, f + Punch
+Yoga Flame: b, db, d, df, f + Punch
+Yoga Noogie: close, b or f + Medium Punch
+Yoga Throw: close, b or f + Hard Punch
+Yoga Spear: in air, d + Kick
+Yoga Mummy: in air, d + Hard Punch
+Yoga Teleport: f, d, df or b, d, db + all three Punches or Kicks
+Slide Kick: d + Kick
+Double Headbutt: close, Hard Punch
+
+YOGA FIRE: Dhalsim spits a fireball forward.
+YOGA FLAME: A short flame breath burst.
+YOGA NOOGIE: Smashes opponent on the head.
+YOGA THROW: Simple arm toss.
+YOGA SPEAR: Simple foot drill from above.
+YOGA MUMMY: Simple head drill from above.
+YOGA TELEPORT: Dhalsim vanishes then reappears in one of four spots.
+SLIDE KICK: Dhalsim slides under most attacks and can trip opponents.
+DOUBLE HEADBUTT: 2-hit close headbutt
+
++---------------------+
+    Balrog/M. Bison
++---------------------+
+Turn Punch: Hold all three Punches or Kicks for at least 2 secs then release
+Final Punch: Above move and hold for 60 secs and release
+Dash Punch: b~f + Punch
+Dash Uppercut: b~f + Kick
+Headbutt: close, f + Medium or Hard Punch
+Buffalo Headbutt: d~u + Punch
+
+TURN PUNCH: Balrog turns his back then turns back around and punches.
+FINAL PUNCH: Hold the buttons long enough and it does 50% damage.
+DASH PUNCH: Dashes forward with a straight punch.
+DASH UPPERCUT: Dashes forward with a uppercut
+HEADBUTT: Balrog grabs opponent and headbutts them severely.
+BUFFALO HEADBUTT: Balrogs leaps upward headfirst.
+
++---------------------+
+     Vega/Balrog
++---------------------+
+Backslash: All three Punches
+Short Backslash: All three Kicks
+Rolling Crystal Flash: b~f + Punch
+Wall Jump: dcuf/dcub + Kick
+	   Dive Claw: Punch
+	   Izuna Drop: f + Punch when close
+Rainbow Suplex: f + Medium or Hard Punch
+Stardust Drop: close, f + Medium or Hard Punch in air
+Sky High Claw: d~u + Punch
+
+BACKSLASH: Backflips away from opponent
+SHORT BACKSLASH: Shorter version of Backslash
+ROLLING CRYSTAL FLASH: Vega rolls forward with his claws
+WALL JUMP: He no longer grabs the cage if done in his stage. He wall jumps.
+DIVE CLAW: Extends claws as he dives
+IZUNA DROP: Grabs opponent off the ground while falling then suplexs them.
+RAINBOW SUPLEX: No need to explain
+STARDUST DROP: Throws opponent to the ground.
+SKY HIGH CLAW: Wall jumps then torpedos opponent with claw extended.
+
++---------------------+
+     Victor Sagat
++---------------------+
+Tiger Shot: d, df, f + Punch
+Ground Tiger Shot: d, df, f + Kick
+Tiger Uppercut: f, d, df + Punch
+Tiger Knee: d, df, f, uf + Kick
+Tiger Carry: close, f + Medium or Hard Punch
+
+TIGER SHOT: Shoots a fireball ahead.
+GROUND TIGER SHOT: Shoots a lower fireball ahead.
+TIGER UPPERCUT: Leaping uppercut.
+TIGER KNEE: Double hit lunging knee.
+TIGER CARRY: Simple toss attack.
+
++---------------------+
+     M.Bison/Vega
++---------------------+
+Psycho Crusher: b~f + Punch
+Scissor Knee: b~f + Kick
+Head Stomp: d~u + Kick
+Somersault Skull Driver: above move, Punch
+Deadly Throw: close, f + Medium or Hard Punch
+Devil Reverse: d~u + Punch
+
+PSYCHO CRUSHER: Blue flaming torpedo.
+SCISSOR KNEE: Knocks down on impact.
+HEAD STOMP: Bison leaps forward to stomp on opponent's head.
+SOMERSAULT SKULL DRIVER: Follow-up to Head Stomp
+DEADLY THROW: Simple throw move
+DEVIL REVERSE: Bison leaps across the air then comes down with his had extended
+
++---------------------+
+      Cammy White
++---------------------+
+Hooligan Suplex: close, b or f + Medium or Hard Punch
+Frankensteiner: close, b or f + Medium or Hard Kick
+Flying Neck Hunt: close, b or f + Medium or Hard Punch in air
+Air Frankensteiner: close, b or f + Medium or Hard Kick in air
+Spiral Arrow: d, df, f + Kick
+Cannon Spike: f, d, df + Kick
+Axel Spin Knuckle: b,db, f + Punch
+
+HOOLIGAN SUPLEX: Go-behind suplex.
+FRANKENSTIENER: No need to explain.
+FLYING NECK HUNT: Tosses airborne opponents to the ground.
+AIR FRANKENSTEINER: What it says.
+SPIRAL ARROW: Cammy spins forward with her feet extended.
+CANNON SPIKE: Uppercut kick move.
+AXEL SPIN KNUCKLE: Cammy does a spin followed by a backhand.
+
++---------------------+
+     Deejay Maximum
++---------------------+
+Funky Shout Throw: close, b or f + Medium or Hard Punch
+Monkey Flip: close, b or f + Medium or Hard Kick
+Knee Shot: jump at opponent, d + Light Kick
+Air Slasher (Max Out): b~f + Punch
+Double Rolling Sobat: b~f + Kick
+Machine Gun Upper: d~u + Punch rapidly
+
+FUNKY SHOUT THROW: Simple over the shoulder throw.
+MONKEY FLIP: No need to explain that.
+KNEE SHOT: A leaping light kick attack that snuffs most attacks.
+MAX OUT: A projectile similar to the Sonic Boom.
+DOUBLE ROLLING SOBAT: Deejay does a spin with two kicks in it.
+MACHINE GUN UPPER: DeeJay shakes his fist as he raises it up.
+
++---------------------+
+        Fei Long
++---------------------+
+Gankai Kakae: close, b or f + Medium or Hard Punch
+Kasane Kubikari: close, b or f + Medium or Hard Kick
+Kasane Kubiochi: close, b or f + Medium or Hard Punch in air
+Chokka Ochi Kakato: b or f + Medium Kick
+Toogeki Kyaku: f + Hard Kick
+Rekkaken: d, df, f + Punch (up to 3 times)
+Sakanho Kyaku: b, d, db + Kick
+
+GANAKI KAKAE: Fei Long flips over opponent then tosses them.
+KASANE KUBIKARI: Tosses opponent by the hair
+KASANE KUBIOCHI: Tosses airborne opponent to the ground.
+CHOKKA OCHI KAKATO: Stepping double kick
+TOOGEKI KYAKU: Splitting Kick
+REKKAKEN: Three rushing punches.
+SAKANO KYAKU: Firey uppercut kick
+
++---------------------+
+      Thunder Hawk
++---------------------+
+Condor Dive: all three Punches in air
+Tomahawk Buster: f, d, df + Punch
+Mexican Typhoon: close, 360 + Punch
+Mexican Throw: close, b or f + Medium Punch
+Neck Hanging Tree: close, b or f + Hard Punch
+Elbow Stomping: close, b or f + Hard Kick
+Thrust Beak: b or f + Light Punch
+Heavy Shoulder: jump at opponent, d + Medium Punch
+Heavy Body Press: jump at oppinent, d + Strong Punch
+
+CONDOR DIVE: Dives at opponent like a Condor or Hawk
+TOMAHAWK BUSTER: T. Hawk leaps into the air in a winged formation
+MEXICAN TYPHOON: T. Hawk grabs opponent and swings them around in the air.
+MEXICAN THROW: Simple throw
+NECK HANGING THROW: T. Hawk holds up opponent and strangles them.
+ELBOW STOMPING: T. Hawk holds opponent and bashes them with his elbow.
+THRUST BEAK: Poking light punch.
+HEAVY SHOULDER: Overhead shoulder attack.
+HEAVY BODY PRESS: Crossup-capable dive attack.
+
+o--------------------o
+        CREDITS
+o--------------------o
+
+Capcom - made the game
+GameFAQs - hosting this FAQ
+You - reading it.
+
+o--------------------o
+    	CONTACT ME
+o--------------------o
+azulfria[at]hotmail[dot]com 
+[at] = @ and [dot] = .
+Don't want any email bots.
+
+Thank you for reading
+
+-Ice Queen Zero

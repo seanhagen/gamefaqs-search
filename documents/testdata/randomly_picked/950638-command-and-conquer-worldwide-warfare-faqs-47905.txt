@@ -1,0 +1,707 @@
+REDALERT PRO TIPS AND TRICKS
+By: cLass1C
+
+This guide is not for those who want to learn how to play Red Alert but 
+rather for those who want to learn to play BETTER in tournaments or 
+games in which experienced players are plenty.  Therefore I will try 
+to cover the basics of pro play as well as some tricks I have learned 
+over the years but will not tell you things that you should already know 
+as a relatively experienced player like "Pillboxes are good against 
+infantry" or “put a Tanya and 2 medics together to kill lots of infantry 
+duhhhh” and all that bs.
+
+Another important thing to note is that the guide is primarily for 
+playing against HUMAN players, not computer skirmishes.  The computer 
+is very different in everyway; they have a few strengths but much more 
+weaknesses.
+
+
+BUILDING BASICS
+
+The best approach is the most direct approach to your goal.  In most 
+maps, the goal is to mass as many tanks as possible.  This does not 
+apply to maps which as sea dominated, in which case the strategy 
+becomes a little different.  We will only cover the building basics 
+behind a land dominated map.
+
+
+LAND DOMINATED BUILDING BASICS
+
+The general starting building order should be deploy MCV, small power 
+plant, barracks, ore refinery, war factory, advanced power plant, and 
+afterwards you can keep churning war factories (4-6 being a max depending 
+on available resources) and ore refineries (don't build too many as you 
+will need to protect your trucks and may not even be able to build fast 
+enough to use up resources, especially in money maps).
+
+In the initial general building order, when you place your first barracks, 
+in the wait time for getting the ore refinery, build infantry (rifle, 
+they are cheap) to scout the map and enemies if you don't know the 
+map (you should have a good idea of the layout of the map you are 
+playing to be most effective).  If you are playing a 1v1 the opponent 
+should be opposite to your corner.  
+You should just keep building tanks once you get a factory.  Building 
+more than one ore truck to 1 refinery is also a good idea, no need to 
+keep it 1 ore refinery to 1 ore truck.  Keep it max 2-3, cause ore trucks 
+are retarded and sometimes wait for the “main” truck (the one the ore 
+refinery came with) to come back before dumping its own.
+
+Also good to keep 5-10 rifle infantry near your base at the beginning 
+to prevent idiot enemies from trying to send engineers into your critical 
+structures right at the beginning. When you get past the initial building 
+pattern, you should simply focus on tanks (heavy for Soviets and light 
+or medium (if you are not good enough) for Allies).  Infantry are useless 
+and air is easily countered.  Reasoning will be given later.
+
+If you are playing a map in which the opponent is rather close and he is 
+not in the habit of building a barracks first before the ore refinery, 
+you can try a quick strategy which involves building 2-3 barracks and 
+building 3 engineers, and 5 rifle infantry and sending them into the 
+enemy base, using the infantry as distraction, send all 3 engineers 
+into the enemy MCV and sell immediately.
+
+Also if you suspect your opponent of being very crafty, keep 1-2 
+defense structures near critical buildings or use a gap generator.
+
+Hence the structures you should concentrate on are dependant on the 
+time in the game.  Early game, stick to the basics, making ore refineries 
+and war factories and stocking a few defenses if needed.  Later game 
+you may need other things as they come up.  I will go through a list 
+of the major ones and what you should do about them:
+
+Defense structures (ground) are generally useless because in Red Alert, 
+the best defense is certainly a good offense in terms of tanks.  But 
+if you feel you really need them, the Soviet tesla coil is the only 
+building worth constructing.  Try to build concrete walls around the 
+tesla coil, quite effective against small groups of tanks.  The Allied 
+camo pillbox may be useful against Allied light tanks (they can’t miss) 
+en mass, but in that case, cover with concrete wall for sure (light tanks 
+attacks are weak).  Defense structures can be built early or late game, 
+more effective early game though.
+
+Especially useless for primary defense are flame towers, don’t build 
+them unless you plan to be attacked by masses of rifle infantry and 
+dogs.  However, they are good to discourage gay shit like an enemy Tanya 
+dropping into your base and detonating your MCV.  Build 2 near your 
+MCV or any other critical buildings if you suspect your opponent of 
+being an asshole.
+
+Defense structures (air) cost too much money and power, use rocket 
+soldiers instead (see below UNIT section).
+
+Silos are not needed because you can use the bug in which you construct 
+an expensive building, then cancel to get the money back, but in credits, 
+as opposed to ore.
+
+You probably will not need the Soviet tech center as mammoth tanks are 
+useless against expert players, you will see why later.  Allied tech 
+centers may be alright and serve as a very good, very expensive radar 
+dome, good if you do not know the map well, or if you are against 1 or 
+more crafty players.   Obviously a late game choice.
+
+Nukes are a good touch if you have the money but the Chronosphere and 
+Iron Curtain are quite useless.  Use nukes primarily to destroy power 
+right before an attack.  Then when you get in try to take out another 
+power plant to further reduce power.  Nukes can also be used if you find 
+the enemy is massing something damn weak but a real threat, like tesla 
+tanks or shock troopers.  Don’t bother nuking units otherwise.  
+Obviously a late game choice.
+
+As air units are mostly useless, you will see why later again, the only 
+air-related structure worth building is a single Soviet airfield, for 
+spy plane and paratroopers.  Early to mid game, you should have this, 
+the earlier (if you can afford it) the better as you can keep scouting 
+his base and be updated on what he is doing.
+
+Concrete walls are highly underestimated.  If used well, it can save you.  
+I will go over how in the later advanced strats.  But for now know to 
+keep tesla coils/pill boxes surrounded if you do use them.  
+
+Some players do not like to use radar domes as they think they are a 
+waste of money but if you want to control your units and plan your attacks 
+well, you will need it.  Helps you keep track of ore trucks and make sure 
+your enemy isn’t pulling a quickie and sending engineers into an unguarded 
+portion of your base via APC.  Have this by mid game or before you attack.
+
+Supply depots are generally useless for repair, however you should have 
+one in the cases that you need to rebuild another MCV when the opponent 
+either swoops in with tanks in a suicide mission to remove your MCV, 
+or does the same thing with migs.  You should have one before the 
+enemy has any serious threat to you MCV, probably mid-early game.
+
+Gap generators can be useful, especially in a long game, to hinder nuking, 
+prevent annoying small attacks on unguarded parts of your base and hide 
+your base.   Build over critical structures.
+
+Also try to keep more advanced power plants than needed, to prevent 
+the enemy from downing your power, especially important if you have 
+tesla coils.  Build as needed.  Power plants are cheap so feel free to 
+slap a few around everywhere even if you don’t really need it.  The reason 
+is that extra power plants (especially advanced) serve as cannon fodder 
+as players see power plants as an essential, but weak and easy target.  
+So while junior idiot tries to down your power and starts going crazy 
+attacking your power plants in your base, you can take his tanks down, 
+resting assured that you have much more than needed.  Junior idiot will 
+wonder why the hell your power is not down yet and the tesla coils are 
+still making short work of his tanks.  Don’t use small power plants, 
+they are too weak for even cannon fodder and are not good lure targets.
+
+With structure fodder in mind, fake structures are a good idea.  They are 
+cheap and quick to build and can help save critical structures.  Put 1-3 
+of the same type mainly around your MCV’s, war factories.  Therefore if the 
+player decides to suicide mig your MCV he’s gunna have to guess.  Also if 
+he attacks your base with tanks he will have to try a few times to get 
+your real MCV.  If you decide to build them, have them by mid game.
+
+Any other structures I may not have mentioned, i.e. sand bags, aren’t 
+important.
+
+
+LAND DOMINATED UNIT BASICS
+
+Although you should mainly try to stick with heavy for Soviets and light 
+or medium (if you are not good enough) for Allies, other units may or 
+may not be as effective as the above, and I will explain for most of 
+the major ones.  We will discuss the units in terms of usefulness in a 
+PRIMARY ARMY:
+
+As I said before, stick to tanks.  Why?  Because if an enemy comes at you 
+with infantry, crush them all.  Keep moving and crushing and don’t bother 
+stopping and firing at them.  If an enemy uses lots of air units, THAT IS 
+THE ONLY TIME INFANTRY IS USEFUL, TO COUNTER AIR.  Mass rocket soldiers as 
+they are the only good defense against air.  Keep them somewhat scattered and 
+have a few rifle infantry in the mix to prevent infantry dropping from downed 
+planes from killing all your rocket soldiers.  If you have enough, air units 
+should become obsolete against you.  Air structure defenses cost too much, 
+are too easy to hit, and take up power, space and time to construct when
+ you could be use all of them for more war factories, ore refineries or tanks.
+
+The light tank should be the staple for any allied player.  Its main 
+strength is speed, KEEP THEM MOVING when attacking because otherwise, 
+they suck.  If you can’t keep them moving as much, use medium tanks instead.
+
+The heavy tank is the staple for the soviet player.  It’s the only basic tank 
+you can mass but they are quite easy to use.  Just remember, as in all tanks, 
+to keep them moving especially while attacking.
+
+Having a primarily tank dominated army is weakness to only one single 
+land unit (not counting air, which is not really a threat as they miss 
+and take out units too slowly), that is the shock trooper.  Being unable 
+to crush them, and the fact they cannot miss make them quite a formidable 
+unit, especially against light tanks.  HOWEVER, don’t be fooled, they cost 
+as much as a heavy tank and move slower.  A heavy tank can take out a 
+shock trooper 1v1 and the fact that shock troopers are really slow say that 
+shock troops should not be used for normal attacking, especially since it 
+has many other weaknesses being the infantry class.  Use as base defense 
+can be foreseen although you should probably not waste you time with them, 
+only other use is as a powerful escort to your ore truck or annoyance.
+
+Other types of infantry suck balls.  Tanya is too expensive, however if you 
+somehow manage to find a distracted or totally unguarded base you could 
+possibly make short work of it (which never comes up if you play a halfway 
+decent player).
+
+Hence for the most part, air is useless, however it can serve 1 purpose.  
+Other than the spy plane and paratroopers, you can have 2-6 Soviet migs to 
+take out retard enemies who snipe at your structures using V2’s or harass 
+your ore truck with 1 or 2 rangers.  Moving your army to remove them may 
+prove fatal as these are mainly distractions that players use to get your 
+army out of the way of guarding your base.  The rest, hinds, yaks, and 
+unfortunately the only Allied air attacker, the longbow are all quite 
+useless.  The longbow sucks since it takes forever to acquire the target 
+and positioning itself, allowing the enemy to either withdraw their unit 
+or move them about, preventing effective removal of the unit.
+
+Many players believe massing mammoth tanks are certain victory, however 
+this is not true.  Due to their slow speed and rate of fire, they can be 
+taken out by more agile units.
+
+V2 rockets can be used well, but generally only useful against structures 
+and infantry, especially shock troopers.
+
+Tesla tanks are quite good.  The only setback being that they are expensive, 
+take long to build and have a slow rate of fire.  Other than that, they are 
+deadly.  The greatest advantage being that they do not miss.  If you 
+manage to mass a platoon of these guys it can decimate a base in seconds.  
+They are also quite weak in armor so a mix of heavy tanks and tesla tanks 
+could be envisioned, however against a top notch player; he’ll probably 
+overwhelm you with too many more tanks after you wasted your time 
+building tesla tanks.
+
+Chronotanks are shit in a main army, useful for distractions though.
+
+The following are units you probably should not consider.  Rangers are not 
+tracked, too weak (armor and dmg), and all rounded shit.  Artillery are 
+simply too weak (armor) and slow.  Mobile gap generators have too little 
+a covering range to be effective.  Radar jammers are more of an annoying 
+unit as opposed to a threat.  Mine layers take too much time to lay 
+mines, but can be used for annoyance, more on annoying strategies later.
+
+Specialty units such as the spy, thief, medic, mechanic, are all too 
+expensive and hard to control to be worth it.  You could possibly use a 
+spy to scout out their entire base if you have an inept opponent as 
+units don’t auto-attack it.  Don’t bother building one to keep an eye on 
+their power because any normal player will sell power plant and build 
+another one.  Thieves are simply useless.
+
+Demotruck? No, expensive, slow and only good against structures.
+
+If I didn’t mention any units, like attack dogs, they are not important.
+
+
+LAND DOMINATED STRATEGY BASICS
+
+You want to keep your tanks moving while attacking, and harder to hit 
+(called queuing).  You can do this by clicking attack on an enemy unit, 
+then clicking move next to it and repeating quickly.  Time it so you 
+move while they fire.  This is probably the main and most effective 
+strategy.  In fact I have destroyed a mammoth tank with a single 
+light tank before by doing this.  Basically all turret based weapons 
+are rendered useless with this strategy, including turrets, other tanks 
+and rockets.
+
+Just remember to keep your tanks moving.  Don’t bother with the “V2’s 
+in the back and tanks in the front” strategy or something of that idea 
+because the concentration split in controlling 2 groups of units is not 
+as effective as keeping 1 group of units well controlled.  Also those 
+far ranged units projectiles are easily dodged and you may find yourself 
+running into them.
+
+Focus fire on units to destroy them one by one quickly.  Choose units 
+that are high damage dealing, accurate and low health first (i.e. tesla 
+tanks and artillery) but make sure they are also close by and you don’t 
+have to run through an army to get them.  
+
+When attacking a base, try to down the power first if it is not too much 
+trouble.  It slows production and turns the deadly tesla coil off.  It 
+also serves to scare the shit outta the opponent.  Assuming the army is 
+destroyed (you should not try to take an army on at its home base but if 
+you do, try to lure out by clicking attack on an enemy unit, then clicking 
+move away from base and repeating quickly.  Go for all defense structures 
+but leave tesla coils IF offline and air defense structures.  Meanwhile 
+take out more power, now with the base semi offline you can make a choice:
+If you see no way in destroying the entire base because his army is coming 
+back or there are too much base defense, try to take out his MCV and 
+supply depot first, then war factories and ore refineries although the 
+latter may be harder as players usually have multiple.
+If you can destroy the base, simply destroy in order, the power, the 
+constructing buildings, the ore refineries, then everything else.  I 
+say the power first since if you manage to remove all power, the game 
+is done.  Everything builds too slowly for the opponent to recover.  
+However if the opponent has cleverly split up his power plants, then 
+take out the constructing buildings while removing power plants on the 
+way.
+
+When getting attacked at your base, try to get your defense structures 
+in on the fight so you should have your army situated around your base 
+defenses in the first place so you don’t have to run back.
+
+Despite the above guidelines, those are only basic tips.  You should 
+take into consideration first the proximity of the structures, i.e. 
+you don’t want to run though layers of base defense to simply get a 
+crack at the MCV, take out the base defenses first or find a better 
+way in.
+
+REMEBER whenever you leave your base to keep base defense for annoyance 
+attacks.  Never rely only on your base defense against a primary attack.  
+You can never have enough against a large platoon of tanks.
+
+If you ever find a small pond near your base and you decide to place a 
+cruiser or missile sub in it to help defend your base against land 
+attacks, DON’T BOTHER!  Both are not perfectly accurate (yes even 
+the sub) and easily dodged by any decent player.  Also if some idiot 
+does that and you are attacking his base, move all your units right 
+into his base as his own cruiser/missile sub will tear apart his own 
+base while missing your units (keep them moving while in his base).
+
+
+LAND BASED RESOURCE MANAGMENT
+
+In maps with a small amount of ore, don’t go wasting all your resources 
+on frivolous things, keep your building concise and take over as 
+many ore patches as you can.  Although you should still focus mainly 
+on getting tanks, you should also be pulling annoying attacks (see 
+FINE TUNING) to weaken your enemy.
+
+Taking over ore patches is an important thing to know how to do properly.  
+While you don’t need your entire army guarding the ore patch you are 
+mining, you need to keep an eye on them.  This is probably where 
+anti-tank mines or shock troopers are very useful.  You can also mine 
+up your own ore fields in a jagged pattern to keep ore squares for 
+ore regeneration, if it’s on.  Depending on the map, you may be able 
+to enforce ore fields with your primary army, without leaving your 
+base fully unprotected.  Also mid-game try to mine fields that you 
+know will be disputed over long-game.  Don’t do this beginning-game 
+as the beginning is critical to mass a large amount of tanks and ore 
+refineries for stability.  Keep fields that are mostly yours (hard to 
+access for enemy) in case things get too hairy.
+
+Protect ore patches you are CURRENTLY mining actively.  Don’t bother 
+actively protecting an ore patch that you haven even started mining yet.  
+By actively I mean using units like shock troopers or tanks etc.  
+You can discourage the opponent from ore patch stealing by mining (mine 
+layer) up ore patches.
+
+Ore patch protection should not be overdone as it is only for stopping 
+lame attacks, not full army attacks.  Full primary attacks should always 
+be met by your primary army.  Protect by scattering units around the field.
+
+A good way to incite your opponent to fight you in open territory as 
+opposed to near his base is the attack his ore truck and obliterate the
+ opponent presence on the ore field if possible.  When the opponent comes 
+with his primary army, move your units behind the ore field, then engage 
+the enemy as he is crossing the ore field, it slows down his units and also 
+destroys the ore field.  Therefore use it on ore fields that you don’t 
+really want, or are mainly the enemies’.  Try to circle the ore field as 
+opposed to go into it to attack your enemy.
+
+Many players like to start the attack by attacking your ore trucks 
+(especially if they are easy to attack), which is a good idea.  If you 
+find that happening to you, move ore truck back immediately after first
+ sign and face the enemy at your gates.  Don’t, unless totally necessary,
+ leave your base to confront their army at the ore patch as they can send 
+Tanya’s and so on into the now unguarded portions of your base.
+
+Keep an eye on your ore truck because when it is attacked, you get no 
+warning, only the “Unit lost” and screen shake when it died.  Also the 
+chronosphere can be useful here in which you transport a hopelessly 
+ambushed truck back to base.  But be wary as the truck will appear back
+ where it started.
+
+You should never think about attacking an enemy ore truck with infantry
+ (except shock troopers) because the truck can just crush them all.
+
+If you find money becoming tight, and ore patches becoming rare, use 
+more annoying attacks to whittle enemy resources, but preserve units. 
+ In stagnant games, i.e. the opponent and you built lots of base defense 
+and your armies are small due to plenty of fighting, aggressively take 
+over regenerated ore patches as resource gathering is the primary 
+strategy here.  Also know that a poor player will tend to leave things
+ unguarded.  In that case feel free to take advantage of that, i.e. ore
+ truck unguarded? Shock-drop it (see below FINE TUNING).
+
+In maps where resources are plenty, focus more on destroying your enemy. 
+ Keep massing more tanks and less annoying attacks.
+
+
+LAND DOMINATED STRATEGY FINE TUNING
+
+This section contains the “annoying” strategies that are not “main” 
+strategies (WITH EXPEPTION OF QUEUING) and that can be used to win 
+small skirmishes or annoy and frustrate the opponent.  These are mainly 
+used to weaken their main army by forcing them to split up their army. 
+ A good thing to do is to piss off your opponent enough to mass you at 
+your base and try to destroy you only to be destroyed by your army and 
+your base defenses.  After which you quickly retaliate and completely 
+level his base.  I’ll also give you counters to these strategies, in
+ the case you are faced by them.
+
+Note that one should not spend too much time on these strategies in 
+a game since it takes up time and effort.  It is probably best to 
+use these when you and your opponent are doing nothing and massing 
+tanks cause both of you are too pussy to attack each other.  Just 
+remember in that case, too keep building those tanks.  Use also if 
+resources are low and you are not doing anything anyway, but in that 
+case your primary focus will be to attempt to engage the enemy where
+ you have the advantage, i.e. piss you enemy off enough to mass your
+ army and base defenses at your base, or whittle enemy forces.
+
+Queuing:
+The most essential strategy, I have kinda covered it above but I want 
+to be clearer here.  The basis behind this is to keep your tanks moving 
+while the enemy fires, then stop and fire at them.  It becomes a small 
+dance, which requires good timing and coordination.  To start off, first 
+label your army 1 using ctrl+1.  That way if you click something else by 
+mistake you can quickly select all your units again.  Keep your army selected
+ throughout the procedure.  Move towards the enemy, let them fire first, 
+they will miss as your tanks are still moving, then immediately focus fire
+ on one enemy unit when they finish firing (or most of them).  Move before
+they fire, let them miss again, then focus fire on another enemy unit if 
+the latter is dead.  Repeat.  Try to keep outside or around their army, 
+you want to be moving perpendicular to their shots as opposed to towards/away 
+(parallel).  Try circling their army; you want the enemy clustered so tanks
+ in the middle of his cannot fire.  If you find your army basically merging
+ with theirs that is fine, but if that does happen you want to start 
+getting rid of enemy units faster as opposed to being so focused on 
+dodging enemy shots so simply move, attack, move as fast as you can. 
+ Move as much of the time as possible but attack frequently.  You will 
+find later, after lots of practice that you are clicking move and attack
+ so fast, that the tanks look like they are firing at the enemy while 
+moving.  That is when you know you are pro, what you should always strive
+ for, and the level I am at now.  As for circling, try to move so your 
+units are circling your opponent, that way you can kinda corral them 
+into a circle.  Finally when you queue, if you have units that are 
+generally weaker then the opponent, try to keep a distance away; if
+ you have units that are generally more powerful (and therefore probably 
+slower), move in closer.
+Counter:
+You better hope you queue better than your opponent.  But when you 
+master that, and play an opponent that has mastered that as well, you 
+should find (after many battles in which 2 armies are circling one 
+another) that faster units eventually prevail.  The reason being that 
+they are much harder to hit, and can circle better due to their quickness.
+  A pro with an army of light tanks can be devastating.  
+
+Dodging a longbow:
+If your opponent ever decides to attack one of your land-based units 
+with a single longbow, run the unit basically under the helicopter, the 
+missiles fly slightly off to the side.  The longbow will reposition but 
+you just do it again and it wastes more missiles.  
+Counter:
+Fly longbow off a bit and attack, unit has to catch up to get under you
+ but you can get a few shots off.
+
+Force field:
+This takes advantage of the fact that concrete wall can be built so 
+fast.  If you find a lone enemy tank or 2 attacking your structure, 
+and you want to prolong the life of the building while your planes 
+come over, slap a wall right in front of the structure between structure 
+and tank.  Rinse and repeat.
+Counter:
+Move tank to better position.
+
+Dodging a yak:
+In case an important infantry is faced with a yak, towards the 
+speeding movement of the yak, as they tend to over shoot, keep running that way,
+ they will turn around and undershoot the other way.  I have dodged a yak 
+attack run with an engineer once, but it was kinda pointless cause I 
+didn’t need the engineer (I got the damned thing in a box, what can I say).
+Counter:
+Force-attack behind of running unit.
+
+Dodging squishing:
+For the most part a determined player will eventually be able to squish 
+your infantry, as infantry are very slow, but you can delay it and piss 
+off the player by running to either the square diagonal to the units 
+coming towards you or side to side.  Just time is so JUST when the tracked 
+unit starts moving, you are moving away.  In fact by perfecting this, 
+you can really infuriate players.  Attack their unguarded ore truck with 
+infantry but keep dodging, sometimes the player sends his army (or part 
+of) over then you can make your attack on his base. 
+Counter:
+Really depends how good the player is at this, for the most part you can 
+eventually get him but if not, bring over a nearby ore truck to help.  
+Basically you don’t want to have to make your army come over and leave
+ your base defenseless if you’re dealing with 1-2 rifle infantry.
+
+Outranging:
+A rocket soldier or tank can outrange a pillbox and flame tower, a V2 
+can outrange anything.  Use annoying attacks to pick off defenses, or 
+structures.  You can use on units but usually it results in your V2/rocket 
+soldier/tank being chased down and annihilated.
+Counter:
+If the defense structure is very isolated, that is your army will take a 
+while to get him, use planes if possible, otherwise as a last resort, 
+sell structure right after he fires a shot and rush the fucker with 
+the infantry.  Up against a V2 split up the infantry so it takes 
+multiple rockets to kill all the infantry.  Build it back later if 
+you need to.
+
+Tanya drop:
+If opponent happens to leave critical structures unguarded (esp MCV) 
+load 1-2 Tanya in 3-4 APC (some will be empty for cannon fodder) and
+ run into base fast, unload and detonate.  Chinook is also an idea 
+if they have no air defense as well.  
+Counter:
+Keep flame towers/pillboxes near critical units or use gap generator.
+
+Engineer drop:
+Same as above but with more engineers, you need 3 to damage and take 
+over any structure from full health.  Best to sell it after, as the 
+opponent will most likely swoop in and obliterate it or recapture.  You 
+can try the build tesla to 99% then capture and place tesla next to 
+captured building for extra annoyance factor.
+Counter:
+Keep flame towers/pillboxes near critical units or use gap generator.
+
+Radar jam:
+Use the radar jammer when you attack, it adds to the frustration.  Or 
+feel free to jam, then run away when units come, come back, jam some 
+more and run away.  May incite opponent to move some units there.  
+Counter:
+Don’t let it bother you too much, use of planes are best here but 
+otherwise its not much of a threat.  Usually it can scare a player as 
+it also is the calm before the tesla tank storm.
+
+Ore truck harass:
+You can aim to either, destroy it, or simply annoy it.  If you want to 
+annoy it use rangers, they are cheap and cannot be crushed.  Use 1-2 and 
+opponent will have to send something to stop that mess.  If you want to
+ destroy it, try using 6 migs to quickly dispatch of it.  Move migs at 
+edges of map so they are not easily detected and also attack when the 
+ore truck is not moving (i.e. mining) by hovering for a bit until the 
+truck stops moving.  In case you are a retard and don’t know how to hover
+ with migs its just moving them around the location not yet telling 
+them to attack in which case they will just fly about.  If you decide 
+to use tanks be wary, opponent will probably try to corner and destroy
+ your tanks, leaving you a few tanks light.
+Counter:
+Escort with shock troopers against ground protagonists, or rocket 
+soldiers against air.  I find it also good to simply stake units 
+around the ore field as escorting can lead to ore truck getting stuck 
+and bumping around.
+
+The shock drop:
+This may be seen as similar to above but I find is takes a different 
+strategy to execute.  If executed properly it can be devastating.  
+Fill 2-3 Chinooks with shock troopers, fly (avoiding air defense) over 
+to their mining ore trucks, deploy and destroy.  Load back in quick 
+and run.  You may consider not filling your Chinooks with 5 shock troopers 
+but 2-4 so you can load them back in faster.  Repeat until they end up 
+escorting their trucks with tons of units, lightening up their army.
+Counter:
+Have V2’s in the field before they come as an added protective unit, 
+along with shock troopers.  If you have nothing, use planes to kill 
+Chinooks right away and send units over.  You may need to lighten your
+ army a bit for this one as shock troopers are really annoying.  
+But remember it cost quite a bit for your opponent to set this up and 
+destroying them all by preventing escape discourages the enemy from 
+doing this again.
+
+Chrono-drop:
+The only good thing is that you can target chronotanks anywhere on the 
+map without worrying how to get there.  Harass ore trucks, attack 
+unguarded buildings.  Move to enemy base defenses and outrange a tower, 
+when opponent comes to stop the fun, chrono back to your base.
+Counter:
+Planes are a good idea however be careful as chronotanks are really 
+good against air for some reason.  Otherwise chase with fast unit, 
+and dodge the missiles.
+
+Suicide paradrop:
+Paradrop is mostly useless.  Use only if this situation arises: your 
+enemy placed expensive infantry or lots of infantry near his flame 
+towers.  Drop right on top of enemy infantry, let flame tower fry both 
+you and all his infantry.
+Counter:
+DON’T PUT YOUR INFANTRY NEAR FLAME TOWERS, RETARD.
+
+Invulnerable nuke truck:
+Iron curtain a demo truck and send it into a bunch of power plants.
+Counter:
+Don’t think many people will use this as it requires building 2 very 
+expensive and useless things, the iron curtain and demo truck.  Otherwise
+ try blocking it with tanks or even slapping a concrete wall right 
+in front it, so that you cause it to STOP and turn not simply dodge it. 
+ It requires timing to do this though.  Get ready for an attack because
+players who do this usually combine with the nuke silo nuke to fully 
+reduce your power before an attack.
+
+Mining the ore fields:
+The only mine layer that is useful is the anti-tank ones.  One of the 
+oldest tricks in the book, mine up your opponents mine field.  To make 
+it more effective, watch for the ore trucks mining pattern, the empty 
+diagonal squares.  Lay mines where the truck is likely to mine next and
+ opponents will find it a very hard time to mine, the more the better.
+Counter:
+This is one of the most annoying things if an opponent managed to carry
+ it out successfully as you cannot force-fire the ore and getting rid 
+of them will mean losing vehicles.  Best counter is to prevent it from 
+happening in the first place (keeping shock troopers staked around your 
+ore field), otherwise if it gets too bad you may have to find another ore 
+patch, take over one of theirs for revenge :P.
+
+Suicide migs:
+Build 6-7 migs and fly them (avoiding air defense) to enemy base and 
+attack and quickly destroy an enemy critical structure.
+Counter:
+Backups, air defense, fakes, gap generator; too many counters for this 
+so many pro players don’t really do this often, as migs are rather 
+expensive.
+
+
+OTHER STRATEGIES
+
+Honestly, I don’t like sea dominated maps and I don’t really have 
+well-defined strategies I stick to.  Allied have a clear advantage in 
+the sea, by using gun boats as sub destroyers with the help of destroyers. 
+ Cruisers can be used to force fire near subs as well to obliterate them. 
+ Use the formation bug (putting sea units in formation with a fast sea 
+unit like transport) to dodge shots (yes, subs can dodge destroyer shots,
+ easily).
+
+Basically if the enemy’s base is near a shore, you need to take over the 
+sea asap and annihilate his base with cruisers/missile subs, warning: 
+keep your own base secure as well.  If you are near a shore you need to 
+secure the sea.  If you didn’t do that fast enough, you are mostly likely
+ screwed, unless you have a large tank army and he has a small one.  Then
+ it becomes who can destroy the other base faster.  In that case run out 
+of cruiser range.
+
+In maps that you can ONLY get to enemy base over sea (those are the 
+gayest), then obviously the strategy is to mass sea.  In these cases, 
+annoyance attacks are frequent.
+
+For those who like playing against the computer the difference is that 
+the computer follows a set of rules.  So if you find something that
+ works against them, it will always work.  Therefore they suck.  The 
+computers only strong points (on Hard) is the ability to ruthlessly dodge 
+squishing, see the whole map despite gap generators and the fact they 
+can build faster and more than you in general.
+
+Also don’t bother playing nurple maps, most are rigged and gay.
+
+
+INTERESTING THINGS I’VE DONE OR PEOPLE HAVE DONE TO ME
+
+I add this section mainly because the best way for a player to get better,
+ is the play more.  Playing more exposes players to more strategies and 
+situations that one can learn from.  Here I present interesting things 
+that I have done or players have done to me and may or may not have said 
+before that one can note and take into consideration:
+
+I have out-queued a mammoth tank 1v1 and beat it with 1 light tank, trick
+ is to keep a distance from the mammoth tank.
+
+I ran into an enemy base with a tank, inciting all the enemy V2’s to fire
+ at me while I was nearby a pair of enemy power plants, destroying one and
+ severely damaging the second, ok that was kind of luck.
+
+While I was queue-battling with another enemy, he (I didn’t notice them 
+coming) ran 3 demo trucks right into my path of tanks.  From now on I 
+keep an eye on what else is going on while I queue-battle.
+
+In a long battle, I was attacking the enemy army when I realized my base
+ was being torn to shreds despite my defenses by tons of… rifle infantry! 
+ Turns out the opponent had been paratrooping infantry at some dark corner
+ near my base for the whole game and since the plane comes from the nearest
+ side, I didn’t even see the plane fly by.
+
+On an island that was my main ore supply there were only 2 thin paths in, 
+one towards my base and one towards the enemy.  Suddenly I realized my ore
+ trucks were running though the enemy base and getting decimated, looking
+ on the minimap I couldn’t see anything, upon investigation with 2 heavy
+ tanks I realized that my opponent had placed 3 mobile gap generators
+ blocking the path to my base and I couldn’t even see them, with my ore
+ trucks being retarded and moving through the enemy base hoping to 
+return the ore.
+
+I once queue-battled someone light tanks v light tanks, the battle was
+ intense.  It seemed like I was going to come bad on this one so I 
+ran my nearby ore trucks right into his circular path (he was attacking
+ one of my ore patches), slowed his light tanks for a second and 
+managed to wipe him out and survive with 3 red light tanks and 5 damaged
+ ore trucks.
+
+
+GUIDE INFO
+
+Created from scratch by me.  When I played Red Alert I always went by 
+different screen names so I don’t have a defined name.  cLass1C was my
+ general screen name for other things like chat rooms.  This guide was
+ originally created on March 16, 1999 but recently transferred onto a 
+Word document basically to make it easier to read and for a format more 
+people are used to, I wonder if anyone uses Windows 95 anymore…  Anyways, 
+hope you learned a bit, I’ve stopped playing since 2001 but I have played 
+this game for about 3 years, competitively in tournaments before.
+
+You or anyone can use this guide (post or as attachment in websites) as 
+long as credit is retained and nothing is changed.  Thanks a lot, good 
+luck although people these days are playing much fancier games now.  It’s 
+too bad, this was a good game when it came out.  As for me… well I stopped 
+playing games altogether in 2001, kinda got busy with work and a new 
+family :P.
+
+Note: Most recently tranferred to notepad for proper formatting to 
+GameFaqs.com
+

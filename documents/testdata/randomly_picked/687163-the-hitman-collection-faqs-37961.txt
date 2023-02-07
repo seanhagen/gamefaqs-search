@@ -1,0 +1,1521 @@
+Hitman - Codename 47
+Genocidal Walkthrough
+by Dave (god-mail@juno.com)
+http://89programming.cjb.net/
+
+#################
+#Beginning Notes#
+#################
+
+Did you ever want to kill every bad guy on every level? Did you ever think you
+could do it without cheating? Well, you can. This walkthrough will show you in
+detail how to go about doing this. You will also accomplish your goal in each
+mission. Don't get discouraged if you have trouble, just try again. "Long is
+the way/and hard/that out of hell/leads up to light" - Milton, Paradise Lost.
+Take as much ammo as you can for each weapon. I will assume you do so
+throughout this walkthrough.
+If the guy is standing still and you can maneuver completely behind him, then
+kill him with the knife. Otherwise, use the Fibre Wire. When using the Silenced
+Beretta (and you should use the Silenced Beretta almost exclusively), shoot
+guys with their backs towards you in the head twice. Shoot guys facing you in
+the head/upper chest three to four times. You may kill them with the first
+shot, but if you don't, you'll be glad you took the time to place extras.
+While you will indeed accomplish every goal in the mission, you will be docked
+so much money in some cases that you will fail regardless.
+I realize that my version of Hitman is not the mainstream version of the game,
+so some of the names might not match completely. Other than that, I don't think
+I've played the real game, so I don't know.
+
+##Maps not yet Genocidal (maybe never...)##
+Say Hello to My Little Friend
+Traditions of the Trade
+Plutonium Runs Loose
+The Setup
+
+##########
+#Training#
+##########
+
+Simple level. Follow the instructions given to you. As long as you take the
+clothes and a handgun, all you need to do is follow the path. When you finally
+go up levels in the elevator (to level 1), there will be an attendant who will
+try to get you with a taser. Kill him and take his clothes. Holster your
+weapons and go through the next door. Wait until the attendant has opened the
+bars, then kill him as well. Open the next set of bars yourself and continue to
+end this level.
+
+#########################
+#Kowloon Triads Gang War#
+#########################
+
+Background:
+You have been hired to assassinate Lee Hong, leader of the Red Dragon Triad.
+In this level, you must kill the Red Dragon negotiator in an effort to spark a
+gang war between the Red Dragons and the Blue Lotus. Such a gang war would
+weaken Lee Hong and provide a chance for his demise.
+
+Objectives:
+-Eliminate Red Dragon negotiator
+-Blue Lotus negotiator must survive
+
+Equipment:
+AMT 1911 Hardballer - $550
+Blaser Jagdwaffen R93 Sniper - $1550
+
+	We begin simply by completing the mission.
+Head down the street and take a right at the intersection. Follow that street
+past the park and take the street left, still along the park. Duck into the
+alley to your right between the buildings and use the lift to take you to the
+roof. While the lift is going up, click on your Sniper's Case in your
+inventory. Hitman will remove the Sniper's Rifle. Once on the roof, go to the
+corner of the roof farthest from the lift but closest to the park. Drop the
+rifle on the roof before you reach the corner, as citizens from the street
+might see you with the rifle and alert the guards.
+Wait for both negotiators to arrive, then pick up the rifle. For some reason,
+nobody sees you after the negotiators have arrived. Zoom in once the
+negotiators meet. The Red Dragon negotiator is on the left, closest to you.
+They will bow, and then his head will be steady for a few seconds. Peg him in
+the head.
+Nearby guards will run to see the body. Shoot as many of the Blue Lotus
+members as you can around the body, but don't shoot the Blue Lotus negotiator
+(he runs back to his car, so you can't kill him later). A helicopter will be on
+its way, but don't worry. Continue shooting Blue Lotus members without zooming
+out on the Sniper's Rifle. There will be a cutscene with a Blue Lotus in a
+helicopter taking aim. When the cutscene finishes, your crosshair will be on or
+very near the Blue Lotus in the helicopter. Take him out with one shot (you
+won't have time for a second).
+Once the helicopter is dispatched, you can take your time. From the corner of
+the roof your are on, aim towards the Blue Lotus negotiator’s car. In the
+opening to the park there should be two Blue Lotus members (or you shot them
+earlier). If they're there, kill them. Now aim across the park at the opening
+farthest from you. Kill the two Blue Lotus members there and wait for another
+Blue Lotus to appear from the street, then shoot him. Reverse of tact here,
+wait for the Blue Lotus to pass on the right of the Red Dragon negotiator's
+car, then pop him. The two Blue Lotus at the opening next to the car will run
+to investigate (if they're not already dead); shoot them, as well.
+Drop your Sniper's Rifle and head back to the lift. Hit the button and select
+"Road". Face the direction of the button. When you get to the ground, if you
+hear the Blue Lotus member behind you cry out, quickly strafe right and turn
+around. You will be under the cover of some boxes. Lean right, around the
+boxes, and kill the two Blue Lotus with your Hardballer. Head back to the lift,
+facing away from the street. Now, regardless of what happened when you got off
+the lift, head the direction you are facing around the building. There will be
+a lone Blue Lotus member patrolling. Kill him with your Hardballer and take his
+Uzi. Now, if the two Blue Lotus did not cry out and are still alive, go back
+and use your brand new Uzi to dispatch them, using the boxes near the lift for
+cover. Turn right on the street and locate the fallen Blue Lotus member. Near
+him will be him M60. Relieve him of it, and make you way back to the car.
+Although none of the opposition should be around, you are easily armed enough
+to dispatch them if they are.
+
+###################################
+#Ambush at the Wang Fou Restaurant#
+###################################
+
+Background:
+Now the Red Dragons are angered by the hit of their negotiator. They believe
+it was a Blue Lotus hit. The Blue Lotus gang, not wanting to be in a war they
+didn't start, has sent an Emissary to apologize to Lee Hong. You will kill the
+Blue Lotus Emissary to make the Blue Lotus believe the Red Dragons are
+retaliating. You will also kill the three Blue Lotus members sent to guard the
+meeting.
+
+Objectives:
+-Eliminate Blue Lotus Emissary
+-Eliminate the three Blue Lotus guards
+
+Equipment:
+Oyabun Knife - $65
+Beretta 92 Silenced - $775
+Car Bomb with Remote Detonator - $3000
+Kevlar Body Armor - $900
+
+Again, we begin by completing the mission. Doing this mission genocidally
+prevents you from buying the Desert Eagle in the next mission.
+Head through the alley in front of you to find the front of the Wang Fou
+Restaurant. Wait across the street for the Emissary's car to arrive. Follow the
+driver into the alley (they don't think this odd) and get behind him when he
+starts to pee. When you are facing his back, there will be one civilian to pass
+from your left to your right and into the side alley. Another civilian will
+pass on the sidewalk on the right end of the alley. Either will see you kill
+the driver, so make sure they have passed. Hit Sneak Mode and ice the driver.
+Drag him into the sewer and take his clothes and gun. Holster everything, go
+out of Sneak Mode, and climb out to the alley. Go back to the restaurant.
+Go to the driver's door of the Emissary's car. There is a single Blue Lotus
+guard walking around the car. Wait for him to go on the other side of the car.
+Make sure your back is turned to the restaurant, and then take out the bomb.
+Right click on the driver's door, and place the bomb.
+Run back to the sewer and take your old clothes. The Emissary will leave the
+restaurant, but will take a while to leave because he has no driver. Do not
+take out the Remote Detonator in view of any gang members as they will see it
+and kill you. Go back to the alley across from your getaway car (the starting
+point). Use the Lean Right button to hide behind the building, but still watch
+the three Blue Lotus members at the end of the street. When the car comes
+around the corner in front of you, take out the Remote Detonator. Hit Fire when
+the car would be right between the first two gang members.
+If any of the three Blue Lotus members survived the blast, leave them. Turn
+around and run down the street away from the Blue Lotus members. There will be
+one Red Dragon wandering around the map counter-clockwise. This is the best
+time to dispatch him-with your silenced Beretta from an alley. Otherwise, you
+will have to do it later. At the end of the street you will find an alley off
+to your right. Head to the opening of the alley and look right, down the
+street. At the end of the street you will see two Red Dragon members. Head to
+the end of the alley and pick up the Sniper's Rifle as well as the Sniper's
+ammo. Go back to the mouth of the alley and look down the street, towards the
+two Red Dragons. Kill them both, the rightmost one first.
+Walk to where they fell and look towards the entrance to the restaurant.
+Strafe left, towards the restaurant, until you can see one of the two Red
+Dragons guarding the front. Kill them both with the Sniper's Rifle. This would
+also be a good place to camp and wait for the wandering Red Dragon, if need be.
+Go up to the new corpses, and liberate them of their weapons dropping the
+Sniper's Rifle. Ready an Uzi and then position yourself between the two doors
+that are the entrance. Open the rightmost set of doors. In front of you will be
+two Red Dragons, almost in a line. Kill them with the Uzi, then drop it. Take
+out the second Uzi and strafe right. If the doors close, open them. To the left
+in front of the staircase is another Red Dragon who will be running to see the
+trouble, so kill him. Finally, strafe back left and enter the restaurant. There
+is a Red Dragon behind the door to the right, so strafe and lean left to take
+him out.
+At the opposite end of the restaurant is a set of double-doors with a sign
+above them that says "BAR". They don't open, but to the right of these doors is
+a single wooden door. Inside this door is a closet with a gaggle of Sniper's
+ammo. Take at lease two clips of ammo, then go pick up the Sniper's Rifle. Go
+forward through the alley and back to the place where you hid with the Remote
+Detonator. Aim down the street and eliminate any remaining Blue Lotus members.
+Advance down the street to the corner in front of you. There are two Red
+Dragons down the street to your left on opposite sides of the street. Take out
+the rightmost Red Dragon first, then his buddy. These guys pack shotguns, so
+they have trouble hitting you from far away.
+
+#############################################
+#The Massacre at Cheung Chau Fish Restaurant#
+#############################################
+
+Background:
+The Chief of Police is on the payroll of both Triads. He has arranged a peace
+meeting between the two gangs in an effort to stay on the payroll of both
+Triads. You will kill the Chief of Police and leave a Red Dragon Amulet around
+his body. This will make the police withdraw protection from Lee Hong and you
+will be able to go after him.
+
+Objectives:
+-Eliminate Red Dragon Emissary
+-Hide Red Dragon Emissary's body
+-Place Red Dragon Amulet inside the restaurant
+-Eliminate the Chief of Police
+
+Equipment:
+Oyabun Knife - $65
+Fibre Wire - $110
+Kevlar Body Armor - $900
+
+When you start the mission, you need to turn left and head through he alley to
+your left. At the end of the alley is a fence to your left. Go left past the
+fence and continue all the way to the street. Turn left at the sidewalk and you
+will be facing a police officer. Slit his throat and drag him back through the
+alley and into the sewer. Take his Beretta and climb out.
+You will be facing an alleyway a little to your left, and you need to take it.
+Follow it to the street and take the alley across the street and slightly to
+the right. Get behind him and cut his throat. Drag his body down the alley (the
+way he came) and turn right at the alley intersection. Continue dragging him
+down that alley and turn right when you can. You will be behind the restaurant.
+There is a sewer grate next to you, so throw his body in there. Take his
+Beretta and climb out.
+Turn left and head down the alley you just used. At the intersection, continue
+forward until you find the street. A civilian will pass from the right and into
+the alley past you, and another will come down the street to your left and head
+left, away from you. Once both civilians have passed, it is safe to slit the
+throat of the Red Dragon member. Drag his body to the right and further down
+the street the way he was heading. Put him in the sewer grate you find and take
+his clothes and the Red Dragon Amulet.
+Holster everything and climb out of the grate. Turn right and then head back
+into the alley you just used. Follow this alley all the way until you find
+yourself at the back of the restaurant. There will be a lone officer guarding
+the back door and two more will be patrolling from the right (the brick side)
+and then around through the fence to the left (clockwise). Look down the alley
+to the right to assure that no officer is coming, then strangle the office
+guarding the door. Be careful that his head is turned away from you so he
+doesn't see you prematurely.
+Holster the Fibre Wire and move away from the body (but still behind the
+restaurant). When the other two officers appear, strangle them when they run up
+to examine the body. Relieve them all of their Berettas, and take out two
+Berettas John-Woo-style. Open door the lone officer was guarding (with the
+steps). You will find yourself in the kitchen. Quickly move forward and open
+the door in front of you. A bit to the right will be the Police Captain, your
+target. Stay in the doorway and shoot him. Reload and lean right, aiming at the
+door to the restaurant. The two officers outside will come in. When they do,
+kill them.
+Strafe right and lean right until you can see the Bartender, then kill him. Go
+inside and drop the Red Dragon Amulet on the table. If the two officers are
+still outside, shoot them through the windows. Exit through the front door of
+the restaurant and take a slight right and head down the street to find your
+car.
+
+############################
+#The Lee Hong Assassination#
+############################
+
+Background:
+With police protection withdrawn, Lee Hong is within your grasp. You must
+first retrieve the Jade Figure which is said to give Lee Hong his power.
+Deliver the Jade Figure to the Herbal Shop, and then eliminate Lee Hong.
+Be warned: Once you complete the Lee Hong Assassination in the manner
+described below, it will seem really inadequate to do anything less.
+
+Objectives:
+-Find Safe Combination
+-Find Safe Location
+-Deliver Jade Figure to Herbal Shop
+-Eliminate Lee Hong
+-Captured Agent must survive
+
+Equipment:
+Pentagon Knife - $65
+Fibre Wire - $110
+Beretta 92 Silenced - $775
+Kevlar Body Armor - $900
+
+	This is easy as heck if you follow my instructions and take your time.
+
+Take a deep breath. Head to the restaurant go inside. Head around the
+centerpiece and through the doors labels "BAR". Talk to the bartender and take
+the flyer he gives you. Watch the doors where you came into the bar. When they
+open and the chick wearing black and carrying an Uzi comes through, go back
+through the doors and shut them behind you. Hit Sneak Mode and kill the
+bodyguard guarding the door to your left. Nobody will see you in this hallway
+until the Uzi-toting bodyguard comes back. Drag the body into the closet (the
+door he was guarding) so he cannot be seen from the hallway. Take his clothes
+and his gun. Holster, come out of Sneak Mode, and exit the closet. Turn right
+and press yourself against the doors to the bar. When the female bodyguard
+opens the doors, shut them again and hit Sneak Mode. Quickly strangle her
+before she passes the door to the closet. Take her Uzi and holster it. Drag her
+body into the closet.
+Turn left and head down the hallway away from the bar. Keep left and go
+through the double-doors with the two bodyguards. They will welcome you because
+you have the Flyer. Leave them and head up the stairs and then back down the
+ramp. You will take care of them later. At the bottom, turn a hard right and
+head through the tables that you find. Along the wall opposite the bottom of
+the ramp is a single door. In front of this door is a guard. Cut his throat and
+take his weapon. Go into the door he was guarding. It is a hallway leading off
+to your left, so go left. Inside the only door you find will be several crates
+and one of Lee Hong's possible safes. Sneak up behind the guard (to your left
+when you enter) and strangle him. DO NOT take his clothes or try to open the
+safe! Instead, you will find a door to the right of the safe (the one you
+didn't use to enter) which you should open. You will find yet another door.
+Holster everything and make sure you're in Sneak Mode. Open the door and strafe
+left so you can only see the closest bodyguard. Take out your Silenced Beretta
+and pop him (twice, see above) in the head. Another bodyguard will run from the
+bottom of the ramp to the dead guard. Try to kill him when he does this. If
+your door closes, stay put. The guard will come through to kill you so pop him
+when he does. Open the door and strafe right. Lean right to see if you can hit
+the fat guy. If you can't, continue to strafe right and then lean right until
+the fat guard is dead. Take his Hardballer. Go inside the double-doors the fat
+guy was originally standing in front of. They are to your left from the
+single-door you just used.
+Head up the stairs, through the door, and then up the stairs again until you
+find a crazy looking old lady. The prostitute has run to her room in distress.
+You'll comfort her later, you stud, you, but now you have work to do. Take the
+leftmost door and you will find a lone Red Dragon member. Go inside the room
+and take the door on your right. Go inside the hall, turn right, and then back
+up. there might be a female bodyguard in the hallway in front of you. If there
+is, strangle her. If not, wait for her to come through the door you just used,
+then shut the door behind her and kill her. Go back into the room with the
+single Red Dragon member. Turn right and head through the door you find,
+shutting it behind you. You will be in the safe room. Sneak up behind the guard
+and slice his throat. Drag his body into the corner so you can enter the door
+you just used without the Red Dragon guy seeing his dead comrade. Back to the
+lone Red Dragon member, sneak up behind him and ice him. Take his Uzi and the
+SMG ammo on the table below the mirror. Drag him body onto his comrade's body
+in the room with the safe. Return to the room where the lone Red Dragon member
+WAS, and shut the door behind you. Open the door in front of you to find the
+old lady. Talk to her, and she will walk to the room where the lone Red Dragon
+member was.
+You should be facing a bodyguard with an Uzi and his back to the wall. When
+the old lady has left, sneak up behind him and snuff him. Move forward a bit
+and take a hard left to find a bodyguard at the end of a hall, next to a door.
+Get behind him and ice him, as well. Move forward and down the steps to your
+left to find another lone bodyguard. Slice his throat and then open you
+double-doors you should be facing (after killing the guard). You will now be
+looking at the stairs down. Shut the door behind you and strangle this guy with
+the Fibre Wire (you can't get completely behind him, so don't use the knife).
+Back through the double-doors at the top of the stairs, up the new set of
+stairs, and then through the second door on your left. You will notice you are
+back in the hallway where you strangled the female guard. Turn left and move
+forward past the door you used previously. Take the door you find into the
+prostitute's room.
+Talk to her, then follow her through the doors but not up the ladder. Once
+through the last door and on the roof, wait in the alcove with the door. A Red
+Dragon member will be patrolling and will stop in this alcove. Strangle him and
+drag him into the corner (not with the door). Take his clothes and weapon. Go
+climb the ladder the prostitute leads you to. Watch the cut scene and hit Sneak
+Mode when you resume control. Sneak up behind the Red Dragon member patrolling
+and strangle him. There are no other people around, so leave him and follow the
+girl. Talk to her when she reaches the gate. She will give you the combination
+to Lee Hong's safe and a kiss (awwwww). Love the sneer.
+Go back to the Red Dragon member you strangled and take his weapon. Holster
+everything and head up the stairs on the building. Go in the center door on the
+platform. You will be in the kitchen. On the wall to your left, there are two
+openings. The first is the freezer and the second is a set of stairs down to
+the basement. Take the stairs down. Head past the first guard and turn left.
+You won't have to open any doors to get to the prisoner area. Head left again
+at the hallway and you will see an opening to a darker part of the basement to
+your right. Take this opening and you will come up to a guard with his back to
+you. Slit hit throat and leave him where he is. Turn around. There are other
+openings with steps leading further into the basement. Take the leftmost one
+with the guard in front of the door. Walk past the guard in front of the door
+(stay as far away from him as you can) and go up the steps. Hang a left
+immediately into another opening and you will be in another hallway heading off
+to the right. Your only option should be to go right, so do so a bit. If you
+see a Red Dragon member in this hallway, strangle him and leave his body there.
+If he isn't there, he will be shortly.
+Head back out the opening and past the stairs down to the lower area. Turn
+right at the intersection of hallways you come to. Follow the hallways until
+you find an Red Dragon member on your right. Cut his throat, and then return to
+the lowered area with the lone guard and door. If you get too close, the guard
+tells you to leave. Strafe behind him, hit Sneak Mode, and strangle him. Drag
+his body into the door he was guarding. Drop your AK-47 next to his body. Come
+out of Sneak Mode and talk to the prisoner. PAY ATTENTION TO WHAT HE SAYS. He
+will tell you the location of the safe, which changes every time. Once the cut
+scene is over, walk out of the room and pick up the dead guard's AK-47. Turn
+left and then left through the opening once more. Turn right and go down the
+hallways until you come to an intersection. Turn right and go up the stairs
+(which are hard to see). Turn left and go through this hallways and then take
+the stairs on your right. Wait at the top of these stairs for a Red Dragon
+member. He will come through the door on your left. Once the door has shut
+behind him, strangle him. On the crates in front of you you will find some AK
+ammo-take it.
+Go through the door the Red Dragon member just used, dragging him out of the
+way if he can be seen when the door is opened. Continue down the hallway you
+find through the door until it cuts to the right. When you turn right, you will
+either find a Red Dragon member in front of you, or at the end of the hall to
+your left. You want to strangle him when he is closest to where you are now, so
+do so. Down the hall he was patrolling, you will find a single door to your
+left. Open it and find an elevator and another door to the right. Open the door
+to the right and cut the Red Dragon guy's throat. Holster and go through the
+passage which is in front of you. Follow the passage and go across the bridge
+you find. Cut the throat of the Red Dragon guy on the other end of the bridge.
+Holster and continue up the steps until the hallway splits. Go left, but only a
+few steps. A Red Dragon member will eventually stop in front of where you are
+now. Strangle him. Follow the hallway forward and around to the right to find
+another Red Dragon member in front of an elevator. Call the elevator and cut
+the Red Dragon guy's throat. Holster and get on the elevator.
+Take the elevator up to the VIP area. Get off the elevator and turn right.
+Head through the double-doors you find, and then again through the new set, and
+yet again through the new set. Eventually, a Red Dragon member will join you in
+the room you find. Kill him, and then backtrack through the three sets of
+doors. turn right and head down the steps into the VIP Meeting Room. GO up the
+steps at the other end and back around left and stop behind the window facing
+the room. Wait here and strangle the Red Dragon member that joins you. You must
+wait a few seconds after he takes position, as the other guard will spin around
+when the first guard is in position. Holster and go back out the opening to the
+safe. Strafe left off the platform and drop behind the Red Dragon guy guarding
+the safe. Strangle him. If the CIA guy told you the safe was in the VIP Meeting
+Room, then open the safe and remove the Jade Figure. If he told you another
+location-don't worry, we will visit each location at least once from this
+moment on.
+Holster everything. Exit the Meeting Room the way you came and once up the
+stairs, turn right to go back to the elevator. Once inside the elevator, take
+it up to the Guard's Quarters. There is a guard who patrols right in front of
+the elevator, so strangle him when he walks by and leave him there. Turn right
+in the hallway and you will come to a hallway intersection. To your left are
+two guards guarding the safe. To your right are two guards who will alert Lee
+Hong and/or kill you if they hear you kill the safe guards. Go left and into
+the room with the two guards. First get behind the guard beneath the TV (to
+your left), and hit sneak mode. The guard in front of the safe looks around a
+lot, so try to kill the guard in front of you with the knife when the other
+guard is looking away. The safe guard will look at you for a bit, then look
+away for a bit. Wait until he looks back the second time (which will last a
+while), and then he will look away for a while-do it then. Holster your knife
+as quickly as you can and run up to the other guard. If he notices the other
+guard dead, he will run over giving you the chance to sneak up behind him and
+strangle him before he sounds the alarm. If he doesn't notice, strangle him and
+feel lucky. Either way, work quickly. If the CIA guy told you the safe was in
+the Guard's Quarters, then open the safe, take the figure, and then holster
+everything.
+Take the Sniper's Ammo on the table (next to the AK). Exit through the hallway
+you used to enter, but move past the hallway with the elevator. You will find
+yourself in a room with two Red Dragon members and another wooden table. Take
+the Sniper's ammo on the corner closest to you, and then the AK ammo on the
+other end. Go through the double-doors the Red Dragon guys are guarding,
+shutting the doors behind you. To your left will be a lone Red Dragon guy. Cut
+his throat, and then drag him with you. Open the rightmost door on the wall you
+were facing when you entered this hallway. Inside this room will be some AK
+ammo and two bullet-proof vests. If you need a vest, take one. Either way, take
+the AK ammo.
+Backtrack through the double-doors to the two guards you left. Turn left once
+through the doors and move to the wall. Turn around so the two guards line up
+in front of each other. Hit Sneak Mode and STAY in Sneak Mode until I say
+otherwise. Quickly take out your Silenced Beretta (in Sneak Mode) and cap them
+both. Leave them. Reload and then holster your weapons. Go back through the
+double-doors to your right and shut them behind you. Open the single-door you
+are facing. Inside you will be able to see one guard (there is another to your
+right which is usually out of sight). Take out your Silenced Beretta and shoot
+him in the head. His buddy will run out the door in a second or two, so shoot
+him when he does. Go inside the room and take the SMG ammo on the table to your
+right. Holster everything.
+Back out the door and left in the hallway. The move forward to the second door
+on your left. Open the door and strafe right so the leftmost guard is the only
+one in your view. Again, use your Silenced Beretta to shoot his mouth off and
+his friend will come running out shortly. Kill him with the Silenced Beretta
+and then turn around. Reload and then holster. You will find yourself facing a
+set of double-doors. If you see TWO sets of double-doors, take the leftmost
+set. Though these doors turn left and open the double-doors you find. Again,
+line up these two Red Dragon members so they are behind each other, and take
+them out with the Silenced Beretta. Reload and then holster. Open the
+double-doors you are facing. Leave the guards you find in this area alone. You
+may exit Sneak Mode now, if you wish.
+In front of you will be a metal walkway. Follow it and enter the door on the
+other side. If the CIA guy told you the safe was in Madame's place, you're in
+luck, because you're in the room with that very safe. If that was the case,
+open the safe and retrieve the Jade Figure. Be sure to holster the figure and
+close the safe door. Open the door you did not use to enter this room to find
+Madame herself. Continue forward through the door you find and down the stairs
+which are slightly to your right. At the very bottom of the stairs, go through
+the double-doors. If the CIA guy told you the safe was in the storage room,
+then take the single door on the wall to your right. Go through the door you
+find and you will find the safe to your right. Holster the figure and the
+return through both single doors. Regardless of the safe location, go up the
+ramp in front of you and turn right when you must. Open the double-doors at the
+bottom of the stairs. Enter Sneak Mode and shoot the female bodyguard to your
+left with the Silenced Beretta. This will bring the male bodyguard from the
+right. If the doors shut, however, he will run for Lee Hong. If you let him get
+away, you will have to kill him later (not described in this walkthrough, but
+he returns to his post in a few minutes). Either way, you must kill him with
+the Silenced Beretta. Reload and holster your weapons.
+Go through the double-doors and turn right to head back through the
+double-doors that say "BAR." Slightly to your left will be another set of
+double-doors, so enter them. Ahead of you is another set, so enter them. Talk
+to the old man. After your conversation, leave the poison and run back the way
+you came to the Brothel (Madame's). Tzun is making his way inside the
+restaurant, and if he sees you, he will notice that you are an imposter and
+your cover will be blown! Run all the way back to the brothel and take the door
+to the roof (the one the prostitute showed you). Just outside the door is an
+alcove, will be where you kill the Red Dragon member. Take your bodyguard
+clothes back and empty your hands. Go out onto the roof where there will be
+another Red Dragon member patrolling and two Red Dragon members guarding a door
+at the far side of the roof. Strangle the patrolling Red Dragon out of sight of
+the other two Red Dragons, behind the brick structure in the middle. Holster
+everything.
+Go behind the two Red Dragons guarding the double-doors. Hit Sneak Mode.
+Deftly, whip out your Silenced Beretta and shot the leftmost Red Dragon in the
+back of the head. Quickly turn and shoot his comrade to the right as well. If
+either guy shoots, area guards will be prematurely alarmed. Walk off the raised
+platform you are on and turn left to find the skylight on the ground (you're on
+the roof, remember?). As you approach it, there will be some electrical
+equipment to your right. Stay close to the equipment (it doesn't hurt you) so
+nobody in the restaurant can see you. Take out your Uzi (thanks to your effort
+up to this point, you should have a generous supply of ammunition) and slowly
+walk up to the skylight. Shoot Lee Hong as soon as you can hit him, and then
+advance a little further to try to take out Tzun. A bodyguard will come through
+the rightmost double-doors, so kill him. Another comes through the golden
+double-doors to your left, so kill him. Move counter-clockwise around the
+skylight until you are pressed up against the brick building and barely not
+falling in the skylight. You should see another bodyguard near the corner of
+the wall. Kill him. Another bodyguard will come to investigate, so kill him.
+Move back to where you shot Lee Hong. Civilians will be running in and out of
+the double-doors. When the doors are open, shoot outside a couple times to
+alert the guards. You want to kill two more bodyguards, both entering from the
+middle double-doors (leftmost red). Take care to avoid civilians, they cost you
+$3000 a kill, and falling in the skylight, which kills you instantly.
+Move to the skylight on the opposite side of the electrical equipment. You
+should be able to kill two more bodyguards through this skylight. One is
+between the doors to the kitchen, and the other is next to the red double-doors
+(to your left, on approach from the other skylight). You won't have trouble
+finding them-they'll probably shoot first. Kill them both.
+Go back to the raised platform with the double-doors. Open the double-doors
+and you will find the two guards you previously shot on your right. On the wall
+to your left will be a single door. Open this door and turn right once inside.
+In front of you will be a Sniper's Rifle. Pick it up. Exit this room and take
+the double-doors to your left. Take the new double-doors on the right and then
+turn left and take the double-doors on the left. Move forward and go down the
+steps to the right. Turn left and pass in front of the elevator. On the crates
+to your left you will find two clips of Sniper's Ammo. Take them. Past the
+crates will be a single door. Open the door and strafe right until you can
+shoot the Red Dragon members with the Sniper's Rifle (you can sometimes line
+them up to get them both in one shot). Kill them. Let the door shut behind you.
+For some reason, the Red Dragons don't see you up here. Facing the direction
+you would be having just exited the door, look down and left. You will notice
+some stairs. Watch the stairs until a red dragon member comes from the right
+(from a hallway you can barely see) and stops on the stairs. Ice him with the
+Sniper's Rifle. Another Red Dragon member will come from the right, and another
+from the left. You REALLY want to kill the one on the right, or you will be in
+a head-on confrontation later. Kill the one on the left as well as the one that
+run from the bottom-right of the screen. Unzoom.
+Looking a bit more right, you should see two Red Dragons standing next to each
+other in a sort of alcove. Kill them both, but don't kill any Red Dragons this
+brings. Walk down the walkway to the other door. Turn around and look down and
+right. Zoom in on the Red Dragon guarding the double-doors. Kill him. This will
+bring a Red Dragon from the right, and another (eventually) from the
+bottom-left. Kill them both. The VIP area is now secure.
+If you left the Red Dragon member I mentioned above that you REALLY want to
+kill, you're not SOL yet. If you DID kill him, skip this paragraph. Go back to
+the elevator and take it down to the basement. Drop the Sniper's Rifle in the
+elevator. Turn right in the basement, and follow the hallway. Go across the
+little bridge and follow the hallway on the other side up the stairs and to the
+right. In front of you should be a wooden door. Open it and call the elevator.
+Take the elevator up to the VIP area, hit Sneak mode, and strangle the Red
+Dragon. Look left to find the golden double-doors mentioned in the next
+paragraph.
+Go back to the elevator and take it down to the VIP level. Drop the Sniper's
+Rifle in the elevator. Take out your Uzi and proceed to the alcove with the
+dead Red Dragons (hard left, past the fountain). Inside the alcove will be a
+hallway leading off with some wooden steps that go nowhere. Continue down the
+hall you find to your right (past the elevator) to the golden double-doors.
+Strafe as far left as you can and open the doors. Lean right and shoot the
+bodyguard you find in the back of the head with your Silenced Beretta. Another
+bodyguard will come from the opposite set of doors, so wait for him. Shoot him
+before the doors shut, if you can. If they do shut, wait for him to come
+through, then ice him.
+Go back to the elevator with the Sniper's Rifle (you may have to call the
+elevator). Pick it up, but bring out the Silenced Beretta as your primary
+weapon (make sure the clip is full). Exit the elevator and turn right. Go
+through the three sets of double-doors again and turn left once through the
+third set. You will find a large, red set of double-doors. Strafe as far right
+as you can and open the doors, facing left, towards the center of the doors.
+There will be a bodyguard to the left of the doors, so shoot him in the head.
+Go through the double-doors and ready your Sniper's Rifle. Stay as close to the
+double-doors as you can. Point the rifle to the right, at the large set of red
+double-doors you see. Guarding these doors will be a bodyguard. Take him out
+with the Sniper's Rifle. Unzoom.
+Now point the Sniper's Rifle on the leftmost tower (red, pointed roof, across
+the garden from you). Shoot the Red Dragon guy in the tower. Strafe left, and
+repeat with the guard in the right tower. Run down the path on your left and
+follow it to the large, red double-doors on the other end of the garden (first
+one you come to on the path). Open these doors and look left. Using the
+Sniper's Rifle, shoot the two guards in front of Lee Hong's Headquarters. This
+can bring guards from the Headquarters (even if the doors are locked). You
+could have a chance to kill at least two guards from inside the headquarters.
+After no guards have appeared for about 30 seconds, continue through the doors
+and look left. Walk forward until you can see the Red Dragon member on the dock
+below you. Shoot him with the Sniper's Rifle, as well. Finally, you can drop
+the Sniper's Rifle.
+Turn right and locate the red double-doors on the brick building. These go
+back into the restaurant. Whip out that Uzi and make sure the clip is full,
+you'll need your ammo. Head to the golden double-doors and open them. Follow
+the wall past the kitchen doors and open the golden double-doors. Open the
+single door on the wall to your left. Kill the guard in front of the door in
+it's own niche. Go inside and strafe right using the wall to your left as
+protection. Another bodyguards is in the room to your left. Reload and follow
+the signs to the restrooms. Shoot the bodyguard you find there, catching him
+off-guard. Exit the restroom area (via the ONLY golden door) and turn right.
+Take the rightmost door to enter the kitchen. Be careful, there is a bodyguard
+to your right (kinda hidden behind the stuff on the wall to your right). Take
+him out with the Uzi as well, then reload. Holster.
+Exit the kitchen doors and make sure there are no stragglers-you're almost
+finished, but the grunt work is not yet over. Turn right and exit through the
+red double-doors. Go up to Lee Hong's Headquarters and liberate one of the
+guards you shot earlier of his clothes and AK-47. The doors to the Headquarters
+will be locked (you wouldn't want to go in, anyway), so go back to the kitchen.
+Using the opening to the left of the recently expired bodyguard, go back into
+the basement. The guards won't be looking for a suspicious Red Dragon member,
+so you can surprise the two Red Dragons you find by shooting them several times
+with your brand new AK-47. If you're afraid of being shot, hide behind the
+opening to the left and lean right, into the opening. Shoot the one guard, and
+kill the other when he comes to investigate.
+Reload your weapon and go down the steps to open the wooden door in front of
+you. Run forward and hide in the corner with the small wall to your right. Turn
+right and lean right to look down the hall. Using the AK-47, shoot the two Red
+Dragons at the end of the hall. Order doesn't matter, they'll both be dead soon
+enough. Continue down this hall and across the bridge until you find an
+elevator. Take the elevator down to "Basement 2".
+Cut the throat of the guard with his back to you and leave him there. Continue
+through the only opening in this room into a smaller room where there is an
+opening to a long hallway. At the end of the hallway are two guards. One of
+them patrols to the opening of the room where you are. When he does, sneak up
+behind him and strangle him, then go kill his buddy (do this silently so as not
+to alert his friends upstairs). Call the elevator, holster everything, and then
+make the AK-47 your primary weapon. Take the elevator to "Floor 1" and make
+sure your gun is reloaded.
+Go up the stairs in front of you when the elevator opens. Follow them to the
+top and turn left. Take the leftmost opening where you can see a Red Dragon
+member. Take cover behind the wall but directly in front of the Red Dragon guy.
+Now comes the most difficult part. With your AK-47, shoot the Red Dragon in
+front of you in the face. Strafe and lean left out of the opening. Shoot the
+two Red Dragons running towards you. Reload quickly and run towards the top of
+the stairs. Shoot and Red Dragons that come up the stairs as they won't suspect
+you until they directly see you shooting. Stay in the opening at the top of the
+stairs and lean left to kill the Red Dragons running up to investigate.
+Reload and wait for a few seconds, then go down the stairs. At the bottom of
+the stairs, take a hard left. Still, the remaining guys won't (read: shouldn't)
+suspect you, so you should take your time. Shoot the Red Dragon member you find
+at the end of the hallway. There will be one guy in front of the front doors to
+the Headquarters (to the left of the guy you just shot), and then one more in
+the hallway opposite the one you are in. Depending on your massacre on the
+stairs earlier, one or both of the hallway Red Dragons may have been previously
+eliminated. Kill these remaining Red Dragons and then check the Headquarters
+once more.
+Go back to the elevator. Facing the elevator, turn left to find the black
+grate-looking door. Open the door and take the lift down to the dock. ONCE, I
+had a Red Dragon guy on the dock that I had to shoot (he didn't suspect me), so
+be prepared in case that happens. Head to the boat and escape. Congratulations,
+you were the only survivor of the day (except the innocents). Oh, and you can
+exhale now.
+
+#####################
+#Find the U'wa Tribe#
+#####################
+
+Background:
+Your next target is Pablo Belisario Ochoa, a Columbia drug lord. In this
+mission, you will enlist the help of a local tribe to find Pablo's secret camp.
+A plane has crashed in this area with a Holy Figure. Bring the Holy Figure to
+the tribe, and they will help you find the drug lord.
+
+Objectives:
+-Secure Holy Figure
+-Bring Figure to tribal village
+-Free the Chief's brother
+
+Equipment:
+Oyabun Knife - $65
+Fibre Wire - $110
+Beretta 92 - $475
+Kevlar Body Armor - $900
+
+The size of this map alone brings trouble both giving and following
+directions. If you alarm the guards, then ALL of the guards on the levels will
+see through your costume. Use the map, screw the compass.
+
+When you start out, run forward and to the left. You will eventually come upon
+a trench in the jungle. Follow the trench left, watching the side of the trench
+on which you started. You will find a group of four soldiers walking across the
+trench. The first three stop in the trench and look around, and the last one
+stays above the trench. Sneak up behind the latter, and strangle him. This is
+the only way to get a uniform without being discovered by the other soldiers.
+Steal his uniform and his gun. Make sure you take the uniform of a solder
+(Crocodile Dundee hat, not baseball cap). Shoot the other guards with the
+Beretta.
+Using your map, locate the crash site. It is at the center of the yellow
+marker on your map. On your way from where you should be and the crash site,
+there will be two soldiers (probably on your left). Kill them with the AK, and
+take one of theirs. Try to get to the crash site before the soldiers, so you
+can take the Holy Figure (although it really doesn't matter). Stand where you
+would pick up the Holy Figure, and wait. A guard will walk in from the left and
+stand in front of you. He is the last soldier to get into place when they are
+securing the crash site. Kill him with the knife, and pick up the Holy figure,
+if you have not.
+Go around to the other side of the plane (either way) and climb up on the
+plane using the wing. Continue up the wing and behind the soldier on top. Cut
+his throat. Go back down to where the Holy Figure was.
+Sneak up behind the leftmost soldier and strangle him. Then, retreat again
+back to where the Figure was. One-by-one, the soldier surrounding the plane
+will discover a dead soldier. They will pause, stand up and put their hands up
+to their face (as though they are deep in thought...). Then they will turn
+around and run towards the body. You must strangle each one while they are
+running, a little before they reach the body. You are trying to prevent the
+other guards from becoming alarmed. If you find yourself in a fire-fight,
+restart the mission-trust me.
+As flimsy as that sounds, it is an effective and easy method of dispatching
+the soldiers. Run South (use your map) until you reach the river. Turn right
+and run along the river until you  find the bridge. There are three soldiers at
+the foot of the bridge, three more, further down the bridge, and one in the
+guard tower to your right.
+Climb the guard tower and hit Sneak Mode. Before you eliminate the soldier,
+grab the ammo for the Sniper's Rifle that just HAPPENS to be lying in the
+tower. DO NOT, however, take the Rifle (the guard will turn and shoot your ass
+off). Wait for the helicopter to pass over the bridge going in the direction of
+the village (left). Once it is out of sight, you only have about a minute
+before it comes back. Cut the throat of the soldier, take his M60 and quickly
+turn around, but stay in place and don't move towards the bridge. The three
+soldiers at the foot of the bridge will now be upset with you. Show them the
+true meaning of peace (the absence of people shooting you) and when they are
+down, grab the Sniper's Rifle. Kill the three guards on the bridge and the one
+in the guard tower opposite you. This will free the Chief's brother.
+Now comes the most difficult part. Drop down from the guard tower and take one
+of the dead soldier's AK-47s. Follow the Chief's brother (the prisoner) through
+the jungle. He will run past almost every remaining soldier on the map. When
+you come to them, dispatch them with your  AK and take one of theirs (the
+brother hits the deck every time shots are fired, so you have time). Eventually
+you will happen upon two guards guarding an ammo stash, so make sure you take
+the ammo.
+Once you arrive at the village, take out the Holy Figure and head south
+without entering the village. Holster the Figure and ready your AK. Run back
+along the river to the right. You will come upon two soldiers to your right.
+Kill them, take one of their AKs, and head back to the village.
+Back at the village, take out the Figure, and go find the Chief in the center.
+There will be a cutscene with you handing over the Figure, and then another
+with the Chief, and you will be in the next mission. A good thing your health
+and armor get restored at the beginning of the next mission.
+
+################
+#The Jungle God#
+################
+
+Background:
+The Chief tells you of a hidden passage to Pablo's camp. Find the hidden
+passage to go kill Pablo.
+
+Objectives:
+-Find the hidden passage to Pablo's camp
+
+Equipment:
+None available
+
+From the bridge at which you start, head forward. Kill the two soldiers in
+front of you with you AK, and take one of theirs. Turn and face the bridge.
+Head right, around the ruins (or whatnot). Nobody will shoot at you provided
+you are wearing a soldier's uniform, so don't worry. Stay outside the ruins and
+follow around the outside until you come to a wall you cannot pass. On the
+other side of the wall is a bloody platform.
+Find a way to the platform (there are several places where the wall is
+crumbling around you), but do not go onto the platform. Instead, turn away from
+it, and go left. You should see a sort of temple with two statues (probably of
+Jaguars). Take the steps up to the temple and kill the two soldiers with your
+AK. In the center of the grassy area on top of the temple is a hole. Drop down
+and drop your AK. Continue down the hole and take the M16A2 and all the ammo.
+You are now heavily armed enough to take out a third-world country.
+Continue down the hole and you will come out of an opening. Go forward, and
+you will see some soldiers. Shoot them. Shooting them brings all of the other
+soldiers from the map, so shoot them, when they arrive. You really do make
+quick work of them.
+You now have two options. Since you no doubt took some damage, you don't want
+to mess with the stupid Jaguar. You can either drag a dead soldier to the
+bloody platform, or just shoot to damned thing. Shooting it, however, pisses
+off the natives. If you're not entirely lazy, just drag a soldier. Once the
+Jaguar starts munching away, waltz past and into the tunnel. Thank God for the
+restoration of health and armor!
+
+###############################
+#Say Hello to My Little Friend#
+###############################
+
+##Not Genocidal##
+Alright. First you must kill the two guards to the right of where you start on
+the map. You can safely kill them right after the three guards pass. Continue
+around the compound and kill the next two guards you come to at the corner of
+the compound.
+Now go and kill Pablo, as described below. Once you exit the house, turn right
+on the road instead of left. You must kill the guards in the towers. The best
+(quickest) way is with the knife. You must be very careful that there are no
+other guards around. The patrolling guards is the number one reason you will
+mess this up. When the road ends, you will see a guard tower to your right. Go</pre><pre id="faqspan-2">
+up and kill the guard.
+Continue east (left on the map) and kill the guards in the next three towers.
+At this point, you will be at the fence of the drug lab. Go south and kill the
+guard in the tower you find. Then east again to that tower. East past the drug
+lab entrance, and then north to the tower in the corner. Back south past the
+drug lab fence to the tower. Go west between the two roads and get the two
+towers there. The closest tower has a load of Sniper's Ammo, so take it. The
+southeast to the two towers in the big niche in the fence (east of the
+entrance)-order doesn't matter. Go through the entrance and kill the guard in
+the sunken bunker-his friends surprisingly won't see you as long as the
+_PATROLLING_ guards aren't about. Back in through the entrance, and then west
+to the tower. Now go back to the very first tower you climbed. There are three
+towers south of this one. After that, the towers are done.
+Now go place the bomb in the drug lab as described below. Your only obligation
+left is to kill the patrolling guards. Go out of the entrance to the drug lab
+and turn right. Climb the tower you find. There's a Sniper's Rifle and some
+ammo up there. Take the ammo first. Get the Sniper's Rifle and aim outside the
+camp. For some reason, guards tend to not shoot you when you're in the tower.
+Kill the two guards there. Then, kill the guards patrolling the outside of the
+compound. The groups of three soldiers travel in twos... one group about 200
+paces behind the other. There are three groups of the two groups traveling
+around the outside. There is one group traveling around the drug lab, at least
+two groups traveling around the airstrip, and at least three going around the
+rest of the inner compound. There are also two houses with three soldiers
+standing outside-one outside the front entrance, and one outside the drug lab
+entrance. After that, the only soldiers left are the three in front of the
+hanger.
+As you can probably tell, I've not yet made it that far. I usually get caught
+killing soldiers in the towers... and I have such little patience. You'll need
+a better weapon than a Sniper's Rifle to take out the soldiers you can't shoot
+from the tower. The tent south of the mansion (where you got the AK ammo) has
+two M16A2s which are nice, but you might run out of ammo. My suggestion is the
+tent west of the tent with the M16A2s, which has a bunch of Machine Gun ammo
+and a Minigun *grin*. Yes, life is good.
+	Below is the normal walkthrough.
+
+Background:
+You must now kill Pablo and destroy his drug lab. Naturally, Pablo keeps an
+explosive on his desk, so perhaps you can liberate it from him.
+
+Objectives:
+-Eliminate the Drug Lord
+-Blow up the laboratory
+
+Equipment:
+None available
+
+When you begin, you are crawling out of the hidden passage. Shortly in front
+of you and to the left is a crate containing some knives and some body armor.
+Take the armor if you need it, and head right. Walk around the camp until you
+find the entrance (there is only one). walk around the arm in front of the
+entrance. Follow the road from the entrance keeping left  at the first
+intersection. At the second intersection, you will find Pablo's mansion. Turn
+right at the intersection and then go left to enter the first tent. This tent
+has two M16A2s (that you can't carry) and a BUNCH of AK ammo. Grab the ammo
+before heading to the mansion. Throughout the mansion, make sure to liberate
+the soldiers of their Desert Eagles. Go back out of the tent to the road and
+turn right.
+You will see a cut scene of Pablo doing cocaine. Keep following the road to go
+around to the back of the house (opposite the double-doors). There are two
+decks around the mansion, one of which has two soldiers standing beside the
+stairs (front of house) and the other is unguarded (back, where you should be).
+Take the steps of the unguarded one, but do not open the door you end up
+facing. Instead, turn right and follow the deck to another door. When you open
+this door, there is a soldier behind it. Don't kill him yet. Walk past him and
+turn left to find another soldier. Turn right and you will see a single door at
+the end of a hallway. This door does not lead back outside. Enter the door and
+there will be a lone guard in the room. Hit Sneak Mode, strangle him, and hide
+his body out of view of the door you just entered.
+Return to the two guards you previously left unharmed, and strangle them both
+(order doesn't matter-although I have noticed that if you leave the door open
+in front of the guard, he doesn't hear you kill the other guy). Behind the
+guard not guarding the door is a hallway. Follow the hallway past the
+double-doors to another single door. Inside you will find a guard infatuated
+with the sink. Ice him and leave through the door to his right. Do not kill the
+guard you are now behind. Instead, turn a hard left and open the door to the
+right of the one you just came through. Kill this guard and go back into the
+main area with the staircase.
+Facing the first floor double-doors that are between the stairs, go right up
+the stairs. Take the first door on your left. Strangle the guard and take his
+Silenced Beretta and the ammo. Go to the door from which you did not enter.
+Open this door, strangle the guard, and drag him into the previous room. Now,
+exit through the room where there are no bodies.
+Walk past the guard (he might say something to you) and take the last single
+door on the left. SKIP THE DOUBLE-DOORS and the next single door! In this room
+there are no guards, just a ladder. Take the ladder up and kill the guard you
+find there. Take his clothes and exchange his weapon for yours if it is
+different, you should now be wearing the baseball cap uniform. Climb back down
+and go to the only single door on the second floor you skipped-it should be the
+bathroom. Close the door behind you and strangle the guard. Ready your AK-47
+and open the door.
+Shoot the guard in front of the double-doors in the head. His death will bring
+the guard on the first floor up toe investigate. Shut the door and wait for the
+warning that guards found a dead soldier. Open the door shoot this guard. His
+death will bring all the guards in this area you left alive. Using the same
+method of open the door, shoot, close the door, mow them down. By my count,
+there will be four total soldiers in addition to the one in front of the
+double-doors. Explore the house to make sure all of the soldiers inside are
+dead. Now, gather two of the AK-47s and AK-103s the guards dropped. Drop them
+to the left of the second floor double-doors, so you can get them and be out of
+sight.
+Now, go open the double-doors on the second level. As soon as the cut scene is
+over, strafe left behind the wall. Use the Lean Right key to shoot Pablo. Every
+time you hit him, he will pause to insult you. You will need to shoot him
+several times before he dies. If you need more bullets (you shouldn't), grab
+one of the gun you dropped. After he calls you a "Son of a Puta," he will die.
+Take great care not to shoot the windows behind him. If you do, guards from
+several other areas will be alarmed and you are in quite a bit of trouble. Grab
+the bomb on his desk. Go back to the room with the ladder. Climb the ladder and
+take back your old uniform. Take back your old gun if it's a different type
+than the one you have. You should be wearing the standard soldier uniform
+(Crocodile Dundee hat) and you should have an AK-47.
+Exit the mansion from the door you used to enter. Make sure the body in front
+of the door isn't visible, and nobody should be shooting at you. Turn left and
+find the road. At the road, again turn left and follow it until the road
+intersects another. Turn right at the intersection and follow this road to the
+drug lab. On your right will be some tents. Go inside the second tent to find a
+bullet-proof vest and a Silenced Beretta with ammo. Take the Beretta and the
+ammo (and the vest if you need it), and continue on the road. You will want to
+enter the lab from the right side, so head right once you duck under the
+arm-thing. There will be a set of concrete stairs to your left so take them
+down. The two guards on the landing will tell you to go away. Make sure you
+have descended the stairs enough that the guards patrolling can't see you. Take
+out the Silenced Beretta and shoot the two soldiers in the head. One more will
+be further down the stairs to the left, so lean around the corner and take him
+out as well. This will only alarm one guard inside the lab.
+Open the door and go inside to the second door. Again, hug the left of the
+door against the wall. Lean Right, ready your Silenced Beretta, and open the
+door. Shoot everyone inside. Even though there are several guards in this area,
+you should be able to kill them all without them attacking you.
+Once everyone is dead, go inside and check for survivors. A soldier likes to
+hide behind the crates to your left, so strafe your way into the room so you
+won't be surprised. There are also two guards through the opening in front of
+you that don't seem to notice their friends being slaughtered. If you can get
+by without them being alarmed, then simply walk past them. Nearby guards won't
+be running to help for some reason, so take out the bomb and right click on the
+crates you find. Place the bomb there. Take the uniform of an officer, the
+baseball cap uniform and EMPTY YOUR HANDS of all weapons, or the guards at the
+plane will shoot you. Exit through the opening and turn left to find the road.
+Now, run back to the mansion using the road. Again, the guards shouldn't be
+tipped off and shouldn't start shooting you. On the opposite side of the
+mansion is a metal hanger with a plane, which is your escape point. Follow the
+road to the left around the mansion. Go around to the front of the hanger (you
+arrive at the back), and you'll find three guards in front of the plane. One of
+them will run up to you and tell you to leave. Whip out a Silenced Beretta or
+two and teach them to keep their mouths shut. Take out the Remote Detonator,
+blow the lab, right click on the plane, select "Fly Plane", and be happy the
+mission is finally over.
+
+	**NOTE**
+-I found a glitch in my version of the game. If you try to use the Remote
+Detonator before you bring it out all the way, the game will crash. Make sure
+you wait a second between bringing out the detonator, and using it. It really
+sucks to make it this far in the mission, only to be brought down by something
+that isn't your fault.
+
+#########################
+#Traditions of the Trade#
+#########################
+
+##Not Genocidal##
+I've just simply not written down the instructions for this. It's easy,
+though. Shoot the bodyguard outside of Fuchs' room with the Silenced Luger (use
+the ammo trick described in the notes to load up on ammo). Holster the Luger,
+wait for a guard to come, shoot him, repeat. There are four sections of the
+hotel you do this with. However, with so much movement in the hotel, it is hard
+to write a walkthrough that would stay consistent.
+	Below is the regular walkthrough.
+
+Background:
+You are to eliminate the terrorist Frantz Fuchs and retrieve a chemical weapon
+he has placed in the hotel.
+
+Objectives:
+-Eliminate Frantz Fuchs
+-Secure Terrorist Bomb
+
+Equipment:
+Fibre Wire - $110
+Kevlar Body Armor - $900
+
+Those of you wanting to bring other weapons such as the knife along with you
+should note that there are several metal detectors scattered throughout the
+hotel. You cannot bring any other equipment (with the exception of the Sniper's
+Rifle) into the hotel. That being said, this is the coolest mission in the
+whole game. You finally feel like a hitman, not a gunman.
+
+Go through the front doors of the hotel. Head right along the ground floor and
+go through the doors to the right of the staircase. Turn right and you will
+find yourself in the changing room. Open the rightmost changing room and take
+the bathing suit. Shut the door behind you and then take your Fibre Wire.
+Holster it (where does he put it?) and go back into the changing room. Head
+right through the doors and then left into the pool area. Keep right along the
+wall and go into the alcove on the right. Strangle the man in the bikini you
+find there if you can. If he is already sitting in the sauna, turn the handle
+just outside the sauna in the alcove to kill him. Go to his body and take the
+X-Ray room key. Leave the body there.
+Go back to your street clothes and change into those. Get back to the lobby of
+the hotel and go up the main staircase. Keep right and go through the metal
+detector. Again keep right and go through the two sets of double-doors. In this
+hallway, there is a guard standing in front of a door. This is Frantz Fuchs'
+room. Go to a room where a bellboy is cleaning and take the Master Key from the
+door (bellboys are all over the hotel). Nobody cares when you do this. This
+will also send the bellboy back down to the front desk to get another key.
+Go into the room to the right of the guarded room and go onto the balcony.
+Turn left and watch the adjacent balcony. A guard will come out and stretch.
+He'll look around a bit, and then go back inside. Once he is back inside, walk
+all the way to the end of the balcony to make Hitman jump to the other balcony
+(the only place you jump like this in the game). Hit sneak Mode and get out
+your Fibre Wire. Open the door and sneak up behind the guard who seems
+infatuated with the mirror (he must be narcissistic). Strangle him and drag his
+body into the corner so it cannot be seen when the door to the room is opened.
+Take all the items on the desk (Sign, room key, and Silenced Luger) and the
+bodyguard's clothes and Desert Eagle.
+Open the door to the hallway (across from the balcony). Get in Sneak Mode and
+take out the Sign. Right click on the door handle and place the sign. When the
+sign is on the door and the door is closed, the hotel staff won't enter the
+room. Strangle the bodyguard when the coast is clear (lean out and look around
+the hall). If you are seen, just shut the door quickly. If you weren't seen,
+drag the guard in the room and shut the door. You can also shut the door during
+the strangle animation, which will cause the body to pop inside. Either way,
+take out your Luger and open the door to the bathroom (only other door in the
+room). Shoot Frantz in the head; he'll be in the shower to your left. Go back
+out into the room and take the briefcase-looking Bomb Case. Take your street
+clothes back (if you were seen, they'll be looking for a bodyguard) and jump to
+the balcony of the previous room.
+Go out the other hotel room and into the hallway. Turn left immediately and
+choose the single door. This will take you onto a balcony which goes to the
+other side of the hotel. Continue across the balcony and go into the door your
+find. Head left and up the stairs you find following the signs to the Dentist
+office. At the top of the stairs you will find some double-doors. Once through
+these doors, you will find some orange doors to your right. Go through them and
+onto the roof. Turn left and walk off the roof path. You will climb over the
+center divider and then climb back down. Keep left. You will see an open window
+on your left. Go into this window and your will find a bodyguard staring out
+the window. You can be as noisy as you would like killing him, nobody can hear.
+Go left and through those double-doors. Quickly go into the X-Ray room which
+is in front of you and pick up the bomb. Go back out of the window (don't kill
+the guard at the open door, that will only cause trouble). Get back to the path
+on the roof and turn right (they way you came). Open the orange doors and head
+right. Turn left before the set of double-doors at the end of the hall to find
+another set of double-doors. Enter those doors and go past the guard to the set
+of double-doors you find. In this hallway, turn right. You will see some
+dumbwaiters on your right (square wooden things on the wall). Past those and on
+your right is a little hallway with a single wooden door. The open the door to
+find the stairs. Go all the way to the bottom floor and open he door. Turn left
+in the little hallway (as if you had a choice), and then turn right and head to
+the back of the kitchen. In front of you will be a pair of orange double-doors.
+Through the doors and down the steps on the left to a cut scene where you are
+picked up and on to the next mission.
+
+	**NOTE**
+-If you don't kill Fritz Fuchs in the Sauna (before he gets in the pool), you
+will have to go ask his secretary where he is. Follow the signs to the dentist
+and ask the lady behind the desk. He will either be in the Sauna, the Casino,
+or the Dining Room. Strangle Fritz when he goes into the bathroom.
+-If you kill a police officer, you get docked $5000, but you can take the
+uniform and walk through metal detectors without setting them off (must be a
+clothes-scanning metal detector).
+	-You cannot put the "Do Not Disturb" sign on any other door than Fuchs'.
+-If you want to hide a body, hide it in the bathroom of a close hotel room.
+The bellboys don't clean the bathrooms and apparently the guests never use them
+(the bathrooms).
+-You must put the bomb in the bomb case provided in Fuchs' room. If you do
+not, guards will shoot you.
+-Want to "borrow" the Master Key? If you take the Master Key when the bellboy
+is also reaching for the key, the key will be in your possession until the
+bellboy opens another room (uses the key). You can snag the key near Fuchs'
+room, use it to open the door you need, and that way the bellboy won't have to
+go get another key and therefore spend much more time in the hall. Neat trick.
+Of course, if you want to exit through the door that is not Fuchs', you find it
+is locked if you don't have the Master Key.
+-If you want to bring along ammunition, purchase the cheapest guns you can and
+all the ammo you can carry. When you begin the level, walk up against the hotel
+so the guards can't see you. Drop your weapons (except, of course, the Fibre
+Wire). You ammo will stay with you. The only kind of ammo that matters is the
+Beretta 92 ($475) which supplies for the Silenced Luger and all other Beretta
+92s (standard police issue), the Desert Eagle ($1200) which only supplies
+Desert Eagles (standard bodyguard weapon), and the shotgun, which you cannot
+buy.
+-There is only one weapon in this level that is not a handgun-it's a Shotgun.
+To get it, kill Fuchs and take his room key from the table (to the left of the
+Silenced Luger). Drop your weapons and the bomb case in the other room and go
+back down to the front desk. Get your mail by talking to the hotel clerk and
+take the letters he places on the counter. Back up to the room where your
+weapons are and then across the balcony as described above. Instead of turning
+left to the Dentist, turn right and go to the flower shop. Talk to the guy
+there, and he will give you a Shotgun in a Flower Box. You can walk around the
+hotel with it in the Flower Box and nobody can tell. However, it DOES set off
+metal detectors and it takes about two seconds for you to bust out the Shotgun.
+You also cannot carry the bomb case and the Flower Box at the same time, so
+it's rather useless.
+-An alternate way to get into Fuchs' room is under the guise of a bellboy.
+This is very hard to feat to accomplish. First, steal a Master Key from one of
+the other bellboys when he is in a room. Then, go up the main stairs in the
+lobby and turn left at the landing. Go through the metal detector and turn left
+in the hall you enter. After the corner in the wall to the right, turn right
+and enter the double-doors to find yourself in the "Conference Room" (as it is
+marked by a sign). Continue to the other end of the room and enter the
+double-doors you find. In this hall, turn left and go into the door that has
+the "Authorized Personnel" sign on it. You must have the Master Key to open
+this door. Inside you will find a bellboy uniform. For added authenticity
+(although it is not required), you can go grab a towel from the Men's Changing
+Area. Turn right when you enter the first set of green double-doors to find a
+wooden door; inside of which you will find three towels. Go to Fuchs' room and
+talk to the bodyguard. You will tell him you are brining fresh towels. Once
+inside, move quickly-you really have only ten seconds until the guard inside
+throws you out. Grab the Silenced Luger on the table, pop the guard inside, and
+turn to shoot the other guard as he comes in the door. Then go into the
+bathroom and shoot Fuchs. This must be EXTREMELY well-timed if you expect not
+to get caught.
+-There is also an alternate way of escape through the front doors. A limo
+drives up, you jump in, and it speeds off. It looks much cooler, but you have
+to walk through a metal detector. After you pick up the bomb and head back out
+the Dentist's window, head across the roof to the path. Turn left (the way you
+didn't come), instead of right, and go in these orange doors. Turn left and
+move forward through the double-doors. You will be in a hallway with only one
+door, to your right. Open it to find the stairs. Go all the way down and open
+the door at the bottom. Follow the hallway you find yourself in, through two
+sets of double-doors. Once through the second set, turn right and go through
+the double-doors your find there. Open another set a few feet in front of you,
+and keep going forward into the lobby. Turn left and go out the way you came
+in. Run through the metal detector to cue the cut scene.
+
+######################
+#Gunrunner's Paradise#
+######################
+
+Background:
+You must kill Arkadij Jegorov ("Boris"), the man who was supplying the Triads
+and the drug lord with weapons. First you must find him, however. There is an
+arms deal between Boris and a Dutch gang going down. You must pose as a gang
+member and place a tracking device on the money meant for Boris. This will tell
+you where Boris is hiding.
+
+Objectives:
+-Place GPS tracker on gang car
+-Move GPS tracker to money suitcase
+-Give the suitcase to Ivan
+
+Equipment:
+Fibre Wire - $110
+Kevlar Body Armor - $900
+GPS Receiver - $0
+GPS Transmitter - $4000
+Heckler & Kotch MP5SD - $2700 (Buy as much ammo as it will let you-you'll need
+it)
+
+Timing this the way I did is best-work fast. Also make sure you don't reload
+your Uzi-that will waste ammo. Instead, just drop the used Uzi and take the Uzi
+of the gang member(s) you kill. This doesn't change much from the regular
+walkthrough.
+
+From the starting point, move forward and right until you reach some train
+tracks. You should be able to see a lone gang member walking in front of you.
+He has no visible weapon and doesn't seem to mind that you are there with him.
+Sneak up behind him and ice him for his ignorance. Go switch the tracks, the
+switch should be behind you. Now take the gang member's clothes and gun. Drag
+his body to a dark area next to the fence which should be to your right.
+Holster everything but take the Uzi out so it is visible (it's the standard
+visible weapon).
+Follow the tracks to the left-the way the arrow should be pointing. Before
+long you will find a boarding platform. Continue past it and switch the switch
+farthest from you. Turn around and head back to the platform. Turn left at the
+platform and head forward. You will see an orange car parked in front of a
+building. There is a gang member standing next to the building, watching the
+car. Go in the door to the left of him and you will be in the strip club.
+Talk to the bartender. He will arrange a backstage meeting between you and the
+stripper. Go in the door to the left of the stage, and the stripper will join
+you shortly. Talk to her. Follow her outside and stand next to the car. She
+will walk off with the gang member that was guarding the car. When his back is
+fully turned, right click on the car and place the GPS Transmitter. Make your
+way back to the boarding platform.
+When you get back to the platform, turn right. Now switch the switch closest
+to you. This ensures that every possible area is open to your access. Turn left
+and head up the tracks the direction you came at the very beginning of this
+mission. You want to go back to the first guy you killed. About now there will
+be another gang member discovering the body, so go kill him. Drop your Uzi, and
+take his.
+Go back to the platform and kill the three gang members with your Uzi. Line up
+the two farthest from the platform so you can kill them in one burst of fire,
+then quickly turn and ice the third guy. Head between the building towards the
+strip club, then turn right and go between the buildings and away from the
+strip club. You will find three more gang members standing around a burning
+barrel. Kill the two gang members you can see when against the building to the
+right, and then the third when he investigates.
+Go out of the gate in front of you and find the train tracks. Turn left and
+follow the tracks. There is one more gang member patrolling these tracks. He
+will spot you first, but isn't a good shot (and who is with an Uzi?), so take
+him down.
+Check your map. The GPS Transmitter will place a blinking red icon on your
+map. You can also take out the GPS Receiver and track the car that way. Either
+way, find the gang car. Make sure the Uzi is the only visible object you have
+in your hands when you find the gang car, however, as the warehouse is
+surrounded by dogs.
+Using your Silenced MP5, kill all the dogs surrounding the warehouse. Remove
+the GPS Transmitter from the gang car, and then go to the opposite end of the
+warehouse. Open the doors of the warehouse and prepare for a firefight. Kill
+all gang members you can see, but do not go inside the warehouse. Once the gang
+members have stopped filing out towards you, take out your Uzi. Again, open the
+door to the warehouse and fire inside to make sure everyone heard you and there
+will be no surprises. Once you are sure everyone is dead (on Hard, I count four
+gang members), go inside.
+Depending on where you entered, there might be two more gang members (in
+addition to the four) guarding the briefcase with money. If so, kill them as
+well (they will be out in the open). Once everyone in the warehouse is dead, a
+message will come up saying Ivan will arrive in three minutes. Use the
+strafe-drag trick described at the top of this walkthrough to drag all gang
+members out of Ivan's sight. The best place is in the center of the warehouse,
+between the boxes found there. Make sure you pick up all the weapons, as well.
+You should finish about the time you get the message saying Ivan will arrive
+in one minute. Go to the briefcase which should still by lying on the floor,
+and pick it up. Select the GPS Transmitter in your inventory and you should
+place it in the briefcase. Stand exactly where you picked up the briefcase.
+Ivan will arrive shortly. If he sees any gang member's bodies, he will flip
+out and you will fail the mission. Apparently, though, he has no problems with
+massive amounts of blood stains and the dead dogs outside. Whatever, I won't
+argue. He arrives, you give him the money, and he leaves. Good job!
+
+######################
+#Plutonium Runs Loose#
+######################
+
+##Not Genocidal##
+I need to perfect the order in which I should do things. It's going to be
+difficult to plan killing every crew member on the ship. For now, below is the
+regular walkthrough.
+
+Background:
+Thanks to your job on the previous mission, you now know where Boris is
+hiding. Eliminate him and take the ship to international waters. He also
+happens to have acquired an old nuclear bomb, which you must prevent from going
+off.
+
+Objectives:
+-Eliminate Boris
+-Nuclear bomb must be disarmed
+-Take ship to international waters
+
+Equipment:
+Fibre Wire - $110
+Beretta 92 Silenced - $775
+Kevlar Body Armor - $900
+
+This level is insanely difficult simply because you don't stand a chance
+against the guards.
+
+Turn around and climb the ladder you find. Go forward to the train tracks and
+continue forward until you are past the closest corner of the closest building
+(can be seen to your right). If you don't go far enough, the guard you're about
+to sneak up on will see you. Turn right and run towards the building. Hit Sneak
+Mode and strangle the guard there. Take his clothes and his MP5. Make sure to
+holster everything, but leave the MP5 visible.
+Continue in the direction you were facing and turn left to go around the
+building. Run forward and right until you come to the train tracks again. Turn
+right and follow the tracks until you see two guards standing in front of a
+door in the fence. Stop there. You will see two guards come through the door
+and walk off to your right. Both guards will return, also from the right. Get
+as close as you possibly can to the guard, I recommend using the walk button
+and simply staying behind him. Walk up to the door with him and he will say
+something to the guards. The door will open. Follow him in, again staying as
+close as possible.
+Once through the doors, follow the train tracks. They will curve off to the
+right, so follow. After the curve, there will be another track joining the
+track you are following. The joining track comes from the left. Follow the new
+track left. This track eventually turns to the right, so follow. At this point,
+take out your Silenced Beretta. Continue down the track while watching the
+fence to your right. You will hear a dog bark, and the dog will come at you
+from the left. You should have plenty of time to kill it before it gets to you.
+Around this area is an opening in the fence to your right. It is marked with
+yellow crates on either side. Go inside the fence using this opening.
+Turn left and you should see two buildings. Go between them and then continue
+in that direction. You will come up on some more tracks, but keep going. To the
+left you will see a narrow section between some buildings and the inside fence.
+Continue through there, keeping close to the inner fence. When you reach the
+end of the fence, you will again see a door in the fence to your left. To the
+right of the door, is an opening just like the one you used previously. Go out
+of the opening (nobody cares when you do this) and turn right. Move forward,
+keeping close to the fence. When the fence turns right, turn right yourself.
+You will see two buildings to your left. Again, go between them.
+Continue to the edge of the water. Turn left at the edge, and continue around
+the edge keeping close to the water. When two more buildings appear to your
+left, take out your silenced Beretta. In the alley between the buildings are
+two dogs which will attack you. Continue down the edge of the water until you
+hear the dogs bark, then shoot them before they get you. Bring back out the MP5
+and continue in the direction you were going, but this time stay close to the
+second building. Turn left and go around the building until you find two trash
+cans. Depending on your timing, there may be a guard between the trash cans and
+the building. If there isn't, wait until he arrives. Strangle him, then bring
+back out your Silenced Beretta. Go back to the edge of the water and continue
+down the pier.
+Soon you will come to a group of trailers on your left. There is a dog that
+will attack you from between the trailers when you approach. Kill the dog, and
+enter the trailer closest to you (the only one you can). In here you will find
+a stash of weapons. Go to the back and look left. Pick up the Sniper Ammo,
+Beretta, Silenced Beretta, and Hardballer. Turn left and look at the crate on
+the ground. Pick up the MP5SD (Silenced MP5) and the Car Bomb. Turn around and
+pick up the Sniper's Rifle. If any of Boris' guards see you with this rifle,
+they will immediately open fire and/or run and tell Boris. Be very careful.
+Exit the trailer and turn right. Follow the edge of the water as you did
+before. On your left, close to the water, will be iron pegs (in pairs) which
+are used to tie up ships. You will want to stop around the last pair of pegs,
+right before the orange crates. From here, you should be able to see two
+buildings you passed between earlier (not the two with the dogs-those should be
+behind/beside you). Drop the Sniper's Rifle and take out your MP5. Head back
+between the two buildings and then left along the fence. Keep going forward
+past the corner of the fence to find a guard facing you. Strangle him so he
+doesn't see the murders that are about to take place.
+Go back to the sniper's rifle and pick it up. Look over the water so you can
+see the two guards at the nearest door in the fence, then shoot 'em. They take
+two shots in the chest, one in the head. Wait for a minute and watch to make
+sure no guards saw them die. If a guard runs up to the bodies, shoot him, too.
+Continue around the edge of the water making your way towards the guards you
+just shot. On the building closest to the two dead guards is another guard. He
+is on the corner closest to the guards, but he shouldn't be alarmed and
+shouldn't see you. Use the rifle to look around and again make sure no guards
+are close. Pop him in the head.
+Continue to follow the edge of the water and press yourself up against the
+fence. Using the Sniper's Rifle, again make sure nobody is close, and then take
+out the two guards guarding the next door in the fence. The train tracks that
+go through the door next to you also go through the door they are guarding.
+There is a guard on the rooftop of a building which is on the inside of both
+fences. He is standing on the corner closest to the two guards you just shot.
+Shoot him, as well.
+Turn right and take a M16A2 from one of the dead guards. This will make you
+drop your Sniper's Rifle, which you want to do anyway. Open the door and go
+forward to the next door. Open it as well. Walk forward and then turn left to
+make it on to Boris' pier. Go down the pier towards the two buildings. There
+are two guards circling each building. When you approach the first building,
+stay on that side of the building. Make sure you're in Sneak Mode and strangle
+the guard when he comes near; then leave him. Go around the building (towards
+the limo) and follow the other guard so he doesn't suspect you of the killing.
+When he finds the dead guard, he will run up to look. Run behind him and
+strangle him.
+Now go to the second building. Go to the side farthest from the first
+building. Strangle one guard as he's walking and then use the same
+get-behind-and-strangle-as-he's-looking-at-the-dead-body trick. Now you can
+safely take out the limo guard.
+Go back to the first building and go to the side with the two dead guards.
+Lean around the side so you can see the driver. Whip out your MP5SD and make
+short work of him. Like all of Boris' guards, he's wearing a bullet-proof vest,
+which means he can take about 6 or 7 shots before going down. Pick up your
+M16A2 and bring out the Car Bomb. Go up to the driver's door of the limo and
+right click on it, placing the bomb. This car bomb is cooler than the last few
+because it goes off then the car is started, so that's it for Boris. Let's hit
+the ship.
+From between the two buildings, walk up to the ship. Turn left to see the
+concrete stairs leading up to the ship. For some strange reason, there is a
+lone crew member on the other side of the steps. Go around the steps and
+strangle him. Drag his body backwards, between the steps and the ship. Take his
+clothes and Beretta and empty your hands. Go back around to the stairs and go
+up. The crew shouldn't give you any trouble, now that you look like a crew
+member. At the top of the stairs, turn right. Continue and turn left into the
+first door you can take. Through here, turn right to find a set of stairs
+leading down. Take those stairs down. At the bottom, there will be another set
+of stairs off to your right a bit. Take those down as well. Take a sharp right
+at the bottom and head down the hallway. Climb the short set of stairs and open
+the door.
+You will now be in the cargo hold. Turn right and walk past the stairs to the
+wall on the other end of the ship. Turn around and you should see some steps
+going down. Take those steps down. There will be an opening to your right which
+leads to the engine room. There is a guy on the floor of the room in front of
+you and one you can't see to the left of the door. Ivan is in the back. Lean in
+and cap the guy to the left of the door with your Silenced Beretta (you may
+have to actually enter through the opening to do this, but as long as you're
+not armed, the crew doesn't care). This will cause the other guy to come at
+you. Shoot him, as well. Ivan will then radio to Boris that you are in the
+engine room and will try to escape. Shoot him. Boris will arm the nuke and run
+like hell. Let him go, the car bomb will take care of him for you.
+Once the nuke is armed, everyone makes a mad dash off the ship with the
+exception of the captain and the engine room guys. This makes things much
+easier. At the back of the engine room is another set of stairs. Again, to the
+left and out of your view, is an engine room guy. Lean in and take him out. The
+nuclear bomb is to your right. Somehow, Hitman knows how to disarm the bomb
+(just like he can drive a boat, fly a plane, etc.), so just right click and
+select "Disarm Nuke". That was easy.
+Go back up to the cargo hold. Return the way you came and go back up the two
+flights of stairs. Once up the second set, take a hard left and you will find
+ANOTHER set of stairs. Take those up to the next level. In front of you and to
+the left a bit, you will notice a door with a short set of stairs. Open the
+door and turn right. You will be facing a ladder. Climb the ladder. At the top
+of the ladder, you will see a door. This is the door to the bridge.
+Open the door to find the captain. Shoot him however you want, he's the only
+one left. In front of where he was standing is the wheel of the ship. Right
+click and select "Start Engine". There will be a cut scene telling you to clean
+out the ship. Run back down to the engine room where there will be ONE engine
+room guy. He will be standing to the left of the opening, exactly where the
+other guy was. Lean in and shoot him. Go back up to where the captain was.
+Right click on the wheel, start the engine, and this time watch the cut scene
+as Hitman drives the ship away.
+
+###########
+#The Setup#
+###########
+
+
+##Not Genocidal##
+This will probably be the hardest level to plan. I haven't even taken a stab
+at it, yet. I would also like to point out that unless you cheat, you can never
+kill the attendant at the beginning (the door locks behind you and you cannot
+take any weapons with you). However, below is the regular walkthrough.
+
+Background:
+You have been hired to perform one final hit. You are to eliminate Dr. Kovacs
+of a mental asylum. Sound familiar? You fought so long and hard, only to end up
+where you began...
+
+Mission Objectives:
+-Eliminate Doctor Kovacs
+
+Equipment:
+Kevlar Body Armor - $900
+
+Similar to the previous missions, this mission is easy as long as you don't
+screw up. Don't bother the SWAT guys, and they won't bother you.
+
+After the introductory cut scene, go forward to the entrance of the asylum. Go
+in the double-doors and the receptionist will greet you. You will respond and
+the receptionist will open the gate for you. Go into the asylum and up the
+stairs (that receptionist gives the WORST directions...). Once on the second
+floor, go through the big, metal double-doors you find there. You will find
+yourself in the operating theater, at the other end of which there is another
+set of big, metal double-doors. Go through those doors.
+When you get to the operating theater, you will see a cut scene of Professor
+Ort-Meyer calling the cops. Back to the game, once through the second set of
+double-doors you will see yet another set of double-doors in front of you and a
+bit to the left. Go through those doors. Inside this room, turn left to see the
+box on the wall with the red "+" on it. Open the door of the box and remove the
+syringe inside. Holster it and exit the room using the double-doors.
+Once again facing the big, metal double-doors to the operating theater, you
+will also see a single door to the left of the metal doors. Open that door and
+go inside. This is Dr. Kovacs' office. You can stay and chat with him, but I
+prefer simply to run up behind him before we get into conversation and kill him
+with the syringe. Take his clothes (he won't be found) and the key on the wall
+opposite the door you came in. Sometime in Dr. Kovacs' office, you will see a
+cut scene of the SWAT team rushing in. Good times.
+Go back through the operating theater and through the double-doors to the
+lobby stairs. Go up the stairs and turn right. Go up THOSE stairs to the third
+floor. Turn right and go through the opening you find. Follow the bend left and
+through the opening you come to. Turn right here and then turn right again at
+the end of the hallway. Open the door you find. Again, follow the bend to the
+left and open the door you find. This time move forward and open the door you
+come to. Immediately to your right is another door. Open this door to find
+yourself in an abandoned room/cell. Open the dresser doors to find an Uzi and
+some shotgun ammo. Take the Uzi (what are you going to do with the ammo?) and
+then return to the first floor of the lobby (area with the stairs where you
+first came in).
+Standing of the first floor of the lobby, face the direction of the operating
+theater. To your left you will notice a single door underneath the stairs to
+the second floor. Open this door and go inside. To your right is another door,
+open it. Turn left in this hallway and move forward to the gate. Open the gate
+and continue forward to the end of the hall. At the end, there will be some
+stairs to your left. Take the stairs up one level. At the hallway at the top of
+the stairs, turn left (away from the other stairs). Walk forward and there will
+be a set of metal double-doors on your right. Enter this room (the TV room) and
+talk to the guy with his head down, sitting on the chair. This is the same CIA
+guy you rescued from Lee Hong's basement.
+He will ask you to find the Antidote for him. The cage behind him holds the
+Antidote, and you took the key from Dr. Kovacs' wall (didn't you?). Go inside
+the cage and retrieve the Antidote, which is on the desk on the wall farthest
+from the CIA guy (under the light of a desk lamp). Right click on the CIA guy,
+and administer the Antidote.
+The CIA guy will stand up. Follow him. You have to open doors for him along
+the way, which may be a bit annoying, but he will eventually lead you to the
+elevator. Talk to him, and he will take the elevator up to the next floor. Take
+the steps (revealed by the elevator) down to go to the last mission. Hey, that
+cut scene looks familiar!
+
+	**NOTE**
+-You can talk to the mental patients. They will ask you to find something for
+them, and in return they will give you information. Since all the information
+you need to complete the level is in this walkthrough, don't waste your time.
+-This is an extremely well-equipped asylum. There are weapons littered
+throughout the level (mostly the third floor and the roof). Most of them,
+however, cannot be concealed, making them as useless as a hooker at a... well,
+you get the idea.
+
+###################
+#Meet Your Brother#
+###################
+
+Background:
+	(none)
+
+Objectives:
+-Eliminate Professor Ort-Meyer
+
+Equipment:
+None available
+
+Exactly the same as the regular walkthrough, you DO kill everyone in this
+level.
+
+Open the gate and take out your Uzi. Turn left and introduce the guard at the
+desk to the meaning of "swift justice." At the side of the desk is a locker.
+Open it, and take the shotgun and ammo. Open the gate behind the guard you
+killed, and turn left. Go to that gate and open it as well. Turn right and
+shoot the guard there in the back. Open the locker next to the desk and take
+out the MP5 and the SMG ammo.
+Go back to the last gate you opened. Stand behind the wall next to the opening
+and use the Lean Right button to look down the hall. The clones will come down
+this hall towards you. Shoot them, run up to them, take their gun, and then
+duck back to this hiding place. There are ten clones total. Beware, if you take
+too long to kill a clone, another clone will be released. If this happens, I
+recommend NOT going out to take the fallen clone's gun. Also, in this hiding
+place the clones can get stuck right next to you. If you hear two door open and
+close and they sound close to you, then strafe out of the hiding place. The
+close will come out of the room to your left. For some reason, the clone
+doesn't see you when this happens, so pop him and get back to the hiding place.
+Be wary, the last clone has some pretty fancy moves, so be prepared for some
+Matrix-style bullet dodging. Also, the second, fifth, and tenth clones carry
+Silenced MP5s.
+Once all ten clones are dead, drag one of them. Go straight down the hall and
+through the gate you were facing while hiding. Take a right and open the gate
+you find. Turn left in this hallway, and again, open the gate you come to.
+Follow this hallway and turn left when it does. Still dragging the clone, step
+onto the footsteps in the center of the room you find. If you find closed doors
+instead of a room at the end of the hallway, you must simply make your way to
+the other doors which should be open. The clones go out of the door that is
+farthest from you so you can't just wait for them and pop them as the come out.
+Go back and turn back right at the hall. At the end of this hall will be
+another gate. Go through that gate and follow the hallway around until you find
+the room with the footsteps. Either way, find your way to the footsteps WITH A
+CLONE.
+Once you step onto the footsteps with a clone, there will be a cut scene and
+the door in front of you will open. Ready a weapon, and follow the hallway. You
+will be greeted by Professor Ort-Meyer. While he is talking, he will discover
+that you are 47 and not 48 (the clones are the next edition of you). Shoot him
+before he gets you to finish the game. Congratulations.
+

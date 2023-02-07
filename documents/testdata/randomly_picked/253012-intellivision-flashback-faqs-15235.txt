@@ -1,0 +1,141 @@
+--------------------------
+S P A C E   A R M A D A
+--------------------------
+
+A FAQ FOR:
+Space Armada (Intellivision)
+
+Copyright 2002 Alxs (alxsthemighty@yahoo.com) 
+Final Version, September 14, 2002
+
+NOTE: Please read the Email Policy (below) before contacting me.
+
+=-=-=-=-=-=-
+Email Policy
+=-=-=-=-=-=-
+
+1) Put the name of this game in the subject title.
+2) Please only send me game-related questions that are 
+not already answered in this FAQ.
+3) Don't be rude.  It will get you nowhere with me.
+4) It's okay if you use a bit of "internet lingo" 
+(e.g. "u" instead of "you"), but if I have no idea 
+what you are saying, I have to delete the email.
+5) Don't send me downloadable files, because I 
+absolutely will not download them.  Everything you 
+would like me to see must be located in the actual 
+body of the email.
+
+That's all.  Now that you have read these rules and 
+agree to abide by them, feel free to email me at 
+alxsthemighty@yahoo.com  
+
+-----------------------------------------------------------------------
+C O N T E N T S
+-----------------------------------------------------------------------
+
+Objective
+Controls
+Starting the Game
+General Rules
+Scoring
+Conclusion
+
+-----------------------------------------------------------------------
+O B J E C T I V E
+-----------------------------------------------------------------------
+
+Get as many points as possible by destroying aliens with your 
+shooter/laser.  Make sure that the aliens don't land; they'll cost you 
+one shooter.  If you loose all six shooters, it's a game over for you!
+
+-----------------------------------------------------------------------
+C O N T R O L S
+-----------------------------------------------------------------------
+
+Game/Practice - self-explanitory.
+Side Buttons - Fire laser
+Control Disc - Move shooter left/right
+
+-----------------------------------------------------------------------
+S T A R T I N G   T H E   G A M E
+-----------------------------------------------------------------------
+
+
+You just need to choose if you want to do a real game or practice. 
+(Practice is just a slower version of a game...)
+
+Time to play!
+
+-----------------------------------------------------------------------
+G E N E R A L   R U L E S
+-----------------------------------------------------------------------
+
+Your goal is to destroy all 32 (4x8) aliens on the screen with your 
+laser shooter.  You have six shooters to do this; if any of the aliens 
+land or destroy you with one of their shots, you loose a laser.
+
+To protect you, you have three shields.  The aliens can destroy these, 
+but it does take them a while to do so.
+
+...so, as you can see, this is a rather simplistic game to play... but 
+pretty fun!
+
+-----------------------------------------------------------------------
+S C O R I N G
+-----------------------------------------------------------------------
+
+Targets on first row: 10 points each
+"        " second row: 20 points each
+"        " third row: 30 points each
+"        " fourth row: 40 points each
+
+-----------------------------------------------------------------------
+C O N C L U S I O N
+-----------------------------------------------------------------------
+
+=-=-=-=-=-=-=-
+Copyright Info
+=-=-=-=-=-=-=-
+
+This document is Copyright (c) 2002 the author, Alxs, 
+all rights reserved.  Unless otherwise mentioned, the 
+content within this file was written and is sole 
+property of the author.  This FAQ may only be posted 
+on www.gamefaqs.com, not on any other website, 
+magazine, book, CD, etc.
+
+
+There's no point in asking for permission to post this 
+FAQ, because the answer is no.  The only place this 
+document is legally posted is www.gamefaqs.com, so 
+please notify me if you see any other site using this 
+FAQ.
+
+However, if you'd like to use a (somewhat small) 
+portion of this file in your own online FAQ, ask me 
+first, and I'll probably give you the thumbs-up.
+
+Thanks everyone.
+
+
+=-=-=-=
+Credits
+=-=-=-=
+
+Contribute and your name will go here!
+
+
+=-=-=-=-
+File End
+=-=-=-=-
+
+
+
+
+
+
+
+
+
+

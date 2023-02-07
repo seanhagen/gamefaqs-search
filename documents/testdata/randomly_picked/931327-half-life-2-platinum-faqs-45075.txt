@@ -1,0 +1,669 @@
+0000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000000000000000000
+Counter-Strike: Source In-depth Solo Guide
+Author: Coolica (coolica@yahoo.com)
+Version 1.00
+October 2, 2006
+
+-------------------------------------------------------------------------------
+
+Table of Contents
+A
+I.   Legal Stuff
+II.  Introduction
+III. What this guide is about
+IV.  Frequently Asked Questions
+
+B
+I.   So you want to learn how to survive in CS: Source by yourself?
+II.  Weapons
+III. Weapon training
+IV.  Solo playing styles
+V.   Situations
+VI.  When to go Solo and when not to
+VII. Tips for survival
+
+Credits
+
+-------------------------------------------------------------------------------
+
+A
+-------------------------------------------------------------------------------
+I. Legal Stuff
+-------------------------------------------------------------------------------
+Counter-Strike: Source and all offical realated mods belong to Valve.  Post
+of this FAQ elsewhere besides gamefaqs must be cleared by me first.
+
+-------------------------------------------------------------------------------
+II. Introduction
+-------------------------------------------------------------------------------
+So this is the 2nd guide I've written... the first one being a solo guide for
+CS 1.6.  It's kinda similar, but I've updated this to fit the needs of Source
+players.
+
+-------------------------------------------------------------------------------
+III. What this guide is about
+-------------------------------------------------------------------------------
+This guide will attempt to teach you how to go solo while playing CS: Source.
+Your probably wondering, "Why the heck would I need to do stuff by myself when
+I got teammates around to help me?"  Well we don't all live in a magical world
+where everyone who plays CS: Source can fit into a well organized team.
+There are uncooperative players who no matter how you tell them, will not be
+able to follow directions.  Although most players frown at players who go solo,
+sometimes it's the only way to win.  Especially in pubs.  This guide will
+attempt to teach you how to take the situation into your own hands and well,
+kill off the whole opposing team hopefully ;D.
+
+-------------------------------------------------------------------------------
+IV. Frequently Asked Questions
+-------------------------------------------------------------------------------
+Q: Is it wrong to go solo?
+A: Not at all.  No rule in CS: Source says you can't or are not allowed to.
+
+Q: This guide is supposed to make me kill the WHOLE opposing team???
+A: Essentially, it will attemp to make you kill your fare share of the opposing
+team, and increase your survivability.
+
+Q: It's hard to do this because I have lag.
+A: No it's not.  I still get first on servers that I play on while having 280+
+ping.  Although I'll admit that it's much harder than when you have low ping.
+
+Q: Get cable!  Fix your rates!
+A: This isn't more of an issue of rates or connections.  It's an issue of
+distance.  Also, I've relocated so that now I can play with an average of 40
+ping.
+
+Q: I'm new to CS.  Will this guide make me better?
+A: Depends if you make the effort to follow this guide.
+
+Q: Can I play with you?
+A: Maybe ;)
+
+-------------------------------------------------------------------------------
+
+B
+-------------------------------------------------------------------------------
+I. So you want to learn how to survive in CS: Source by yourself?
+-------------------------------------------------------------------------------
+Well that's easy.  Just make sure you kill anyone who isn't on your team and
+complete the objective?  Easy to say, hard to do.
+
+First, you have to pactice your skills.  I mean, to be able to do things by
+yourself requires you to be actually capable of killing someone 1 on 1.
+That means practicing your skills with almost all the guns, since when you go
+alone, you will sometimes need to switch guns in case the situation calls for
+it.  Usually going solo means that you will have to either:
+
+1) Fight enemes head to head, sometimes more than 1 at a time.
+2) Find suitable spots for ambushes.
+
+Those are the 2 most basic situations you'll find yourself in.  First off, you
+gotta learn about the weapons.
+
+-------------------------------------------------------------------------------
+II. Weapons
+-------------------------------------------------------------------------------
+For the most part, most weapons in CS: Source are decent killing machines,
+except for the few underpowered weapons.  In this section, I'll describe the
+weapons and equipment you will, for the most part, use and find when you go
+solo.
+
+Pistols
+
+1) Name: USP
+Pros: Good rof, standard size clip, cheap, decent damage dealt, has supressor.
+Cons: Not much really.  Maybe recoil can get wild sometimes?
+Comment: Good pistol to have when you run out of primary weapon ammo.
+Considered one of the best pistols in the game.  You will most likely see this
+on the dead bodies of your opponents.
+
+2) Name: Glock
+Pros: Large clip size, good rof, cheap, has burst-fire mode, good stun power.
+Cons: Weak damage dealt.
+Comment: An ok pistol, but personally not one of my favorites, although can be
+quite useful if you can get headshots with it.  Body shots though will do puny
+damage.
+
+The glock can actually be very useful at times. Two hits is usually all it
+takes to bring down an enemy, so you can try turning on burst-fire and aim
+for the head. More often than not this will take hostiles down as fast as a
+usp would. (Thanks to Johnny Rockett.)
+
+3) Name: P228
+Pros: Decent clip size, good rof, decent damage dealt, armor piercing.
+Cons: Somewhat not accurate after first 2 shots, a bit expensive.
+Comment: Decent gun, although you won't use it too much as people don't usually
+use this gun anyway.  It takes off very little armor.
+
+4) Name: Desert Eagle
+Pros: Large amount of damage dealt, only pistol that can pierce walls.
+Cons: Slow rof, expensive, recoil goes wiered after first shot or two, small
+clip size.
+Comment: This gun, also considered one of the best pistols, packs quite a punch
+with one shot.  It can kill in one shot with a headshot, even if the opponent
+is wearing a helmet.  However, you have to make each shot count, since you only
+have seven bullets per clip.  Another gun that you will most likely see on a
+dead opponent.  Pre Source, it was a gun that could compete with rifles even at
+long range.  Now however, the accuracy is somewhat reduced.  It's still fair at
+long distances.
+
+Sub-machine Guns
+
+1) Name: MP5 Navy
+Pros: Good rof, farmiliar recoil pattern, cheap.
+Cons: Low damage per shot (uses the same bullets as Glock.)
+Comment: You usually will find this gun in early rounds and save rounds.  This
+gun is considered the best SMG in the game.
+
+2) Name: Mac 10
+Pros: Fast rof, good close range.
+Cons: Wild recoil.
+Comment: Although you won't see much of this SMG, some people still use it.  It
+does decent damage for a SMG, but the recoil can get you in trouble at long
+distances.
+
+3) Name: UMP
+Pros: Good long range, good damage (uses the same bullets as USP.)
+Cons: Slow rof, a bit small clip size.
+Comment: As the same with the Mac 10, you won't see this gun often.  However,
+this gun is quite good, but not many people like to use it and prefer the MP5.
+
+Rifles
+
+1) Name: FAMAS
+Pros: Fast rof, has burst-mode, cheap.
+Cons: Low damage for a rifle, a bit small clip size, heavy.
+Comment: The buget rifle of the CT's it's a decent gun to get, but you have to
+get used to it first.  The burst-fire mode is quite handy if you are not good
+at burst firing, and is extremely accurate in this mode.
+
+2) Name: Galil
+Pros: Good rof, large clip size, cheap.
+Cons: Somewhat unfamiliar recoil pattern, a bit unaccurate.
+Comment: The budget rifel of the T's, it's also a decent gun to get.  Good to
+use as a spray and pray gun and good to get when low on cash.
+
+3) Name: AK-47
+Pros: Decent rof, cheap, large damage dealt, accurate.
+Cons: Very unstable recoil pattern, loud.
+Comment: The main gun of the T's, it is the most widely used rifle by the
+terrorists.  Good power and can kill opponents in 1-5 shots.  Practice with
+this gun alot because you will most likely use this gun most of the time.
+
+4) Name: M4A1 a.k.a. "Colt"
+Pros: Good rof, accurate, farmiliar recoil pattern, has supressor, decent
+damage dealt.
+Cons: A bit expensive.
+Comment: The main rifle used by the CT's, it has good rof, and does good
+damage, although does a bit less damage than the ak.  This is another gun you
+will use alot.
+
+5)Name: Sig SG-552 Commando
+Pros: Has single scope, good rof, accurate, good damage.
+Cons: Expensive, high recoil.
+COmment: This gun is the inbetween between a sniper and a rifle.  A good gun,
+but overshadowed by the AK.
+
+6)Name: Steyr AUG
+Pros: Has single scope, good rof, very accurate, good damage.
+Cons: Expensive
+Comment: This gun is the counterpart of the Sig.  It is very accurate and is
+not as overshadowed by the M4A1 as the Sig is by the AK.
+
+7) Name: Arctic Warfare Magnum/Police Sinper Rifle a.k.a "AWM/AWP"
+Pros: One shot kill most of the time, accurate over long distances.
+Cons: Very loud, can sometimes let victims live, heavy, slow rof for sniper
+rife, expensive, unaccurate when moving or unscoped.
+Comment: This is one gun you will definately see as much as the AK and M4A1.
+The prefered sniper rifle by most of the CS community, it is strong, accurate,
+and deadly.  One shot can kill more than one person.  Kills an opponent in one
+shot, providing they didn't get shot in the leg, which will let them live with
+very little hp.
+
+8) Name: Streyr Scout
+Pros: Silent (kind of =P), fast rof for sniper rifle, light, accurate unscoped
+and moving, cheap.
+Cons: Does not kill in one shot unless headshot, inaccurate over long
+distances (unless you crouch.)
+Comment: The sniper rifle used by the CS community who frown upon using the AWP
+and the auto-snipers.  It is light, has good accuracy while moving and
+unscoped.  However if you want a one shot kill with it, you must get a
+headshot.  Loses some accuracy over a long distance, but can be compensated by
+crouching.
+
+9) Name: H&K G3/SG-1
+Pros: Auto-firing in sniper mode, good dmg, accurate.
+Cons: Very expensive.
+Comment: The auto-sniper of the T's.  Back in 1.5 or pre-Source, these were
+considered all but useless.  Now however, Valve has beefed it up and is now
+considered a "noob" weapon due to it's improved damage and accuracy.  Most vets
+frown on people who use this gun, but there's really nothing cheap or wrong
+about using this gun.  In fact, I think it's not worth to use this gun due to
+its expensive price.  However, this gun is very efficient at killing.
+
+10) Name: Sig SG-550 Sniper
+Pros: Auto-firing in sniper mode, good dmg, accurate.
+Cons: Very expensive.
+Comment: The auto-sniper of the CT's and the counterpart of the G3SG-1.
+Basically almost simiar to the G3SG-1, although some people say that the other
+is better because it is more accurate.  Nonetheless, it is also considered a
+cheap gun by most vets, although of course it was implememted in the game for
+a reason...
+
+Equipment
+
+1) Name: Kelvar
+Pros: Cuts grenade damage by 50%, protects against pistol and SMG bullets by
+reducing damage.
+Cons: Expensive, no helmet.
+Comment: Kelvar itself is not really worth it as you can get a helmet for $200
+more.  However, kelvar is very effective against grenade damage,and SMG and
+ pistol bullets.
+
+2) Name: Kelvar + Helmet
+Pros: Has everything kelver has and gives you a helmet.
+Cons: Somewhat expensive.
+Comment: Now this is what you should be buying.  This gives the complete set
+and is essential to having when going solo as it can save your life many times.
+This has everything Kelvar has and paying the extra $200 for the helmet is very
+worth it.  The helmet can protect you from headshots, even from some rifle
+rounds.  The helmet can give you a second chance.  Always buy this if you can.
+
+3) Name: Grenades (Flash bang, Grenade, Smoke grenade)
+Pros: Can be thrown, good to use as distractions, damage dealers, or blinders,
+no hold time limit (unlike real greanades.)
+Cons: Can damage and flash yourself.
+Comment: Grenades are a must.  When going solo, sometimes grenades can end the
+round for you.  Being alone usually lets you face enemies who have been in
+previous fire fights and have lowered hp.  By chucking a grenade at them while
+they least expect it, you can simply blow them up or blind them for an easy
+kill.  The smoke grenade lets you hide yourself, or let the opposing team THINK
+your hiding somewhere while you are somewhere else ready for an ambush.
+
+4) Name: Diffusal Kit
+Pros: Diffuse the bomb in about 5-7 seconds, cheap, can be picked up.
+Cons: Useless in non cs maps.
+Comment: As a CT, you should try as much as possible to buy this on de_ maps.
+Diffusing the bomb as fast as possible before detection, death, or even
+detanation is important in both solo and team play.
+
+The weapons and equipment listed are basically the ones you'll find and use
+when playing CS in general.  Some guns, like the TMP, shotguns, ES Five-Seven,
+etc. are not used often.  STill, you should still practice with those guns and
+try them out for yourself.
+
+-------------------------------------------------------------------------------
+III. Weapons training
+-------------------------------------------------------------------------------
+Now that you know about the weapons your going to face and find most of the
+time, it's time to train with them.  Playing solo requires you to learn most of
+the guns, in the possibility of finding yourself stuck without a gun and
+needing to pick one up off a fallen ally or enemy.  In this section, I will
+explain how to use the guns efficiently for going solo and I will also
+recommend guns for you to use when going solo.
+
+Pistols
+
+USP: Make sure your first shot is a good headshot, as this will damage the
+opponent quite severely.  Then just pummel him with the rest of the clip and
+the opponent should fall easily.  A recommended pistol to use.
+
+Glock: With this pistol, you'd better make sure you have good aim.  If you get
+anything besides headshots with this gun, it does puny damage not even worth
+worrying about.  However, it does stun players, which is effective when trying
+to catch a running opponent low on hp.
+
+P228: This pistol has 1 more bullet per clip than the USP, and is kind of like
+the in-between gun of USP and Glock.  Aim for the head most of the time, but
+some body shots are ok.
+
+Desert Eagle: This pistol is a pistol you'll see alot of.  You can either do
+2 things with this pistol.  One is aim for the head and get a headshot to get
+and instant kill, or you can go for body shots and kill the opponent in about
+3-6 bullets.  Also good at long distances, but it has a strange and wild recoil
+pattern.  A recommended gun.
+
+Sub-Machine Guns
+
+MP5  Navy: The standard SMG and most popular, this gun has very stable recoil
+and is a good gun to use while moving.  Try spaying this gun and trying to get
+headshots.  It is in fact, similar to Glock in which it even uses the same
+bullets.  Stuns enemies.  A recommended gun.
+
+Mac 10: Now this gun you won't see that often.  This gun requires you to get
+close to the opponent and spray him  like mad.  Not very good at long ranges,
+don't use this gun unless your low on cash.
+
+UMP: The gun that is overlooked, it's actually pretty good.  You can use this
+at long ranges and it packs quite a punch per bullet as it uses the same kind
+as the USP.  Try to get headshots with this also, but body shots will let you
+do decent damage and stun.  A recommended gun.
+
+Rifles
+
+FAMAS: Budget rifle for CT's.  Good to use if low on cash.  Make use of the
+burst-fire mode if your not good at controlling your shots.  However when in
+close proximity, use full auto as you will most likely have to spray.
+
+Galil: Counterpart of the FAMAS, the budget rifle of the T's.  use this gun for
+spraying as it has a farmiliar recoil and has a large clip size.  Accuracy is
+kind of off at long distances, so it's better for close range.  Good for
+spraying on walls with enemies behind it.
+
+AK-47: The main gun of T's.  Burst fire for this gun is a MUST.  Going full
+auto with this gun will only make you miss 90% of the time as its recoil is
+very wild.  A good burst with this gun to the head or several "pick shots"
+(shots that you shoot to pick off opponents slowly from long distances while
+having good cover using surroundings) will usually kill of any opponent.  A
+powerful gun to use, but you must have experience with this gun to use it.
+Very accurate.  A recommended gun.
+
+M4A1: The counterpart of the AK and the CT's main gun.  A very good gun that is
+also newbie friendly, it has farmiliar recoil patterns and has a supressor to
+use in ambushes.  However, it is not as strong as the AK and sometimes leaves
+opponents alive even if it's a headshot if they have a helmet on.  Use this gun
+for spraying or for headshotting.  A good gun to start with.  A recommended
+gun.
+
+Steyer Scout: The "silent" sniper gun.  Much more quiet then the AWP, but half
+the power.  A headshot is needed to kill someone in 1 shot.  Otherwise, it
+takes 2 shots.  Can lose accuracy over a long distance, but to compensate, you
+can croutch.  Accurate while moving and light.  Also accurate when unscoped.
+A recommended gun.
+
+AWP: The big sniper gun and all around prefered sniper gun.  Although loud and
+revealing, it doesn't really matter if you kill them in one shot does it?
+However, very expensive and has NO accuracy when unscoped, in the air, or while
+moving.  Very large and heavy, it slows your movement alot as it is the second
+heaviest gun in the game.  A recommended gun.
+
+Sig Sg-550: Accurate and has a single scope.  Although somewhat useful, its
+recoil is a bit wild, although still less than the AK.  A good gun, but too
+expensive and overshadowed by the AK.
+
+Streyr Aug: Very accurate gun and the other gun prefered by most CT's, it is a
+good gun to have anytime.  Accurate when scoped and not scoped, 1 shot to the
+head will kill instantly.  A recommended gun.
+
+G3SG-1: The auto-sniper of the T's, and considered n00b weapons.  Good damage
+per shot and deadly in the right hands.  Contrary to what most people say about
+this gun, it still takes some sort of skill to use effectively.  One shot kills
+if headshot, although spraying this gun is a good idea as it stuns and does
+good damage.  Also, when in the air and scoped, the first shot you fire will be
+accurate.
+
+Sg-550 Sniper: The auto-sniper of the CT's.  Basically the same as the G3SG-1.
+Some say the G3SG-1 is better though.
+
+Equipment
+
+Grenades: Heh.  Nades.  Fun to use, deadly without armor.  Make sure to buy
+nades as they can kill off weakened enemies.  Although Kelvar cuts the damage
+in half, it can still do a max damage of about 60 hp.  Be careful though, as in
+Source, the explosions don't go through solid objects anymore, meaning walls or
+crates can block the explosion.  Flashbangs are useful for ambushes and for
+easy wins, and of course, knifing =P.  Smoke grenades are good for hiding ambush
+spots or throwing off enemies by smoking a "obvious" camping spot for the
+enemies to assume someone is camping there.  Also, smokes are good for lagging
+and dropping the fps of your opponents ;).
+
+Practice using these effectively.  Your gonna use most of them anyway.
+
+-------------------------------------------------------------------------------
+IV. Solo playing styles
+-------------------------------------------------------------------------------
+Here are the diffent types of players that you will most likely fit into when
+playing solo.
+
+The running gunner
+
+You go around with your gun heading into fire fights
+head on without hesitation.  You just try to mow down everyone in your way.
+This style is only recommended if your very confident in your skills because
+doing this will usually force you to face more than one opponent at a time and
+will usually end up hurting you quite bad because of accumulative damage due to
+facing serveral enemies head on.  Also, this style should be only used when
+you have a decent primary gun.
+
+The stealth master
+
+This is the key style to use as a solo player.  Being undetected and picking
+off several, unsuspecting enemies at once is very effective.  This style
+requires you to learn the map by locating and remembering good spots for
+ambushes.  However, you must also have good judgement when looking for ambush
+spots because good players will look in the usual ambush spots.  Be creative
+and find different locations in the same ambush area.  There are many new
+places in Source that let you hide behind textures that conceal your presence.
+Also learn to switch ambush areas when necessary.  If the enemy has detected
+you there, switch areas before the next opponent knows where you are.  This
+will help with the element of surprise.
+
+The camper
+
+Although there is nothing wrong with this style, it is, simply put, frowned
+upon by alot of players because you don't move from a single spot, you slow
+down the entire game, and you don't complete the objective.  There is a big
+diffenece between effective camping and stupid camping.  Effective camping 
+means you camp because you are guarding the bomb from an angle that is hard to
+be seen from, or guarding hostages from the CT's.  Stupid camping is when, for
+example, you camp at your spawn in fear of dying or losing your precious gun.
+
+I recommend using the Stealth master method as it is the most effective when
+going solo.
+
+-------------------------------------------------------------------------------
+V. Situations
+-------------------------------------------------------------------------------
+Here are some of the situations your going to face when going solo, and
+solutions for them.
+
+Situation #1: Fighting a guy 1 on 1
+This is what you practiced for!  A head to head battle of skills between 2
+players.  The way to come up on top is to have superior skills.
+
+Situation #2: Fighting more than one guy at once
+This calls for even more then situation #1!  You have to fight several guys at
+once!  You can either try to fight them all head on beliving in your skill
+level, or you can retreat for the moment and find quick ambush spots with quick
+escape routes and pick them off as they come running after you.
+
+Situation #3: An enemy passes by you while you wait for ambush
+What else?  Kill him of course!
+
+Situation #4: More than one enemy is comming to pass your ambush spot.
+This calls for some thinking.  You can either let them all pass through and
+wait for the last one to pass and pick him off, you can let them all pass and
+try to follow them and gun them down, or you could gun the first one down and
+face the others as they come.
+
+Situation #5: Having your positon discovered
+You were discovered when you ambushed someone.  Now you can either run away, or
+you can try to fight them.  In this situation, I suggest switching positions as
+the enemy now knows where you were in the previous round.
+
+Situation #6: You missed killing the person you ambushed
+Well normall if they aren't stupid, they will discover where you are or at
+least try to look for you.  At this moment, you can either come out and gun
+them down before they actually find you or have a chance to react, or you can
+hide and once the enemie decides that it's clear get another shot at him.
+
+Situation #7: Your team and their team are facing off while your alone
+somewhere else.
+You can either move to a closer location of the gunfight and ambush them there
+as they come by with low hp, or you can go around the map so that you suprise
+the enemy from behind while their still in a fire fight and knock them down
+one by one or with a nade.  However with the second suggestion, you have to
+approximate how long the battle will last and whether you'll be able to make it
+around the back in time before the battle finishes.
+
+Situation #8: On the way to your ambush spot, you notice several enemies there
+Retrace your steps and find a different location.  Several enemies are hard to
+face all at once.  Besides, what good is it to get to your ambush spot if they
+already know where you are?
+
+Situation #9: A sniper stands in the way of where you wanna go
+You can either make a run for it, but a good sniper will get you.  The best
+solution is to retrace your steps and go around or find a new location.  Even
+if it will take longer, at least your safe from the sniper.
+
+Situation #10: A sniper has discovered where you are positioned
+Move move move!  Facing a sniper is dangerous and you have to move!  Don't move
+into very open spaces, however and use your surroundings to make it harder for
+the sniper to hit you.  Don't however, stay put in a spot, even behind
+something as good snipers can snipe through objects and hit you.
+
+Situation #11: Your n00b teammate won't stop following you
+Well then if he won't stop and he waits where you wait, runs when your walking
+to a destination, etc., make use of him and use him as bait.  Make him think
+your going into locaions first and let him go in fron instead and if he gets
+hurt or gunned down, you know where the enemy is and can set a good ambush
+point for them.
+
+Situation #12: Flashed while in your ambush zone
+This depends.  If the enemies flashed you on purpose, then you'd better stay
+put until you hear footsteps and then start shooting and moving, although don't
+shoot too wildly because you don't want to use up all your ammo before you can
+see again.  If they didn't discover you and you were flashed accidentaly, wait
+there and don't move until you hear footsteps very close to you.  A good tip
+is to look down or away from the flashbang's direction as this reduces the
+effectivness of the flashbang.
+
+-------------------------------------------------------------------------------
+VI. When to go solo and when not to
+-------------------------------------------------------------------------------
+Although this is a solo playing guide, you should still learn when to go solo
+and when to depend on your team.  The only reason you would go solo is either
+because you want to, or your team sucks so bad that you need to do things
+yourself to get them done right.  Listen to your teammates, but also listen for
+what the situation calls for, and listen to yourself.  However, there is no
+rule that says you cannot go solo whenever, so if you really want to go ahead.
+However, going solo is not recommended when playing in scrims or matches.
+
+-------------------------------------------------------------------------------
+VII. Tips for survival
+-------------------------------------------------------------------------------
+Here are some tips that will help you survive longer and give you that extra
+1 hp to kill off the whole opposing force.
+
+-Be stealthy!  Ambush people when you can.
+
+-Use the footsteps!  By listening carefully to footsteps, you can get a general
+idea of where the enemies is comming from, and how many there are.  You must
+also remember to walk so the opposing team can't hear your footsteps.
+
+-Turn off your flashlight!  Sometimes, you can give away your position because
+your flashlight is on.
+
+-Know when is the right time to kill!  What I mean by this is when your the
+only one left on the team and there's still several opponents, don't ambush the
+first one you see.  If you know more than one is comming, it is okay to let
+them all pass by and pick off the last one before moving to another ambush
+location.
+
+-Run fast!  Get there before they do!  Your primary concern playing solo, you
+must get to your ambush spot before anyone else does so that you are prepared
+to ambush when the opponents come by.  Use your knife to get to places faster,
+but also use your pistol if your not sure the area is clear.
+
+-Don't look down!  When your running or switching locations, don't look down
+as you get from one point to another.  This reduces your vision, lowers your
+chance to detect an enemy, and creates "down time" before you can aim, meaning
+you have to look up before actually locating the enemy and pointing your
+crosshairs at him.  Try to look at neck level when moving.
+
+-Burst fire, even if your ambushing!  I can't stress this enough.  I hate it
+when I am in a perfect position, the enemy comes, starts to diffuse the bomb,
+only to have me come out, use a full clip on him totally spaying, have him
+live with 1 hp to turn around and shoot me as I whip out my pistol.  Bursting
+is still important when ambushing, espsecially when ambushing more than one
+enemy.
+
+-Headshot headshot headshot!  No matter what anyone says, the best shot will
+always be a headshot.  The key way to elimiate people without alerting others
+too much, a few quick bullets to the head will kill an enemy and leave your
+opponent disoriented, scared, and unsure of where you are due to not hearing
+or seeing much of where the shots came from.
+
+-Get those grenades!  Buy a nade whenever you can, and when you can spare the
+cash, get flashes and a smoke.  Nades can kill off opponents who are low on
+hp and most usually, everyone will have low hp when you face them since the
+rest of the team, besides you, has faced the opposing team, leaving casualties
+and serveral wounded severely.  Nades will finish them off.  Flashes can be
+used when there's more than one enemy your about to ambush.  Flash them and
+pick them off when their blind.  Use smokes to conceal your locations, or to
+fool players into thinking that your hiding in a certain spot by just smoking
+a corner or an ovious ambush spot.
+
+-Know your handgun!  Make sure you get a pistol farmiliar to you as you will
+usually depend on your pistol quite a bit.
+
+-When you can use the supressor, use it!  If your alone and facing several
+enemies, use the supressor to increase stealthiness and avoid detection.
+However when there's only one person left, don't bother as he is the last one
+you have to kill.
+
+-Know how many opponents are left!  It sucks to kill someone from a perfect
+ambush spot, only to let you think you won and come out and get shot.  Check
+every so often and be updated on how many opponents you need to kill.
+
+-Move around!  Although ambush spots are good, you need to switch spots every
+so often to avoid getting killed by someone who already knows your ambush spot.
+It is not wrong to be seen by the enemy at one ambush spot, then go all the way
+around the map to get to another spot.
+
+-Know where your teammates are!  You should very well know where they are,
+especially with the new radar.  If one of them dies and the group is there,
+you can go around the long way and ambush a mass of enemies from behind
+while they have a fire fight with your team.
+
+-Know all the guns!  You will always need a decent gun going solo, so know how
+to use all the guns and know where people have died.  If you need a gun just go
+over to one of the dead bodies that has a decent gun and pick it up.
+
+-Learn to switch guns in a fire fight!  If you run out of primary ammo, just
+switch to your pistol to finish them off, or if there is a corpse near you and
+it has a gun near it, pick up the gun and use it again.  However, you have to
+watch out for guns that have no ammo when you pick them up.
+
+-In the same spot, in a different spot!  If you plan to stick to an ambush
+spot, learn to find all the places you can get on, hide under, etc. in that
+ambush area so that your opponents don't know where to look when they try to
+find you at your ambush spot.
+
+-Remember that you are unaccurate when in the air!  When you shoot, make sure
+you are not swimming, jumping, falling, or on a ladder as all these make you
+inaccurate.  Also remember that you CANNOT use shotguns in water.  They won't
+fire.
+
+-Reload in safe areas!  Don't reload in the middle of a firefight unless you
+both are reloading or you know he's not gonna come follow up to kill you.  Only
+reload when your in a safe area.  Do not reload when there are enemies around
+unless you absolutely have to because they can hear you reloading your gun.
+
+-Get that annoying teammate off your back!  Sometimes, teammates tend to
+follow players who go solo because either they think you need help, you will
+get killed and hurt the enemy for them to finish off, or simply because you
+have the highest score in the server.  When people like that follow you, get
+them off you back or let them go first to hurt the opponent (unless they are
+truly helping you.)  Usually, try to shake off following teammates as they only
+give your position away to the opponents.
+
+-------------------------------------------------------------------------------
+Credits
+-------------------------------------------------------------------------------
+This faq was made and belongs to Coolica.  Thanks to my friends who played CS
+with me all these years.
+
+Thanks to "Johnny Rockett" for his corrections and added tips.
+
+Special thanks to:
+W4u46
+Max_Breaker
+MiGlEy
+Gothickilla
+DKMaster
+
+Date: 10/02/2006 - 10/02/2006
+"Coolica!?"
+-That's me :D
+

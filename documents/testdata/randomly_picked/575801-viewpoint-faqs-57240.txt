@@ -1,0 +1,274 @@
+-------------------------------------------------------------------------------
+------------------------------- [Viewpoint] -----------------------------------
+----------------------------[by Ice Queen Zero]--------------------------------
+-------------------------- [Neo Geo/NGCD/Arcade] ------------------------------
+-------------------------------------------------------------------------------
+
+o---------------------o
+      INTRODUCTION
+o---------------------o
+
+Viewpoint is an isometric scroller that scrolls at a 45-degree upward angle and
+it has an awesome soundtrack and wonderful graphics. It is pretty tough too so
+you better bring your A-game with you. In addition to the Neo Geo, Neo Geo CD,
+and the Arcade, it was also released for the X68000, Genesis, and Playstation.
+
+o---------------------o
+       DISCLAIMER
+o---------------------o
+Viewpoint and its characters are trademarks of Sammy n' all copyrights belong 
+to them
+
+This FAQ/Walkthrough is the sole copyright of Andrea "Azul Fria" Castillo aka
+Ice Queen Zero and cannot be put on other sites or posted without my given 
+permission nor can it be reproduced w/o proper consent.
+
+o---------------------o
+        CONTROLS
+o---------------------o
+D-pad: move
+A button: Shot
+Hold A button then release: Charge shot
+B-button: Bomb
+
+o---------------------o
+        ITEMS
+o---------------------o
+
+H: Homing Bombs
+W: Wave Bombs
+F: Nova Bombs
+Star: Extra points
+Barrier: Extra protection
+Pod: 2 sidekicks
+
+o---------------------o
+      WALKTHROUGH
+o---------------------o
+
+There are six levels in all. It's going to be a rough road. Are you ready for
+it?
+
+                             o-----------------------o
+                                      Level 1
+                             o-----------------------o
+
+Start off by shooting away a couple lines of coin-flipping enemies and then 
+kill a saucer than will give you an item that adds two companions by your side.
+Shoot away the cannon turrets coming out of the ground while still dealing with 
+the coinflippers. You will come across a giant spacefighter with its back 
+turned towards you and it will fire bullets at you through its fans as it flies
+away from you. While this is going on, some spinning gears will joining the
+coinflippers. You'll face a ton of the coinflippers as you encounter another
+giant space fighter but this one will retreat. 
+
+Shoot the fans on the sides to make the obstructing walls retract then just fly
+through the openings. Shoot away the cannon turrets and gears and then you will
+come across a spinning circle of well-designed semicircles. The blue ones are
+invincible but you can shoot the red ones. Be sure to destroy the red ones then
+fly through the opening and avoid the platform in the middle and fly out the
+other side through that opening. More coinflippers appear along with a series
+of giant rolling gears and flipping floors. There is also an H item to pick up
+as well. Spinning gears will come in and so will ground tanks. Once you're past
+the flipping floor area, the spinning gears will come in a 2 line formation and
+then fly away. More coinflippers and cannon turrets arrive before being joined
+by some giant slinky enemies. After taking care of the slinkies and more of the
+spinning gears, the boss will arrive.
+
+Boss Fight: The first boss will let you shoot at it while it prepares itself
+for battle then it will attack by firing purple lasers from its sides and will
+occassionally do a rushing attack. Move to the sides to avoid the boss' rushing
+attack and stay in the middle to avoid the lasers. The boss also has a nasty
+spread attack which comes out fast but you are safe if you move between the
+bullets but watch out because the boss likes to mix it in with laser attacks.
+You'll know if the boss is about to rush when it sticks its head out beforehand
+and you can destroy its guns to get rid of laser attacks. Just remember that
+you must destroy the boss' head to beat it.
+
+                             o-----------------------o
+                                      Level 2
+                             o-----------------------o
+
+This level contains a lot of aquatic enemies. Defeat a few waves of tigerfish
+then kill a couple saucers for a H and W bomb. Kill a wave of spinning gears
+and tigerfish. You will also be dealing with more coinflippers and saucers as
+well as some annoying dragoons who slither back and forth along the area. You
+will next come across some sea anenomes that sprout up and shoot lasers at you.
+Get past them and there is a big blue tigerfish to fight and it spits out mines
+at you. While this is going on, be sure to pay very close attention to any part
+of the floor that flashes because that part of the floor is going to rise. A
+pod containing a shield will appear in the middle of the fight. Shoot it and
+grab the shield and that will offer you protection. It should be a good idea to
+use a bomb to make this fight a little quicker. At the end of the rising floors
+it is best to rush ahead or you'll be trapped in the lower-left hand side which
+is reminiscent to pre-final boss fights in Gradius.
+
+Once past that area, piranhas will pop out of the water and attack your ship.
+Keep shooting to stay alive then kill off the sea anenomes and saucers that
+follow. You will eventually fly over a series of holes with lots of seaworms
+jumping in and out of them. You can avoid most of them by flying to the top of
+the screen when you got the chance. Kill the sea anenomes. There are statues
+which pose no threat. When you pass them, you fly over a coral and you'll fight
+a series of spinning gears and turtles that spin in their shells before coming
+out and walking forward before spinning at you again. As you go further, you'll
+have to fly a series of turtle shells bouncing back and forth along the walls.
+The boss appears afterwards.
+
+Boss Fight: You will fight a giant crab that shoots bubbles at you. For the
+majority of the fight, all it will do is shoot bubbles. Occasionally it will
+fire its claws ahead before retracting them. You can shoot the claws and its
+head. Once its about to die, its body will start exploding during the fight but
+the fight will not be over once it does explode. The bosses brain and eyes will
+still be intact and it will shoot out crescent shaped lasers that you must avoid
+while shooting at it. Stay on your toes because this sucker is fast. It will
+eventually fall if you are fast enough.
+
+                             o-----------------------o
+                                      Level 3
+                             o-----------------------o
+
+Begin by shooting away the spacefighters, coinflippers, and cannon turrets. You
+will come across a F bomb on the way. There are also some walking aliens along
+the ground that move in various patterns. You will soon come across a series of
+tanks and spiked walls that open and close. Shoot away the tanks for a safe way
+through the walls. Once that is over, beware of the tanks, walking aliens and
+some nasty hornets that appear. A piece of the floor will raise up and reveal a
+hive that releases more hornets. It will lower in time for you to pass through.
+Then you have to repeat the process once more and then a couple enemies that
+resemble flowers float around and shield themselves while close. When they open
+they will shoot a laser ahead. There are spinning tops too but they don't pose
+a threat. Next comes the inchworms which only serve as obstructions and then
+there are caterpillars whom fire bullets at you. Take these guys out as soon as
+possible then take out the inchworm wall.
+
+In the next area, you can kill a saucer for an H bomb. There are flying tops
+and centipedes here too that behave like the dragoons from Level 2. You will
+come across a caravan of larvae and adult beetles I mistook for caterpillars
+earlier, Get past them and fly into the hole. The boss will appear shortly
+afterwards.
+
+Boss Fight: The Boss takes the form of a giant moth with butterfly wings. As
+you fight it, giant caterpillars will arrive and interfere in the fight. Avoid
+the bullets as you shoot at the boss' head. After a number of shots, the head
+will blow up and reveal a different one. Now it changes its pattern by turning
+away from you and shooting small bullets and homing bullets with its tail. It
+will then face you and spit shards of metal that you can shoot away as you go
+after the boss' head. On some occassions, the boss will try a rushing attack.
+Just keep up the assault until the boss falls.
+
+                             o-----------------------o
+                                      Level 4
+                             o-----------------------o
+
+You are confronted by may enemies that you faced in previous levels. Once of
+them will reveal a star. Along the way, you can restore your shield if you have
+lost it earlier. Just be sure to kill the enemies orbiting around it. After you
+deal with these enemies, fly through the hole into the next area where you will
+fight some tanks.Then the same old enemies as before. The only new enemies so
+far are the bats and the flamethrowers from the sides. It's about to get ugly
+here because there's going to be a series of wildfires coming. Once you see one
+wildfire finish, rush ahead as soon as possible then prepare for the next. As
+you proceed, there will come a walking gun that moves like a duck and has a gun
+for a "snout". Kill it and fly through one of the holes to pass through the
+wall and deal with the same walkers you saw earlier except they shoot homing
+missiles. The next thing you fight will be a scorpion and some enemies that fly
+in and shoot rays. You can fly past the scorpion and it will retreat. Survive
+the next wave of assault from the familiar enemies and the next thing you will
+confront will be a series of trucks that move in wierd patters. Don't bother
+fighting them, just avoid them. Near the end of their pattern, two will release
+some spinning gears before they eventually retreat. Time to face the boss.
+
+Boss: This boss is ugly. When it opens its mouth, shoot at it while you avoid
+its bullets. When it retreats back, it will bounce back and forth off the side
+walls towards you. Fly past it then avoid it as it bounces back like a pinball.
+Rinse and repeat until the first face is destroyed. The second face will only
+spit out coinflippers and fly in strange patterns. The third face will only use
+bats to attack you with and they spit spread bullets themselves. The final face
+will shoot spread bullets and surround itself with face shields that can go out
+and attack you. Once all four faces are destroyed, the boss dies.
+
+                             o-----------------------o
+                                      Level 5
+                             o-----------------------o
+
+This level takes place over a fire pit and I'll warn you ahead of time that you
+are going to spend lots of time on this level even if you are an expert player
+and its because of something I'll discuss later on. Shoot away the coinflippers
+and spinning gears. Fly through the middle and kill what looks like submarine
+scopes coming out of the lava. Grab the F bomb. Continue flying through the
+middle to avoid the lava worms spouting out. Just up ahead is a rematch with
+the Level 1 boss. Yes that's right folks, you will be fighting bosses that you
+killed in the first four levels during the course of this one. I won't bother
+putting up any strategies since you know what to expect. Once the first boss 
+dies, kill the space fighters swooping in and out. Avoid the lava worms and 
+deal with the submarine scopes. There is another shield to pick up. The Level 2
+boss is next. Deal with it as before. More lava worms and scopes to deal with
+before the Level 3 boss arrives. Do your duty here. Once it falls, you not only
+deal with lava worms and scopes but you deal with spinning gears and flying ray
+shooters. Beat the fourth boss as you did before. Once that is over, avoid one
+more wave of lava worms and scopes and some spacefightes to boot and the real
+boss will finally make an entrance.
+
+Boss Fight: Shoot at its red core while you avoid its bullets. When it sticks
+its head out, it will fire a laser straight ahead. After taking a few hits, it
+will send its fans at you while shooting lasers constantly. Ironically, this
+boss fall fast compared to the other four bosses you've encountered.
+
+                             o-----------------------o
+                                      Level 6
+                             o-----------------------o
+
+This is the last level. Good job on making it this far. Kill the spinning gears
+and spinning turrets as well as the walkers and spinning tops and flyring ray
+ships and tanks. Along the way you will see a spinning cog that splits in two
+and carry a wave of electricity between them. Watch out for debris that comes
+flying in too as well as rolling blocks. This level is extremely tough. This
+ain't the last level for nothing you know. You will eventually come across some
+springs that expand and a wave of electricity orbiting them each. Get past this
+part and survive the rock, coinflipper, and satellite assault. Get past the
+splitters and spinning gears and the final boss is ahead.
+
+Final Boss Fight: This boss throws a lot at you. Its attack consists of spread
+bullets, missiles, lasers and an occasional rush attack. The front legs can be
+destroyed and in turn destroy the hind legs. Now just attack the body. When it
+dies, you are not done yet. It will transform and fire four different colors of
+vials that will determine what attack is coming. Yellow vials unleash yellow
+homing balls. Red ones sends a wall of flames at you so fly through the opening
+of it. Blue ones sends out slithering and homing flames and the green ones will
+fire spread bullets and bounce green balls off the walls. Once this boss dies
+then you beat the game. You got one more fight. Avoid the purple rocks' lasers
+and continue assaulting the boss while you avoid its shot too. Once this boss
+is dead then the game is over. Good job you beat the game.
+
+o---------------------o
+        CREDITS
+o---------------------o
+
+God almighty for he created everything you see before us.
+
+Sammy for making this game.
+
+SNK for publishing it.
+
+o---------------------o
+      CONTACT ME
+o---------------------o
+
+azulfria[at]hotmail[dot]com
+[at] = @ and [dot] = .
+Don't want any email bots.
+
+You can also find me at Zophar.net updating the emus on console so you can buzz
+me there if you have an account. http://www.zophar.net/forums/member.php?u=2683
+
+Here is my Youtube account I share with my sisters.
+http://www.youtube.com/user/PurrfectTrio
+http://www.youtube.com/user/PurrfectTunes
+
+Check out http://www.vizzed.com/index.php?ref=283591 for retrogame action
+
+Thank you for reading
+
+-Ice Queen Zero
+
+

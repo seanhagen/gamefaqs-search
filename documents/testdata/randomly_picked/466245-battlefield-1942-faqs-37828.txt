@@ -1,0 +1,1179 @@
+			Battlefield 1942 Survival Guide
+********************************************************************************
+
+Contents
+
+Level 1 Misc. (done)
+Section 1A Guide Purpose
+Section 1B Legal Information
+Section 1C Updates
+Section 1D Contact the Writer
+Section 1E Approved Sites
+Section 1F Info Sorces
+Level 2 Vehicles (done)
+Section 2A American Vehicles 
+Section 2B British Vehicles 
+Section 2C Canadian Vehicles (with 1.6 patch)
+Section 2D German Vehicles 
+Section 2E Japanese Vehicles 
+Section 2F Russian Vehicles 
+Level 3 Classes (listed in order on spawn menu)(done)
+Section 3A Scout
+Section 3B Assult
+Section 3C Anti-tank
+Section 3D Medic
+Section 3E Engineer
+Level 4 Maps 
+Section 4A Eastern Europe Maps (done)
+Section 4B North Africa Maps (not started)
+Section 4C Pacific Maps (not started)
+Section 4D Western Europe Maps (not started)
+Section 4E Histroical Campain Info (comming soon)
+Level 5 Fun Suff (done)
+Section 5A Cool Things :)
+Section 5B Hero's Tails (Started forgot to put submit thing in lol sorry)
+
+LEVEL 1 Misc
+
+Section 1A Guide Purpose
+
+Hello there fellow BF1942 gamers. I made this guide because I saw that the 
+BF1942 general FAQs havn't been updated in a while. Instead of bugging the 
+writers of these I made up my mind to make my own FAQ. I hope this lives up to 
+the current guides as I've done my best to overcome my being lazy all the time 
+and give you a nearly complete guide. Hence The Battlefield Survival Guide was 
+born. You can see me online as GEN^Orange=*****=2nd
+-OrangeP47
+
+Section 1B Legal Information
+
+Copyright 2005 John Proffitt
+
+See that? Thats the copyright. That means you have to ask me if you want to use 
+my work. Got it? So if you would like to use some of my work see Section 1D and 
+send me an e-mail. About 99 percent of the time I'll say yes so don't go do 
+anything stupid.
+
+Section 1C Updates
+
+7.10.2005 -version .72 started Roughly 30k, 72 percent of sections done, 52 
+percent of content done
+
+Heh well i put alot into this even if its only .72 so enjoy.
+
+8.1.2005 -version .83 Corrected some format problems, added the end sections 
+and other things left out due to rushing. Added more to finsihed maps. 82 
+Percent of sections done, 60 percent of content done. Will update weekly with 
+Hero's Tales with no update on version number. About 48kb.
+
+If your wondering how I get these pre 1.00 version numbers its by deviding the 
+number of finished sections by the total expected on the calcualter in 
+acsessories.
+
+Section 1D Contact the Writer
+
+If you want to E-mail me a suggestion for the guide, Hero's stories, or 
+correction my e-mail is jack@wpfranklin.com Do not send me viruses or other 
+"little goodies" you may think up.
+
+Section 1E Aproved Sites
+Here is a list of sites that have permission to display this guide.
+
+In order of permission asked.
+
+www.gamefaqs.com
+www.supercheats.com
+www.neoseeker.com
+www.cheatbook.de
+http://dlh.net
+
+Section 1F Info Sorces
+
+Got some help with outpost names from the offical website. If you have the game 
+you can go there with a link in your start menu.
+
+Level 2 Vehicals
+
+These are based on my experiance.
+
+Section 2A American Vehicles
+
+Ok here are the American Vehicals. They have a pretty decent group of vehicles.
+IMO there pacific fighter stinks while the European fighter is the best in the 
+game. Other then that theres not realy anything for the general summery. 
+Remember threw this level that vehicles are only as good as there user.
+
+Land (names will be there if i can remember what they are, otherwise its they 
+type of vehicle)
+
+Preist (mobile artillery)
+Armor 1/5
+Acceleration 2/5
+Speed 2/5
+Firepower 4/5
+Manuvering 1/5
+
+The Preist is a mobile artillery unit. That means its lightly armored and has a 
+huge gun on it. Needs two people to fire and move at same time. If a scout calls
+for artillery the gunner can alt fire to bring up a coordonate system to fire 
+long distance accuately. Also it seems to have a bit more armor then the wespe 
+but its not noticable.
+
+M1A3(i think) (APC)
+Armor 2.5/5
+Acceleration 3/5
+Speed 3/5
+Firepower 1/5
+Manuevering 1/5
+
+APC is one of my favorites. Its usualy underestimated because it can't shoot 
+except a MG in a turret. This is used by ALL of the allied nations so it won't 
+be listed again. For more  see Cool Things 5A. I've descovered quite a number of
+"nice" things to do with them that are some what unconventional.
+
+Sherman (Medium tank)
+Armor 3/5
+Acceleration 2/5
+Speed 3/5
+Firepower 3/5
+Manuvering 3/5
+
+The Sherman Tank is about middle of the road as medium tanks go. It does not 
+have any pros and cons. Besides the main position it has a turret gun but that 
+is rarly used.
+
+Wolverene (heavy tank)
+Armor 4/5
+Acceleration 1/5
+Speed 3/5
+Firepower 4/5
+Manuvering 2/5
+
+The Wolverene is IMO the worst of the three heavy tanks. Its basicly a sherman 
+with a bigger gun and more armor but with less manuvering power because of the 
+size.
+
+Jeep
+Armor 1/5
+Acceleration 5/5
+Speed 5/5
+Firepower N/A
+Manuvering 3/5
+
+Ahhh my favorite vehicle the jeep :). The jeep is a car basicly with room for 
+two people. Its mainly used for transport or kamaking into tanks. If you want a 
+bit of firepower have someone jump on the back or from of teh jeep and prone 
+with a gun. Drive carefuly :)
+
+Sea
+
+America is one of the two sides with ships.
+
+Aircraft Carrer
+Armor 5/5
+Acceleration 1/5
+Speed 3/5
+Firepower N/A (though it does have AA capablities)
+Manuvering 1/5
+
+Those stats may look whimpy but belive me its not. It may be considered the 
+single most important ship there is because it spawns a figher and a dive 
+bomber. Its heavily armored and has four anti aircraft guns. It may take a while
+to get up to speed but once it is well... lets just say you can ram stuff 
+before they even know what you were doing. Good luck turning if they try to move
+though. (Note: Only use it to ram things as a last resort)
+
+Battleship
+Armor 5/5
+Acceleration 1/5
+Speed 3/5
+Firepower 5/5
+Manuering 1/5
+
+Think aircraft carrier but with massive guns instead of planes. Watch out for
+subs and destroyers that get close. Both main guns can be used as artillery and
+it has two flak cannons on the side.
+
+Destroyer
+Armor 3/5
+Acceleration 3/5
+Speed 4/5
+Firepower 2/5
+Manuvering 3/5
+
+The destroyer is best used to guard the carrier or battleship. Its faster and 
+more manuverable then the battleship but has less firepower. It has depthcharges
+to kill enemy subs by way of sonar. Its rear guns can be used as artillery. It
+has two machine guns on a tower to use aginst planes but you can't switch to 
+them with the number keys.
+
+Sub
+Armor 2/5
+Acceleration (varries)
+Speed (varries)
+Firepower 2/5
+Manuvering 2/5
+
+The subs has two torpedos and can submearge if you hold down the up arrow. It 
+surfaces by the down arrow. If you submerge far enough you see a map as you 
+parascope is underwater. Submerged you accelerate slower and can't go as fast. 
+Its main job is to kill ships though watch out for destoyers and planes.
+
+
+LCVP
+Armor 1/5
+Acceleration 5/5
+Speed 5/5
+Firepower 1/5
+Manuvering 5/5
+
+This is the transport that spawns at the back of any surface ship.
+
+Patrol boat
+Armor 2/5
+Acceleration 2/5 (rated because slowing down is almost impossible)
+Speed 4/5
+Firepower 3.8/5
+Manuvering 1.5/5
+
+This is on the special Invasion of the Philipens map. It has torpedos and mines
+for use aginst the destoryer (or other patrol craft if your lucky). All of them
+have a MG that is more like the turrets on a Bomber. Some have sheilds for the
+gunner. If the Japaneese capture one of the harbors they can get patrol boats 
+too witch are basicly the same. If destroyed in water (meaning your not beached)
+a life raft appers with room for 2 but its helth deteriorates at about 1 bar 
+per 2.5 sec.
+
+Air
+
+Note Air units have extra stats. Also if you plan to fly alot I'd recomend you 
+get yourself a joystick.
+
+Mustang (European fighter)
+Armor 1/5
+Accleration 5/5
+Speed 5/5
+Firepower 4/5
+Turning 3/5
+Climbing 4/5
+Loops 4/5
+Rolls 5/5
+
+This is the ultimate fighter. Speed is its main advantage. Its matched aginst 
+BF109s so unless you stink at dogfighting all you need to worry about from them 
+is hight advantage.
+
+Corsair(Pacific fighter)
+Armor 1/5
+Acceleration 3/5
+Speed 3/5
+Firepower 3/5
+Turning 2/5
+Climbing 4/5
+Loops 5/5
+Rolls 1/5
+
+Personaly I hate this plane. Its hard to keep it level and the zeros just eat it
+for breakfast. Its speed is average but the zeros are fast so you get the idea.
+However it can do some nice loops. I wonder why the mustangs arn't in the 
+Pacific.
+
+SBD (dive bomber)
+Armor 2/5
+Acceleration 2/5
+Speed 2/5
+Firepower 4/5
+Turning 1/5
+Climbing 2/5
+Loops 1/5
+Rolls 1/5
+
+This is a decent dive bomber but still not as good as the japanese counter. The
+stats may look bad but thats pretty much how all of the dive bombers are.
+
+SBD-T (torpedo bomber)
+
+This is the same as the SBD exept instead of two bombs it has a torpedo.
+
+B-17
+Armor 4/5
+Acceleration 1/5
+Speed 1/5
+Firepower 5/5
+Turning .5/5
+Climbing .5/5
+Loops .1/5
+Rolls .1/5
+
+Thats right those are decimal points. The B-17 is a (insert cuss word here) to 
+fly. But its worth it because it can drop up to 8 bombs at a time. You can bomb
+the living daylights out of the enemy with it. Be careful as if you get in.... 
+your a prime target for AA. Britsh have this too.
+
+Section 2B British Vehicles 
+
+The British basicaly have the same vehicles as the Americans with a few minor 
+changes. Only changes from American vehicles are noted here.
+
+Land 
+
+Jeep
+
+Same jeep as America exept with a horn on the Battle of Britain level.
+
+Sea 
+
+Britain has no sea vehicles.
+
+Air
+
+Spitfire
+Armor 1/5
+Acceleration 1/5
+Speed 2/5
+Firepower 3/5
+Turning 5/5
+Climbing 3/5
+Loops 2/5
+Rolls 3/5
+
+Instead of the Mustang or Corsair the British have the Spitfire. It is the best
+in turning but it slows at the slightest of moves and its stats are shown 
+accordingly.
+
+Section 2C Canadian Vehicles
+
+Canada is only in one map... Liberation of Caen. Its vehicles are the same as 
+America/Britain exept for the following changes.
+
+Land
+
+Armored Car
+
+Same as jeep exept with a horn.
+
+Sexton (artillery)
+Armor 1/5
+Acceleration 2.5/5
+Speed 3/5
+Firepower 4/5
+Manivering 1/5
+
+this is basicly a Preist execpt only one seat.
+
+Sea 
+
+The only sea vehicle Canada has is a commando raft. Its like a escape boat from
+the patrol boat. Too bad theres only a river to use.
+
+Air
+
+Canada has no planes.
+
+Section 2D German Vehicles
+
+German vehicles are overal above average in my opinion. The have nice tanks but
+not as nice as the Russians. There planes are pretty good too.
+
+Weisp (Moblie artillery)
+Armor 1/5
+Acceleration 2/5
+Speed 2/5
+Firepower 4/5
+Manuvering 1/5
+
+The Weisp is basicly the Axis version of the Preist. It is used by both Japan 
+and Germany.
+
+Hanomeg (APC)
+Armor 4/5
+Acceleration 1.5/5
+Speed 2/5
+Firepower 1/5
+Manuvering 3/5
+
+The German APC. Its like the M1A3 exept it is a bit slower and has more armor 
+(witch is basicly how all German Vehicles are).
+
+PanzerIV (medium tank)
+Armor 3/5
+Acceleration 3/5
+Speed 4/5
+Firepower 3/5
+Manuvering 3/5
+
+This is my favorite medium tank. Its faster then a sherman and a bit bigger. Its
+size doesn't hamper manuvering.
+
+Tiger (heavy tank)
+Armor 5/5
+Acceleration 2/5
+Speed 3/5
+Firepower 5/5
+Manuvering 2/5
+
+The tiger is hard to drive. Its speed isn't that great either. However it has 
+nice armor and firepower so if you can get to the American wolvereens then their
+in for a tough fight. The Russian Tanks can contend with the tiger just fine 
+though.
+
+Kubelwagon
+Armor 1/5
+Acceleration 4/5
+Speed 5/5
+Firepower N/A
+Manuvering 3/5
+
+Kubelwagon translates to bucket car. Its alot like the jeep except it isn't as 
+good at offroading so you should use the roads with this. If ya want go 
+offroading go steal a jeep.
+
+Motercycle 
+Armor 1/5
+Acceleration 3/5
+Speed 4/5
+Firepower 1/5
+Manuvering 2/5
+
+Instead of kubelwagons in the map "caen" the Germans have a motercycle. It isn't
+as easy to handle as a jeep or kubelwagon but it has a MG42 on the back so at 
+least you can fire out of it.
+
+Sea
+
+There are no German ships in this game.
+
+Air
+
+BF109 (fighter)
+Armor 1/5
+Accleration 5/5
+Speed 3/5
+Firepower 2/5
+Turning 3/5
+Climbing 5/5
+Loops 4/5
+Rolls 3/5
+
+The BF109 is the German fighter. Its a favorite plane of many players (including
+myself as its the only fighter I'll fly) of varing skill levels. It can 
+outclime all the other fighters witch is good as its the only way you can kill a
+Mustang in bocage. The bombing is a little off on it as it seems it harder to 
+hit things with the bombs if you bomb like you do in other fighters. (could 
+someone send me some info on this problem?) Also you have a great advantage over
+the British spitfires in North Africa. You can do several stunts in the air and
+hardly lose any speed. The Spitfires on the other hand will run out of speed 
+and crash if they try to follow you move for move.
+
+Stuka (Dive Bomber)
+Armor 1.5/5
+Accelration 3/5
+Speed 2.5/5
+Firepower 3/5
+Turning 3/5
+Climbing 3/5
+Loops 1/5
+Rolls 1/5
+
+The stuka is a decent dive bomber... untill you try to do any fancy manuvers in
+it. It is basicly middle of the road but your in serious trouble if an enemy 
+fighter is on your tail. I have never lost an enemy once he got on my tail in 
+this. I highly suggest that you have a tail gunner to keep fighters off your 
+tail.
+
+JU88
+Armor 3/5
+Acceleration 2/5
+Speed 3/5
+Firepower 4/5
+Turning 3/5
+Climbing 3/5
+Loops 2/5
+Rolls 2/5 
+
+This is only in one map, Battle of Britain, but its way better then the B-17. It
+has three gunner instead of two. Its like 10 times more manuverable and can 
+even do loops and roll if you try hard enough. Only down side is it drops six 
+bombs instead of eight.
+
+Section 2E Japaneese Vehicles
+
+The Japaneese excel at sea and air vehicles. There ships tend to have a few 
+extra cannons then the Americans and there Zeros can eat up opposing Corsairs.
+However there tanks leave somthign to be desired. In the first release alot of
+there land vehicles were borrowed from the Germans and even now there artillery
+still is.
+
+Scout Car
+Armor 1/5
+Acceleration 4/5
+Speed 5/5
+Firepower N/A
+Manuvering 2/5
+
+This is simmaler to the Canadian Armored Car but it has no roof. It comes with a
+horn :D Other then that its basicly just a normal car.
+
+APC
+Armor 2.2/5
+Acceleration 2.5
+Speed 3/5
+Firepower 1.5/5
+Manuvering 3/5
+
+My Favorite APC. This is the second vehicle patches have changed from borrowed 
+German vehicles (origionaly the Japaneese had kubelwagons). It has an open roof
+at the back but instead of a turret it has 2 MGs, each facing out the sides of
+the APC. This is the best APC for the roadblock stratagy in Cool Things 5A.
+
+Chi Ha (Medium Tank)
+Armor 2/5
+Acceleration 2/5
+Speed 3.5/5
+Firepower 2/5
+Manuvering 3/5
+
+This is a sad excuse for a tank. Low armor, small gun, and kinda lurchy when 
+moving. Good thing there are no Heavy tanks in the Pacific maps or you'd would
+be totaly beat. When playing as Japaneese steal a sherman if you can, it will 
+save your life and you will be better able to protect your team.
+
+Sea
+
+Japaneese ships are the same as the Americans basicly with extra cannons.
+
+Air
+
+Zero (fighter)
+Armor 1.5/5
+Acceleration 4/5
+Speed 3/5
+Firepower 2/5
+Turning 3/5
+Climbing 3.5/5
+Loops 3/5
+Rolls 4/5
+
+The zero is an excelant plane that compleatly tears up Corsairs. Its probaly the
+2nd best plane only toped byt the Mustang. If American try to steal one.
+
+Ahci-val (Dive bomber)
+Armor 2.75/5
+Acceleration 3/5
+Speed 2.5/5
+Firepower 3.5/5
+Turning 3/5
+Climbing 3/5
+Loops 1.75/5
+Rolls 2/5
+
+For a dive bomber this is extreamly manuverable. This is my al time favorite 
+plane. I can out dog fight most anything unless the other player is more 
+experianced. It can come with a Torpedo just like the SBD.
+
+
+Section 2F Russian Vehicles
+
+Well the Russians have few vehicles but they have cool artillery and powerful 
+tanks. 
+
+Jeep
+The Russians use the same jeep as Britain and the US.
+
+Stalin Organ/Katshin... somthing like that (mobile artilery)
+Armor .8/5
+Acceleration 3/5
+Speed 3/5
+Firepower 5.5/5 (lol realy it is 5.5/5)
+Manuvering 2/5
+
+MAN THIS THING ROCKS! Its basicly a pickup truck with a rocket lancher on the 
+back. It has huge firepower as it fires a rocket that is like 1.5x the normal 
+artillery strength and it fires 6 at a time. Plus its quicker as its on a truck
+not a tank bottom. However it is slightly easier to destroy.
+
+T34-?? (medium tank)
+Armor 4/5
+Acceleration 4/5
+Speed 4/5
+Firepower 4/5
+Manuvering 2/5
+
+This was the most advanced tank of WWII and its stats show. Its the fastest tank
+(well T98 is tied i guess)and has the best acceleration. Its got nice firepower
+too. Good thing half the maps its on are open enough to take advantage of the 
+speed. It does seem a bit hard to stear though.
+
+T34-?? (heavy tank)
+Armor 5/5
+Acceleration 3.5/5
+Speed 4/5
+Firepower 4/5
+Manuvering 2/5
+
+Personaly i don't notice much of a difference between this and the other tank. I
+prefer the other one for the MG to shoot at planes. However if you like armor 
+over speed you may wanna pick this.
+
+Sea
+
+The Russians have no ships.
+
+Air
+
+Yak (fighter)
+Armor 1.5/5
+Acceleration 3/5
+Speed 4/5
+Firepower 2/5
+Turning 2/5
+Climbing 3/5
+Loops 2/5
+Rolls 2/4
+
+The Yak is a decent fighter. Its got some speed but every thing else is medocre.
+On the 2 maps its on it outnumbers the BF109s 3 to 1.
+
+Level 3 Classes
+
+Section 3A Scout
+
+Equipment
+Sniper rifle, Knife, Pistol, Granades, Binocluers
+
+The scout is basicly someone who goes solo and snipes/spots for artillery. It is
+the best for long range combat. The sniper rifle is bolt action and has a 
+scope. You need to lead your targets if moving and aim farther up if the target
+is far away. The knife is used by all classes. It is a last resort weapon used 
+at point blank range. Only use it if your out of ammo or in the case of the 
+scout if your snuck up on when sniping. The pistol is a short range weapon all 
+classes use but is important to the scout because he can be snuck up on. It 
+holds around 8 shots and isn't too accurate. Granades are used by all but one
+class and are a 'anywhere near' weapon. This means throw it near an enemy and 
+unless he gets far away it will kill him. Also this is effective aginst tanks 
+and other vehicles. Alt fire for a power meter on your throw. The binoculers are
+used to spot for artillery. Alt fire to zoom in and click to call for 
+artillery. A scot is useless without this.
+
+Section 3B Assult
+
+Equipment
+Assult rifle, Knife, Pistol, Granades
+
+The assult is the class to use if you need to charge all out and gun down some 
+heavy opponates. The assult rifle is fully automatic and has alot of recoil but
+if you prone you can be accurate (if you care about accuracy, I don't). The 
+assuly rifle can damage lightly armored vehicles like jeeps, artillery, and can 
+even take out a plane with a full clip to the propellers. The assult doesn't 
+realy need a pistol or knife unless theres no ammo crates about but granades can
+be valuble for softing up the enemy before a charge.
+
+Section 3C Anti-tank
+
+Equipment
+Anti-tank rocket, Knife, Pistol, Granades
+
+The anti-tank is made to destroy armored vehicles. Other than that he can't do 
+much else though see sabatoging ships in the Cool Things section. The anti-tank 
+rocket does most dammage to the back or the treads of a tank. You need to aim up
+the farther the tank is away. Also you better hide as once you fire all the 
+enemy most likely knows where you are. That means the Knife and Pistol are 
+important to the anti-tank. Granades can kill tankers seeking revenge but I 
+usualy use them to finish a tank if I run out of rockets.
+
+Section 3D Medic
+
+Equipment
+SMG, Knife, Pistol, Granades, Medic kit
+
+The medic's main job is to heal but he has a nice SMG to defend himself with.
+Its not as powerful as the assult rifle but it'll usualy get the job done. If
+you need more ammo quickly switch to your pistol or if your desperate your
+knife. The Granades are helpful too. The medic kit is waht makes a medic. You 
+can heal yourself and others (if others in radius they get healed first). This 
+almost makes the medic more deadly then the assult because he can heal himself 
+after each encounter but the assult is still better for run and gun action 
+because hes more likely to survive to find somthing to heal him.
+
+Section 3E Engineer
+
+Equipment
+Bolt Action Rifle/Simi Auto Rifle, Kinfe, Pistol, Mines, TNT, Wrench
+
+The Engineer has so many uses I can't possibly descrive them all so I will list
+uses by weapons.
+
+Rifles
+
+In the Pacific Engineers get a simi auto rifle. They are acuurate and powerfull.
+You can simi auto snipe if you zoome in. Everywhere else engineers get bolt
+action rifles. They are exactly like sniper rifles execpt no scope.
+
+Knife
+
+The knife is a bit imporatnt for engineers because they have rifles and pistols
+can run out of ammo quite qucikly.
+
+Pistol 
+
+The engineer's pistol is important to his/her survival. Unless your in the 
+Pacific it takes awhile to empty a clip on your main weapon so many people fire
+once then switch to the pistol and fire. 
+
+Mines
+
+I love mines. They are a insta-kill for any vehicle unlucky (or stupid) enough 
+to hit one. Place them on bridges, hide them on well travled routes, or place 
+them in obvious places to block traffic and hope the drive isn't another 
+engineer. Do not just place them randomly and hope someone hits something.
+Anoter nice (for your team) thing to do is place one on top of a tank or on the
+tread. As soon as the person moves *BOOM*. Also there is a way to place mines
+UNDER the tread so the second someone enters they blow up. This is usefull if 
+someone just hops into the tank to use the secondary gun to shoot at one of your
+planes. One of my favorite (and hardest to get away with) things to do is place
+one in a landing craft then hide. The second it lowers down the mine will fall
+with it and *BOOM*. Speaking of boats if you find yourself on a hostile 
+carrier, place a mine under the wheel of a plane. They will catch on eventualy 
+but when the do you can place some on the deck farther down. Many times the 
+enemy doesn't check the whole carrier before take off. This is EXTREAMLY useful
+on Coral Sea. Note: Mines don't hurt infantry.
+ 
+TNT
+
+These are like mines but remote detonated. They unlike mines hurt infantry as 
+well as vehicles. Once placed right click to bring out the detonater. You can do
+many fun things with these. First on maps with landing craft place a few under 
+the water on beaches where landing craft are likly to uhhh... land. Then hide. 
+Once one pulls up press the button and you just got youself up to 6 kills. 
+Another nice trick is to place TNT in teh grate of a repair pad. The tank thinks
+its safe but no and long as you survie to press the button. Other then than 
+that you can place some in a vehicle and drive carfuly and park next to some 
+tanks and get out run and blow er up.
+
+Level 4 Maps
+
+Note: I'd like to say here most of my stratagies take the level of teamwork you
+pretty much only find in a clan that has a voice chat server. Stratagies given 
+will include how to capture each base, Stratagy for each team, an atleast two 
+backup plans.
+
+Section 4A Eastern Europe Maps
+
+KURSK 
+
+Kursk is a pretty much liniar map on a Russian plane. Two outpost are in the 
+center and at each end is a main base. I don't play this one much so this 
+stratagy may be bad.
+
+Control points
+
+Bases (non captureable) - Each side has a base with planes and a few tanks and a
+jeep. The are pretty much identical but the russians have more planes.
+
+Sawmill - This is in my opinion the better of the two outposts. It spawns two 
+artillery (I love Russian arty :D) that come in very handy. Offence: Rush a jeep
+to the back and capture it right off the bat. Defence: Park a tank nearby and 
+blast any jeeps that come your way. Mine the two sandbag enterances to the back 
+keeping one of the arty there to blast any stray enemies won't hurt. Also you 
+will find many more people spawn here to play with the arty. Keep a few infanty
+IN the building for cover.
+
+Work Camp (I call it Tank Outpost so thats what I mean) - This has a heavy tank
+in a camo net. Hard to defend as there is little cover. Offence: Come from many
+directions as there is even less cover that protects form 2 ways. Defence: Keep
+some tanks nearby and have one arty cover it.
+
+Main Stratagy - Rush the Sawmill with a jeep and a tank. Have everyone else go
+for the other outpost. If you were fast enough you should have them captured 
+just as the first enemies arive. Have the majority of your forces at the tank 
+outpost and have a tank, arty, and a few infantry at the sawmill. Even though 
+the sawmill is more important it is easier to defend. If Russian use your pl
+
+Backup Plan #1 (they got the out posts before we did) - OK so you let them beat
+ya to the outposts. Shame on you. Well if you havn't sat here wondering what to
+do too long there is still hope. Preform a tank rush with some medics and maybe
+a anti-tank if your tanks are mainly destroyed. Have your remaining people 
+create a screen to block off any enemy from the sawmill who will try to flank 
+your atackin party. After you are able to capture the tank outpost have the 
+forces who atacked it attack the sawmill whilet the screen defends the tank 
+outpost. The force attacking the sawmill should atack for behind them for maxium
+effect. If you acomplish this you can switch back to then main stratagy.
+
+
+Backup Plan #2 (German only: They have our planes outnumbered, what do we do?) -
+Yes having your planes outnumbered is an annoyance isn't it. Well there are two
+ways you can fix this. A) You can put gunners on your meduim tanks to shoot at
+planes with the secondary machine gun or B) Sneek by in a jeep and steal one of
+theres before a piolet respawns and grabs it.
+
+General Tips
+
+- Use the trees for cover.
+- If flying stay high due to trees.
+- Due to this map being very linear you can eaisly get behind the enemy and
+cause chaos.
+- Keep the arty back or they will get blown up quite quickly.
+
+STALINGRAD
+
+Stalingrad is one of the few head on maps that have majorly different starting
+locations (more on this later)and also one of the two urban warfare maps. Bfs
+Stalingrad reminds me of Call of Duty's SP map. The major action here will
+occur around the center flag in the railroad tracks. All of the vehicles spawn
+at the non-capturable bases so if you spawn at an outpost don't expect much 
+tank support unless you call for it on the radio. Also there will be alot of 
+n00bs trying to be an urban sniper. However you may actualy find someone who is
+good at it but thats rare.
+
+Control Points
+
+Western Railroad Station - (German non-capturable base) -  2 Panzer IVs and a 
+Kubelwagon spawn here. It has a mg for defence if you somehow get held up back
+here. I personaly like this location better becuase its closer to the outposts
+and you have a relitivly clear path there
+
+German City HQ - Its a tall building with a main enterance and a ladder going
+down from the back top floor. It has a health locker. Offence: Have a few guys
+run in the main enterance and up the stairs while a few people go up the back
+ladder. Defence: Have two people guard the ladder and 3-4 people in the windows
+in the front plus a sniper if ya want.
+
+Raliroads - The main focus of the map. Has nice cover and you can't drive a tank
+right up to it. One of my favorite things to do here is spam granades at the 
+enemy city HQ. Hold this and you basicly won if the enemy doesn't try anything.
+Offence: Throw a few granades over the rail cars then have 3-4 people attack 
+from each end. Defence: Put those 5 MGs to good use and mow some enemys down. 
+Don't forget to granade spam.
+
+Russian City HQ - The exact same as the German City HQ but facing the other way.
+Stratagies are the same.
+
+Bombed Out Port - (Russian non-capturable base) - Spawns 2 heavy tanks and a 
+jeep. Has more ammo, health, and MGs but is farther away and you hafta go uphill
+and make several turns due to buildings to get to the outposts.
+
+Main Stratagy - You have it slightly easier if you play as the Germans as you 
+are closer. Send 2-3 ppl to your HQ and the rest to the railroads. Have the 2 
+tanks cover you as you capture the railroad. Don't bother with their HQ just 
+spam it :D with granades.
+
+Backup Plan #1 (You didn't get there fast enough) Ok so you wern't able to 
+capture the railroad and you don't know what to do. Don't worry lots of time 
+they won't guard their HQ so there is a opening you can take. Take 5-6 Infantry 
+and sneek around the outside of the city and assult the enemy HQ from behind... 
+up the ladder. Once you have it captured all the capturers should take up 
+positions in the forward windows of the enemy HQ and start blasting the living 
+potatos out of the railroads while someother teammates take up positions in the
+front windows of your HQ and do the same thing. Here you have two options. 1.
+You can just continue to smash them into oblivion and make there tickets drain 
+or 2. After about 30-45 seconds of the above stratagy have 3-4 people assult the
+railraod from each side.
+
+Backup Plan #2 (ARG! They pulled Backup Plan #1 on us) Ok heres one of the few 
+spots where I will tell you how to defeat one of my own stratagies. If the enemy
+team does get you in the afore mentioned situation there is a risky way to 
+defeat it. You'll only get one shot at it and it will only work maybe half the 
+time. First off have two people go back and get your tanks and have them atack 
+your captured HQ. Keep in the railroad untill you hear your friendly tanks 
+rolling along to atack then have EVERYONE atack your HQ. Hopefuly the 2 tanks 
+and almost your entire team will be enough to run out the isolated 6-7 people 
+who may be at your HQ. If you do manage to pull this off leave 1-2 people there
+to find any enemys who may still be there and have the rest of your team return
+to the railroads before they manage to take it over.
+
+General Tips
+
+- Use the hiding spots in buildings to your advantage.
+- Block roads enemies will travel with mines. You can lead then into a trap, 
+block a flag, or just rack up the kills.
+- Urban sniping is useful in small servers where people won't gang up on you.
+- As the axis you can pin down the Russians because there non-captureable base 
+is downhill from all the outposts.
+
+Karkov
+
+My favorite Eastern Europe Map. Its a bombed out city witch isn't urban and alot
+of choke points. This said there arn't that many stratagies. Its also looks like
+a well balanced map but there are small things that make it in favor of the 
+Russians.
+
+Control Points
+
+Russain Base (non-capturable) - This is in the South East corner of the map and 
+is where the Russians get pretty much every vehicle. Not very remarkable you 
+should try and get outta here as fast as possible. It is a bit closer to the 
+city then the German base.
+
+German Base (non-captuarable) - Exactly like the Russian base but farther away
+and as always not as many planes. It is in the South West corner across the hill
+from the Russain base.
+
+Karkov East - Some ruined city building provide some cover and it spawns a tank 
+for the owner. Also is a chokepoint leading into the main city as its right next
+to the bridge. Offence: You can tank rush or you can send infantry to sneek and
+hide in all the rubble. Defence: Infantry in the rubble is your best bet. If you
+are desperate you can mine up the bridge but this works both ways as you can't
+get to the rest of the points. Only do that if you have a ticket advantage and
+the timer is running down.
+
+Karkov West - Just like Karkov East but facing the other way. Also a chokepoint.
+Offence and Defence are the same.
+
+Karkov Hills - IF YOU NEED TO CONTROL JUST ONE POINT CONTROL THIS!!! It may not
+be a chokepoint like the others but it is vital to control this. Even losing 
+tickets you can win with this because of its position overlooking the town. It 
+is where the arty is and you can drive it on some roads that overlook the main
+bases and you pin them down if you have both the other points. Also whoever has
+this controls the air. The AA guns can shoot pretty much the entire map and can
+realy help the Germans stop being outnumbered in the air. I don't play much CTF
+but even the most n00bish player of CTF Karkov knows you need this to stop 
+people grabbing the flag and stealing a plane. Offence: You need to get this 
+fast as it is easy to defend. Rush it with a vehicle, preferably an APC as you 
+can take along 6 people. Thats enough to man both AA guns and have full crew on
+the arty, but you might wanna bring more because this spot is important. If the
+point is captured by the enemy then your best bet is to charge infantry up the 
+sides. You can always paradrop but you will be noticed and they have AA guns :P.
+Defence: Contrary to the other points, you WANT to mine the road leading up. Its
+the only way vehicles can reach you and you shouldn't take the arty down or they
+will die very fast. Have infrantry hide in the 3 building (these are intact).
+
+Main Stratagy - You'll have advantage here as the Russians as this is all about 
+rushing (say that fast and it sounds weird) and you are closer. At the start 
+IGNORE YOUR PLANES. Thats right even on 32 vs 32 your still going to need every
+person who can possibly shoot a gun in the city. Rush an APC up to the Hills and
+mined up the road there. Then Take the arty and start shooting at the enemy who
+should by now be comming up on there bridge. While this is happing everybody 
+else should rush up to the enemy's bridge but don't cross it. Instead have a few
+engineers mine it up while everybody else sets up defences. Leave one guy your
+bridge to capture that and soon you'll be draining enemy tickets like mad. This
+is where you can think about going back and getting your planes up. Up till now
+the AA gunners on the hills should have taken care of enemy planes.
+
+Backup Plan #1 (didn't get there fast enough) - Ok lets say you didn't work fast
+enough to do the main plan. Well there is a simple way to get around this. If 
+you take a look at the map you can see there is a bridge to the far North with
+no flag. I have NEVER seen anyone defend this bridge so you can send all you 
+have (may want to keep 3-4 guys attacking normaly so they don't catch on) go 
+that way and come out at a flag with maybe 1 or 2 guys if there pinning you down
+at your bridge. Of course if you don't want them to catch on you should go out 
+of there sight range. Ohhh and you can always try and use the planes but with 
+them having the hills you'll get shot down quick but maybe you can bail and take
+a flag before your plane explodes but then everybody will see you :P.
+
+Backup Plan #2 (paranoia) - As good as Backup Plan #1 sound, I've never seen 
+anyone do it as well but if you think someone may try it have a jeep with a lone
+engineer rush out, plant his mines, then drive back to help out. I doubt if you
+will need to check on your road block at all.
+
+Fun Plan #1 (pin them down in their own base) - Has your team been doing good?
+Do you want to toy around with them a bit? Then heres the stratagy for you. 
+Go about the plan as normal but have the max amount of people you can get to fly
+off and capture their bridge and put up heavy reistance. Immideatly drive ALL of
+your tanks up to there and shell away. Have the AA guns manned and the arty 
+pound them. Have contest to see who can get the most kills in one shot. See who
+can shoot all there planes in the least amount of time. Basicly just have fun
+beating them to smithereens. Ohhh and don't forget kamakazi contests :D.
+
+Backup Plan #3 (how to ruin the fun) - Well if you let it get to the above plan
+your team must not be very good but not all hope is lost. Have a few guys hold 
+them off while you try (keyword here is try) to take off and capture flags 
+behind them. Using this you can quickly turn the tables and have them begging 
+for forgiveness as you pin them down in their base.
+
+General Tips
+
+- Don't use planes until one team is stalled.
+- Once again when flying stay high there are lots of trees.
+- If your losing keep your troops out of site to decive the enemy.
+
+Berlin
+
+Ahhhh I love this map but hated writing the guide for it as the outposts have 
+hard names to remeber, let alone try to spell. As for the map its urban combat 
+again and most people agree its better then Stalingrad. Here there is even less
+room to manuver and most of the buildings are simi-intact witch can make cool 
+multi-leveled fights where one team is on the top floors of the buildings and 
+the other team has to root them out from below. This is the smallest map. It is
+only three city blocks in a L shape.
+
+Control Points (please excuse names, can you remeber the names on this one 0_o)
+
+The Allyway (Russian non-captuarble) - The Russains magicly apear in an ally. 
+Here we have two tanks and some MGs. The Russains need to get out of here fast 
+or they can be pinned down for the rest of the game.
+
+Brunnen Strasse HQ - The closest point to the Ally. Most of the time It is 
+inevitable that the Germans lose this. However if your lucky and keep this for
+more then a minute take adavatange of it and set up heavy defences.
+
+German Mitte HQ - This is the point thats on the right angle of the L. Most 
+atacking teams bypass this so its often your last stand. You don't want this as
+your last stand (not saying you can't be desperate and make a last stand if you 
+want to, just this isn't a very good stop to do it) as it can be attacked from
+two ways or more due to its location.
+
+Bemauer Stasse HQ - This is the farthest way point and is vital to the Germans
+because it has there one tank (whoopie what can one tank do aginst the whole 
+other team). Also the best spot to make a last stand. Above all do not let this
+spot fall.
+
+(sence this is a assult instead of a head on the way of presenting the 
+stratagies are a bit different)
+
+Allied Stratagy - Right off the bat take your infantry and have them capture the
+closet point. This is vital to stop you from losing tickets. Have your tanks go 
+and capture the German Mitte HQ. If done quick enough you can get those two 
+places before the Germans can get organized. Even though statisticly it may seem
+hard to take the last spot with everything they have camping it it isn't because
+they will be demoralized after you captured the first two outposts before the 
+56kers could even load.
+
+Axis Counter - Most people tell you to abandon the Brunnen Stasse HQ, but in my
+eyes, thats just unacceptable. It stops there tickets from draining and you 
+can't harras them as they go bye to your other outposts. I'm not saying its 
+vital to hold it untill the last and ignore everything else, I'm just saying it 
+realy helps if you put up some resistance here, even if it is just to slow them
+down. That being said have a fair amount of people spawn here and keep them 
+pinned while some other guys bring up your tank. This will slow them down enough
+to give your remaing team members time to set up some mine and varrious other 
+goodies. Not much else you can do but fight for your lives like what realy 
+happened and if you feal real daring tring to take back some of the outposts. 
+I'll get into other stratagies late if you can handle it but basicly normaly all
+you need to to is make them pay dearly for each inch of land and hope its enough
+to exaust there tickets.
+
+Allied Plan #2 (Sneak) - Quite simple realy. All you need to do is capture the 
+first outpost as usual but instead of heading for the German Mitte HQ sneak 
+around and take their other outpost. This will take away their tank and put them
+in the worst spot to only have one outpost. Just remeber not to leave the first
+outpost unguarded.
+
+Advanced German Plan - If you do manage to pin them down for more then a minute 
+or two you may wanna set up permanate positions. Have your tank camp at the 
+junction with some mines and a whole bunch of infantry. Remember theres an ally
+not wide enough for vehicles but the infantry can come threw. Get lots of your 
+guys up in the buildings at the end of it with guards at the stairs and the 
+chokepoint to the outpost. Awsome fighting takes place here. If you'd like an
+example of it check below in the Hero's Tales.
+
+German Fun Plan - Here is a way to have fun and annoy the Russians while wearing
+them down. To make it work to its fullist you should abandon the first outpost 
+(just like I told you not to do) and having about 3/5 of your army take up spots
+in all the buildings like you would to set up defence on the back ally in the 
+advanced plan. Granade spam, take pot shots, and ambush tanks among other things
+and quickly they will find themselves short on tickets. Ofcourse keep 1/5 at 
+each of the other two points incase you miss someone. :D
+
+General Tips
+
+- Use the top floors of buildings to your advantage.
+- Mine up vital junctions to route enemy tanks.
+- Dyno ambushes work great too.
+- When pinned down, go around. (that rymes :D)
+
+Level 5
+
+Section 5A Cool Things - pointless things that are just fun :D
+
+Black Holes - Ya everybody knows about these but if you don't look behind the 
+British Airfield in Gazala. Experement with it its more fun then me telling you 
+:D. Also in The Invasion of the Phillipeens map on some of the water passages 
+(not ones you walk in ones that are deep enough to swim) if you look down in a 
+few places there are things that lookexactly like the one in Gazala (too bad you
+can swim down and take a look)
+
+Wing Walking - Have some one fly a plane while you get on the wing. As long as 
+they don't turn fast or anything you can stay on for a while. You can stay on 
+real good on the B17 and maybe the German heavy bomber in the BoB map(havn't 
+tried).
+
+Turbo Mod - This mod is fun if you want to n00b around a bit. Jets on everything
+so you fly jeeps around, get carriers on an island, and cause all sorts of utter
+chaos. I think you can find it at www.bf1942files.com
+
+Jeeps with guns - Have a few people ride on the hood of a jeep and you can 
+preform CoD stlye drive by shootings in addition to making work for the road 
+crews cleaning up road kill.
+
+(Feel free to submit your own)
+
+Section 5B Hero's Tales 
+
+Before we start feel free to send in your own stories by emailing me at my 
+adress up there in section 1D. Just insert these few simple things at the start
+to make my job easier and your submitions will only be edited for language (I.E
+changing words to **** and what not)
+
+Form
+
+Title: (What you'd like your story to be called)
+Name: (Who submited)
+Map:
+Size: (2 vs 2, 5 vs 5, etc , doesn't have to be exact)
+Side: (axis, allies, Americans, etc)
+Type of game: (conquest, Capture the Flag, ETC)
+
+Feel free to submit stories from mods, expansions,or even SP I just won't 
+comment on them as don't have them. (I do have SP its just odd to submit one
+from it :D)
+
+Here are some examples from me and my friends to give you an Idea of what to
+write.
+
+Title: Straing Runs
+Name: OrangeP47 (me :D)
+Map: Invasion of the Phillpeens
+Size: 4 vs 4 (about)
+Side: Jappaneese
+Type: Conquest
+
+This was back in the good old days when my clan had members. One of the first 
+times we played when I was the leader. All four of us were held up at the 
+airfeild and the Allies were comming from all directions. Me and a Corperal were
+waiting by the runway hoping a plane would show up. One did and we got in. I got
+tail gunner unfortuatly because with my joystick I can dogfight with the best of
+them but I love tailgunning none the less. The poilet wasn't that good and 
+agreed to just set me up for straifing runs. On our first pass I Didn't fire 
+just gathered recon and noticed that two were comming along the bridge, one was 
+out in the harbor on a PT boat, and one was already landed over there so the 
+poilet lined me ip for an attack on the boat. As we came up the poilet fired and
+bombed from far away witch realy didn't do anything but aperently scared the guy
+and he jumped out into the water and I had a clean shot at him and scored one 
+kill. In the mean time our two team members took out the two coming across the 
+bridge but the third guy got them and was running around the flag trying to 
+capture it. He saw us comming and ran into a building so on our next pass the 
+poilet set us up straight over the doors. As we went over the guy hid inside and
+I didn't get a shot but I fired anyway in rage and apperently the bullets went 
+thew a windown and got him. We both didn't understand it but I was happy for the
+kill any way :D.
+
+Title: House to House
+Name: OrangeP47
+Map: Berlin
+Size: 20 vs 20
+Side: Russian
+Type: Conquest
+
+Well me and my friend from the clan arrived late on this server to find that 
+ourteam had been pinned down. Luckaly they were very team orented and soon
+we had 5 or 6 guys following us threw the back ally. We made it to the first 
+outpost but found they had their tank there and in two shots we were all dead. 
+(note to self, don't bunch up) Well they figured out we were going that way so 
+they figured they didn't need their guys guarding the back outposts so they set 
+up shop in the building at the end. (I guess thats where they came from, it 
+seemed all their other guys were still where they were before) Before long we 
+were pinned back there so we got our sniper to snipe a few of their gunners in 
+the windows. He got a few but the rest hid inside so all the other guys and me 
+ran up there. Well guess what the gunners got over being chickan and poped 
+their heads back out to fire and took out a good half of us. That left me and 
+three other guys. We were all assult exept for one medic so he went in last. We 
+secured the first floor fast and got healed. Next we threw our granades up the
+stairs and charged in. For once I was glad I was near the end cause the first 
+two got mowed down but I took the rest out with my gun as the guard reloaded.
+Luckaly for me and the medic he was the only guard on that floor. The medic ran
+off to clear the other stories but I was about 5 of them out the windows on the 
+outpost side. I decided it was worth it and the Russian assult gun could handle 
+it. (I love that gun :D) So I walked over and got four outta five but the fifth
+hid. So I was sittin there for a few seconds reloading when guess what now, the
+tank is still there and I get blow to shreds. Not a good ending but this is 
+here to give you an idea of the backally combat.

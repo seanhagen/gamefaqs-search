@@ -1,0 +1,390 @@
+-------------------------------------------------------------------------       
+Leisure Suit Larry Questions and Answers                                        
+                                                                                
+Question                                                A Answer                
+------------------------------------------------------- - -------------------   
+                                                                                
+"Tiptoe Through the Tulips" was recorded by             c Tiny Tim              
+"Where's the..."                                        c beef?!                
+A nehru jacket is                                       b out of date           
+Bourbon Street is in                                    d New Orleans, Louisi   
+Calvin Klein is                                         c a clothing designer   
+Captain Kangaroo's sidekick was                         d Mr. Greenjeans        
+Charlie McArthy and                                     d Edgar Bergen          
+Does a pair of queens beat 3 deuces?                    a Yes, in Blackjack     
+Herb Alpert and the ____ Brass?                         a Tijuana               
+How many molecules are there in a glass of water?       d as many as there ar   
+I find computer games with adult content                b acceptable            
+If a physician were on an island with Bo Derek, he woul d thank God             
+If Bo Derek were here, I'd ask her to                   d stop playing comput 
+It's not nice to fool                                   b mother nature         
+Joe Dimaggio played                                     b Baseball              
+Lee Harvey killed                                       c John F. Kennedy       
+Mohammed Ali is                                         c a professional boxe   
+Peter Piper picked pickled                              c peppers               
+Sergent Pepper was                                      c the leader of the l   
+The largest state is                                    b Alaska                
+The last name of Annette (on the Mickey Mouse Club) was c Funicello             
+The most effective form of birth control is             a abstinence            
+The most likely place to find virgins is                c St. Mary's Girl's S   
+The most populous city in the US is                     c New York              
+The result of Watergate was                             c Richard Nixon quit    
+Utah is full of                                         d none of the above     
+When playing Monopoly you                               b must own 4 houses b   
+Which is non-alcoholic                                  c Perrier               
+Which is not a car?                                     d Toshiba               
+Which is not a cheese?                                  d Reisling              
+Which is not a city in Mexico?                          c San Diego             
+Which is not an American armed force?                   d the national league   
+Which is not in Hawaii?                                 c Fiji                  
+Who has not been US attourney general?                  b Sam Shepard           
+Who is buried in Grants tomb?                           d Mrs. Grant            
+Who was not a famous musician?                          d Tom Garvey            
+Who was not a politician?                               c W.C. Fields           
+Who was not an astronaut?                               a John Milton           
+Who was the leader of Nazi Germany?                     d Adolf Hitler          
+Who wrote "To be or not to be"?                         a Will. Shakespeare     
+                                                                                
+------------------------------------------------------------------------------  
+-                      Leisure Suit Larry Walkthru/Solve                     -  
+------------------------------------------------------------------------------  
+================================ INTRODUCTION 
+================================  
+                                                                                
+ Good evening, Swinging Singles. It's 10 o'clock, and you're without a          
+date, as usual. But here in Lost Wages, you need not be alone...not if          
+you've got plenty of cash, elementary social skills, an good supply of          
+breath spray, and a willingness to try anything once. As LEISURE SUIT           
+LARRY, you've determined to make this the last lonely night of your     
+life.                                                                           
+                                                                                
+ This walkthru offers only one particular way to play LEISURE SUIT              
+LARRY. There is a great deal of flexibility in the game, however, and           
+the game can be completed with many fewer points than you will earn             
+using this walkthru, although you may miss some very funny and <ahem>           
+unusual experiences.                                                            
+                                                                                
+ A few necessary conventions. First of all, the game occasionally               
+requires you to perform some basic human functions. For the purposes of         
+this walkthru, we'll say "USE" where another less delicate word will            
+work just as well. Also, for women playing LEISURE SUIT LARRY, you're           
+going to have to learn to think like a man. For the most part, that             
+means forget the subtlety. In this game, outright deviousness and               
+persistence gets the girl.                                                      
+                                                                                
+ Inventory control is a cinch in LEISURE SUIT LARRY. You can hold               
+everything, and only rarely will the game let you drop or otherwise             
+misuse something before you've used it for the correct purpose. The game        
+designers have also apparently learned where elephants go to die...your         
+mouth. Thus, you have a large (but not bottomless) supply of breath             
+spray. You'll want to USE SPRAY whenever somebody begins to make snide          
+comments regarding your oral hygiene. Never walk out into the middle of         
+the street, despite their seeming desertion. And NEVER linger in a dark         
+alley.                                                                          
+              
+                                                                  
+ Before you start, you'll have to take a little exam to prove your age.         
+No help with this one -- you'll have to prove your age on your own. And         
+you won't find the answers in any encyclopedia.                                 
+                                                                                
+ You begin your evening in the Land of the Lounge Lizards in front of           
+Lefty's, sleazy bar nonpareil. You'll find you've got (in addition to           
+your breath spray) $94 in your wallet, as well as some notes and                
+business cards you won't need, and credit cards (which won't work in            
+this game). You've also got a working Bolex watch. This game spends a           
+lot of time tipping the hat to Infocom, so you've got the requisite             
+lint. OPEN DOOR and go in.                                                      
+                                                                  
+              
+============================= WALKTHRU / SOLVE ===============================  
+                                                                                
+ What atmosphere! Notice the fine velvet art and the refined clientele.         
+I was in a place like this in Upper Sandusky, Ohio once, but that was           
+decades ago, and it's a long story. SIT on the empty stool at the bar.          
+You can order all the beer and wine you like, but make sure you ORDER           
+WHISKEY. You're wise enough not to drink it, but around here, it's not          
+tough to find somebody who will. The young lady at the bar just isn't           
+very responsive (unless you pinch her), and the only other person               
+talking is the guy with the ancient punchlines. So head through the             
+doorway at the top of your screen.                                              
+                                                                                
+ Somebody's left a perfectly good rose sitting on the table. Might be a         
+perfect gift for a lady (if you can find one), so pedal over and take           
+it. TALK TO THE DRUNK, but watch where you step: too near his groin and         
+he gets crotchety. Perhaps doing a good deed might get you one in               
+return, so GIVE THE WHISKEY TO THE DRUNK. In boozy, sodden gratitude,           
+he'll give you a remote control. That's all you'll get out of him, so           
+head for the bathroom to the right.                            
+                 
+                                                                                
+ Now, this is quite obviously not the men's room, for a couple reasons,         
+but you wouldn't know it from reading the walls. EXAMINE them enough            
+times and you'll get a cryptic "password." Remember it. And as long as          
+you're there, USE THE TOILET. No doubt some of Larry's best thinking            
+gets done that way. When you're done, don't flush the toilet unless             
+you've saved the game first.                                                    
+                                                                                
+ EXAMINE THE SINK, too. More evidence that this is the ladies' room (or         
+perhaps it's co-ed). TAKE THE RING, and wash your hands if you like, for        
+all the good it will do you. You'll probably need to WIPE HANDS on              
+something since there's nothing here that's "sanitized for your                 
+protection." Leave the bathroom and head for that lovely red naugahyde          
+door in the bar. KNOCK ON THE DOOR and somebody peers out at you. Give          
+him the password and go on in.                                                  
+                                                                                
+ Friendly looking fellow. He's guarding the goods upstairs, but he can          
+be distracted. Since you can't turn on the television by hand, you'll           
+need to USE REMOTE CONTROL to turn it on, and if you hunt long enough           
+for a program that appeals to the pimp's intellectual instincts, you'll         
+surely find one. Once a program's caught his eye, you can wend your way         
+upstairs.                                                                       
+                                                                                
+ Just LOOK at her. She IS a mess, isn't she? Think carefully about this!        
+Remember, it's the Eighties, and going unprotected in this situation can        
+(and is!) deadly. We don't want your first time to be your last, so             
+let's go get some protection. Before leaving, you might want to grab            
+that box that's sitting on the table by the window. It's as easy as             
+taking candy from a bimbo. OPEN THE WINDOW and climb out. You can leave         
+the old-fashioned way, too, but this way's shorter and will net you an          
+important tool.                                                                 
+                               
+                                                 
+ Once you're on the fire escape, notice that little object in the other         
+window. You won't be able to get it till much later, though, so don't           
+worry about it. Walk to the left end of the fire escape, and you'll find        
+the shortcut to the ground floor. And while you're sitting in that bin,         
+reflect on all the wonderful, useful things non-playing characters tend         
+to throw out in adventure games...rotten cloves of garlic, bones,               
+notebooks, and so on. So EXAMINE GARBAGE and take what you find. EXIT           
+the bin and walk to the cab stand in front of the bar.                          
+                                                                                
+ There are three marked cab stands in LEISURE SUIT LARRY, but you can           
+call a cab from any screen. The cabby is impatient, so try to position          
+yourself in the center of the screen, right by the curb, when you CALL          
+CAB. ENTER CAB and you're on your way. TALK TO THE CABBY and he'll give         
+you the rundown on Lost Wages hot spots. At the moment, you want to hit         
+the Convenience Store, so tell the cabby. When you arrive, PAY CABBY.           
+For a startling bit of realism, remember to TIP CABBY as well.                  
+                                                                                
+ Go straight into the store -- don't stop to talk with questionable             
+characters. Besides, you don't have what he wants...yet. In the store,          
+the first thing that'll probably catch your eye is the magazine rack.           
+TAKE a magazine, and be sure to READ it. It's a well-disguised clue.            
+                                                                                
+Then wander over to the back aisle of the store, on the left, and LOOK          
+AT THE SHELF. That wine is a worthwhile investment (vintage pending). At        
+last, you may nonchalantly wander over to the counter and discreetly ASK        
+CLERK ABOUT CONDOM. It's like trying to order a burger in some fast food        
+joints you've visited.                                                          
+                                                                                
+ This clerk is used to shady characters like yourself, so don't try to          
+leave without paying. Once you're back outside, the sailor will accost          
+you again. When he asks you for spare change, type GIVE CHANGE TO BUM           
+and the program will tell you that you don't have any. Wait a second,           
+and he'll hit you up for wine. G'wan, be a sport. Hand over that Mad Dog        
+20/20, and you'll get some advice (and a useful souvenir). Remember that        
+advice; this guy's obviously been around.                                       
+                                                                                
+ Before you head back to Lefty's, EXAMINE THE PHONE on the sidewalk. Jot        
+down that number. Maybe it'll lead to a meaningful relationship. Call           
+now, before midnight tonight. DIAL PHONE and give it your best shot.            
+Good thing you're used to rejection.                                            
+                                                                                
+ Just for the heck of it, walk off to the right, to the next screen. The        
+disco looks like a potential "meet market," but you'll find you're not          
+up to their standards. At the moment, anyway. So call a cab -- there's          
+nowhere else around here to go.                                                 
+                                                                                
+ But after all, the night is still young. Let's drop by that Casino the         
+driver mentioned before going back to Lefty's. When you get out of the          
+cab, there may be a gentleman decked out in a pickle barrel. He may not         
+show up till later, but at any rate, you're well-heeled enough to            
+   
+purchase one of his apples. So do it. Then go on into the Casino.               
+                                                                                
+ SIT at the Blackjack table or PLAY SLOTS, whichever's your speed.              
+Either way, you're going to want to break the bank here. The odds are           
+much more favorable at the BLACKJACK table, if you know how to play             
+(This is a great time to learn!), but the payoffs are greater at SLOTS.         
+You need to use the SAVE function often here. SAVE the game right before        
+you make your first bet, and name the save after the amount of money you        
+have.                                                                           
+ Then keep playing, and SAVE the game each time your total funds                
+exceed the amount you had in the last saved game. For easy reference,           
+keep changing the name of the save to reflect your total cash. The game         
+will end when you hit $250.                     
+                                
+                                                                                
+ Now head "north," to the top of your screen, into the adjoining room.          
+You've got no pride, Larry, you're a desperate man. So dig around in the        
+ashtray. You'll find the all-important Disco Pass. Take it and head into        
+the Cabaret to the right. Sorry, Uncle Lar', no foxes cruising here.            
+Perhaps if you wait a bit. Take a seat at the bottom right-hand table.    
+      
+Sitting on the comic's whoopee cushion's worth a point. The comic may be        
+performing, or perhaps it's the chorus line, but either way, nobody             
+shows up, so don't linger. Leave the casino, call a cab, and head for           
+the Disco.                                                                      
+                                                                                
+ When the bouncer gets in your way, SHOW PASS to him, and he'll let you         
+through. Once upstairs, you spot her...the woman of your dreams! She's          
+sitting all alone. Stop licking your chops, get over there and sit with         
+her. LOOK at her. What's the gentlemanly thing to do? ASK HER TO DANCE.         
+Hurry out onto the dance floor and do your stuff. John Travolta, eat            
+your heart out (actually, this number seems to owe a bit to the Disco           
+scene in AIRPLANE).                                                             
+                                             
+                                   
+ Go back to the table when the dance is over and SIT again. LOOK at her         
+again and TALK. Be persistent. Keep TALKing, and eventually you'll find         
+some common ground. Wish it were that easy in real life!                        
+                                                                                
+ Fawn is a 100% Certified Golddigger, but you found all these nifty             
+presents at Lefty's, so it's not really costing you anything. GIVE her 
+the rose (or the candy, or the ring...the order doesn't matter). Oooh, I        
+just LOVE shallow women! Actually, the hooker's shallow, too, but Fawn          
+is blonde. Give FAWN another present. She still doesn't seem too turned         
+on, so go for broke. Give her the last present.                                 
+                                                                                
+ Well, it looks like you're going have to do some serious forking over          
+if you want this relationship to work. And you're going to have to make         
+a lifetime commitment. Well, you're only playing a game; and no guts, no        
+glory. Besides, you can afford it. So give Fawn what she wants. Don't           
+worry, she's not going to run off: She really IS going to rent the              
+Honeymoon Suite for the two of you. Leave the Disco and take a cab to           
+the Chapel.                                                                     
+                                          
+                                      
+ Once you're outside the Chapel, you may notice a quiet, unassuming             
+gentleman lurking by the cab stand. Just for giggles, go over to him.           
+Hmmm. At least he doesn't want to sell you anything. TALK to him for a          
+point.                                                                          
+                                                                                
+ Now go into the Chapel, and take that last long walk down the aisle.           
+Look around all you like, but they're waiting for you to MARRY FAWN. She        
+likes to build up the anticipation, doesn't she? Too bad you're not             
+carrying around "No Tease." Leave the chapel and head left to the               
+Casino.                                                                         
+                                                                                
+ Enter the Casino, go straight back to the Great Glass Elevator. PRESS          
+FOUR. The Honeymoon Suite is the room with the heart on. Knock on the           
+door, and Fawn will let you in. But first, a little mood music. Turn on         
+the radio. Unfortunately, the commercial (remember the phone number)            
+gives Fawn an idea, and you'll have to make a little trip before you            
+consummate the relationship.                                                    
+                                                                                
+ Go back down to the first floor (PRESS ONE). There's a phone, but              
+somebody's gummed up the works. At this point, check your finances;             
+you're probably down to just a few bucks. You're going to need about $40        
+for the next bit, so stop at the Casino and build up your cash supply to        
+$40 or $50, but don't bother with more than that yet.                           
+                                                                                
+ There's one phone that works, and that's the one outside the                   
+Convenience Store. So take a cab back there. Be sure to ANSWER THE              
+PHONE. What goes around comes around, right? [Note:  Also call                  
+Sierra On-Line for another five points.]                                        
+                                                                                
+ Call Ajax Liquors and order WINE. When they ask where you want to have         
+it delivered to, be specific: HONEYMOON SUITE AT THE CASINO HOTEL. If           
+you just say Casino Hotel, it won't get there. And whatever you do,             
+don't even THINK about getting the wine yourself at the Convenience             
+Store. Try it if you like, but save the game first, and get ready for a         
+hairy ride back to the Casino.                                                  
+                                                                                
+ Head back to the Casino, and go back up to the Honeymoon Suite. Fawn           
+will want you to pour the wine, first...and now comes the big payoff.           
+Get undressed, or kiss her, or whatever you care to.                            
+                                                                                
+ Sorry, Larry, I guess it's just not your night. The woman of your              
+dreams turned out to be a nightmare. Fortunately, you're not too stuck.         
+You got some great advice from the bum outside the Convenience Store. So        
+USE KNIFE and TAKE ROPE. Then go downstairs, and using the same                 
+technique as before, build your finances back up to at least $45.               
+                                                                                
+ Larry, maybe you're better off sticking to a sure thing. After you've          
+got some bucks again, take a cab back to Lefty's. You're going to lose          
+your District Three Virgin's Card if it's the last thing you do. Again,         
+knock on the naugahyde door, give the password (the pimp remains                
+transfixed in front of the television...just look at those glazed eyes),        
+and head upstairs. Go around to the front of the bed and UNDRESS. Now,          
+USE THE CONDOM. SAVE GAME just in case. And now, Larry, you're not going        
+to be the same "Larry" anymore. Find a verb you're comfortable with and         
+go to it. Pick a traditional action, though -- a kinky one may end the          
+game quickly.                                                                   
+                                 
+                                               
+ A little anti-climactic, eh, Larry? (rim shot) One more thing, before          
+you leave her with that glow of apathy, be sure to REMOVE CONDOM.               
+Otherwise the cops'll getcha for indecent exposure. Why don't they go           
+bother the guy outside the Chapel instead?                                      
+                                                                                
+ Exit via the window, but don't go to the left yet. You're now equipped         
+to get the pills in the other window, thanks to the hint in "Jugs"              
+magazine. Go to the right end of the fire escape and TIE ROPE TO                
+RAILING. Then TIE ROPE TO ME. GET PILLS. You'll have to open that window        
+somehow. Check your inventory. One of the few unused articles is ideal          
+for breaking and entering. BREAK WINDOW WITH HAMMER. Now GET PILLS.             
+Examine them. That thing after the "F" isn't a one, by the way.                 
+    
+                                                                            
+ To get down, you'll have to GO TO FIRE ESCAPE and UNTIE ROPE. Now you          
+can take the express to the dumpster and EXIT it again. Go out front.           
+                                                                                
+ Where haven't we looked for female companionship? Well, the casino             
+hotel's got eight floors. Maybe we can scare up a date there. Take a cab        
+to the casino, get in the elevator, and start knocking on doors.                
+                                                                                
+ Eventually, you'll find yourself up on the eighth floor, the penthouse.        
+There's a beautiful brunette sitting by herself at the desk. (Aren't            
+there any REDHEADS in this game?) Be sure to check her out carefully, so        
+you know what you're getting into, and turn on the charm. TALK to her           
+(and again, you'll have to be persistent if you want to learn about             
+her). At some point, she'll stop being communicative and the program            
+will urge you to find a medical stimulant.                                      
+                                                                                
+ By now, you should have figured out that the pills are Spanish Fly.            
+Give them to Faith. Maybe this is what you've been waiting for, Larry.          
+But as it turns out, Faith has incredible will power, so it's not to be.        
+But now that she's gone, check out her desk. Once you've noticed the            
+button, you'll want to do the obvious.                                          
+                                                                                
+ That means PUSH BUTTON, Larry. Geez, some people....                           
+                                                                                
+ Go into that elevator. You emerge in the penthouse, tastefully                 
+decorated with Mark Crowe's finest efforts. Before you go hunting for           
+the gurgling sound, go back and to the right around the partition.              
+You'll find yourself in the bedroom. Open the closet door and go inside.        
+The screen won't change, but LOOK while you're in there, and TAKE               
+anything that looks interesting -- that inflatable love doll, for               
+example.                                                                        
+                                                     
+                           
+ "I'm gonna buy a rubber doll that I can call my own...." EXAMINE it.           
+It's doubtful that you'll find a meaningful relationship with Olga (I'm         
+just guessing that's her name), but you'll never know unless you try.           
+BLOW UP DOLL. And there she is, in all her vinyl splendor. Time once            
+again to explore nature's glorious mysteries, so USE DOLL (or whatever).        
+                                                                               
+ 
+The machine will balk at the idea, but answer YES to the question.              
+                                                                                
+ Well, Larry, perhaps you should have been gentler. Follow Olga out to          
+the terrace. And meet the REAL woman of your dreams! Look carefully, and        
+you can find her name (it's on the towel, and it's a clue). TALK to her,        
+and she'll invite you in for a dip. Take her up on it. UNDRESS, and             
+you'll dive right in.   
+                                                        
+                                                                                
+ LOOK at her. She won't want to talk -- mere words cannot express what          
+she's got in mind for the two of you. Notice the "come hither" look,            
+none of this coy "wink wink nudge nudge" business. She's trying to              
+seduce you, but you need to give her a particular item. Think of her            
+name and look at your inventory.                  
+                              
+                                                                                
+ C'mon, you know what she really wants, don't you? GIVE APPLE TO EVE.           
+Then lie back and enjoy, Larry. You've earned it.                               
+                                                                                
+                      THE END                                                   
+                                                                            
+--- Josh Mandel, writing in Compuserve's The Electronic Gamer; 1987. ---

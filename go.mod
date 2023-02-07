@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/blevesearch/bleve v1.0.14
 	github.com/blugelabs/bluge v0.2.2
-	github.com/seanhagen/fulltext v0.0.0-20230206000910-d49c9ff666d6
+	github.com/seanhagen/fulltext v0.1.0
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.15.0
 	github.com/stretchr/testify v1.8.1

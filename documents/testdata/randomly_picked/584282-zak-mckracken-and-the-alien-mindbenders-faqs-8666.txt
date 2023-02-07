@@ -1,0 +1,747 @@
+
+           '$$$$$$$$$$$$$,'$$$$$$$$$$$$$,'$$$$,     .$$$'
+            '$$$$$$$$$$$$$,'$$$$$$$$$$$$$,'$$$$,   .$$$'
+                      ,$$$$,'$$$$,   '$$$$,'$$$$, .$$$'
+                     ,$$$$'  '$$$$$$$$$$$$$,'$$$$$$$$$
+                    ,$$$$'    '$$$$$$$$$$$$$,'$$$$$$$$$,
+                   ,$$$$'      '$$$$,   '$$$$,'$$$$,'$$$$,
+                  ,$$$$'        '$$$$,   '$$$$,'$$$$, '$$$$,
+                  '$$$$$$$$$$$$$,'$$$$,   '$$$$,'$$$$,  '$$$$,
+                   '$$$$$$$$$$$$$,'$$$$,   '$$$$,'$$$$,   '$$$$,
+ ____  __   _______   ___  ___  _________  ________   _______   ___  ___  ______   ________
+/\   \/  \ /\   ___\ /\  \/  / /\   ___  \/\   __  \ /\   ___\ /\  \/  / /\  ___\ /\     \ \
+\ \       \\ \  \    \ \    /__\ \  \_/  /\ \  \_\  \\ \  \    \ \    /__\ \ \___ \ \  \  \ \
+ \ \  \/\  \\ \  \____\ \  \\  \\ \   __  \\ \   __  \\ \  \____\ \  \\  \\ \  __\_\ \  \  \ \
+  \ \__\ \__\\ \______\\ \__\\__\\ \__\ \__\\ \__\ \__\\ \______\\ \__\\__\\ \_____\\ \__\____\
+   \/__/\/__/ \/______/ \/__//__/ \/__/\/__/ \/__/\/__/ \/______/ \/__//__/ \/_____/ \/__/____/
+           
+                                      AND THE
+
+                  .ccccc.   cccc      cccc cccccccccc ccccccc   cccc
+                 ,$$$$$$$,  $$$$      $$$$ $$$$$$$$$$ $$$$$$$$  $$$$
+                ,$$$$$$$$$, $$$$      $$$$ $$$$       $$$$$$$$  $$$$
+                $$$$   $$$$ $$$$      $$$$ $$$$$$$    $$$$ $$$$ $$$$
+                $$$$   $$$$ $$$$      $$$$ $$$$$$$    $$$$ $$$$ $$$$
+                $$$$$$$$$$$ $$$$      $$$$ $$$$       $$$$  $$$$$$$$
+                $$$$   $$$$ $$$$      $$$$ $$$$       $$$$  $$$$$$$$
+                $$$$   $$$$ $$$$$$$$$ $$$$ $$$$$$$$$$ $$$$   $$$$$$$
+                $$$$   $$$$ $$$$$$$$$ $$$$ $$$$$$$$$$ $$$$    $$$$$$
+
+ $$       $$   $$   $$     $$  $$$$$$$$$  
+ $$$$     $$$$ $$$$ $$$$   $$$$ $$$$$$$$$$  
+  $$$$$$ $$$$$$ $$$$ $$$$$  $$$$ $$$$  $$$$$ 
+   $$$$$$$$$$$$$ $$$$ $$$$$$ $$$$ $$$$   $$$$  $$$$$$$
+   $$$$$$$$$$$$$ $$$$ $$$$$$$$$$$ $$$$   $$$$ $$$$$$$$$
+  $$$$ $$$ $$$$ $$$$ $$$$ $$$$$$ $$$$   $$$$  $$$$$$$
+ $$$$  $  $$$$ $$$$ $$$$  $$$$$ $$$$  $$$$$ 
+ $$$$     $$$$ $$$$ $$$$   $$$$ $$$$$$$$$$  
+  $$       $$   $$   $$     $$  $$$$$$$$   
+
+$$$$$$$$$$   $$$$$$$$   $$     $$  $$$$$$$$$    $$$$$$$$  $$$$$$$$$$    $$$$$$$$$$
+$$$$$$$$$$$ $$$$$$$$$$ $$$$   $$$$ $$$$$$$$$$  $$$$$$$$$$ $$$$$$$$$$$$ $$$$$$$$$$$
+ $$$$   $$$$ $$$$       $$$$$  $$$$ $$$$  $$$$$ $$$$       $$$$    $$$$ $$$$
+  $$$$$$$$$$$ $$$$       $$$$$$ $$$$ $$$$   $$$$ $$$$       $$$$    $$$$ $$$$
+  $$$$$$$$$   $$$$$$$$   $$$$$$$$$$$ $$$$   $$$$ $$$$$$$$   $$$$$$$$$$$$ $$$$$$$$
+ $$$$   $$$$ $$$$$$$$   $$$$$$$$$$$ $$$$   $$$$ $$$$$$$$   $$$$$$$$$$     $$$$$$$$
+$$$$   $$$$ $$$$       $$$$ $$$$$$ $$$$   $$$$ $$$$       $$$$   $$$$         $$$$
+$$$$   $$$$ $$$$       $$$$  $$$$$ $$$$  $$$$$ $$$$       $$$$    $$$$        $$$$$
+ $$$$$$$$$$$ $$$$$$$$$$ $$$$   $$$$ $$$$$$$$$$  $$$$$$$$$$ $$$$    $$$$ $$$$$$$$$$$
+  $$$$$$$$$$   $$$$$$$$   $$     $$  $$$$$$$$$    $$$$$$$$  $$$$    $$$$ $$$$$$$$$
+
+
+                               S O L U T I O N
+
+                                     by
+
+                                  Game Cat
+                           (Wilko_3000@yahoo.com)
+                                   v. 1.1
+
+This FAQ can be found at www.gamefaqs.com, www.gameadvice.com and 
+http://home.planetinternet.be/~twuyts. If you want to put this FAQ on your site,
+feel free, but don't make any changes to it, and give me credit. Also, e-mail me
+because I'd be interested to see where it'll turn up.
+
+---------------------------------------------
+FAQS:
+
+Q:Help! I've washed away the breadcrumbs/Got stuck at the Martian Pyramid/Sent 
+the bus off into outer space/Generally mucked things up!
+
+A:The problem with Zak is that it's an early LucasArts game, before they started
+their "no die" and "can't get stuck" policies. If you find yourself completely
+stuck, with no apparent method of escape then you'll have to start over again.
+Yes, really. I know it's frustrating, but do try not to smash up your computer.
+
+Q: Zak needs money! How can I earn him some?
+
+A: Well, earn may not be the right word but here are some ways to improve Zak's
+cashflow:
+   1: Take the butterknife early in the game (before you use the toolkit to open
+the trapdoor in Zak's bedroom) and use it to prise up the boards. The knife will
+bend, but take it to the pawn shop and sell it. Lou will mistake it for a piece
+of modern art and give you a whole stack of money for it.
+   2: Don't give the alien at the Phone Company your phone bill; instead, wait
+until you have your own disguise - Groucho Marx glasses and hat - and use the
+phone bill on the Phone Company's computer yourself. Zak will register the bill
+as paid without deducting anything from his account.
+   3: After a while, the trip to the Bermuda Triangle will become available.
+The first time you do this, you will be teleported aboard Elvis Presly's
+spaceship. It seems that Elvis is really an alien, and has  Lotto-Dictor which 
+can tell you upcoming lottery results. Once on the alien ship, note the order 
+of the buttons that the pilot presses but don't join him or cross the line. 
+Wait until he has teleported and then press the button by the side of the door. 
+An alien will 'greet' you and take you to see... Elvis! 
+     To befriend him, give him either the guitar, or the membership certificate
+of the Elvis society (NOT the incomplete form). You will be shown a way to get 
+home, but don't cross the line; just write down the order of buttons that the 
+alien presses (different to those that the pilot used and you only get to see 
+them this once). This will send you home if you are on the other side of the 
+line, so make sure that you aren't and re-enter the main room. Keep walking to
+the right until you see the Lott-o-Dictor. Read it and note down the numbers 
+it gives you. 
+     Now return and use the order of buttons that the alien - not the pilot - 
+showed you and you will be teleported back to your room. Go to Lou's pawn shop
+and buy a Lottery ticket. Use the numbers you read on the lotto-dictor and then
+wander out and do something for a while. When you return, Lou will tell you that 
+you've won, and give you your winnings. Repeat as much as you like.
+
+Q: Thanks to the Lotto predicter, Zak has stacks of money, but Annie is really
+running low!
+
+A: Annie is a real pain, because she refuses to play the lottery and is
+unaffected by the Bermuda Triangle. The best way to make some money with her is
+this: As Zak, buy some object from the pawn shop which you won't need to use any
+time soon (the guitar, for example). Get Annie to San Francisco and give it to
+her. Now get her to enter the pawn shop and sell it. Get Zak to buy it again, 
+and repeat the processs. Annie will end up with plenty of money and Zak can 
+always refill his CashCard with Elvis' Lotto machine.
+
+Q: Leslie and Melissa are running low on money! Help!
+
+A: It is impossible to earn Melissa and Leslie any more money than they start 
+with, but because they're on Mars, things to buy are pretty limited. You must be
+drowning in tokens, or something...
+
+Q: Help! The aliens have put me in their Mindbender!
+
+A: Don't worry, the effects aren't permanent. Wait until all of your faculties
+have returned and check your inventory. They've nicked your crystals! Luckily,
+they've left everything else in your pockets, so put your disguise (hat and
+nose-glasses) on and enter the back room of the Phone Company. Walk to the left
+hand side and open the cabinet to get all your magical stuff back. Whilst this
+won't end your game, it is a pain if you have to pay to get all the way back to
+wherever you were. However, if you need to get back to San Francisco on a budget
+do feel free to use it.
+---------------------------------------------
+
+The Solution:
+
+SAN FRANCISCO:
+The game will begin with Zak being told by his grotesque editor to go to Mount
+Rainier in Seattle, where the first UFOs were seen, and write a story about
+mysterious happenings there. Zak is upset by this, as he wants a real story that
+will win him the Pulitzer Prize. Still, it's either this or the sack, and he 
+leaves for home.
+     That very night he has a bizarre dream in which Zak is faced with a giant
+face on mars, a mysterious map, an attractive woman in pink, a mysterious 
+machine, a giant pair of Groucho Marx disguise glasses and a huge yellow ankh, 
+all whilst listening to a damned catchy tune. All of these have a part ot play 
+later in the game, but for now don't worry about it.
+     Before the game begins properly, make sure that you have a pen and a piece
+of paper handy as you will frequently have to take notes. As soon as the game
+begins, take the fishbowl and open the dresser. Take the phone bill and read it.
+Use the phone bill on the CashCard below your desk to retrieve it. See the odd 
+mark on the wall beside the door? That's a bit of torn wallpaper, that is. 
+It'll annoy your landlord no end, but tear it off anyway. Finally, open the 
+dresser drawer and take your kazoo. You can do a load of other stuff in this 
+room if you want, such as turn the cat clock on and off, and get in and out 
+of bed. Once you're done faffing around, leave the room.
+     Now you're in Zak's living room/kitchen. Plug in the TV set and lift up
+the cushions on your sofa. Take the remote control you find underneath and use
+it to turn on the TV. Watch the news items until you begin to feel a sense of
+deja-vu and then use th remote again to turn it off. Walk to the right to enter
+the kitchen area and take the butterknife. Open the cupboard under the sink to
+find a box of crayons. Take them and use the yellow crayon yo find inside on
+the wallpaper. Zak will draw out the map from his dream. (You could also have
+used the crayon on the phone bill, but you'll be losing that later on in the
+game). If you want to exmaine this map at any point in the game, you can 'read'
+it.
+     Wander over to your fridge and open it to find a solitary egg inside.
+This probably explains why Zak's so disturbingly thin; he must have spent all
+of his food budget on that huge TV. Anyway, walk over to the right-hand door but
+don't go through. Instead, take the small key on the hook beside it and return
+to Zak's room.
+     Now lift up the corner of his rug to find some loose floorboards. Use the
+butterknife on them. Hmm, seems like you'll need some tools better suited to
+the task. Go back through the living room and leave the house.
+     Once you're outside, walk to the bakery on the left-hand side of the screen.
+Ring the doorbell three times to piss off the baker (aren't you supposed to run
+away or something?) and pick up the rock hard lump of bread he throws at you.
+Walk all the way to the right of the screen. Ignore the bus and Phone Company
+and instead walk around the corner to Lou's Pawn shop. Sell the butterknife to
+Lou for a goodly sum and resist playing the lottery. Buy the following items from
+him: the golf club, the wet suit, the guitar, the toolkit, glasses and hat. Don't
+bother with the guitar for now. Leave the shop. Once out, walk to the right again
+and open the toolkit. Amongst the huge pile of new items will be a pair of
+wire-cutters. Use them to cut down the "Bobby Pins" sign. Now walk back around
+the corner.
+     Put on the hat and nose-glasses and enter the Phone Company. It seems that
+the aliens running this place use just such a disguise to hide their giant heads
+and lack of noses. You could give the representative the phone bill, but he'd
+only charge you. Instead, open the door to get behind the desk and use the phone
+bill on the computer. There, your bill is cleared - for free! Now take the form
+for the Elvis society from the filing cabinet and leave. Use the yellow crayon
+to fill in the form and the small key to open your mail box. Place the form
+inside ready for your postman to get it. now enter your house again. Open the
+cupboard below your sink and use the wrench on the exposed pipe. Now place the
+bread in the hole and turn the switch by the sink on then off to grind it up.
+The breadcrumbs should fall into the cupboard below, so take them. Once again,
+leave your house.
+     Go up to the bus outside and play your kazoo to wake up the bus driver and
+when he opens up the doors, use the CashCard in the reader. You'll now be at the
+airport. Give your CashCard to the devotee and you'll recieve a book in return.
+You should already have a ticket so just walk through the door on the left.
+
+AEROPLANE:
+Now it's time for some fun! The stewardess will complain at you for being late
+and will hand you your complementary meal (a packet of peanuts). She will tell
+you about the seats, which in the case of a sea-crash, will float. Sounds like
+these could be a handy acquisition, doesn't it? You'll have to distract the
+stewardess first, though, so run all the way to the back of the plane and enter
+the toilet. Shut the door behind you and take the toilet roll. Use it in the
+sink and turn on the tap, so that all of the water pours out onto the floor. Now
+push the call button. When the stewardess arrives, take your leave and exit,
+stage right so that you are in the private cabin crew's quarters. Place the egg
+in the microwave and turn it on; marvel at the wonders of physics, ballistics
+and dairy products combined and leave before the stewardess returns. This mess
+should keep her occupied for the rest of the flight, so pick up the cushion of
+the unoccupied seat to find a lighter; take this also. Now open all of the
+overhead luggage compartments until you find one with an oxygen tank in. Take
+this, too. Now you can either sit down and wait for the plane to land or speed
+up the process by pressing ESC.
+     NOTE: If you ran out of time, and the plane landed before you had chance
+to get everything, you can just catch a plane back and follow the same system
+on that plane. Remember, however, that it will cost you money this time.
+
+SEATTLE:
+Now that you've arrived in Seattle, leave the airport and you'll find yourself
+at the top of Mt. Rainier. Break off the tree branch and give the peanuts to
+the two-headed squirrel to stop it from savaging you. Now use the tree branch or
+golf club on the loose dirt to clear a way into the cave. Enter it and you will
+find yourself in darkness. 'Turn on' your lighter to get a (small) amount of
+light around your cursor - remember that after a period of time it will get so
+hot that Zak is forced to turn it off, in which case just wait until he agrees
+to turn it back on. Now look up at the top of the screen to find a birds' nest.
+Use the golf club to knock it down and then pick it up. Now look at the bottom
+of the screen and you'll see a fire pit. Place the tree branch in the fire pit
+and place the nest on it. Use the nest as kindling by using the lighter on it
+and the whole room will be illuminated. Turn off your lighter.
+     Now you should be able to see a door on the right-hand wall, with some
+yellow dots on it. Use the yellow crayon to join the dots and create an ankh
+like Zak saw in his dream. The door will open, so enter.
+     Inside is a huge alien statue holding a crystal in its' "hand". Look at
+the sensor on the front of the statue - remind you of anything? That's right,
+the TV infra-red reciever. Use the remote control to make the statue release
+the blue crystal. Take it and go back to the airport. Use the CashCard on the
+reservation machine and book a flight to San Francisco. Take the ticket and go
+through the doors to your left.
+
+SAN FRANCISCO:
+Once you're back in San Francisco, go back to the street with the Pawn shop
+and walk right until you see a door with a drop-slot and some writing on it.
+Read the writing, if you want, then put the blue crystal in the slot. The
+woman from your dream will open the door and introduce herself as Annie. It
+seems that aliens are trying to take over the Earth, and somehow Annie had
+a dream in which she was told how to defeat them. She must build a machine,
+powered by three crystals, one of which Zak found in the cave on Mt. Rainier.
+Two others recieved this dream - Leslie and Melissa, two friends who were shown
+how to convert an ordrinary bus into an interplanetary spaceship. Currently,
+they are on Mars where they are waiting for further instructions from whatever
+it was that contacted them before.
+     From hereon in, it is possible to change characters between Zak, Annie,
+Leslie and Melissa. Each can do something different and each will have to be
+controlled at some point. From now on, the PLACENAMES will have the names of
+the character you should be controlling in brackets, so if you are playing as
+Zak in Seattle, it will read SEATTLE (Zak): but then you must switch to Leslie
+by the martian pyramid, it will read MARTIAN PYRAMID (Leslie). Also, Leslie and
+Melissa only have a limited amount of oxygen in their helmets before they begin
+to suffocate (although they will warn you when they get low), so you might want
+to switch to them now:
+
+MARTIAN FACE (Leslie):
+Leslie and Melissa are stood by the Martian face, on the surface of Mars. As
+Leslie, open the door of the space-bus and enter. You will now have a
+person's-eye view of the bus interior and it's possible to mess around with much
+of the stuff around here but for now leave it. Change to Melissa.
+
+MARTIAN FACE (Melissa):
+Like Leslie, enter the space-bus. Close the door to stop the oxygen from
+escaping. Remove Melissa's helmet and use the oxygen tank to fill it up.
+Although the oxygen in the helmets is limited, the oxygen tank has an unlimited
+supply.
+
+MARTIAN FACE (Leslie): 
+Remove Leslie's helmet. Use the oxygen tank to fill up her helmet. Change to
+Annie.
+
+SAN FRANCISCO (Annie): 
+Pick up the blotter on Annie's desk to find her CashCard. Take it and then
+leave the building and wait outside the bus. Change to Zak.
+
+SAN FRANCISCO (Zak): 
+Follow Annie's route  but make a visit to your house first and unlock your
+mailbox - you should have your Elvis Society membership certificate now. Go up
+to the bus now and play the kazoo. Enter the bus and use Zak's CashCard in the
+reader. Quickly change to Annie.
+
+SAN FRANCISCO (Annie): 
+Use Annie's Cashcard on the reader. Zak and Annie should end up at the airport.
+Buy a ticket to London for Annie and go through the doors to the plane.
+
+LONDON (Annie): 
+Actually, not quite. You will find yourself outside Stonehenge which is
+actually a few hundered miles out from London. Why is one of the royal guards
+protecting it even though they are only supposed to protect the royal family?
+Put it down to a lack of research. Anyway, enough whining. You can't do much
+now (except perhaps electrocute Annie on the fence) so switch to Zak.
+
+SAN FRANCISCO (Zak): 
+Buy a ticket to Miami and head for the plane.
+
+MIAMI (Zak):
+Give the book on enlightenment to the bum and you'll recieve a quart of
+whisky and the book back for your troubles. Have a look at the sign on the
+doors - they've closed down the entire of Miami! - and then buy a ticket to
+Cairo.
+
+CAIRO (Zak): 
+You can go and visit the pyramids later on, the only reason you've been
+directed here is because it's the only place to buy a ticket to Katmandu. Do
+so and hop aboard the plane.
+
+KATMANDU (Zak):
+Go up to the guard and give him the book to prove that you are enlightened
+enough to visit the Guru. Enter and the Guru will teach you the powers of
+the blue crystal. It seems that it gives you the power to control the minds
+of animals. Coo, eh? Leave and try it out on the yak. What fun! Don't stay
+in the Yak's body too long, however, because as the cutscene showed, the
+aliens are onto you. If you spend too long on this screen, the aliens will
+teleport up to you and take you away to their HQ behind the phone company.
+If this happens, check out the FAQ above.
+     Anyway, walk to the right and use the lighter on the hay. The policeman
+will be so busy trying to put out the fire that he won't notice you stealing
+the flagpole outside the police station. If you get caught and put in jail,
+bring Annie over to Katmandu and bring her into the jail. Get Zak to give her
+the lighter and go and set fire to the hay again. Return to the police
+station and steal the keyring. Use it to free Zak. Then get Annie over to
+London and Zak to Kinshasa.
+     If Zak got the pole with the minimum of difficulty, use his CashCard
+in the Yak's licence plate to get a lift back to the airport. Buy a ticket
+to Kinshasa.
+
+KINSHASA (Zak):
+Kinshasa has one of the jungle mazes which really infuriate me. You could
+try mapping it, but I generally wander around in circles until I (a) reach
+the exit (b) wind up at the airport or (c) destroy my monitor in anger.
+      Eventually, you will come out at a tribal village. Wander all the way
+to the left and enter the hut. Inside you will find a Shaman. Get a piece of
+paper and a pen ready before giving him the golf club. He will show you a
+native dance; wait until the men finish running around and then note the
+order in which they bob their heads and don't forget the pause key. You
+will need to keep this handy for later on. If you missed out the first time,
+give your CashCard to the Shaman and he will have them perform the dance
+again - at a price. The Shaman will then tell you to return when you have
+the yellow crystal. Stride through the jungle again until you reach the
+airport. Get a ticket back to Cairo.
+
+CAIRO (Zak):
+Get a plane over to London.
+
+LONDON (Zak):
+Now over to San Francisco.
+
+SAN FRANCISCO (Zak):
+And now to Lima.
+
+LIMA (Zak):
+Another pesky jungle beyond the airport. You will come out at a giant statue
+with a bird flapping about. Use breadcrumbs on the pedestal to draw the bird
+over to you. Save your game and use the blue crystal on the bird. Quickly now,
+fly up to the statue's left eye and take the scroll you find there. Now fly
+back to Zak's body and give the scroll to him. Quickly get Zak to come around
+and go back to the airport before the alien turns up to grab you. Once you're
+in the airport, fly to Mexico.
+
+MEXICO (Zak):
+Go through the next lot of jungle until you come across a large temple and
+enter one of the doors. Wander through ANOTHER maze, although this one's in
+the dark. You can turn on your lighter or use the what is command to find
+torches, the use the lighter to light them. This is also a useful way of
+retracing your steps. Eventually, you will reach a chamber. If you look at
+its' base, you will see some yellow marks, rather like the ones at
+Mt. Rainier. This time, however, you must draw the shape manually and you
+don't know what to draw - yet! Change to Leslie.
+
+MARTIAN FACE (Leslie):
+If you dodn't before, use the oxygen tank to refill your helmet and wear
+it. DO NOT USE THE IGNITION WITHOUT SAVING FIRST. Open the glove compartment
+and take the Cashcards, the fuse and the DAT (Digital Audio Tape) from inside
+the Boom Box. Switch to Melissa.
+
+MARTIAN FACE (Melissa): 
+Fill up your helmet and wear it. Take the boom box. Open the door and step
+outside. Change to Leslie.
+
+MARTIAN FACE (Leslie): 
+Step outside the bus and give Melissa her CashCard. Switch.
+
+MARTIAN FACE (Melissa): 
+Give Leslie the boom box. Switch.
+
+MARTIAN FACE (Leslie): 
+Keep walking left until you reach a black monolith. Use your CashCard in it
+four times so that you get four tokens. Give two tokens to Melissa. Walk back
+to the building you saw before (the alien hostel) and enter. 
+     The airlock won't work, so use a token to unscrew the panel. Take the
+burnt fuse and replace with the fuse from the bus. Push the button to work
+the airlock's outer door, then press the button by the right-hand dooor to
+gain access to the inside of the hostel. Open the lockers and take the vinyl
+tape and flashlight, then pull back the sheets on the bed to reveal.... A
+DEAD ALIEN! Take the ladder and the dead broom-alien. Exit the hostel,
+retrieving the good fuse on the way out. 
+     Once outside, use the broom-alien's body to sweep the piles of dust off
+the Martian solar panels before heading to the right. You will actually wind
+up at a large door in the side of the giant Martian face. On the door are
+three buttons, each corresponding to the men in the tribal dance you saw
+before. Push the buttons in the order of the men bobbing, using the ladder
+to reach the higher buttons. Once completed, a door will open. Pick the ladder
+back up.
+     Inside the face there are three large doorways and two big statues,
+resembling the one in the Mt. Rainier chamber. One of these statues has marks
+on its' base. Examine them and make a note; these are the markings Zak needs
+to use to get the crystal shard. You may wish to move both girls inside the
+bus before switching to Zak.
+
+MEXICO (Zak):
+Draw on the base of the statue the pattern you saw on Mars. This will release
+the second crystal shard. Return to the airport and get a ticket to London.
+
+LONDON (Zak):
+Once at Stonehenge, give Annie the flagpole, the yellow crystal shards, the
+scroll, the whiskey and the wire-cutters. Switch to her.
+
+LONDON (Annie):
+Give the whisky to the misplaced royal guard to make him fall asleep (an army
+man who can't handle his drink? Some mistake shurely?) and then turn off the
+large switch behind him. Use the wire-cutters on the now de-activated fence
+and step through to Stonehenge. Place the flagpole in the hole on the altar,
+and the two crystal shards on the altar itself. Get Annie to read the scroll
+and a lightning bolt will strike the pole, fusing the two shards into one
+fully-functioning crystal. Take this new crystal and give it to Zak.
+
+LONDON (Zak):
+Return to the airport and buy a ticket to Miami.
+
+MIAMI (Zak):
+Buy a ticket to the Bermuda Triangle. Save your game and go through the doors.
+
+BERMUDA TRIANGLE (Zak):
+You will be flying over the Bermuda Triangle in a biplane. Listen to the pilot's
+banter and take note that he has supplied you with a parachute. Suddenly, you
+find your plane caught in a tractor beam from an alien spaceship... Once on the
+alien ship, note the order of the buttons that the pilot presses but don't join
+him or cross the line. Wait until he has teleported and then press the button 
+by the side of the door. An alien will 'greet' you and take you to see... Elvis! 
+     To befriend him, give him either the guitar, or the membership certificate
+of the Elvis society. You will be shown a way to get home, but don't cross the 
+line; just write down the order of buttons that the alien presses (different 
+to those that the pilot used and you only get to see them this once). This will 
+send you home if you are on the other side of the line, so make sure that you 
+aren't and re-enter the main room. Keep walking to the right until you see the
+Lott-o-Dictor. read it and note down the numbers it gives you. 
+     Put on your wetsuit and go back to the buttons. Press them in the same
+order as the pilot did; you will be teleported back above the triangle, but
+this time without a plane. Use the parachute that the pilot gave you to float
+safely to the sea. Once in the water, you will float on the cushion you stole
+from the big aeroplane. Note the fin in the background? Use the kazoo to call 
+it over... don't worry, it's a friendly dolphin. Use the blue crystal to control
+it, and make it dive under the water. Down here is the lost city of Atlantis,
+looking a little damp. Pick up all the seaweed until you find a glowing device,
+then pick that up and surface again. Give the device to Zak and then switch back
+to him. Wait until the aliens come to take you away to the Mindbender. 
+
+SAN FRANCISCO (Zak):
+Wait until they release you outside and you are able to function properly again.
+You now have two choices: the first is to put on the alien disguise of hat and
+nose-glasses and enter the Phone Company. Go through to the back room and look
+in the cabinet on the left to find all your special thingumajigs. Otherwise, go
+into your apartment bedroom and use the wrench on the floorboards to prise them
+up. Now close your door and tie a rope to it, draping the other down the hole.
+Climb down the rope into the aliens' HQ and look in the cabinet before 
+clambering back out.
+    Go to Lou's shop and buy a Lottery ticket, inputting the numbers you got
+ from the spaceship. Now leave the shop and switch to Leslie.
+
+MARTIAN HEAD (Leslie):
+Enter the head again, and go up to the first door on the left. Use the vinyl 
+tape on the DAT to make it recordable and place it in the boom box. Put the 
+ladder up against the orb on the stand. Switch to Melissa.
+
+MARTIAN HEAD (Melissa): 
+Walk up to Leslie and switch back to her.
+
+MARTIAN HEAD (Leslie): 
+Give the boom box (with the tape inside) to Melissa. Switch.
+
+MARTIAN HEAD (Melissa): 
+Turn on the boom box and press record. Switch.
+
+MARTIAN HEAD (Leslie): 
+Press the orb on top of the stand. It will make a noise which opens the door. 
+The noise will now be recorded onto the tape so... switch.
+
+MARTIAN HEAD (Melissa): 
+Turn off boom box.
+
+MARTIAN HEAD (Leslie): 
+SAVE THE GAME and enter the newly opened door. In here you'll find another 
+stupid maze. Use the flashlight to find your way around, until you reach the 
+atmosphere generator room. Turn on all switches and wait until the safety 
+lights go green. The Martian Head now has a breathable atmosphere! Take off 
+your helmet. Switch.
+
+MARTIAN HEAD (Melissa): 
+Take off helmet.
+
+MARTIAN HEAD (Leslie): 
+Work your way back out of the maze to Melissa. Switch to Zak.
+
+SAN FRANCISCO (Zak): 
+Enough time should have passed for the lottery results to have been declared,
+so enter Lou's shop and collect your winnings. Not bad, eh? If you want, you
+can do that again, although in any subsequent visits, don't use the pilot's
+teleport code, use the one the alien showed you, which should teleport you 
+back to your apartment.
+     When you're sure that you won't need any more money, exit and go to your
+apartment. Use the wrench to fix the pipe back on and empty Sushi the fish 
+into the sink, leaving an empty fish bowl. Now go out to the bus and use the 
+kazoo to wake the driver.
+Again, use the CashCard in the reader and go to the airport. Once there, buy a
+ticket to Miami.
+
+MIAMI (Zak):
+Buy a ticket to Cairo.
+
+CAIRO (Zak):
+Exit the airport and visit the sphinx. Exmaine the legs and you will see some 
+odd markings. Use the yellow crayon on them and note the pattern; go through
+the door that opens. Walk through until you reach a room with hieroglyphics 
+on the wall.
+Switch to Annie.
+
+LONDON (Annie): 
+Buy a ticket to Cairo.
+
+CAIRO (Annie):
+Go to the room where Zak is, and push the hieroglyphics in the order 
+dictated by the pattern outside. Switch to Zak.
+
+CAIRO (Zak):
+Use the crayon on the wallpaper again, and then leave the Sphinx and head
+for Kanshasa.
+
+KANSHASA (Zak):
+Walk through the jungle again and go to the Shaman. Give the yellow crystal 
+to him and he will explain how it works; whilst the blue crystal allows your
+mind to travel into the bodies of animals, the yellow crystal allows you to 
+physically teleport, but only to places with special plates on the floor 
+(eg: in Mt. Rainier), and only if the plates have not been damaged or 
+submerged. Use the yellow crystal now and you will see the wallpaper map. 
+Move your cursor over the various different points to see potential 
+destinations. Click on Egypt.
+
+EGYPT (Zak): 
+You are now stood in the Great Pyramid. Good, eh? Pull the lever in the 
+wall to open a door below. Switch to Annie.
+
+EGYPT (Annie): 
+Exit the Sphinx and enter the pyramid. You will be walking in darkness 
+now, but just use the 'what is' command to see your way through. Head 
+to the right and enter the first door you come to, then head to the 
+left and up the stairs on the far left. Switch to Zak.
+
+EGYPT (Zak): 
+Recognise the thingy in the middle there? It's the base of the machine 
+that Annie showed you back in San Francisco. Now you have to fix together
+the rest of it; middle, candelabra and crystals. You already have the 
+middle part; it was the thing that the dolphin found in Atlantis so 
+attatch that to the base. Now you need the candelabra. Use the yellow 
+crystal and click on Lima. 
+
+LIMA (Zak):
+You'll appear in the right eye-socket of the carved head, next to - 
+guess what? - the candelabra. In case you were wondering, the bird wasn't
+strong enough to carry it over to you before. Take it and use the yellow
+crystal to get back to the pyramid.
+
+EGYPT (Zak): 
+Affix the candelabra to the glowing part and the machine is almost 
+complete. Now all it needs is the three crystals. You already have two,
+you just need the third, white crystal which currently rests on Mars. Thing 
+is, whilst the Martian Head (where, incidentally, you'll appear if you use 
+the yellow crystal) has a breathable atmosphere, the rest of Mars is barren 
+and oxygen-less. Time to do an A-Team and fashion a space suit out of some 
+ordinary objects! (I love it when a plan comes together) Wear the wet suit 
+and oxygen tank and wrap duct tape on the fish-bowl to make it into an 
+air-tight helmet. Finally, wear the fishbowl to complete that home-grown 
+astronaut look... I pity da fool who messes with you!
+     Now remove the fishbowl and oxygen mask for now and switch to Melissa.
+
+MARTIAN HEAD (Melissa): 
+Walk away from the first door and into the main chamber. Walk to the middle
+door and note how the opening orb is broken. Good job you've seen Wargames,
+eh? Turn on the boom box and press play. The open sound should play and the
+big door will open. If it doesn't work, re-record the sound and try again.
+When the door opens, switch to Zak.
+
+EGYPT (Zak): 
+Use the yellow crystal and travel to Mars.
+
+MARTIAN HEAD (Zak): 
+The atmosphere should be breathable and you will be able to use your lighter
+as a makeshift torch again. First, however, use your yellow crayon on the
+markings and repeat the image you saw on the sphinx to open the doors. Turn
+on your lighter and negotiate this next maze until you exit into the main hall
+with Melissa and Leslie. If you want, go out to the bus and use the oxygen
+tank to refill your own supply (don't forget to get dressed up in your
+makeshift suit), then go to the middle door.
+
+MARTIAN HEAD (Leslie): 
+Go to the middle door.
+
+MARTIAN HEAD (Zak): 
+Enter the opened middle door and keep heading right until you come to a
+doorway. Go through it into a new room, where you will find an ankh. Return to
+the main chamber.
+     Enter the third and final door. Again, walk through all the usual maze 
+junk until you wind up in a room with a panel. Use the ankh in the panel to 
+turn off the forcefield and push the button on the machine. Now pick up the 
+small gold key and go back out to the main chamber. Give the newly-found key
+to Melissa. Get suited up and leave the martian head. Stop off at the bus to 
+refill your tank and then go over to the black monolith. Get a couple of 
+tokens (just in case) and switch to Melissa.
+
+MARTIAN HEAD (Melissa): 
+As with Zak, put on your helmet and leave the head. You'd better top up on
+oxygen before going over to the same spot as Zak. Make sure that she has
+TWO tokens. Switch to Leslie.
+
+MARTIAN HEAD (Leslie): 
+Helmet. Leave. Refill. Monolith. TWO tokens. Check that the solar panels
+have had their dust swept off and then use a token on the tram. Switch.
+
+MARTIAN HEAD (Melissa): 
+Use a token on the tram. Switch.
+
+MARTIAN HEAD (Zak): 
+Use a token on the tram. Wait, and you'll all be swept off down the rail to
+the Martian Pyramids.
+
+MARTIAN PYRAMID (Zak):
+Look at the monolith at this end. Now do you see why you needed two tokens?
+Go to the entrance of the pyramid.
+
+MARTIAN PYRAMID (Melissa):
+Go to the entrance of the pyramid.
+
+MARTIAN PYRAMID (Leslie):
+Go to the entrance of the pyramid. Use the broom-alien to sweep up the
+collected dust around the door. Watch the cutscene then switch to Zak.
+
+MARTIAN PYRAMID (Zak):
+Use the Bobby Pins sign in the giant lock to pick it and open the door. Enter
+and you'll be in the dark (again). Use the 'what is' command to find a doorway.
+Enter and walk as far left as possible. Switch to Melissa.
+
+MARTIAN PYRAMID (Melissa): 
+As with Zak, just find the doorway and head to the left of the next room.
+Switch to Leslie.
+
+MARTIAN PYRAMID (Leslie):
+Turn on the flashlight to give you a hand and follow the same route as the
+others. The room in here is an almost identical copy of the one found in the
+Egyptian Pyramid, except that there's no stairway in this one... or is there?
+Push the feet of the sarcophagus. Switch to Zak.
+
+MARTIAN PYRAMID (Zak): 
+There should be a stairway opened up on the far left of the room, now so
+walk up it, making sure that Leslie stays put. Switch to Melissa.
+
+MARTIAN PYRAMID (Melissa): 
+Follow Zak up the stairs. Switch to Leslie.
+
+MARTIAN PYRAMID (Leslie): 
+Move Leslie away from the feet so that the doorway closes. Switch to Zak.
+
+MARTIAN PYRAMID (Zak): 
+Stand in front of the white crystal. Switch to Melissa.
+
+MARTIAN PYRAMID (Melissa): 
+Use the small gold key in the box on the wall and push the button inside.
+Switch to Zak.
+
+MARTIAN PYRAMID (Zak): 
+Get the white crystal and use the yellow one to travel to Egypt. 
+
+EGYPT (Zak): 
+Take off your spacesuit and use the crystals on the machine. Turn on
+the switch on the right hand side of the machine. Switch to Annie.
+
+EGYPT (Annie): Turn on the machine to complete the game. Hurrah!
+
+
+Well done, you've completed one of LucasArts' most satisfying adventure 
+games, so sit back and let the credits roll.
+---------------------------------------------
+
+FOR YOUR AMUSEMENT:
+
+  *Note the band on Melissa's DAT tape; Razor and the Razorettes. Razor
+was a character in LucasArts' first game, Maniac Mansion.
+  *Another Maniac Mansion reference: there is a poster for that game on
+the far-left wall of Lou's pawn shop.
+  *Try using the blue crystal on the following creatures: Sushi the 
+goldfish (when he is in the bowl on your dresser), the Yak and the 
+two-headed squirrel.
+  *Notice Zak's reply when you try to take the gas in the Martian locker? 
+This is another reference to Maniac Mansion, where you found yourself 
+stuck with a gas-less chainsaw. References to this can also be found in 
+the official help-booklet for Indiana Jones and the Last Crusade, as it 
+tells you that the gas needed to start a car is on Mars.
+  *There is another reference to Zak in that Indy game: examine the
+crystal in his office and Indy says that some flakes in San Francisco 
+have been trying to get it off him. Quite what Zak and co. are doing in 
+WWII-era San Francisco is unclear but... well... y'know. Indy also has 
+a mask from a shaman in Kinshasa and a scroll warning about aliens in 
+disguise.
+  *Zak's bill is for $1138. George Lucas' first film was called THX-1138.
+  *After you've been away for a while, try going back to San Francisco 
+and checking your answering machine. If the green light is flashing, 
+you'll have a message.
+  *One message is from Weird Ed, one of the characters from Maniac 
+Mansion, asking whether "Sandy" (the girl who needed rescuing in that 
+game) wants to go to a Monster Truck Show.
+  *Try wearing your alien disguise when you drop the blue crystal through 
+Annie's door.
+  *Try reading from the scroll at Stonehenge without putting the flagpole
+up.
+  *Pour Sushi into your sink and then press the button by the sink which
+turns on the rubbish grinder.... yech.
+  *One of the posters in the jail in Katmandu says: "WANTED: One 
+murderous purple slimy meteor." The purple meteor was the head baddy in
+Manaic Mansion. And yes, he was slimy.
+  *If you call the Phone Company man and leave the phone off the hook, 
+he thinks you are a heavy breather and asks "Is this Edna again?" In
+Maniac Mansion, the player had to play the same trick on Nurse Edna who,
+it turned out, was a bit of a pro at heavy-breathing herself.

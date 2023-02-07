@@ -1,0 +1,1445 @@
+------------------------------------------------------------------------------
+                THE KING OF FIGHTERS XII MOVELIST/GUIDE ver O.2
+                           by Cajun21 and Chicobo329
+------------------------------------------------------------------------------
+ 
+ LEGAL: This guide is intended for personal use only, and may not be sold,
+ distributed, printed or published for profit. You are not allowed to use 
+ portions of this guide in your work without obtaining permission first. We
+ have only officially posted my guide in these sites:
+ www.GameFAQs.com
+ 
+
+ The King of Fighters XII and its characters are the copyright of SNK Playmore
+ Corporation.
+
+ DISCLAIMER: While all effort is made to ensure accuracy, we do not claim this
+ guide to be free of errors and will bear no responsibility for such.
+
+ INDEX 
+ 1) Introduction
+ 2) Version history
+ 3) Game system
+ 4) Movelist
+ 5) Special thanks
+ 6) Contact information
+
+
+==============================================================================
+1) INTRODUCTION
+==============================================================================
+
+Welcome to our King of Fighters XII (KOF XII) movelist/guide and thank you for
+reading. This guide will attempt to document the various changes that have
+taken place since King Of Fighters XI (KOF XI), while providing a basic move 
+list and move properties description where appropriate. Please note that this 
+is NOT, and will never be a combo guide, and whatever combos mentioned in here 
+are as examples to highlight a move's property.
+
+ABOUT KOFXII
+
+KOF XII is the first Taito X2 KOF game and is a complete overhaul of the 
+gameplay as we know it. Utilizing brand new sprites in wonderful hi-def, the 
+series returns to a standard 3 vs. 3 format, throwing out the old Tactical 
+Shift system. There are many, many alterations as a result which include:
+
+- The cast has been trimmed significantly to only 22 characters, two of which 
+  are exclusive to home versions of the game.
+- All sprites have been completely redrawn, the first such major overhaul of 
+  the character sprites since KOF '96. 
+- There is no story in this game, which functions as a psuedo-dream match 
+  game. Instead Arcade Mode works as a Time Trial, where you must complete 
+  five matches against random teams as quickly as possible.
+- A new Critical Counter bar is added in, which increases as you give and 
+  take damage. When it is full and if your character performs their Critical 
+  Counter Initiator, a Counter Combo will start which enables characters to 
+  perform a wide array of attacks at once.
+- The game no longer tells you if a Counter Hit has been landed and instead 
+  has the opponent twirl around upon being hit. You can recognize this also 
+  by looking at the bigger white spark. You can now follow up Counter Hits 
+  with other attacks.
+- Blowback Attacks are performed by pressing CD now, as there is no E button 
+  in this game. Blowback Attacks can now be charged up which can either guard 
+  break or give an opponent a "crumble" animation, which means the opponent 
+  drops to his knees allowing followups. Blowback Attacks can also now be 
+  comboed from strong attacks and juggle an opponent.
+- Despite the small cast, a lone new entry makes his KOF debut: Raiden from 
+  Fatal Fury.
+- All characters can only perform DMs rather SDMs and LDMs, charged up by a 
+  bar which increases as you give and take damage. To compensate for this, 
+  DMs now do increased damage.
+- Roll Canceling is now added in, and at no cost to either meter.
+- Basic Throws are now performed by b/f + A+C and will now whiff, but also 
+  cannot be escaped from.
+- Blowback Counters can be performed even if you are not blocking, and each 
+  character has different animations for them rather than their respective CD 
+  attacks.
+- All characters lack far animations for their normal attacks, save for one or 
+  two of them, now given with different inputs.
+- Significantly dumbed down AI. The AI has taken a back seat in this game, 
+  lending to the game's new Arcade Mode Time Trial.
+- And of course, many many (B. Jenet gets to me too!) changes the character 
+  movesets and properties.
+
+
+==============================================================================
+ 2) VERSION HISTORY
+==============================================================================
+ 
+ Version 0.1 (16 August 2009)
+ - First release. More to come soon, send in your emails for suggestions and
+   revisions!
+ Version 0.2 (19 August 2009)
+ - Added some information for a few character, made general cleanup, and added
+   the Deadlock section in the Game System section. Arcade Version now 
+   released.
+
+
+==============================================================================
+ 3) GAME SYSTEM
+==============================================================================
+
+ This diagram represents the joystick direction and commands for Player 1.
+ Reverse the forward/backward directions when using Player 2. 
+
+    ub  u  uf               ub = Up, backwards (Backward jump)
+     O  O  O                u  = Up (Vertical jump)
+      \ | /                 uf = Up, forward (Forward jump)
+       \|/                  b  = Backwards (Walk back/Block)
+  b O---n---O f             n  = Joystick neutral
+       /|\                  f  = Forwards (Walk forward)
+      / | \                 db = Down, backwards (Crouching block)
+     O  0  0                d  = Down (Crouch)
+    db  d  df               df = Down, forward (Crouch)
+
+ BUTTONS
+ A = Light Punch (LP)
+ B = Light Kick  (LK)
+ C = Hard Punch  (HP)
+ D = Hard Kick   (HK)
+ 
+
+ ACTION                                
+ tap                        lightly tap joystick/button
+ press                      push joystick/button
+ hold                       push and hold joystick/button
+ qcf (1/4 circle forward)   motion joystick from d to f (d,df,f)
+ qcb (1/4 circle backward)  motion joystick from d to b (d,db,b)
+ hcf (1/2 circle forward)   motion joystick from b to f (b,db,d,df,f)
+ hcb (1/2 circle backward)  motion joystick from f to b (f,df,d,db,b)
+ dp (dragon punch)          motion joystick f,d,df
+ rdp (reverse dragon punch) motion joystick b,d,db
+ charge b,f + (button)      hold back for 2 seconds, then push forward+button
+ charge d,u + (button)      hold down for 2 seconds, then push up+button
+ P (Punch)                  Press A or C
+ K (Kick)                   Press B or D
+ any                        Press A/B/C/D
+ in air                     Move is done in mid-air (during a jump) *
+ (air)                      Move can be done on the ground or in mid-air *
+ * Some aerial moves can be launched during a backstep or used directly from
+   the ground by extending the command so it ends with a jump. For example,
+   Robert's HienRyujinKyaku can be done off the ground by motioning qcb,ub+K.
+   Keep in mind that you cannot cancel a ground normal attack into an aerial
+   special move.
+
+ BASIC MOVES                         ACTION
+ push joystick f                     Walk forward
+ push joystick b                     Walk backward
+ tap f,f(hold)                       Forward dash
+ tap b,b                             Backstep
+ tap ub,u or uf                      Low jump (hop)
+ press ub,u or uf                    Normal jump
+ tap df-db then lightly ub-uf        Fast hop
+ tap db-df then ub-uf                High Jump
+ press b when attacked               Standing Block
+ press db when attacked              Crouching block
+ AB                                  Emergency Evade (forward roll) 
+ b+AB                                Emergency Evade (backwards)
+ AB while attacking                  Quick Emergency Evade
+ any when knocked down               Fallbreaker (recovery roll)
+ b + CD                              Guard Cancel Blowback Attack 
+ b/f + AC (near)                     Basic Throw (unblockable)
+
+ HIT LOCATION PROPERTIES
+ [O] - Overhead/High level attack, must be blocked standing.
+ [M] - Mid-level attack, can block standing or crouching.
+ [L] - Move hits low and must be blocked crouching.
+ [U] - Move is unblockable.
+ [-] - Move does not hit, see additional notes.
+
+ COMMAND ATTACK PROPERTIES
+ S   - Cancelable into special moves and DMs.
+ X   - Move can be canceled into, but it won't combo.
+
+ SPECIAL MOVES PROPERTIES
+ A   - Autoguard. All attacks cause chip damage during autoguard.
+ KD  - Knockdown, can be recovered using the Fallbreaker. (L)DMs, throws and 
+       sweeps (crouching D) generally knock down upon hitting, so only the NR
+       property will be used if the move isn't recoverable.
+ NR  - No Recovery Knockdown, cannot Fallbreaker from this move.
+ OTG - Over the Ground: Move can hit an opponent that has been knocked down.
+ J   - Juggles opponent, can followup after move. Juggles always knock down.
+       If no followup was done, a juggled character may use the Fallbreaker 
+       upon landing.
+ T   - Throw move, cannot be reversed. Basic throws will not be noted.
+ P   - Projectile, cannot be reversed, though certain moves absorb or reflect
+       them.
+ RV  - Reversal move. Works against non-throw, non-projectile moves only. 
+       Unless otherwise noted.
+ DM  - Desperation Move, requires a full stock bar to use.
+
+ #   - See notes.
+
+ CANCEL CHART NOTES
+ - I based my cancel charts off the KOFXI Conqeror's Guide, which may or may
+   not be accurate. These notations will be used:
+   r  = repeatable into itself (LIGHT ATTACKS ONLY).
+   c  = cancelable into command/special moves and DMs.
+   s  = cancelable into special/DMs.
+   -  = not cancelable or repeatable.
+ - To read the cancel chart, the first value in brackets [] indicate the
+   hit location, the second value for light attacks represent repeatability,
+   while the last value represents cancelabilty.
+ - CD button attacks will only be noted twice, once for 'standing near' and
+   again for 'vertical jump' as there are only two versions, one each for
+   ground and air. The guide only specifies if CD attacks are cancelable into
+   special moves. 
+ - All cancelable ground CD attacks can be empty canceled.
+
+ CRITICAL COUNTER INITIATOR:
+ - Each character has one initiator which is either their standing C or 
+   standing D attacks. If such moves connect on a Counter Hit with the 
+   Critical Counter meter full, a Counter Combo may be started.
+
+ DEADLOCK
+ - Deadlock occurs when two hits trade each other. This is denoted by a special
+   sound effect and some red graphical effects. The default action that happens
+   after a Deadlock is that both characters hop back. However, either character
+   choose to instantly cancel into any other action, such running, jumps, or
+   making other attacks.
+ - Each character gets a fraction of the damage each attack would have done if
+   they had landed normally. It is possible to be KOed as a result of damage in
+   this manner.
+ - Projectiles can be 'deadlocked' by hitting them with a strong attack with the
+   right timing. In such a case the person throwing the projectile must still
+   recover while the other player can cancel into any action. This requires some
+   strict timing, however.
+ 
+
+
+==============================================================================
+ 4) MOVELIST
+==============================================================================
+
+| Kyo Kusanagi     | Ash Crimson      | Iori Yagami
+
+| Andy Bogard      | Kim Kaphwan      | Robert Garcia
+
+| Benimaru Nikaido | Shen Woo         | Joe Higashi
+
+| Leona Heidern    | Random Select    | Athena Asamiya
+
+| Sie Kensou       | Duo Lon          | Chin Gentsai
+
+| Ralf Jones       | Raiden           | Clark Still
+
+| Terry Bogard     | Goro Daimon      | Ryo Sakazaki
+
+      
+
+------------------------------------------------------------------------------
+KYO KUSANAGI                                                       
+------------------------------------------------------------------------------
+
+ THROWS                 MOVE NAME                            PROPERTIES  
+ b/f+AC (near)          Issetu Seoinage                      [U],NR
+
+ COMMAND ATTACKS
+ f+B                    Gesiki: Goufu You                    [O],#
+ df+D                   Hatizyuuhatisiki                     [L],KD,#
+ 
+ SPECIAL MOVES
+ dp+P                   Hyakusiki: Oniyaki                   [M],KD,#
+ qcf+P                  Hyakuhatisiki: Yamibarai             [M],P,#
+ qcf+K                  Nanazyuugosiki: Kai                  [M],KD(D),
+                                                             J(D),#
+ rpd+K                  Hyakuichisiki: Oboroguruma           [M],KD(B),
+                                                             J(B),
+                                                             NR(D),#
+ hcb+K                  Nihyakujyuunishiki: Kototsuki Yoh    [M],KD,# 
+ 
+ [DM]
+ qcb,hcf+P              Urahyakuhatisiki: Orotinagi          [M],KD,#
+
+        Cancel chart      A          B          C        D        CD
+        ---------------------------------------------------------------
+        Standing near    [M]/r/c    [L]/-/c    [M]/c    [M]/-    [M]/c
+        Standing far                           [M]/-    
+        Crouching        [M]/r/c    [L]/r/-    [M]/c    [L]/c
+        Vertical jump    [O]/-      [O]/-      [O]/-    [O]/-    [M]/-
+        Diagonal jump    [O]/-      [O]/-      [O]/-    [O]/-
+
+   Critical Counter Initiator: close C
+
+#. Note that Kyo's standing D is his old far D animation, unlike some 
+   other characters.
+1. GOUFU YOU: It's an overhead kick when used on it's own. It loses 
+   this property when combo from any sort of attack. Can no longer be 
+   combo into.
+2. HATIZYUUHATISIKI: Both hits are low attacks and can be combo from 
+   light attacks. Kicks come out quicker for easier combos but the 
+   first kick no longer can be combo into.
+3. ONIYAKI: Anti air attack, light version hits twice. The hard version 
+   hits three times and leaves Kyo higher in the air increasing his 
+   recovery. It's possible to miss the full hits of the move depending 
+   on range.
+4. YAMIBARAI: Ground level projectile. Light version travels slower 
+   than the hard. It is possible to have two projectiles on screen.
+5. KAI: You no longer have to press kick twice since both kicks come 
+   out automatically. Hard version of this move has a juggle property. 
+   Light version does not juggle, but can be chained from light attacks.
+6. OBOROGURUMA: An old favorite from his '95 days. Light version hits 
+   once and can be combo from weak attacks and has a juggle property. 
+   Hard version hits three times and can't be fallbroken. Hard version 
+   makes Kyo travel further and has more recovery time.
+7. KOTOTSUKI YOH: Light version makes Kyo run half the screen, while 
+   the hard verison allows him to run the full length of the screen. 
+   Can be blocked and is not considered a throw. Kyo has a taunt 
+   animation if the move connects which can be canceled.
+8. OROTINAGI: No longer has immunity for either version. The flame wave 
+   can negate normal/DM projectiles and is not negateable. The flame 
+   wave is also much larger than in previous versions. Can be delayed 
+   by holding punch but does not increase it's power in this way. Kyo 
+   has a taunt animation if the move connects which can be canceled.
+
+
+------------------------------------------------------------------------------
+ ASH CRIMSON                                                       
+------------------------------------------------------------------------------
+
+ THROWS                 MOVE NAME                            PROPERTIES  
+ b/f+AC (near)          Recompenses                          [U],NR
+
+ COMMAND ATTACKS
+ b+K                    Floreal                              [M],#
+ 
+ SPECIAL MOVES
+ charge b,f+P           Ventose                              [M],P,#
+ charge d,u+K           Nivose                               [M],KD,#
+ qcb+any button         Genie                                [M],P,#
+
+ [DM]
+ A,B,C,D                Sans-Culotte                         [M],P,KD,J,#
+ qcf,qcf+P              Thermidor                            [M],P,KD,J,#
+ qcf,qcf+K              Pluviose                             [M],KD,#
+ 
+
+        Cancel chart      A          B          C        D        CD
+        ----------------------------------------------------------------
+        Standing near    [M]/r/c    [L]/r/c    [M]/c    [M]/c    [M]/c    
+        Standing far                           [M]/-    
+        Crouching        [M]/r/c    [L]/r/-    [M]/c    [L]/c
+        Vertical jump    [O]/-      [O]/-      [O]/-    [O]/-    [M]/-
+        Diagonal jump    [O]/-      [O]/-      [O]/-    [O]/-
+
+   Critical Counter Initiator: close C
+
+#. Loses his Vendemiaire (command throw) and two of his command attacks, but 
+   gains a new move Genie.
+1. FLOREAL: Ash's command kick. The light version is slower and makes him 
+   move forward. The hard version is faster and makes him move back. The
+   light version can be combo from hard attacks. The hard version can
+   be combo from light attacks. 
+2. VENTOSE: Mid level projectile, light version travels very slowly.
+   The hard version comes out a little slower but can actually hit at start 
+   up similar to his '03 version. The strong version hits up to 3
+   times at close range. Both versions combo from light attacks.
+3. NIVOSE: Anti-air kick that combos from light attacks. The hard version
+   is stronger, goes higher and further and can still combo from light 
+   attacks but has longer recovery time. You may not get the full hits of 
+   either version depending on the range it was performed at.
+4. GENIE: New move for Ash. Works similar to Goenitz's Yonokaze. Depending 
+   on the button pressed determines the distance. A version will be very 
+   close to Ash while the D version will go about 3/4 width of the screen. 
+   They blow up after a brief period of time.
+5. SANS-CULOTTE: Ash covers himself in a column of fire. Has changed 
+   incredibly since XI, while it does more damage it no longer grants Ash 
+   "Zero Charge Time."Can be used to juggle opponents in the corner. Note 
+   that the input timing is pretty strict but can be executed easier if 
+   combo from normal attacks.
+6. THERMIDOR: Multi-hit DM projectile. Comes out slower than it did in XI, 
+   Ash can move shortly after throwing the projectile, which cannot be 
+   reflected or negated. The DM has a juggle property after connecting and 
+   can be followed up. However, Ash can be hit before launching the 
+   projectile which aborts the move entirely.
+7. PLUVIOSE: Triple Nivose. Executes fast which can be combo from light 
+   attacks. May not get full hits from a jumping or juggled opponent unless 
+   they were fairly close to Ash when the move executes.
+
+
+------------------------------------------------------------------------------
+ IORI YAGAMI                                               
+------------------------------------------------------------------------------
+
+ THROW                  MOVE NAME                      PROPERTIES
+ b/f+AC (near)          Sakahagi                       [U],KD
+
+ COMMAND ATTACKS
+ f+A,A                  Geshiki: Yumebiki              [M],#
+ 
+ SPECIAL MOVES
+ dp+P                   Hyakuyonshiki: Nueuchi         [M],KD,J(C),#
+ qcb+P                  Yonhyakuichishiki: Shougetsu   [M],KD,#
+ qcb+K                  Hyakujyuukyuushiki: Akegarasu  [M],#
+ hcf+C (near)           Nihyakusanshiki: Tsuchitsubaki [U],KD,J#
+ 
+ [DM]
+ qcf,hcb+P              Kin: Yaotome                   [M],KD,#
+ 
+        Cancel chart      A          B          C        D        CD
+        ----------------------------------------------------------------
+        Standing near    [M]/r/c    [M]/-/c    [M]/c    [M]/c    [M]/c    
+        Standing far                                    [M]/-
+        Crouching        [M]/r/c    [L]/r/-    [M]/c    [L]/-
+        Vertical jump    [O]/-      [O]/-      [O]/-    [O]/-    [M]/-
+        Diagonal jump    [O]/-      [O]/-      [O]/-    [O]/-
+
+   Critical Counter Initiator: close C
+
+1. YUMEBIKI: Both hits are now cancelable. The move cancels from light 
+   attacks.Range and speed have both gotten better.
+2. NUEUCHI: Iori's new anti air move, light version executes quicker, 
+   slightly stronger but has more recovery time. Hard version executes slower, 
+   but has less recovery time and has a juggle function and has more range in 
+   the air.
+3. SHOGETSU: Both versions have lower body immunity. Light version comes out 
+   faster and can combo from light attacks.
+3. AKEGARASU: Iori dashes in with a slash, like Mature's Metal Massacre. 
+   Iori will not slash unless he is within range of the move itself otherwise 
+   he'll just dash. Light version covers less ground than the hard version. 
+   Executes very fast and depending on range has fairly safe recovery.
+4. TSUCHITSUBAKI: New command grab, unblockable and can combo from 
+   hard attacks. Has a juggle property.
+5. YAOTOME: Iori's new "flameless" Yaotome, very nice finish might I add! 
+   Iori can go under mid-level projectiles. He can be hit during start up 
+   but is invincible during the dash.
+
+
+------------------------------------------------------------------------------
+ ANDY BOGARD                                               
+------------------------------------------------------------------------------
+
+ THROWS                      MOVE NAME                        PROPERTIES
+ b/f+AC (near)               Kakaekominage                    [U],NR
+
+ COMMAND ATTACKS
+ f+A                         Hirateuchi                       [M],#
+
+ SPECIAL MOVES
+ charge db,f+P               Zaneiken                         [M],KD,#
+ hcf+K                       Kuuhadan                         [M],KD,#
+  > Press BD during 1st hit  Breaking                         [-],#
+ dp+P                        Shoryuudan                       [M],KD,#
+ qcb+P                       Hishouken                        [M],P,#
+ 
+ [DM]
+ qcb,hcf+K                   Choureppadan                     [M],KD,#
+ 
+        Cancel chart      A          B          C        D        CD
+        ----------------------------------------------------------------
+        Standing near    [M]/r/c    [M]/-/-    [M]/c    [M]/c    [M]/c    
+        Standing far                                    [M]/-
+        Crouching        [M]/r/c    [L]/r/c    [M]/c    [L]/c
+        Vertical jump    [O]/-      [O]/-      [O]/-    [O]/-    [M]/-
+        Diagonal jump    [O]/-      [O]/-      [O]/-    [O]/-
+
+   Critical Counter Initiator: close C
+
+#. Andy's Close B links with his Far D.
+1. HIRATEUCHI: Can be combo from light attacks and can be combo into 
+   anything else.
+2. ZANEIKEN: Note the charge motion. Comes out faster than ever now. If Andy 
+   isn't within range he will rush in without an attack. Combos from light 
+   attacks.
+3. KUUHADAN: Multi hitting anti-air attack. Light version comes in lower and 
+   straighter angled, while the hard version comes in higher and at a much 
+   steeper angle. It is possible to crossup with the hard version depending 
+   on the range that it comes in at.
+4. BREAKING: Andy now has an interrupt to his Kuuhadan on the first hit. Andy 
+   can follow up with other specials. This also allows a safe way to cancel 
+   out of the move if blocked.
+5. SHORYUUDAN: Anti-air attack, light version hits once and travels lower to 
+   the ground. While the hard version hits three times and travels higher in 
+   the air. This increases it's recovery time.
+6. HISHOUKEN: Mid level projectile, light version travels slower than the hard
+   version. It is possible to have two projectiles on screen at once.
+7. CHOUREPPADAN: Improved Kuuhadan with more hits and damage. Travels as high 
+   as the hard Kuuhadan but with a longer angle.
+
+
+------------------------------------------------------------------------------
+ KIM KAPHWAN                                                 
+------------------------------------------------------------------------------
+
+ THROW                    MOVE NAME                           PROPERTIES
+ b/f+AC (near)            Sakkyakunage                        [U],NR
+ 
+ COMMAND ATTACKS
+ f+B                      Nerichagi                           [O],X,#
+ f,f+D                    Tra: Yopuchaji                      [M],#
+
+ SPECIAL MOVES
+ qcf+K in air             Hishoukyaku                         [M],KD,#
+ qcb+K                    Hangetsuzan                         [M],KD,#
+ qcb+K in air             Kuchuuhangetsuzan                   [M],NR,#
+ charge d,u+K             Hienzan                             [M],KD,#
+
+ [DM]
+ qcb,db,f+K               Hououkyaku                          [M],KD,#
+
+        Cancel chart      A          B          C        D        CD
+        ----------------------------------------------------------------
+        Standing near    [M]/r/c    [M]/-/c    [M]/c    [M]/c    [M]/c    
+        Standing far                           [M]/-    [M]/-/-
+        Crouching        [M]/r/c    [L]/r/-    [M]/c    [L]/c
+        Vertical jump    [O]/c      [O]/-      [O]/-    [O]/-    [M]/-
+        Diagonal jump    [O]/c      [O]/-      [O]/-    [O]/-
+
+   Critical Counter Initiator: close D
+
+#. Kim's far D hits twice, but isn't cancelable on either hit. 
+1. NERICHAGI: Overhead kick. Doesn't combo from normal attacks. Can be 
+   cancelable when canceled into, but loses it's overhead property.
+2. YOPUCHAJI: New command attack, will whiff crouching opponents. Can be 
+   canceled from light attacks. When this connects Kim will jump backwards 
+   which will allow him to use his aerial normals and specials for followups.
+3. HISHOUKYAKU: Reverted back to a qcf motion. When it connects it'll hit the 
+   opponent several times and knock him down. This is similar to his '02 form 
+   but unlike that version Kim can now do this move from small jumps. On block 
+   kim gets pushed back with noticable recovery time. This move also can be 
+   peformed using a lax motion at the end of the qcf motion if you press uf 
+   and kick he will perform the move inches off the ground.
+4. HANGETSUZAN: Light version does one hit while the hard version does three.
+   Both versions knock down.
+5. KUCHUUHANGETSUZAN: Kim now has an aerial version of his Hangetsuzan. This 
+   move hits once and can not be fallbroken from. This move can also be done 
+   from a small jump and also has the lax motion by adding a ub motion at the 
+   end of the command. This can also be used as a crossup given enough range 
+   and timing.
+6. HIENZAN: Anti air kick, light version does one hit while the hard version 
+   does three. Both versions can combo from light attacks. The hard version 
+   no longer has the no recovery kick follow up like in previous versions.
+7. HOUOUKYAKU: No longer can be done in the air anymore. This move can now be 
+   fallbroken.
+
+
+------------------------------------------------------------------------------
+ ROBERT GARCIA                                           
+------------------------------------------------------------------------------
+
+ THROWS                       MOVE NAME                     PROPERTIES
+ b/f+AC (near)                Kubikirinage                  [U],NR
+
+ COMMAND ATTACKS
+ f+A                          Upper                         [M],#
+ f+B                          Low Kick                      [M],#
+ B+D in air                   Ushirogeri                    [M],#
+
+ SPECIAL MOVES
+ qcf+P                        Ryuugekiken                   [M],P,#
+ dp+P                         Ryuuga                        [M],KD,#
+ charge db,f+K                Hienshippuken                 [M],KD,#
+ qcb+K in air                 Hienryuujinkyaku              [M],KD,#     
+ hcf+D (near)                 Ryuuren: Geneikyaku           [U],T,KD,#
+ f,b,f+K                      Geneikyaku                    [M],KD,#
+ 
+ [DM]
+ qcf,hcb+P                    Ryuukoranbu                   [M],NR,#
+ f,hcf+P                      Haoushokouken                 [M],P,KD,#
+ 
+ 
+        Cancel chart      A          B          C        D        CD
+        ----------------------------------------------------------------
+        Standing near    [M]/r/c    [M]/-/c    [M]/c    [M]/c    [M]/c
+        Standing far                           [M]/-    
+        Crouching        [M]/r/c    [L]/r/-    [M]/c    [L]/c
+        Vertical jump    [O]/c      [O]/-      [O]/-    [O]/-    [M]/c
+        Diagonal jump    [O]/c      [O]/-      [O]/-    [O]/-
+
+   Critical Counter Initiator: close C
+
+1. UPPER: Can be combo from light attacks. Can also be followed up after his 
+   Low Kick. Both means can combo into something else.
+2. LOW KICK: Despite it's name it actually hits mid-level. Can be combo from 
+   hard attacks.
+3. USHIROGERI: Cross up kick, looks and works a lot like Iori's old Yuri Ori.
+   This is NOT an overhead. Robert can also use this during a backstep which 
+   is quicker than his normal back dash.
+4. RYUUGEKIKEN: Mid-level projectile, light version travels slower than the 
+   hard version, both travel the length of the screen. Because of the speed 
+   the light version travels you are not able to have two projectiles on 
+   screen.
+5. RYUUGA: Anti air attack, can combo from light attacks. Light version is 
+   lower to the ground and hits once. The hard version travels higher in the 
+   air and hits twice though this increase Robert's recovery time.
+6. HIENSHIPPUKEN: Old-school charge motion with a twist. Flying kick that 
+   works as a good anti air, executes fairly quickly. Light version hits once
+   and has better recovery time. Hard version hits twice but leaves Robert
+   with a lot more recovery time. Robert bounces back upon successfully 
+   hitting with the hard version.
+7. HIENRYUUJINKYAKU: Aerial Flying kick, like all air moves this one can 
+   also be used in a lax motion by adding an ub motion and kick after the 
+   qcb motion. Has noticably long recovery upon block.
+8. RYUUREN GENEIKYAKU: Command throw that can be combo from hard attacks. 
+   The taunt animation cannot be canceled from.
+9. GENEIKYAKU: Trap move that works great against rolls and bad jump ins. 
+   Combos from hard attacks only. Note that the 'taunt' animation at the end 
+   of this move is NOT cancelable.
+10.RYUUKORANBU: Auto combo DM, combos from hard attacks and command attacks. 
+   Robert is invincible during the forward dash but can be hit from the start 
+   up flash. 
+11.HAOUSHOKOUKEN: Fast DM Projectile, negates normal projectiles. Can be 
+   negated by other DM projectiles.
+
+
+------------------------------------------------------------------------------
+ BENIMARU NIKAIDO                                                 
+------------------------------------------------------------------------------ 
+
+ THROWS                         MOVE NAME                     PROPERTIES      
+ b/f+AC (near)                  Catch and Shoot               [U],KD
+ 
+ COMMAND ATTACKS                                                          
+ f+B                            Jackknife Kick                [M],#  
+ d+D in air                     Flying Drill                  [M],#
+       
+
+ SPECIAL MOVES
+ qcf+P                          Raijinken                     [M],P,KD,J,#
+ qcf+P in air                   Kuuchuu Raijinken             [M],P,#
+ qcf+K                          Iaigeri                       [M],#
+  > d,u+K                       Handousandangeri              [M],KD,# 
+ qcb+P                          Benimaru Lancer               [M],KD,J,#
+ dp+K                           Super Inazuma Kick            [M],KD,#
+ 
+ 
+ [DM]
+ qcb,qcb+P                      Benimaru Rolling Thunder      [M],P,NR(ground),
+                                                              KD(air),#
+ qcf,qcf+P                      Raikouken                     [M],P,KD,# 
+
+        Cancel chart      A          B          C        D        CD
+        ----------------------------------------------------------------
+        Standing near    [M]/r/c    [M]/-/-    [M]/c    [M]/c    [M]/c    
+        Standing far                           [M]/-    [M]/-
+        Crouching        [M]/r/c    [L]/r/c    [M]/c    [L]/c
+        Vertical jump    [O]/c      [O]/-      [O]/-    [O]/-    [M]/c
+        Diagonal jump    [O]/c      [O]/-      [O]/c    [O]/-
+
+   Critical Counter Initiator: close C
+
+#. Benimaru's jump ceiling is now on par with other characters.
+1. JACKKNIFE KICK: Combos from hard attacks, but no longer can be combo into.
+2. FLYING DRILL: The drill can actually be combo from a hard punch. Though
+   you'll probably have to jump in rather shallow for it to actually connect.
+3. RAIJINKEN: Comes out a little slower than XI but still only hits once. 
+   It also now has a juggle property to it. This move can still hit opponents
+   if Benimaru was hit by an attack beforehand.
+4. KUUCHUU RAIJINKEN: No longer knocksdown, Benimaru will continue to fall 
+   afterwards. Light version makes him fall forward while the hard version 
+   makes him fall backwards. Like all aerial moves it can be performed 
+   with the lax motion by adding an uf to the motion.
+5. IAIGERI: Comes out quick and can be combo from light attacks.
+6. HANDOUSANDANGERI: Followup to the Iaigeri, like XI it can no longer be 
+   performed if the Iaigeri misses. But unlike XI it has reverted back to 
+   it's old command. The move can actually be done by simply doing an up or 
+   up-forward motion after the Iaigeri. The game will pick up the down motion 
+   from the qcf of the Iaigeri.
+7. BENIMARU LANCER: New move for Beni, can act as a pre emptive anti air or a 
+   roll trap. After it connects it has a juggle property for followups. Oddly
+   this can combo from a standing D on a Counter Hit but not a standing C.
+8. SUPER INAZUMA KICK: His old anti air move returns! Light version does 2 
+   hits while the hard version does 3. Can combo from light attacks. Benimaru
+   no longer flips backwards for the light version and will land straight down
+   after the kick for both versions.
+9. BENIMARU ROLLING THUNDER: Can negate projectiles and is great for roll 
+   trapping. Depending on where the opponent get hit determines roll recovery. 
+   If the opponent is hit on the ground he's collapes to his knees. This can 
+   NOT be followed up however. Beni taunts right after the move connects but 
+   can be canceled. 
+10.RAIKOUKEN: Both versions will now only go forward. Negates projectiles 
+   and some DMs. Beni taunts if the move connects but can be canceled.
+
+
+------------------------------------------------------------------------------
+ SHEN WOO                                                          
+------------------------------------------------------------------------------
+
+ THROWS                 MOVE NAME                              PROPERTIES  
+ b/f+AC (near)          Kokakugeki                             [U],NR
+
+ COMMAND ATTACKS
+ f+B                    Fusenkyaku                             [M],#
+ 
+ SPECIAL MOVES
+ qcf+P                  Gekiken                                [M],NR
+                                                               (charged)# 
+ (strong punch can hold)       
+  > K while holding     Feint                                  [-]
+  > qcf+K               Gekiken~Tenrenken                      [M],KD,
+                                                               J(strong)
+ qcf+K                  Tenrenken                              [M],KD,
+                                                                J(strong),#
+ qcb+A                  Fukkogeki                              [O],#
+  > qcf+A               Kouryugeki                             [M],KD
+  > qcf+K               Fukkogeki~Tenrenken                    [M],KD,
+                                                               J(strong)
+ hcb,f+C (near)         Danken                                 [U],T,KD,#
+  > qcf+K               Danken~Tenrenken                       [M],KD,
+                                                               J(strong)
+
+ [DM]
+ qcf,qcf+P              Zetsu: Gekiken                         [M],KD,#
+ qcf,qcf+P              Tenkenren~Zetsu: Gekiken               [M],KD,#
+ (during Tenkenren hit)
+ C,A,B,C                Bakushin                               [M],P,KD,#
+
+        Cancel chart      A          B          C        D        CD
+        ----------------------------------------------------------------
+        Standing near    [M]/r/c    [M]/-/-    [M]/c    [M]/c    [M]/c    
+        Standing far                           [M]/-    
+        Crouching        [M]/r/c    [L]/r/-    [M]/c    [L]/c
+        Vertical jump    [O]/-      [O]/-      [O]/-    [O]/-    [M]/-
+        Diagonal jump    [O]/-      [O]/-      [O]/-    [O]/-
+
+   Critical Counter Initiator: close C
+
+#. The Tenrenken can be used as a followup from Gekiken, Fukkogeki and Danken.
+   The window is tight but it can be done.
+1. FUSENKYAKU: Lost the Fusen Gowan Ken as a followup. Can be combo from hard 
+   attacks and chain into something else.
+2. GEKIKEN: Light version immediately goes regardless of the button being 
+   held. Hard version can be held down for more power. When fully charged 
+   Shen's fists turn red and can either cause a guard crush (if blocked) 
+   which can be followed up or a collapse if it hits which also can be 
+   followed up. Pressing kick will stop shen from charging acting as a feint 
+   but you cannot feint out of the move when fully charged.
+3. TENRENKEN: Anti-air punch, light version can combo from light attacks 
+   and keeps Shen stationary. While the hard version pushes shen forward a 
+   little and can be combo from hard attacks. Hard version also has a juggle 
+   property. As stated before Shen can use this move as follow up to his other
+   3 special moves.
+4. FUKKOGEKI: Overhead punch, cannot be combo from anything. Can use the 
+   Kouryugeki as a followup as well as the Tenrenken.
+5. DANKEN: Unblockable throw, there's a trick to his command instead of 
+   doing hcb,f, you can actually use a qcb,f and the throw will also execute.
+   This trick also works for Daimon and Elisabeth.
+6. ZETSU GEKIKEN: Both versions are immune to all attacks and can be combo 
+   from hard attacks.
+7. TENKENREN~ZETSU GEKIKEN: This is a followup to the Tenkenren and you can 
+   basically say it's like a super cancel. The timing is tight but you can 
+   tell you did it if the super initiates right after the Tenkenren.
+8. BAKUSHIN: Negates projectiles and comes out incredibly quick regardless 
+   if you combo it or not. Have to input the buttons very fast for it to 
+   execute but it is slightly easier if combo from a hard punch. No longer 
+   gives Shen the strength bonus as it did from previous games.
+
+
+------------------------------------------------------------------------------
+ JOE HIGASHI                                                
+------------------------------------------------------------------------------
+
+ THROWS                      MOVE NAME                        PROPERTIES
+ b/f+AC (near)               Kubizumoh: Hizajigoku            [U],KD
+
+ COMMAND ATTACKS
+ f+B                         Step-in Middle Kick              [M],#
+ 
+ SPECIAL MOVES
+ hcf+P                       Hurricane Upper                  [M],P,#
+ hcf+K                       Slash Kick                       [M],KD,#
+ dp+K                        Tiger Kick                       [M],KD,#
+ tap P repeatedly            Bakuretsuken                     [M],#
+  > qcf+P                    Bakuretsuken Finish              [#],KD,#
+
+ [DM]
+ qcf,qcf+P                   Screw Upper                      [M],P,KD,#
+
+        Cancel chart      A          B          C        D        CD
+        ----------------------------------------------------------------
+        Standing near    [M]/r/c    [M]/-/c    [M]/c    [M]/c    [M]/c    
+        Standing far                           [M]/-    
+        Crouching        [M]/r/c    [L]/r/-    [M]/c    [L]/-
+        Vertical jump    [O]/-      [O]/-      [O]/-    [O]/-    [M]/-
+        Diagonal jump    [O]/-      [O]/-      [O]/-    [O]/-
+
+   Critical Counter Initiator: close C
+
+#. Joe's crouching D is his old df + B Sliding command attack. It functions
+   very similarly to his old crouching D in KOF '94/'95.
+#. You can longer mash buttons to increase the damage of the Hizajigoku.
+1. STEP IN MIDDLE KICK: Combos from light attacks and can be combo into.
+2. HURRICANE UPPER: Mid level projectile that can be combo from light attacks,
+   both versions run the full length of the screen now. Light version goes
+   slower than the hard. Due to it's speed though you can't have two
+   projectiles on screen.
+3. SLASH KICK: Combos from light attacks. Light version travels about half 
+   screen width while the hard version travels about 3/4 of the screen.
+4. TIGER KICK: Anti Air kick, immune to attacks on start up. Light version 
+   travels half screen width while the hard version travels about 3/4.
+5. BAKURETSUKEN: Can combo off light attacks and is very close range. 
+   Repeated presses will net you more hits.
+6. BAKURETSUKEN FINISH: Finisher to the Bakuretsuken, should be done right 
+   after Bakuretsuken starts otherwise it will whiff due it's poor range.
+7. SCREW UPPER: Has a start up, but will take up the entire length of the 
+   screen in front of Joe. Great for anti-airs and traps.
+
+
+------------------------------------------------------------------------------
+ LEONA HEIDERN                                                       
+------------------------------------------------------------------------------
+
+ THROWS                 MOVE NAME                            PROPERTIES  
+ b/f+AC (near)          Leona Crush                          [U],KD
+
+ COMMAND ATTACKS
+ f+B                    Strike Arch                          [O],#
+
+ SPECIAL MOVES
+ charge b,f+P           Baltic Launcher                      [M],P,KD,J,#
+ charge d,u+P           Moon Slasher                         [M],KD,#
+ qcb+K                  Earring Explosive                    [M],P,KD,J,#
+ charge b,f+K           Grand Saber (Move)                   [-],#
+  > K                   Grand Saber (Roll)                   [-]
+  > P                   Grand Saber (Attack)                 [M],KD
+ qcb+P in air           X-Calibur                            [M],KD,#
+
+ [DM]
+ qcf,hcb+P in air       V-Slasher                            [M],KD,#
+
+        Cancel chart      A          B          C        D        CD
+        ----------------------------------------------------------------
+        Standing near    [M]/r/c    [L]/-/c    [M]/c    [M]/-    [M]/c    
+        Standing far                           [M]/-    
+        Crouching        [M]/r/c    [L]/r/-    [M]/c    [L]/C
+        Vertical jump    [O]/c      [O]/-      [O]/-    [O]/-    [M]/-
+        Diagonal jump    [O]/c      [O]/-      [O]/-    [O]/-
+
+   Critical Counter Initiator: close C
+
+1. STRIKE ARCH: Overhead kick, can be canceled from hard attacks and is 
+   cancelable afterwards.
+2. BALTIC LAUNCHER: Projectile, light version comes out right in front of 
+   Leona, while the hard version comes out diagonally upward. Comes out 
+   rather slow so the only effective way to combo it in is after a CD in 
+   the corner. Both versions have a juggle property.
+3. MOON SLASHER: Anti air slash, both versions now leave Leona stationary. 
+   This move can be combo from light attacks. Comes out quick but has 
+   recovery time afterwards. The move does less damage when used at max 
+   range of the slash.
+4. EARRING EXPLOSIVE: Mid level projectile that turns to a ground level 
+   when the earring bounces on the floor. Has a long start up, light version 
+   reaches about half the screen and bounces twice on the floor. Hard version 
+   reaches full width and bounces three times. Both versions have a juggle 
+   property.
+5. GRAND SABER: This move has altered quite a bit from the past. When the 
+   move executes Leona will run a short distance depending on what kick button 
+   was pressed. Light version makes her go forward while hard version makes 
+   her dash back. From here you have two options, if you press the opposite 
+   kick button that you used to execute the move Leona will dash in the 
+   opposite direction. Great for stategic retreats and what not. Repeating 
+   in this fashion you can make Leona run back and forth indefinatly. 
+   Pressing punch while she dashes will execute the slash, if you are 
+   running backwards she will still dash forward with the slash.
+6. X-CALIBUR: Leona will now dive down from the air instead of throwing a 
+   short range projectile. Light version makes her dive at 30 degree angle 
+   while the hard version makes her dive from a 45 degree angle. Noticable 
+   amount of recovery if the slash has been blocked. Can also be executed 
+   with a lax motion.
+7. V-SLASHER: Similar to her X-Calibur, light version will make her dive 
+   at a 30 degree angle and the hard version will make her dive from a 45 
+   degree angle. During a CC you can execute this move like a standing attack 
+   without having to jump in the air.
+
+
+-------------------------------------------------------------------------------
+ ATHENA ASAMIYA                                           
+-------------------------------------------------------------------------------
+
+ THROWS                         MOVE NAME                     PROPERTIES
+ b/f+AC (near)                  Psychic Through               [U],NR
+ 
+ COMMAND ATTACKS
+ f+B (air)                      Phoenix Bomb                  [M],J,#
+ 
+ SPECIAL MOVES
+ qcb+P                          Psycho Ball Attack            [M],P,#
+ dp+P                           Psycho Sword                  [M],KD,# 
+ hcb+K                          Psycho Reflector              [-],RV,KD,P,#
+ qcb+K in air                   Phoenix Arrow                 [M],KD(D),#
+ 
+ [DM]
+ hcb,hcb+P                      Shining Crystal Bit           [M],P,#
+  > press A+C                   Cancel                        [-]
+ 
+
+        Cancel chart      A          B          C        D        CD
+        ----------------------------------------------------------------
+        Standing near    [M]/r/c    [M]/-/c    [M]/c    [M]/c    [M]/c    
+        Standing far                           [M]/c    
+        Crouching        [M]/r/c    [L]/r/-    [M]/c    [L]/c
+        Vertical jump    [O]/c      [O]/-      [O]/c    [O]/-    [M]/c
+        Diagonal jump    [O]/c      [O]/-      [O]/c    [O]/-
+
+   Critical Counter Initiator: close C
+
+#. Athena's far C is cancelable, unlike other characters.
+1. PHOENIX BOMB: Chains from hard attacks on the ground. It can also be done 
+   in the air and chains from light attacks in that fashion. Can also be 
+   canceled into with special moves and normal attacks.
+2. PSYCHO BALL ATTACK: Mid level projectile, light version comes out faster 
+   but travels slower, hard version has a start up but travels faster. It's 
+   possible to have two projectiles on screen at one time.
+3. PSYCHO SWORD: Anti air attack, no longer can be done in the air anymore. 
+   This move can be combo from light attacks. Light version hits 3 times and 
+   is lower to the ground. Hard version hits 5 times but travels higher in 
+   the air increasing recovery time.
+4. PSYCHO REFLECTOR: Just as a note, this move can be done using qcb+K. I'm 
+   not sure if this in error in the game's command list. The actual reflector 
+   does not hit, but can counter all forms of striking attacks: Normals, 
+   projectiles, etc, regardless of range of the attack. When it reflects 
+   Athena's reflector produces a Psycho Ball that knocksdowns.
+5. PHOENIX ARROW: Light version of this hits twice without the sweep kick 
+   finish. Hard version hits 3 times with a sweep kick finish, this increases
+   the recovery time if blocked though.
+6. SHINING CRYSTAL BIT: This completely wraps Athena in an aura. So no more 
+   slightly open spots like before when the smaller crystal bits would come 
+   out. If the attack makes contact, either blocked or hit, will end the move. 
+   It can be canceled prematurely by pressing AC.
+
+
+-------------------------------------------------------------------------------
+ SIE KENSOU                                               
+-------------------------------------------------------------------------------
+
+ THROWS                         MOVE NAME                     PROPERTIES
+ b/f+AC (near)                  Ryuuhousui                    [U],KD
+
+ SPECIAL MOVES
+ qcb+A                          Ryuutouda                     [M],#
+ qcb+C                          Rintesshoh                    [M],#
+ qcb+K                          Sikkuuzanryuukyaku            [M],KD,#
+ dp+P                           Ryuubokko                     [M],KD(3rd lv),#
+ dp+K                           Ryuugakusai                   [M],KD,#
+ 
+ [DM]
+ qcb,qcb+P                      Shinryuu: Choukyuudan         [#],P,KD,#
+ 
+        Cancel chart      A          B          C        D        CD
+        ----------------------------------------------------------------
+        Standing near    [M]/r/c    [L]/r/-    [M]/c    [M]/c    [M]/c    
+        Standing far                           [M]/-    [M]/-
+        Crouching        [M]/r/c    [L]/r/c    [M]/c    [L]/c
+        Vertical jump    [O]/-      [O]/-      [O]/-    [O]/-    [M]/-
+        Diagonal jump    [O]/-      [O]/-      [O]/-    [O]/-
+
+   Critical Counter Initiator: close C
+
+#. Even though Kensou has no command moves his Ryuutouda and Rintesshoh act 
+   like command moves.
+1. RYUUTOUDA: Combos off light attacks can be combo into special moves.
+2. RINTESSHOH: Combos off hard attacks can be chained from a Ryuutouda and 
+   then combo from other special moves.
+3. SIKKUZANRYUUKYAKU: Kensou runs with jumping kick, light version makes 
+   Kensou run half width of the screen while hard version makes him run 3/4.
+   If Kensou is not within range he will only run without an attack. Can be
+   combo from hard attacks and off the Ryuutouda and Rintesshoh. If this 
+   move is blocked Kensou will jump back to an unsafe distance.
+4. RYUUBOKKO: Combos off hard attacks only, when this move executes you have
+   to mash punch to increase the amount of hits and damage. There is 4 </pre><pre id="faqspan-2">
+   different levels to this move depending on the number of presses you 
+   input:
+   > Level 1: No presses, Kensou hits 4 times.
+   > Level 2: Few presses, Kensou hits 8 times.
+   > Level 3: Many presses, Kensou hits 12 times and does a final hit total 13
+              hits and a knockdown.
+   > Level 4: Even more presses, Kensou hits 17 times but starts to slow down
+              at the end. He gets tired and forces himself to rest, you can 
+              NOT cancel out of this and Kensou is wide open for attack 
+              afterwards.
+5. RYUUGAKUSAI: Anti-air attack, light version does 2 hits and is lower to 
+   the ground, while the hard version does 4 hits and leaves Kensou higher up 
+   increasing his recovery.This can be chained off the Ryuutouda and 
+   Rintesshoh.
+6. CHOUKYUUDAN: DM Projectile, very big and slow moving. Can be negated by 
+   other DM projectiles.
+
+
+------------------------------------------------------------------------------
+ DUO LON                                                          
+------------------------------------------------------------------------------
+
+ THROWS                      MOVE NAME                        PROPERTIES
+ b/f+AC (near)               Suishu: Shoukoh                  [U],NR
+
+ SPECIAL MOVES
+ f+B (air)                   Genmukyaku                       [M,O(air)],#
+ qcf+K                       Himoukyaku: Mae                  [-],#
+ qcb+K                       Himoukyaku: Ushiro               [-],#
+ f+A (air)                   Genmuken                         [M],#
+ (During C) qcf Cx2          Shakijyuuryuu                    [U],KD(3rd),J,#
+
+ [DM]
+ qcb,hcf+P                   Hiden: Genmubakkoshikon          [M],NR,#
+
+        Cancel chart      A          B          C        D        CD
+        ----------------------------------------------------------------
+        Standing near    [M]/r/c    [L]/-/c    [M]/#    [M]/c    [M]/c    
+        Standing far                                    [M]/-
+        Crouching        [M]/r/c    [L]/r/-    [M]/c    [L]/c
+        Vertical jump    [O]/c      [O]/-      [O]/c    [O]/-    [M]/-
+        Diagonal jump    [O]/c      [O]/-      [O]/c    [O]/-
+
+   Critical Counter Initiator: close D
+
+1. GENMUKYAKU: On the ground Duo kicks his foot in the floor, this now tracks 
+   on to the opponent no matter the distance. Combos from light attacks. The 
+   air version is his jumping B but with extended range and hits as an 
+   overhead.
+2. MAE: Duo teleports a short distance and can cross sides with his opponent.
+   Light version travels very fast but covers little distance. Hard version 
+   travels a little further. Duo is not safe which this teleport and can be 
+   hit out of it. Can be linked after the Shakijyuuryuu 3rd hit.
+3. USHIRO: Duo now has a teleport that goes backwards and it shares mostly 
+   the same properties as Mae but has a slightly longer start up. This version
+   can't be linked from Shakijyuuryuu.
+4. GENMUKEN: Looks like Duo's standing A but with longer range can be combo 
+   off light attacks. Air version has a very similar property.
+5. SHAKIJYUURYUU: This move has been simplified, now exclusively comes off 
+   Duo's standing C. It can't be chained in any other sort of way. Last hit
+   knocksdown and has a juggle property.
+6. GENMUBAKKOSHIKON: Similar to Iori's Yaotome, Duo can slide under 
+   projectiles and other high level attacks. He can be hit out of the move 
+   though. Does a no recovery knockdown if the move connects.
+
+
+-------------------------------------------------------------------------------
+ CHIN GENTSAI                                             
+-------------------------------------------------------------------------------
+
+ THROWS                         MOVE NAME                     PROPERTIES
+ b/f+AC (near)                  Hougeki                       [U],KD
+
+ COMMAND ATTACKS
+ d,d+P                          Zabantetsu                    [-],#
+ d,d+K                          Choukaroh                     [-],#
+ BD (during Choukaroh)          Choukaroh: Kaijyo             [-],#
+
+ SPECIAL MOVES
+ qcb+P                          Suiho                         [M],KD,#
+ qcb+K                          Ryu Sogeki                    [-],RV,#
+ df+D                           Uronkouchuu                   [O],#
+ df+B,B                         Nikiyaku                      [M],J(1st),KD,#
+ P (during Zabantetsu)          Getsugasoushu                 [M],#
+ 
+ [DM]
+ qcf,qcf+P                      Toukuuhitenhoh                [U],KD,#
+ 
+        Cancel chart      A          B          C        D        CD
+        ----------------------------------------------------------------
+        Standing near    [M]/r/c    [L]/-/-    [M]/c    [M]/c    [M]/c    
+        Standing far                                    [M]/-
+        Crouching        [M]/r/c    [L]/r/-    [M]/c    [L]/c
+        Vertical jump    [O]/-      [O]/-      [O]/-    [O]/-    [M]/-
+        Diagonal jump    [O]/-      [O]/-      [O]/-    [O]/-
+
+   Critical Counter Initiator: close C
+
+#. After a Far D, if you hold D down Chin will go into the Choukaroh.
+1. ZABANTETSU: One of chin's stances, he stays very low to the ground ducking
+   under mid level projectiles and high level attacks. Can cancel into any of
+   this special moves from this stance.
+2. CHOUKAROH: The 2nd of Chin's stances, Chin stands up with one leg. From here
+   you can do a variety of options. Chin can hop forward and backwards by
+   pressing forward and backwards respectively. Pressing A will jab and cancel
+   out of the stance. Pressing C will do his Getsugasoushu. Pressing B,B will
+   do his Nikiyaku, and pressing D will do his forward D which will go back to
+   the stance again. You can also jump to cancel out of stance. Pressing down 
+   will go into his Zabantetsu.
+3. KAIJYO: As far as I am concerned I believe this is only a taunt that can be
+   canceled out of. Also another way to cancel out of Choukaroh.
+4. SUIHO: Comes out quick and works as a decent anti air attack. Can be combo
+   from light attacks. Has a taunt animation after contact but can be canceled
+   out of.
+5. RYU SOGEKI: Counter attack, counters all ground level attacks. Air attacks
+   won't work. When Chin gets hit he will do his close D. Doesn't work on 
+   projectiles.
+6. URONKOUCHUU: Overhead kick, holding on to D will act as a feint. When this
+   connects, pressing P will go into his Getsugasoushu. This will retain its
+   overhead property when comboed from hard attacks.
+7. NIKIYAKU: Two part kick, can combo off light attacks. The first kick has
+   a juggle property. Pressing down after the first kick will go into the
+   Zabantetsu.
+8. GETSUGASOUSHU: Followup to the Zabantetsu, can be combo into any of Chin's
+   specials and also to his DM which acts as a super cancel. This can also be
+   linked to either of his two stances.
+9. TOUKUUHITENHOH: Reaches about 3/4 width of the screen, can be combo from
+   light attacks. Has quite a bit of recovery on block.
+
+
+-------------------------------------------------------------------------------
+ RALF JONES                                               
+-------------------------------------------------------------------------------
+
+ THROWS                         MOVE NAME                     PROPERTIES
+ b/f+AC (near)                  Dynamite Headbutt             [U],KD
+
+ COMMAND MOVES
+ df+A                           Jet Upper                     [M],#
+
+ SPECIAL MOVES
+ tap P repeatedly               Vulcan Punch                  [M],#
+ qcf+P                          Burning Hammer                [M],A(C),#
+ qcb+P                          Explosive Ralf Punch          [M],KD,J(C),#
+ 
+ [DM]
+ qcf,qcf+P                      Galactica Phantom             [M],KD,#
+
+        Cancel chart      A          B          C        D        CD
+        ----------------------------------------------------------------
+        Standing near    [M]/r/c    [M]/-/c    [M]/c    [M]/c    [M]/c    
+        Standing far                           [M]/-    
+        Crouching        [M]/r/c    [L]/r/c    [M]/c    [L]/c
+        Vertical jump    [O]/-      [O]/-      [O]/-    [O]/-    [M]/-
+        Diagonal jump    [O]/-      [O]/-      [O]/-    [O]/-
+
+   Critical Counter Initiator: close C
+
+1. JET UPPER: Combos off light attacks and can be combo into. Close range so 
+   you have to do this move fairly close.
+2. VULCAN PUNCH:  No longer knocks down. Now hits multiple times instead of 
+   just once like in XI. You still have to mash this move fairly fast on it's
+   own. In combos it is a lot easier to get out. Combos off light attacks.
+3. BURNING HAMMER: Light version combos off hard attacks. Hard version has 
+   full auto guard until the punch comes out. When the punch connects the 
+   opponent stays stunned long enough for followups.
+4. EXPLOSIVE RALF PUNCH: Light version comes out quick and can be combo from
+   light attacks, but the explosion is very small. Hard version has a start 
+   up but has a much larger explosion that also has a juggle combination. 
+5. GALACTICA PHANTOM: Comes out much faster than in previous versions. Can 
+   be combo off hard/command attacks. The move is a lot weaker now and is no 
+   longer unblockable. On block it will guard crush but the move recovers too
+   slowly for any followups.
+
+
+-------------------------------------------------------------------------------
+ RAIDEN                                              
+-------------------------------------------------------------------------------
+
+ THROWS                         MOVE NAME                     PROPERTIES
+ b/f+AC (near)                  Neck Hanging                  [U],NR
+
+ SPECIAL MOVES
+ charge db,f+P                  Giant Bomb                    [M],A,KD,#
+  > BD                          Giant Bomb (Feint)            [-]
+ qcb+P                          Dokugiri                      [M],P,#
+ dp+P                           Raiden Bomb                   [U],T,NR,#
+ hcf+K (near)                   Head Crush                    [U],T,NR,#
+
+ [DM]
+ hcb,hcb+P (near)               Super Raiden Drop             [U],T,NR
+ 
+        Cancel chart      A          B          C        D        CD
+        ----------------------------------------------------------------
+        Standing near    [M]/-/c    [M]/-/-    [M]/c    [M]/c    [M]/c    
+        Standing far                           [M]/-    
+        Crouching        [M]/-/c    [L]/-/-    [M]/c    [L]/c
+        Vertical jump    [O]/-      [O]/-      [O]/-    [O]/-    [M]/-
+        Diagonal jump    [O]/-      [O]/-      [O]/-    [O]/-
+
+   Critical Counter Initiator: close C
+
+1. GIANT BOMB: Has full auto guard when he readys himself, but can be hit 
+   during the actual tackle. Light version comes out faster and covers about
+   1/2 screen width. Hard version comes out longer increasing it's autoguard
+   and covers the whole screen. Pressing BD while Raiden readies himself will
+   feint the move.
+2. DOKUGIRI: Close range projectile. Light version comes out quicker and 
+   can be combo from hard attacks. Hard version comes out very slow and 
+   can't be combo with nothing short of a counter hit.
+3. RAIDEN BOMB: Anti Air throw, does not hit standing opponents at all.
+4. HEAD CRUSH: Command throw, can be combo off light attacks. Swaps sides 
+   and causes a no recovery knockdown.
+5. SUPER RAIDEN DROP: Command throw, can be combo off light attacks. Better 
+   range than Raiden's other throws. Causes a no recovery knockdown.
+
+
+-------------------------------------------------------------------------------
+ CLARK STILL                                              
+-------------------------------------------------------------------------------
+
+ THROWS                         MOVE NAME                     PROPERTIES
+ b/f+AC (near)                  Death Mountain Buster         [U],NR
+ AIR THROW
+ b/f+AC (near in air)           Death Rake Driver             [U],NR
+
+ COMMAND ATTACKS
+ f+A                            Jet Upper                     [M],#
+
+ SPECIAL MOVES
+ f+BD                           Step                          [-],#
+ hcf+K (near)                   Super Argentine Backbreaker   [U],T,NR,#
+  > qcf+P                       Flashing Elbow                [#],OTG  
+ tap P repeatedly               Vulcan Punch                  [M],KD,#
+
+ [DM]
+ hcb,hcb+P (near)               Ultra Argentine Backbreaker   [U],T,NR,#
+
+        Cancel chart      A          B          C        D        E
+        ----------------------------------------------------------------
+        Standing near    [M]/r/c    [M]/-/-    [M]/c    [M]/c    [M]/c    
+        Standing far                                    [M]/-
+        Crouching        [M]/r/c    [L]/-/s    [M]/c    [L]/c
+        Vertical jump    [O]/-      [O]/-      [O]/-    [O]/-    [M]/-
+        Diagonal jump    [O]/-      [O]/-      [O]/-    [O]/-
+
+   Critical Counter Initiator: close D
+
+#. Clark has the only air throw in the game. His throw can be combo after 
+   any move that launches the opponent in the air.
+1. JET UPPER: Pretty much the same move as Ralf. Combos off light attacks and 
+   can be combo into his other special moves.
+2. STEP: Clark does a quick dash at the opponent. This can be combo off normal
+   attacks to close the gap. It can also be used to surprise the opponent due 
+   to it's speed.
+3. SUPER ARGENTINE BACKBREAKER: Command throw, can be combo from light attacks.
+   Has a followup with the flashing elbow which is the only the over the
+   ground move in the game. Remember that the throw swaps sides with the
+   opponent so reverse the qcf motion as directed.
+4. VULCAN PUNCH: Similar to Ralf but Clark's version knocks down. Can be combo 
+   from light attacks.
+5. ULTRA ARGENTINE BACKBREAKER: Command throw, has the same property as the 
+   Super Argentine but does more damage and doesn't swap sides.
+
+
+------------------------------------------------------------------------------
+ TERRY BOGARD                                                
+------------------------------------------------------------------------------
+
+ THROWS                      MOVE NAME                        PROPERTIES
+ b/f+AC (near)               Buster Through                   [U],NR
+
+ COMMAND ATTACKS
+ df+C                        Rising Upper                     [M],#
+ f+A                         Back Knuckle                     [M],#
+ 
+ SPECIAL MOVES
+ qcf+P                       Power Wave                       [M],P
+ qcb+P                       Burning Knuckle                  [M],KD,#
+ qcb+K                       Crack Shoot                      [O],#
+ charge d,u+P                Rising Tackle                    [M],KD,#
+
+ [DM]
+ qcb,db,f+P                  Power Geyser                     [M],P,KD,#
+
+        Cancel chart      A          B          C        D        CD
+        ----------------------------------------------------------------
+        Standing near    [M]/r/c    [M]/-/c    [M]/c    [M]/c    [M]/c    
+        Standing far                           [M]/-    
+        Crouching        [M]/r/c    [L]/r/-    [M]/c    [L]/c
+        Vertical jump    [O]/-      [O]/-      [O]/-    [O]/-    [M]/-
+        Diagonal jump    [O]/-      [O]/-      [O]/-    [O]/-
+
+   Critical Counter Initiator: close C
+
+#. Terry's close C hits twice and boths hits are cancelable.
+#. Terry can only initiate a Counter Combo on the first hit of a close C.
+1. RISING UPPER: Combos off normal attacks, can be combo into any of Terry's 
+   special moves. Window is a bit tight however.
+2. BACK KNUCKLE: Also combos off normal attacks, but can't be combo into 
+   anything else.
+3. POWER WAVE: Ground-level projectile, Light version is slower than the hard
+   version. It is possible to have two projectiles on screen at the same time.
+4. BURNING KNUCKLE: Light version travels 1/2 screen width while the hard
+   version travels 3/4 of the screen. Hard version has a startup and can only
+   be combo off Terry's CD attack.
+5. CRACK SHOOT: No longer knocks down standing opponents like in XI. Light 
+   version does only one hit now, while the hard version does up to 3. Both 
+   versions have a taunt animation that can be canceled out of. Has a longer 
+   start up than before. 
+6. RISING TACKLE: Anti-air attack, combos off light attacks. Light version 
+   hits once and travels lower in the air. While the hard version hits 3 times
+   and travels higher in the air increasing it's recovery time. Hard version 
+   also has a taunt animation that can be canceled out of.
+7. POWER GEYSER: Comes out fast now with an even larger hit box. The geyser
+   can not be negated. Both versions are now performed at the same speed.
+
+
+------------------------------------------------------------------------------
+ GORO DAIMON                                          
+------------------------------------------------------------------------------
+
+ THROWS                     MOVE NAME                          PROPERTIES
+ b/f+AC (near)              Okuriashibarai                     [U],NR
+ 
+ SPECIAL MOVES
+ hcb,f+P (near)             Tenchigaeshi                       [U],T,NR,#
+ qcb+K                      Chouukemi                          [-],#
+ dp+P                       Jiraishin                          [L],KD,#
+ hcf+A                      Kumotsukaminage                    [M],A,NR,#
+ hcf+C                      Kirikabugaeshi                     [M],A,NR,#
+ 
+ [DM]
+ hcb,hcb+P (near)           Jigoku Gokurakuotoshi              [U],T,NR,#
+
+        Cancel chart      A          B          C        D        CD
+        ----------------------------------------------------------------
+        Standing near    [M]/r/c    [M]/-/c    [M]/c    [M]/-    [M]/c    
+        Standing far                           [M]/-    
+        Crouching        [M]/-/c    [L]/r/-    [M]/c    [L]/c
+        Vertical jump    [O]/-      [O]/-      [O]/-    [O]/-    [M]/-
+        Diagonal jump    [O]/-      [O]/-      [O]/-    [O]/-
+
+   Critical Counter Initiator: close C
+
+#. Daimon's old Zujou Barai is now his crouching C attack.
+1. TENCHIGAESHI: Unblockable throw with great range. Despite what the command
+   list says this move can be done with a qcb,f instead of a hcb,f. Can be 
+   combo off light attacks, and does a no recovery knockdown.
+2. CHOUUKEMI: Very similar to your basic roll. Hard version goes a little 
+   further than the light but neither version can pass through the opponent. 
+   Can be combo from normals to put the pressure on the opponent.
+3. JIRAISHIN: Low based ground pound, it's range is the full length of the
+   screen. If the opponent isn't blocking low they will be hit. Can be jumped
+   over very easily. Hard version is used as a feint.
+4. KUMOTSUKAMINAGE: Blockable throw, used as an anti air attack. This move
+   also has full auto guard. Can hit some tall standing opponents.
+5. KIRIKABUGAESHI: Blockable throw, this move now has full auto guard. Can
+   only be combo from hard attacks. 
+6. GOKURAKUOTOSHI: Unblockable thow that has even better range than his
+   Tenchigaeshi. Can be combo off light attacks, and does a no recovery
+   knockdown. Has a taunt animation that can NOT be canceled out of.
+
+
+------------------------------------------------------------------------------
+ RYO SAKAZAKI                                        
+------------------------------------------------------------------------------
+
+ THROWS                       MOVE NAME                     PROPERTIES
+ b/f+AC (near)                Tomoenage                     [U],NR
+
+ COMMAND ATTACKS
+ f+A                          Hyouchuuwari                  [O],NR,#
+ f+B                          Joudanuke                     [-],A,#
+ df+B                         Gedanuke                      [-],A,#
+
+ SPECIAL MOVES
+ qcf+P                        Koohken                       [M],P,KD,#
+ dp+P                         Kohou                         [M],KD,#
+ hcb+K                        Hienshippukyaku               [M],KD,#
+  > K (during hard version)   Hienshippukyaku Tsuika        [M],KD,J 
+ f,b,f+P                      Zanretsuken                   [M],KD,#
+
+ [DM]
+ qcf,hcb+P                    Ryuukoranbu                   [M],KD,#
+ f,hcf+P                      Haoushoukouken                [M],P,KD,#
+
+
+        Cancel chart      A          B          C        D        CD
+        ----------------------------------------------------------------
+        Standing near    [M]/r/c    [M]/r/-    [M]/c    [M]/c    [M]/c
+        Standing far                           [M]/-    
+        Crouching        [M]/r/c    [L]/r/-    [M]/c    [L]/c
+        Vertical jump    [O]/-      [O]/-      [O]/-    [O]/-    [M]/-
+        Diagonal jump    [O]/-      [O]/-      [O]/-    [O]/-
+
+   Critical Counter Initiator: close C
+
+#. After a successful Guard Cancel Blowback attack (one that has absorbed a 
+   hit) Ryo will taunt that can be canceled out of.
+1. HYOUCHUUWARI: Overhead attack, can be combo from hard attacks. Loses it's
+   overhead and no recovery properties in this way. Can NOT be canceled into
+   anything.
+2. JOUDANUKE: One of two parries Ryo has. This parries high/middle range 
+   attacks as well special moves. Gives Ryo a slight frame advantage. Can be
+   combo from normals and also repeatedly into itself so long as you are 
+   parrying something.
+3. GEDANUKE: The 2nd of the two parries, parries low range attacks. has the 
+   same properties as the Joudanuke.
+4. KOOHKEN: Close range projectile, hard version goes out a little further 
+   than the light version.
+5. KOHOU: Anti air attack, light version does 1 hit and stays low in the air.
+   Hard version does 2 hits and leaves Ryo higher in the air increasing his 
+   recovery. Can be combo off light attacks.
+6. HIENSHIPPUKYAKU: Light version comes out quicker and can be combo from 
+   light attacks. Hard version comes out slower but has a followup kick 
+   that has a juggle property to it.
+7. ZANRETSUKEN: No longer has the start up auto guard to it anymore. Can be 
+   combo off light attacks, after the move finishes Ryo taunts which can 
+   NOT be canceled out of.
+8. RYUUKORANBU: Autocombo DM, can be hit out of startup. Ryo is invincible
+   during the dash though. Very similar to Roberts' except for the no 
+   recovery knockdown.
+9. HAOUSHOUKOUKEN: DM projectile, pretty much the same move as Roberts'.
+   Can be negated with other DM projectiles.
+
+
+==============================================================================
+ 6) SPECIAL THANKS
+==============================================================================
+
+ Very special thanks to these people who made the guide possible:
+
+ Tel
+ - For kindly giving me permission to use the formatting from his KOF XI 
+   guide. KOF XI is a fantastic game and I recommend that to anyone!
+ 
+ Chris MacDonald aka Kao Megura
+ - For setting the standard in FAQ writing and for making the layout for some
+   of Tel's other works.
+
+ Frankie D'Erasmo aka Chicobo329
+ - For giving me the idea of making our very first guide on GameFAQs. Frankie
+   was also responsible for the introduction and game system sections. As well
+   as proofing and testing all of my work.
+ 
+ SNK Playmore Corporation
+ - For making this game. For also making King of Fighters in general the most
+   technical 2D fighter to date!
+
+ GameFAQs
+ - For hosting my work!
+
+
+==============================================================================
+ 6) CONTACT INFORMATION
+==============================================================================
+
+ IMPORTANT! READ THIS FIRST!
+ You are free to e-mail me to contribute information, correct mistakes or just
+ to give comments about this guide. But please do follow some rules:
+ 
+ 1) NO FLAMING of any kind and no foul language WHATSOEVER. If you want to
+    criticize my work, be constructive about it.
+ 2) NO L337 $pe@k and SMS lingo. These will be deleted on sight.
+ 3) Mails are to be in ENGLISH ONLY. You don't have to be grammatically 
+    perfect, just as long as I can understand it.
+ 4) DON'T send me basic combos. This is a move list, not a combo guide. Don't
+    ask for combos either.
+ 5) Do NOT send me anything you aren't sure of. Only mail me if you've seen it
+    being done or if you've tried it yourself. I don't put anything in here
+    that I haven't seen or couldn't do (at least not without notice), and
+    neither should you.
+ 6) Please check the most current version of the guide first before sending 
+    me a question or contribution.
+
+ PLEASE include the word 'faq' (without the inverted commas) in your subject
+ when you mail us, as we're running filters. You can mail us at:
+ 
+ <remove this>{cajun2164(at)yahoo[dot]com}<remove this too>
+
+Thanks for reading!
+
+
+
+

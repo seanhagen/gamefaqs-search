@@ -1,0 +1,2425 @@
+-------------------------------------------------------------------------------
+---------------------------[THE KING OF FIGHTERS 98']--------------------------
+--------------------------------[FAQ/Movelist]---------------------------------
+------------------------------[by Ice Queen Zero]------------------------------
+---------------------------------[Neo Geo CD]----------------------------------
+-------------------------------------------------------------------------------
+
+o---------------------o
+      INTRODUCTION
+o---------------------o
+This is the last word in the KOFs from '94 to '97. KOF '98 boasts a wealth of 
+characters from past titles, making this a true dream match. It includes the 
+Extra and Advanced Modes, and a basic game system that's a modified version of 
+KOF '97 with improved game balance to accommodate all its fans. 
+
+- KOF 10th Anniversary Site
+
+o---------------------o
+       DISCLAIMER
+o---------------------o
+King of Fighters 98' and its characters are trademarks of SNK n' all copyrights
+belong to them.
+
+This FAQ/Walkthrough is the sole copyright of Ice Queen Zero and cannot be put
+on other sites or posted without given permission nor can it be reproduced w/o
+proper consent.
+
+
+o--------------------o
+         TEAMS
+o--------------------o
+
+Esaka Team: Kyo Kusanagi, Benimaru Nikaido, Goro Daimon
+Fatal Fury Team: Terry Bogard, Andy Bogard, Joe Higashi
+Art of Fighting Team: Ryo Sakazaki, Robert Garcia, Yuri Sakazaki
+Ikari Team: Leona Heidern, Ralf Jones, Clark Steel
+Psycho Solider Team: Athena Asamiya, Sie Kensou, Chin Gentsai
+Women's Team: Chizuru Kagura, Mai Shiranui, King
+Kim Team: Kim Kaphawn, Chang Koehan, Choi Bounge
+Orochi Team: Yashiro Nanakase, Shermie, Chris
+97' Special Team: Ryuji Yamazaki, Blue Mary Ryan, Billy Kane
+Yagami Team: Iori Yagami, Mature, Vice
+Oyaji Team: Heidern, Saisyu Kusanagi, Takuma Sakazaki
+USA Sports: Heavy D!, Lucky Glauber, Brian Battler
+Edit Only: Shingo Yabuki, Rugal Bernstein
+EX Characters: Orochi Yashiro, Orochi Shermie, Orochi Chris, 95' Kyo, EX Terry,
+EX Andy, EX Joe, EX Ryo, EX Robert, EX Yuri, EX Mai, EX Billy, Omega Rugal
+
+
+o--------------------o
+        CONTROLS
+o--------------------o
+
+A button is for light punch
+B button is for light kick
+C button is for hard punch
+D button is for hard kick
+
+Press Start button to taunt the opponent.
+
+Press A, B, and C buttons simultaneously when dizzy or in a hold to have a 
+partner attack. However, no damage is done and the partner must be on good or
+neutral terms and within the screen to work.
+
+Press A, B, and C simultaneously in Advance Mode to power up a stock
+
+Hold A, B, and C buttons simultaneously to charge up the POW meter in Extra.
+
+Press A and B to roll in Advance Mode.
+
+Press A and B buttons simultaneously to dodge in Extra Mode.
+
+Press C and D buttons simultaneously to perform a knockdown attack.
+
+In advance mode only, press A and B buttons simultaneously while blocking to do
+a guard cancel roll (need a stock). C and D buttons while blocking does a guard
+cancel knockdown attack (need a stock).
+
+On the D-pad,
+
+     u
+  ub   uf
+b         f
+  db   df
+     d
+
+ub jumps backwards
+u jumps straight up
+uf jumps forwards
+f walks forward
+d crouches
+db blocks low attacks and standing attacks
+b blocks standing and jump attacks
+~ means to hold previous direction briefly before continuing the motion
+
+b or f + C tosses the opponent when nearby.
+f,f runs forward (Advanced) or hops forward (Extra)
+b,b hops backwards
+
+********************************PROTAGANIST TEAM*******************************
+
+Kyo Kusanagi
+Fighting Style : Ancient Kusanagi-style martial arts
+Birthdate : 12th December
+Nationality : Japan
+Blood Group : B (RH-)
+Height : 181 cm
+Weight : 75 kg
+Likes : Writing Poetry
+Fav. Food  : Barbecued fish
+Strong Sports  : Ice hockey
+Impt Things  : His motorcycle and girlfriend Yuki
+Hated Things  : Hard work
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Hachi Tetsu: close, b or f + C
+Issetsu Seoi Nage: close, b or f + D
+
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Ge Shiki: Goufu You: f + D
+Ge Shiki: Naraku Otoshi: in air, d + C
+88 Shiki: df + D
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+114 Shiki Aragami: d, df, f + A
+128 Shiki Kono Kizu: 114 Shiki Aragami, d, df, f + P
+127 Shiki Yano Sabi: 114 Shiki Aragami, f, df, d, db, b + P
+                     128 Kono Kizu, P
+125 Shiki Nana Se: 128 Kono Kizu, K
+                   127 Shiki Yano Sabi, K
+Ge Shiki Migiri Ugachi: 127 Shiki Yano Sabi, P
+115 Shiki Doku Kami: d, df, f + C
+401 Shiki Tumi Yomi: 115 Shiki Domu Kami, f, df, d, db, b + P
+402 Shiki Batu Yomi: 401 Shiki Tumi Yomi, f + P
+100 Shiki Oniyaki: f, d, df + P
+202 Shiki Kototsuki You: f, df, d, db, b + K
+R.E.D. Kick: b, d, db + K
+75 Shiki Kai: d, df, f + B, B or D, D
+910 Shiki Nue Tumi: d, db, b + P
+Ge Shiki Ryuu Iri: d, db, b + P (high counter)
+Ge Shiki Tora Fuse: d, db, b + P (low counter)
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Ura 108 Shiki: Orochinagi: d, db, b, db, d, df, f + P
+Mu Shiki: (d, df, f)x2 + P (C taunts after the move)
+
+---
+
+Benimaru Nikaido
+Fighting Style : Japanese version of Muey Thai (Thai kickboxing)
+Birthdate : 6th June
+Nationality : Japan (with American heritage)
+Blood Group : O+
+Height : 180 cm
+Weight : 68 kg
+Likes : Being the center of attraction
+Fav. Food  : Sashimi
+Strong Sports  : Clay disc shooting
+Impt Things  : Himself
+Disliked Things  : Otaku, regrets
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Catch and Shoot: close, b or f + C
+Front Suplex: close, b or f+ D
+Spinning Knee Drop: in air and close, b or f or d + C
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Jacknife Kick: f + B
+Flying Drill: in air, d + D
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Raijinen: d, df, f + P
+Kuuchuu Raijinken: in air, d, df, f + P
+Shinkuu Katete Koma: d, db, b + P
+Super Inazuma Kick: f, d, df + K
+Iai-geri: d, df, f + K
+Handou Sandan Geri: f, df, d, db, b + K
+Benimaru Collider: close, f, df, d, db, b, f + P
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Raikoken: (d, df, f)x2 + P
+Electrigger: close, (f, df, d, db, b)x2 + P
+
+---
+
+Goro Daimon
+Fighting Style : Judo + Self-created fighting techniques
+Birthdate : 5th May
+Nationality : Japan
+Blood Group : A+
+Height : 204 cm
+Weight : 138 kg
+Likes : Understanding nature
+Fav. Food  : Zaru soba
+Strong Sports  : Judo
+Impt Things  : His wooden shoes
+Hated Things  : Detailed machinery
+
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Juuji Shime: close, b or f + C
+Tsukami Tataki Tsuke: a step away, b or f + C
+Okuri Kyaku Harai: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Takara Tsubushi: f + A
+Zujo Barai: df + C
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Jiraishin: f, d, df + P (A acts, C fakes)
+Chou Ukemi: d, db, b + K
+Kumo Tsukami Nage: b, db, d, df, f + A
+Kirikabu Gaeshi: b, db, d, df, f + C
+Chou Oosotogari: close, f, d, df + K
+Tenchi Gaeshi: close, f, df, d, db, b, f + P
+Nekko Gaeshi: d, df, f + K
+Ura Nage: close, f, df, d, db, b, f + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Jigoku Gokuraku Otoshi: close, (f, df, d, db, b)x2+P
+Nekko Nuki: (b, db, d, df, f)x2 + K
+Zoku Kiri Kabu Gaeshi: Neko Meki, b, db, d, df, f + K
+Bukko Nuki Ura Nage: f, d, df + K
+Zoku Tenchi Gaeshi: f, d, df + K (MAX)
+
+********************************FATAL FURY TEAM********************************
+
+Terry Bogard
+Fighting Style : Martial arts taught by his father Jeff Bogard
+Birthdate : 15th March
+Nationality : America
+Blood Group : O+
+Height : 182 cm
+Weight : 82 kg
+Likes : Video games
+Fav. Food  : Junk food
+Strong Sports  : Basketball
+Impt Things  : Gloves from his father
+Hated Things  : Slugs
+
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Grasping Upper: close, b or f + C
+Buster Throw: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Back Knuckle: f + A
+Rising Upper: df + C
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Power Wave: d, df, f + P
+Burn Knuckle: d, db, b + P
+Crack Shoot: d, db, b + K
+Rising Tackle: f, d, df + P
+Power Dunk: f, d, df + K
+Power Charge: b, db, d, df, f + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Power Geyser: d, db, b, db, f + P
+High Angle Geyser: (d, df, f)x2 + K
+
+---
+
+Andy Bogard
+Fighting Style: Koppou (Basic knowledge of Shiranui Ninjitsu)
+Birthday: 16th August
+Nationality: America
+Blood Type: A
+Height: 172 cm
+Weight: 67 kg
+Fav. Food: Natto spaghetti
+Best Sport: Short track
+Impt Things: Photo of him and his master in his training days
+Hated Things: Dogs
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Gourin Kai: close, b or f + C
+Kakaekomi Nage: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Jou Agito: f + B
+Age Omote: df + A
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Zaneiken:db,f + P
+Gadankou: Zaneiken, d, df, f+P
+Hishouken: d, db, b + P
+Shouryuudan: f, d, df + P
+Kuuhadan: b, db, d, df, f + K
+Geki Kabehaisui Sho: close, b, db, d, df, f + P
+Genei Shiranui: in air, d, df, f + P
+Shimo Agito: Genei Shiranui, P
+Uwa Agito: Genei Shiranui, K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Chou Reppadan: d, db, b, db, d, df, f + K
+Hisho Ryuseiken: (d, df, f)x2 + P
+
+---
+
+Joe Higashi
+Fighting Style : Muey Thai (Thai kickboxing)
+Birthdate : 29th March
+Nationality : Japan
+Blood Group : AB+
+Height : 180 cm
+Weight : 71 kg
+Likes : Creating noises, brawling
+Fav. Food  : Deep-fried alligator meat
+Strong Sports  : All types of martial arts
+Impt Things  : Hachimaki (the bandanna on his forehead)
+Hated Things  : School
+
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Hiza Jigoku: close, b or f + C
+Leg Throw: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Low Kick: f + B
+Sliding: df + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Hurricane Upper: b, db, d, df, f + P
+Bakuretsu: P rapidly
+Finish: Bakuretsu, d, df, f + P
+Tiger Kick: f, d, df + K
+Slash Kick: b, db, d, df, f + K
+Ougon no Kakato: d, db, b + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Screw Upper: (d, df, f)x2 + P
+Bakuretsu Hurricane Tiger Kakato: d, df, f, df, d, db, b + P
+
+********************************KYOKUGEN TEAM**********************************
+
+Ryo Sakazaki
+Fighting Style : Kyokugen Karate
+Birthdate : 2nd August
+Nationality : Japan
+Blood Group : O+
+Height : 179 cm
+Weight : 75 kg
+Likes : Weekend Carpentry
+Fav. Food  : Mochi (rice cakes), natto (fermented soy beans)
+Strong Sports  : Sumo Wrestling
+Impt Things  : His recovered motorcycle, horse
+Hated Things  : Bugs with multiple legs
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Tani Otoshi: close, b or f + C
+Tomoe Nage: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Hyouchuu Wari: f + A
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Ko Ou Ken: d, df, f + P
+Kohou: f, d, df + P
+Hien Shippu Kyaku: f, df, d, db, b + K
+Kyokugen Renbuken: close, b, db, d, df, f + P
+Mouko Raijingoh: d, db, b + P (can follow with Kohou)
+Mouko Raijinsetsu: d, df, f + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Ryuuko Ranbu: d, df, f, df, d, db, b + P
+Haoh Shou Ko Ken: f, b, db, d, df, f + P
+Tenchi Haoh Ken: (d, df, f)x2 + P
+
+---
+
+Robert Garcia
+Fighting Style : Kyokugen Karate
+Birthdate : 25th December
+Nationality : Italy
+Blood Group : AB+
+Height : 180 cm
+Weight : 85 kg
+Likes : Collecting cars
+Fav. Food  : Sushi, yakisoba (japanese noodles)
+Strong Sports  : Motoring sports
+Impt Things  : His collection of cars
+Hated Things  : Rakkyoo (garlic)
+
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Ryuuchou Kyaku: close, b or f + C
+Kubikiri Nage: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Ryuu Han Shuu: f + B
+Kou Ryuu Gokyageri: f + A
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Ryuugeki Ken: d, df, f + P
+Ryuuga: f, d, df + P
+Hien Shippu Kyaku: f, df, d, db, b + K
+Kyokugen Ryuuren Mai Kyaku: close, b, db, d, df, f + K
+Ryuuzan Shou: f, d, df + K
+Hien Ryuujin Kyaku: in air, d, db, b + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Ryuuko Ranbu: d, df, f, df, d, db, b + P
+Haoh Shou Ko Ken: f, b, db, d, df, f + P
+Muei Shippuu Juudankyaku: (d, df, f)x2 + K
+
+---
+
+Yuri Sakazaki
+Fighting Style : Kyokugen Karate
+Birthdate : 7th December
+Nationality : Japan
+Blood Group : A+
+Height : 168 cm
+Weight : 54 kg
+Likes : Karaoke
+Fav. Food  : Sweet curry rice
+Strong Sports  : Softball
+Impt Things  : Friends, Ronnet's earrings
+Hated Things  : Octopus
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Oni Harite: close, b or f + C
+Silent Nage: close,b or f + D
+Tsubame Otoshi: in air and close, b or f or d + C
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Tsubame Tsubasa: f + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Ko ou Ken: d, df, f + P
+Chou Upper: f, d, df + P
+Double Chou Upper: Strong Chou Upper, f, d, df + P
+Raiou Ken: d, df, f + K
+Hien Shippu Ken: d, db, b + P
+Hien Shippu Kyaku: d, db, b + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Hien Hou'ou Kyaku: d, df, f, df, d, db, b + K
+Haoh Shou Kou Ken: f, b, db, d, df, f + P
+Hien Rekkou: (d, df, f)x2 + P
+
+
+********************************IKARI TEAM*************************************
+
+Leona Heidern
+Fighting Style : Martial arts + Heidern-style assasination techniques
+Birthdate : 10th January
+Nationality : Unknown
+Blood Group : B+
+Height : 176 cm
+Weight : 66 kg
+Likes : None
+Fav. Food  : Vegetables
+Strong Sports  : None
+Impt Things  : None
+Hated Things  : Blood
+
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Leona Crush: close, b or f + C
+Ordeal Buckler: close, b or f + D
+Heidern Inferno: in air and close, b or f or + C
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Strike Arch: f + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+Moon Slasher: d~u + P
+Grand Saber: b~f + K
+Gliding Buster: Strong Grand Saber: f + D
+X Caliber: d~u + K
+Baltic Launcher: b~f + P
+I-Slasher: d, db, b + P
+Earring Bakudan: d, db, b + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+V Slasher: d, df, f, df, d, db, b + P
+Rebel Spark: d, db, b, db, d, df, f + K
+Gravity Storm: (d, df, f)x2 + P
+
+---
+
+Ralf Jones
+Fighting Style : Martial arts + Heidern-style assasination techniques
+Birthdate : 25th August
+Nationality : America
+Blood Group : A+
+Height : 188 cm
+Weight : 90 kg
+Likes : Collecting knives
+Fav. Food  : Bubble gum
+Strong Sports  : Baseball
+Impt Things  : Badge of honour
+Hated Things  : Snakes
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Dynamite Headbutt: close, b or f + C
+Northern Lights Bomb: close, b or f + D
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Vulcan Punch: P rapidly (ABCD to cancel)
+Gatling Attack: b~f + P
+Kyuukouka Bakudan Punch: d~u + P or in air, d, db, b + P
+Super Argentine Backbreaker: close, b, db, d, df, f + K
+Ralk Kick: b~f + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Bari Bari Vulcan Punch: d, df, f, df, d, db, b + P
+Umanori Vulcan Punch: d, df, f, df, d, db, b + K
+Galactica Phantom: (d, df, f)x2 + P
+
+---
+
+Clark Steel
+Fighting Style : Martial arts + Heidern-style assasination techniques
+Birthdate : 7th May
+Nationality : America
+Blood Group : A+
+Height : 187 cm
+Weight : 89 kg
+Likes : Collecting guns
+Fav. Food  : Oatmeal
+Strong Sports  : Wrestling
+Impt Things  : His sunglasses
+Hated Things  : Slugs
+
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Nageppanashi German: b or f + C
+Fisherman Buster: close, b or f + D
+Death Lake Drive: in air and close, b or f or d + C
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Stomping: f + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Vulcan Punch: P repeatedly
+Super Argentine Backbreaker*: close, b, db, d, df, f + K
+Super Arabian Burgulary Backbreaker*: b, db, d, df, f + A
+Rolling Cradle*: b, db, d, df, f + C
+Napalm Stretch*: f, d, df + P
+Frankensteiner*: close, f, d, df + K
+Flashing Elbow: after * moves, d, df, f + P
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Ultra Argentine Backbreaker: close, (f, df, d, db, b)x2 + P
+Running Three: (b, db, d, df, f)x2 + K
+
+****************************PSYCHO SOLDIER TEAM********************************
+
+Athena Asamiya
+Fighting Style : Chinese Martial Arts + Psychic powers
+Birthdate : 14th March
+Nationality : Japan
+Blood Group : B+
+Height : 163 cm
+Weight : 49 kg
+Measurements : 83 cm, 57 cm, 82 cm
+Likes : Astrology
+Fav. Food  : Strawberry cakes
+Strong Sports  : Lacross
+Impt Things  : Peter Rabbit teacup set
+Disliked Things  : Grasshoppers
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Psychic Throw: close, b or f + C
+Bit Throw: close, b or f + D
+Psychic Shoot: in air and close, b or f or d + C
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Renwa Momo: f + B
+Phoenix Bomb: in air, d + D
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Psycho Ball Attack: d, db, b + P
+Phoenix Arrow: in air, d, db, b + K
+Psycho Reflector: f, df, d, db, b + B
+Neo Psycho Reflecter: f, df, d, db, b + D
+Psycho Sword: f, d, df + P
+Kuuchuu Psycho Sword: in air, f, d, df + P
+Psychic Throw: close, b, db, d, df, f + P
+Psycho Teleport: d, df, f + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Shining Crystal Bit: (f, df, d, db, b)x2 + P (ABCD to cancel)
+Kuuchuu Shining Crystal Bit: in air, (f, df, d, db, b)x2 + P (ABCD to cancel) 
+Crystal Shoot: either Shining Crystal Bit, d, db, b + P
+Phoenix Fang Arrow: (d, df, f)x2 + K
+
+---
+
+Sie Kensou
+Fighting Style: Superpowers and Chinese Kung Fu
+Birthday: 23rd September
+Nationality: China
+Blood Type: B
+Height: 172 cm
+Weight: 61 kg
+Fav. Food: Meat buns
+Best Sport: Soccer
+Impt THings: Stuffed toy given to him by a fan
+Disliked Things: Training
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Sunda: close, b or f + C
+Tomoe Nage: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Kobokushu: f + A
+Gousentai: f + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Choukyuudan: d, db, b + P
+Ryuu Gakusai: b, d, db + K
+Ryuu Renga Chiryuu: b, db, d, df, f + A
+Ryuu Renga Tenryuu: b, db, d, df, f + C
+Ryuu Renda: close, f, d, df + P (C rapidly)
+Ryuusoh Geki: in air, d, db, b + P 
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Shinryu SeiohRekkyaku: d, df, f, df, d, db, b + B
+Shinryuu Tenbu Kyaku: d, df, f, df, d, db, b + D
+Senki Hakkei: close, (d, df, f)x2 + P
+Nikkubun: (d, db, b)x2 + P
+
+---
+
+Chin Gentsai
+Fighting Style: Chinese Kung Fu (mainly Drunken Fist)
+Birthday: 27th April
+Nationality: China
+Blood Type: A
+Height: 164 cm
+Weight: 53 kg
+Fav. Food: Lemon salmon and lettuce with fried rice, among others
+Best Sport: Taking a walk, yo-yo tricks
+Impt: Alcohol
+Disliked Things: Pandas
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Gou Inshu: close, b or f + C	
+Gyaku Ashi Nage: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Suiho Hyoutanshuu: f + A
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Hyoutan Geki: d, db, b + A for Jaku, C for Kyou
+Ryuurinhourai: f, d, df + P
+Kaiten-teki Kuutotsu Ken: b, db, d, df, f + K or
+                          BogetsuSui or Suikan Kanou, f + K
+Suikan Kanou: d, d + P 
+Chou Shuuriku Gyo: Suikan Kanou, f + P
+BogetsuSui: d, d + K
+RouJu Hanhou: BogetsuSui, u + B
+Rigyu Hanhou: BogetsuSui, u + D
+Kisuishu: d, df, f + P
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Gouran Enpou: (d, df, f)x2 + P
+Gouen Shourai: d, df, f, df, d, db, b + P
+
+********************************WOMEN'S TEAM***********************************
+
+Chizuru Kagura
+Fighting Style : Kagura style of ancient martial arts
+Birthdate : 26th June
+Nationality : Japan
+Blood Group : AB
+Height : 169 cm
+Weight : 52 kg
+Likes : Sleeping, motorcycle racing.
+Fav. Food  : Spicy foods
+Strong Sports : Motorcycle Racing
+Impt Things : Pet Java Sparrow, Chee-Chan
+Disliked Things  : Unfairness
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Reigetsu: close, b or f + C
+Kaiten: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Jokatsu Zheng Zheng: f + A
+Jokatsu Cang Cang: f + B
+Jokatsu Cong Cong: df + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+100 Katsu Tenjin no Kotowari: f, d, df + P
+212 Katsu Shinsoku no Norito: f, df, d, db, b + A or B or C or D
+Tenzui: 212 Katsu Shinsoku no Norito, d, db, b + same button as earlier
+108 Katsu Tamayura no Shitsune: d, df, f + P
+202 Katsu Otsu Shiki Choumonnoisshin: d, d + A or B or C or D
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Ichimen Ikkatsu Sanrai no Fuijin: d, db, b, db, d, df, f + P
+Ichimen 85 Katsu Reigi no Ishizue: (d, df, f)x2 + K
+
+---
+
+Mai Shiranui
+Fighting Style : Shiranui-style Ninjitsu
+Birthdate : 1st January
+Nationality : Japan
+Blood Group : B+
+Height : 165 cm
+Weight : 46 kg
+Likes : Making osechi (soup with rice cakes specially for New Year)
+Fav. Food  : Ozouni
+Strong Sports  : Hane-Tsuki
+Impt Things  : Hairpin of deceased grandmother
+Disliked Things  : Spiders
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Shiranui Gourin: close, b or f + C
+Fuusha Kuzushi: close, b or f + D
+Yume-zakura: in air and close, b or f or d + C
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Benitsuru no Mai: df + B
+Kuro Tsubame no Mai: f + B
+Daiwa Fuusha Otoshi: in air, d + A
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Ka Chou Sen: d, df, f + P
+Ryuu En Bu: d, db, b + P
+Hisho Ryueijin: f, d, df + K
+Hissatsu Shinobi Bachi: b, db, d, df, f + K
+Hakura no Mai: f, d, df + P
+Musasabi no Mai: d~u + P or in air, d, df, f + P
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Chou Hissatsu Shinobi Bachi: d, db, b, db, d, df, f + K
+Houou no Mai: (d, db, b)x2 + P
+Kuuchuu Houou no Mai: in air, (d, db, b)x2 + P
+Sui Chou no Mai: (d, df, f)x2 + P
+
+---
+
+King
+Fighting Style : Muey Thai (Thai kickboxing)
+Birthdate : 8th April
+Age : 24
+Nationality : France
+Blood Group : A+
+Height : 175 cm
+Weight : 58 kg
+Vital Stats (cm) : Unknown
+Likes : Collecting wine glasses
+Fav. Food  : Vegetables
+Strong Sports  : Billiards
+Impt Things  : Her younger brother Jean
+Disliked Things  : Gross people
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Hold Rush: close, b or f + C
+Hook Buster: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Sliding Kick: df + D
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+
+Venom Strike: d, df, f + K
+Double Strike: (d, df, f)x2 + K
+Trap Shot: f, d, df + K
+Tornado Kick: f, df, d, db, b + K
+Surprise Rose: f, d, df + P
+Mirage Kick: f, df, d, db, b + P
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Illusion Dance: d, df, f, df, d, db, b + K
+Silent Flash: (d, db, b)x2 + K
+
+***********************************KIM TEAM************************************
+
+Kim Kaphawn
+Fighting Style : Taekwondo
+Birthdate : 21st December
+Nationality : Korea
+Blood Group : A+
+Height : 176 cm
+Weight : 78 kg
+Likes : Karaoke
+Fav. Food  : Korean barbecue
+Strong Sports  : Gymnastics
+Impt Things  : His wife and two sons
+Hated Things  : Evil
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Kubikime Otoshi: close, b or f + C
+Sakkyaku Nage: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Neri Chagi: f + B
+Dora YopChagi: f + A
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Hien Zan: d~u + K
+Oiuchi: Strong Hien Zan, d + D
+Hishou Kyaku: in air, d, df, f + K
+Han Getsu Zan: d, db, b + K
+Ryuusei Raku: b~f + K
+Kuusajin: d~u + P
+Sanren Geki: d, db, b + P up to 3 times
+Haki Kyaku: d, d + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Hou'ou Kyaku: d, db, b, db, f + K
+Kuuchuu Hou'ou Kyaku: in air, d, db, b, db, f + K
+Hou'ou Tenbu Kyaku: in air, d, df, f, df, d, db, b + K
+
+---
+
+Chang Koehan
+Fighting Style : Taekwondo + Power Attacks
+Birthdate : 21st October
+Nationality : Korea
+Blood Group : B+
+Height : 227 cm
+Weight : 306 kg
+Likes : Destruction
+Fav. Food  : Whole roasted sheep
+Strong Sports  : Table tennis
+Impt Things  : His iron ball
+Hated Things  : Centipedes, Training days
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Hagan Geki: close, b or f + C
+Kusari Jime: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Hiki Nige: df + A
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Tekkyuu Daikaiten: P repeatedly (ABCD to cancel)
+Tekkyuu Funsai Geki: b~f + P
+Tekkyu Hien Zan: d~u + K
+Dai Hakai Nage: close: f, df, d, db, b, f + P
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Tekkyuu Dai Bousou: d, df, f, df, d, db, b + P
+Tekkyuu Dai Assatsu: (d, df, f)x2 + P
+
+---
+
+Choi Bounge
+Fighting Style: Taekwondo + Speed attacks
+Birthday: 25th October
+Nationality: Korea
+Blood Type: B
+Height: 153 cm
+Weight: 44 kg
+Fav. Food: Crab
+Best Sport: New gymnastics
+Impt Things: The claws he made himself
+Hated Things: Konnyaku (a gelatinous candy)
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Zujou Sashi: close, b or f + C
+Geketsu Zuki: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Toorima Geri: f + B
+Nidan Giri: f + A
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Shissou Hishou Zan: b~f + P
+Senpuu Hien Shitotsu: b~f + K, dir + P/K for Houkou Tenkan
+Tatsumaki Shippuu Zan: d~u+P
+Hishou Kuuretsu Zan: d~u + K, dir + P/K for Houkou Tenkan
+Hishou Kyaku: in air, d, df, f+K
+Kaiten Hienzan: d, db, b + P
+Kishuu Hien Tsuki: Kaiten Hienzan, P
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Shin! Chouzetsu Tatsumaki Shinkuu Zan: (f, df, d, db, b)x2+P
+Houou Kyaku: d, df, f, df, d, db, b + K
+
+
+**********************************OROCHI TEAM**********************************
+
+Yashiro Nansake
+Fighting Style: Mainly based on striking techniques
+Birthday: 31th December
+Nationality: Japan
+Blood Type: O
+Height: 190 cm
+Weight: 99 kg
+Fav. Food: Menma eartips, ramen (esp. the instant kind)
+Best Sport: Swimming
+Impt Things: Amber
+Hated Things: Eggplants, narrow places
+
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Lever Blow: close, b or f + C
+Hatchet Throw: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Regret Bash: f + A
+Step Side Kick: f + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+Upper Duel: f, d, df + P
+Sledehammer: d, db, b + K
+Jet Counter: b, db, d, df, f + P
+Still: Jet Counter, d, df, f + P
+Mighty Missile Bash: f, df, d, db, b + P
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Final Impact: (d, df, f)x2 + P
+Million Bash Stream: d, db, b, db, d, df, f + P
+
+---
+
+Shermie
+Fighting Style: Centered mainly around throws (her speciality is the 
+bridge)
+Birthday: 13th February 
+Nationality: France
+Blood Type: B
+Height: 173 cm
+Weight: 68 kg
+Fav. Food: Fish 
+Best Sport: Figure skating
+Impt Things: Personal computer, her hamster
+Hated Things: Celery, high school baseball
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Shermie Flash Original: close, b or f + C
+Front Flash: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Shermie Stand: f + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Shermie Whip*: f, d, df + K
+Shermie Shoot: b, db, d, df, f + K
+Shermie Spiral*: close, b, db, d, df, f + P
+Axle Spin Kick: d, db, b + K
+Shermie Clutch*: f, d, df + K
+Shermie Cute: d, df, f + K after * moves
+
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Shermie Flash: close, (f, df, d, db, b)x2 + P
+Shermie Carnival: close, (b, db, d, df, f)x2 + P
+
+---
+
+Chris
+Fighting Style: Centered mainly on speed-based attacks
+Birthday: 3rd May 
+Nationality: Sweden
+Blood Type: AB
+Height: 160 cm
+Weight: 48 kg
+Fav. Food: Bhutan
+Best Sport: Orienteering
+Impt Things: Nature
+Hated Things: Gummy candy, people who playfully ruffle his hair, people who 
+tell lies
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Step Turn: close, b or f + C
+Aerial Drop: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Spinning Array: f + A
+Reverse Anchor Kick: f + B
+Carry Off Kick: df + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Slide Touch: d, df, f + P
+Scramble Dash: d, df, f + K
+Direction Change: f, d, df + P
+Hunting Air: f, d, df + K
+Shooting Dancer: Thrust: f, df, d, db, b + P
+Shooting Dancer: Step: f, df, d, db, b + K
+Glider Stomp: d, df, f + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Chain Slide Touch: (d, df, f)x2 + P
+Twister Drive: (d, db, b)x2 + K
+
+********************************97' SPECIAL TEAM*******************************
+
+Ryuji Yamazaki
+Fighting Style : Self-Made Brawling Deadly Arts
+Birthdate : 8th August
+Nationality : Japan
+Blood Group : A+
+Height: 192 cm
+Weight: 96 kg
+Likes: Collecting knives
+Fav. Food: Umazashi (sliced horsemeat)
+Strong Sports: None
+Impt Things: Anything that will profit himself
+Hated Things: Manual labour
+
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Shime Age: close, b or f + C
+Bun Nage: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Bussashi: f + A
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Hebi Tsukai (Joudan)*: d, db, b + A (delayable)
+Hebi Tsukai (Chuudan)*: d, db, b + B (delayable)
+Hebi Tsukai (Gedan)*: d, db, b + C (delayable)
+Hebi Damashi: D while holding * moves
+Sadomazo: b, db, d, df, f + K
+Sabaki no Aikuchi: f, d, df + P
+Bai Gaeshi: d, df, f + A for Kyuushuu, C for Danhassha
+Sunakake: f, d, df + D
+Yakiire: f, d, df + B
+Bakudan Pachiki: close, f, df, d, db, b, f + P
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Guillotine: (d, df, f)x2 + P
+Yamazaki Drill: close, (f, df, d, db, b)x2 + P repeatedly (up to 4 Levels)
+
+---
+
+Blue Mary Ryan
+Fighting Style : Commando style
+Birthdate : 4th Feburary
+Nationality : America
+Blood Group : AB+
+Height : 168 cm
+Weight : 49 kg
+Likes : Biking
+Fav. Food  : Beef
+Strong Sports  : Baseball
+Impt Things  : Her leather jacket from her ex-partner Butch
+Disliked Things  : Cats
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Victor Nage: close, b or f + C
+Head Throw: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Hammer Arch: f + A
+Climbing Arch: df + B
+Double Rolling: f + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Spin Fall: d, df, f + K
+M. Spider: d, df, f + P
+Straight Slicer: b~f + K
+Crab Clutch: Straight Slicer, d, df, f + K
+Vertical Arrow: f, d, df + K
+M. Snatcher: Vertical Arrow: f, d, df + K
+Reverse Facelock: d, db, b + B
+M. Head Buster: d, db, b + D
+Backdrop: close, f, df, d, db, b, f + P
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+M. Splash Rose: d, df, f, df, d, db, b + P
+M. Dynamite Swing: (d, df, f)x2 + K
+M. Typhoon: close, (f, df, d, db, b)x2 + K
+
+---
+
+Billy Kane
+Fighting Style : Boujutsu (Pole Techniques)
+Birthdate : 25th December
+Nationality : England
+Blood Group : B+
+Height : 179 cm
+Weight : 77 kg
+Likes : Doing laundry
+Fav. Food  : Egg dishes
+Strong Sports  : Pole vaulting
+Impt Things  : His younger sister (Lily)
+Hated Things  : Orders/Commands
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Jigoku Otoshi: close, b or f + C
+Ippon Zuri Nage: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Dai Kaiten Geri: f + A
+Boutaka Tobigeri: f + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Kyoushuu Hishou Kon: f, d, df + K
+Sensen Satsu Kon: f, d, df + P
+Sansetsu Kon Chuudan Uchi: b, db, d, df, f + P
+Kaen: Sansetsu Kon Chuudan Uchi, d, df, f + P
+Senpuu Kon: A repeatedly
+Shuutenren Hakon: C repeatedly
+Karyuu Tsuigeki Kon: d, db, b + B
+Suiryuu Tsuigeki Kon: d, db, b + D
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Chou Kaen Senpuu Kon: d, df, f, df, d, db, b + P
+Dai Senpuu: (d, df, f)x2 + P
+
+**********************************YAGAMI TEAM**********************************
+
+Iori Yagami
+Fighting Style : Ancient Yagami-style martial arts + instinct
+Birthdate : 25th March
+Nationality : Japan
+Blood Group : O+
+Height : 182 cm
+Weight : 76 kg
+Likes : Band
+Fav. Food  : Meat
+Strong Sports  : All
+Impt Things  : His girlfriend
+Hated Things  : Violence
+
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Sakahagi: close, b or f + C
+Saka Sakahagi: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Ge Shiki Yumebiki: f + A,A
+Ge Shiki Goufu In "Shinigami": f + B
+Ge Shiki Yuri Ori: in air, b + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+100 Shiki Oniyaki: f, d, df + P
+108 Shiki Yami Barai: d, df, f + P
+127 Shiki Aoi Bana: d, db, b + P (up to 3 times)
+212 Shiki Koto Tsuki In: d, db, b + K
+311 Shiki Sou Kushi: f, d, df + K
+Scum Gale: close, f, df, d, db, b, f + P
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Maiden Masher: d, df, f, df, d, db, b + P
+Eight Wine cups: d, db, b, db, d, df, f + P
+
+---
+
+Mature
+Fighting Style: Based mainly on speed attacks
+Birthday: 8th April 
+Nationality: Unknown
+Blood Type: O
+Height: 177 cm
+Weight: 58 kg
+Fav. Food: Poultry (especially chicken)
+Best Sport: Snowboarding
+Impt Things: Her legs
+Hated Things: Pidgeons, the Kagura clan
+
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Death Blow: close, b or f + C
+Back Rush: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Crematory: f + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Despair: d, df, f + P
+Da Cide: b, db, d, df, f + K
+Ebony Tears: d, df, f, f, df, d, db, b + P
+Metal Massacre: d, db, b + K
+Death Row: d, db, b + P (up to 3 times)
+Sacrilege: f, d, df + P
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Nocturnal Lights: (d, df, f)x2 + P
+Heaven's Gate: d, db, b, db, d, df, f + K
+
+---
+
+Vice
+Fighting Style: Based mainly on power techniques
+Birthday: 28th November
+Birthplace: Unknown
+Blood Type: A
+Height: 178 cm
+Weight: 59 kg
+Fav. Food: Plums
+Best Sport: Bench press
+Impt Things: Comic signed by Dan Brereton
+Hated Things: Saishu Kusanagi (Kyo's father)
+
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Death Blow: close, b or f+ C
+Back Rush: close, b or f + D 
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Monstrosity: f + A
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Da Cide: b, db, d, df, f + K
+Mayhem: d, db, b + P
+Blackend: close: b, db, d, df, f + P
+Mithan's Robe: Mayhem or Blackend, d, df, f + P
+Gore Fest: close, f, df, d, db, b, f + P
+Outrage: d, db, b + K
+Ravenous: d, db, b + K in air
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Withering Surface: (d, df, f)x2 + P
+Negative Gain: (f, df, d, db, b)x2 + K
+
+**********************************OYAJI TEAM***********************************
+
+Heidern
+Fighting Style: Martial Arts + Personal Style of Assassination Arts
+Birthday: September 1st
+Nationality: Unknown
+Blood Type: B
+Height: 192 cm
+Weight: 90 kg
+Fav. Food: Black Beer, Stuffed Wiener
+Best Sport: Hunting
+Impt Things: family picture
+Hated Things: none
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Raid Chel Har: close, b or f + C
+Backstabbing: close, b or f + D
+Critical Drive: in air and close, b or f or d + C
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Shooter Narnagel: f + A
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Cross Cutter: b~f + P
+Moon Slasher: d~u + P
+Neck Rolling: d~u + K 
+Storm Bringer: close, f, df, d, db, b + P
+Killing Bringer: f, df, d, db, b + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Final Bringer: (d, df, f)x2 + P
+Heidern End: d, db, b, db, d, df, f + K
+
+---
+
+Saisyu Kusanagi
+Fighting Style: Ancient Kusanagi-style martial arts
+Birthday: November 27th
+Nationality: Japan
+Blood Type: B
+Height: 177 cm
+Weight: 69 kg
+Fav. Food: curdy
+Best Sport: Golf
+Impt Things: his wife, Kusanagi pride
+Hated Things: Heights
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Hikiri Tsuchi: close, b or f + C
+Issetsu Seoi Nage: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Geshiki: Goutsui: f + A
+Geshiki: Kubutsuchi: f + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+100 Shiki: Oniyaki: f, d, df + P
+108 Shiki: Yami Barai: d, df, f + P
+702 Shiki: En Jou: d, db, b + P (up to 2 times)
+427 Shiki: Shinken: f, df, d, db, b + K
+100+ Shiki: Nata Guruma: f, d, df + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Ura 108 Shiki: Orochinagi: d, db, b, db, d, df, f + P
+1207 Shiki: Tobougai: (d, df, f)x2 + P
+
+---
+
+Takuma Sakazaki
+Fighting Style: Kyokugen-ryuu Karate
+Birthday: 4th February 
+Nationality: Japan
+Blood Type: O
+Height: 180 cm
+Weight: 88 kg
+Fav. Food: Milled rice, miso soup, kale pellets, vinegar-cured soybeans
+Best Sport:  All fighting arts
+Impt Things: His two children, his disciples, Kyokugen-ryuu Karate
+Hated Things: Insects with many legs
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Oosotogari: close, b or f + C
+Ippon Seoi: ckose, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Oniguruma: f + A
+Kawara Wari: f + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Ko Ou Ken: d, df, f + P
+Hien Shippuu Kyaku: db~f + K
+Mouko Murai Gan: d, db, b + P
+Zanretsuken: f, b, f + P
+Shourankyaku: f, df, d, db, b + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Haou Shikou Ken: f, b, db, d, df, f + P
+Shin Kishin Geki: close, (d, df, f)x2 + P 
+Ryuuko Ranbu: d, df, f, df, d, db, b + P
+
+******************************AMERICAN SPORTS TEAM*****************************
+
+Heavy D!
+Fighting Style: Boxing
+Birthday: March 25th
+Nationality: USA
+Blood Type: A
+Height: 208 cm
+Weight: 113 kg
+Fav. Food: Milk
+Best Sport: Wrestling
+Impt Things: Cat
+Hated Things: Fine Words
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Stomach Buster: close, b or f + C
+Reverse Stomach Buster: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Rock Crush: f + A
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Rolling Soul Diver: d, df, f + P
+Ducking Combination: d, db, b + P (up to 2 times)
+Blast Upper: d, df, f + K
+Soul Flower: d, db, b + K
+Dancing Beat: close, f, d, df + P
+Shadow: d, d + P
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+D. Magnum: (d, df, f)x2 + P (delayable)
+D. Crazy: d, db, b, db, d, df, f + P
+
+---
+
+Lucky Glauber
+Fighting Style: Basketball + Karate
+Birthday: December 2nd
+Nationality: USA
+Blood Type: AB
+Height: 222 cm
+Weight: 105 kg
+Fav. Food: Boiled Beans
+Best Sport: Baseball
+Impt Things: Basketball
+Hated Things: Noise of scratching glass
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Dunk Buster: close, b or f + C
+Lucky Crush: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES</pre><pre id="faqspan-2">
+                      o----------------------o
+
+Dunk Otoshi: in air, d + A
+Lucky Kick: f + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Death Bound: d, df, f + P
+Death Dunk: d, db, b + P
+Lucky Vision: d, df, f + K
+Cyclone Break: d, db, b + K
+Death Heel: f, d, df + K
+Death Shoot: d, d + A or B or C or D
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Hell Bound: (d, df, f)x2 + P
+Lucky Driver: close, (d, df, f)x2 + K
+
+---
+
+Brian Battler
+Fighting Style: Power Attacks
+Birthday: April 15th
+Nationality: USA
+Blood Type: O
+Height: 219 cm
+Weight: 152 kg
+Fav. Food: Mashed Potatoes
+Best Sport: Hunting
+Impt Things: Viper (car)
+Hated Things: Hardworking Efforts
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Atomic Drop: close, b or f + C
+Rock Buster: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Buster Tomahawk: in air, d + C
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Brian Tornado: b, db, d, df, f + P
+Brian Hammer: d, db, b + P 
+Double Hammer: Brian Hammer, d, db, b + P
+DDT: Double Hammer, d, db, b + P
+Tiger Driver: Brian Hammer, b, db, d, df, f + P
+Samurai Bomb: Tiger Driver, d, d + P
+Shoulder Backbreaker: Tiger Driver, d, d, d + P
+Buster Bomb: Shoulder Breaker, d,u + P
+Hyper Tackle: b, db, d, df, f + K
+Screw Body Press: in air, d, df, f + P
+Rocket Tackle: f, d, df + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+American Supernova: (d, df, f)x2 + P
+Big Bang Tackle: (d, df, f)x2 + K
+
+**********************************EDIT ONLY***********************************
+
+Shingo Yabuki
+Fighting Style : (Self-claimed) Ancient Kusanagi-style martial arts 
+taught by Kyo Kusanagi
+Birthdate : 8th April
+Nationality : Japan
+Blood Group : O+
+Height : 179 cm
+Weight : 71 kg
+Likes : A fan of 'Lizard Man'
+Fav. Food  : Microwave dishes
+Strong Sports  : Swimming, water polo
+Impt Things  : Life, his girlfriend, his student handbook
+Disliked Things  : Milk
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Hatsugane: close, b or f + C
+Issetsu Seoi Nage Fukanzen: b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Ge Shiki Goufu "Kakkodake": f + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+114 Shiki Aragami Mikansei: d, df, f + A
+115 Shiki Dokugami Mikansei: d, df, f + C
+Shingo Kick: b, db, d, df, f + K
+100 Shiki Oniyaki Mikansei: f, d, df + P
+101 Shiki Oboro Guruma Mikansei: d, db, b + K
+Shingo Kinsei Ore Shiki Tsuki Hiji: d, db, b + P 
+                                   then f, df, d, db, b + P if critical
+Shingo Kinsei Ore Shiki Nietogi: close, f, d, df + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Geshiki Kake Hourin: (d, df, f)x2 + P
+Burning Shingo: d, db, b, db, d, df, f + P
+
+---
+
+Rugal Bernstein
+Fighting Style : A Gesamtkunst composite with mastery of all fighting styles.
+Birthdate : February 10th
+Nationality : Unknown
+Blood Group : Unknown
+Height : 197 cm
+Weight : 103 kg
+Likes : none
+Fav. Food  : none
+Strong Sports  : All
+Impt Things  : Evil Heart
+Disliked Things  : Justice
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Scorpion Deathlock: close, b or f + C
+Scorpion Blow: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Double Tomahawk: f + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Reppuken: d, df, f + P
+God Press: f, df, d, db, b + P
+Dark Barrier: d, df, f + K
+Genocide Cutter: f, d, df + K
+Kaiser Wave: f, b, db, d, df, f + P (chargeable)
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Gigantic Pressure: d, df, f, df, d, db, b + P
+Dead End Screamer: (d, df, f)x2 + K
+
+
+***********************************LAST BOSS***********************************
+
+Omega Rugal Bernstein (non-playable for now)
+Fighting Style : A Gesamtkunst composite with mastery of all fighting styles.
+Birthdate : February 10th
+Nationality : Unknown
+Blood Group : Unknown
+Height : 197 cm
+Weight : 103 kg
+Likes : none
+Fav. Food  : none
+Strong Sports  : All
+Impt Things  : Evil Heart
+Disliked Things  : Justice
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Scorpion Deathlock: close, b or f + C
+Scorpion Blow: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Double Tomahawk: f + A
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Gravity Smash: d, df, f + P
+Kuuchuu Gravity Smash: d, df, f + P in air
+Banishing Rush: f, df, b, db, b + P
+Dark Barrier: d, df, f + K
+Dark Genocide: f, d, df + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Gigantic Pressure: d, df, f, df, d, db, b + P
+Rugal Execution: (d, df, f)x2 + P
+Destruction Omega: (d, df, f)x2 + K
+
+
+********************************EX CHARACTERS**********************************
+
+Orochi Yashiro
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Baku: close, b or f + C
+Beki: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Saku: f + A
+Bu: f + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Kujiku Daichi: d, db, b + P
+Odoru Daichi: b, db, d, df, f + K
+Niragu Daichi: close, b, db, d, df, f + P
+Musebu Daichi: close, f, df, d, db, b, f + P
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Araburu Daichi: (d, df, f)x2 + K
+Ankoku Jigoku Gokuraku Otoshi: (f, df, d, db, b)x2 + P
+Hoeru Daichi: (d, df, f)x2 + P
+
+---
+
+Orochi Shermie
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Bakurai: close, b or f + C
+Enrai: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Kourai: f + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Yatanagi no Muchi: d, db, b + P
+Shajitsu no Odori: d, db, b + K
+Mugetsu no Raiun: b, db, d, df, f + A or B or C or D
+Raijin no Tsue: in air, d, df, f + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Ankokou Raikoken: (d, df, f)x2 + P
+Shukumei Genei Shinshi: (d, df, f)x2 + K
+
+---
+
+Orochi Chris
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Chi no Batsu: close, b or f + C
+Ten no Tsumi: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Muyou no Ono: f + A
+Jukei no Oni: f + B
+Setsudan no Koto: df + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Taiyou wo Iru Honoo: d, df, f + P
+Kagami wo Hofuru Honoo: d, db, b + P
+Tsuki wo Tsumu Honoo: f, d, df + P
+Shishi wo Kamu Honoo: close, b, db, d, df, f + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Ankoku Orochinagi: d, db, b, db, d, df, f + P (delayable)
+Daichi wo Harau Gou Ka: (d, df, f)x2 + P
+
+---
+
+95' Kyo Kusanagi
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Hachi Tetsu: close, b or f + C
+Issetsu Seoi Nage: close, b or f + D
+
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Ge Shiki: Goufu You: f + D
+Ge Shiki: Naraku Otoshi: in air, d + C
+88 Shiki: df + D
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+108 Shiki Yami Barai: d, df, f + P
+100 Shiki Oniyaki: f, d, df + P
+101 Shiki Oboro Kuruma: b, d, db + K
+202 Shiki Kototsuki You: f, df, d, db, b + K
+75 Shiki Kai: d, df, f + B,B or D, D
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Ura 108 Shiki Orochinagi: d, db, b, db, d, df, f + P (delayable)
+
+---
+
+EX Terry Bogard
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Grasping Upper: close, b or f + C
+Buster Throw: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Back Knuckle: f + A
+Rising Upper: df + C
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Power Wave: d, df, f + P
+Burn Knuckle: d, db, b + P
+Crack Shoot: d, db, b + K
+Rising Tackle: d~u + P
+Fire Kick: b, db, d, df, f + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Power Geyser: d, db, b, db, f + P
+
+---
+
+EX Andy Bogard
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Gourin Kai: close, b or f + C
+Kakaekomi Nage: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Jou Agito: f + B
+Age Omote: df + A
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Zaneiken:db,f + P
+Gadankou: Zaneiken, d, df, f+P
+Hishouken: d, db, b + P
+Shouryuudan: f, d, df + P
+Kuuhadan: b, db, d, df, f + K
+Geki Kabehaisui Sho: d, db, b + P (up to 4 times)
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Choureppadan: d, db, b, db, d, df, f+K
+Otokochidan: (d, df, f)x2 + P
+
+---
+
+EX Joe Higashi
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Hiza Jigoku: close, b or f + C
+Leg Throw: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Low Kick: f + B
+Sliding: df + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Hurricane Upper: b, db, d, df, f + P
+Bakuretsu: P rapidly
+Finish: Bakuretsu, d, df, f + P
+Tiger Kick: f, d, df + K
+Slash Kick: b, db, d, df, f + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Screw Upper: (d, df, f)x2 + P
+Thunder Fire: (d, df, f)x2 + K
+
+---
+
+EX Ryo Sakazaki
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Tani Otoshi: close, b or f + C
+Tomoe Nage: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Hyouchuu Wari: f + A
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Ko Ou Ken: d, df, f + P
+Kuuchuu Ko Ou Ken: in air, d, df, f + P
+Kohou: f, d, df + P
+Hien Shippu Kyaku: f, df, d, db, b + K
+Zanretsuken: f, b, f + P
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Ryuuko Ranbu: d, df, f, df, d, db, b + P
+Haoh Shou Ko Ken: f, b, db, d, df, f + P
+
+---
+
+EX Robert Garcia
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Ryuuchou Kyaku: close, b or f + C
+Kubikiri Nage: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Ryuu Han Shuu: f + B
+Kou Ryuu Gokyageri: f + A
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Ryuugeki Ken: d, df, f + P
+Ryuuga: f, d, df + P
+Hien Shippu Kyaku: f, df, d, db, b + K
+Hien Ryuujin Kyaku: in air, d, db, b + K
+Gene'i Kyaku: f, b, f + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Ryuuko Ranbu: d, df, f, df, d, db, b + P
+Haoh Shou Ko Ken: f, b, db, d, df, f + P
+
+---
+
+EX Yuri Sakazaki
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Oni Harite: close, b or f + C
+Silent Nage: close,b or f + D
+Tsubame Otoshi: in air and close, b or f or d +  C
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Tsubame Tsubasa: f + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Ko ou Ken: d, df, f + P
+Raiou Ken: in air, d, df, f + K
+Saiha: d, db, b + P
+Hyakuretsu Binta: f, df, d, db, b + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Hien Hou'ou Kyaku: d, df, f, df, d, db, b + K
+Haoh Shou Kou Ken: f, b, db, d, df, f + P
+Shin! Chou Upper: (d, df, f)x2 + P
+
+---
+
+EX Mai Shiranui
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Shiranui Gourin: close, b or f + C
+Fuusha Kuzushi: close, b or f + D
+Yume-zakura: in air and close, b or f or d + C
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Benitsuru no Mai: df + B
+Kuro Tsubame no Mai: f + B
+Daiwa Fuusha Otoshi: in air, d + A
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Ka Chou Sen: d, df, f + P
+Ryuu En Bu: d, db, b + P
+Hissatsu Shinobi Bachi: b, db, d, df, f + K
+Musasabi no Mai: d~u + P or in air, d, df, f + P
+Sayochidori: d, db, b + K
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Chou Hissatsu Shinobi Bachi: d, db, b, db, d, df, f + K
+Hanaarashi: (d, df, f)x2 + P
+
+---
+
+EX Billy Kane
+
+                      o----------------------o
+                                THROWS
+                      o----------------------o
+
+Jigoku Otoshi: close, b or f + C
+Ippon Zuri Nage: close, b or f + D
+
+                      o----------------------o
+                            COMMAND MOVES
+                      o----------------------o
+
+Dai Kaiten Geri: f + A
+Boutaka Tobigeri: f + B
+
+                      o----------------------o
+                            SPECIAL MOVES
+                      o----------------------o
+
+Sansetsu Kon Chuudan Uchi: b, db, d, df, f + P
+Kaen: Sansetsu Kon Chuudan Uchi, d, df, f + P
+Senpuu Kon: A repeatedly
+Shuutenren Hakon: C repeatedly
+Kyoushuu Hishou Kon: f, d, df + K
+Karyuu Tsuigeki Kon: d, db, b + B
+Suzume Otoshi: d, db, b + P
+
+                      o----------------------o
+                            SUPER MOVES
+                      o----------------------o
+
+Chou Kaen Senpuu Kon: d, df, f, df, d, db, b + P
+Salamander Storm: (d, df, f)x2 + P
+Kuren Satsu Kon: (d, df, f)x2 + K
+
+o--------------------o
+        CREDITS
+o--------------------o
+
+SNK whom created the game
+KOF10th for the Introduction
+You for reading this FAQ
+GameFAQs and SBAllen for hosting the FAQ
+
+o---------------------o
+    	CONTACT ME
+o---------------------o
+azulfria[at]hotmail[dot]com 
+[at] = @ and [dot] = .
+Don't want any email bots.
+
+Thank you for reading
+
+-Ice Queen Zero

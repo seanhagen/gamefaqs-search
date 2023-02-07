@@ -1,0 +1,201 @@
+==============================================================================
+   _____  _____
+  / ____}/ ____}         Samurai Shodown
+( (__  ( (__            Special Moves Guide
+--\__ \--\__ \-(==       Version 1.0
+____) )____) )          01/06/93
+{_____/{_____/           By Jimmy Tu -- jtu@usc.edu
+
+
+******************************************************************************
+    DIRECTORY:
+     * Introducition
+     * History
+     * Projectile Weapons
+     * Special Moves
+     * Undefined Moves
+     * Appendix 1
+     * Appendix 2
+
+******************************************************************************
+INTRODUCTION
+============
+As special moves play a big part in fighting games today, players need to
+learn about all the pros and cons in using them.  This guide was started to
+try to answer people's questions about all the special moves in the game,
+Samurai Shodown.  It is an attempt to thoroughly explore the strategies
+needed for advanced samurais.  This can be read as an addendum to the SS FAQ,
+or just by itself would be fine, too.
+
+Note:  The guide is far from complete, as there are many blanks and question
+marks throughout the guide.  Any comments, corrections, and/or additional
+information would be appreciated.
+
+Mail them to: jtu@usc.edu
+******************************************************************************
+History
+=======
+
+Version  1.0:  Information on special weapons and special moves.
+
+******************************************************************************
+                              PROJECTILE WEAPONS
+                              ==================
+
+The following is a chart of the effects projectile weapons have on each other.
+Some may cancel each other out while, but there are some that won't because of
+difference in height and/or shape.  Eg. Jubei's Suigetsu Toh travels on the
+ground while Hanzo's Reppu Shuriken travels only in the air.  When the two
+passes nothing happens.  Naturally, the same weapon will cancel each other
+out.
+
+------------------------------------------------------------------------------
+
+Plasma Blade     PB
+Rush Dog         ?  RD
+Poison Blizzard  C  C  BB
+Reppu Shuriken   C  ?  C  RS
+Bakuen Ryuu      C  C  C  C  BR
+Senpuretsuzan    C  C  C  C  C  SN
+Suigetsu Toh     =  C  C  =  C  C  ST
+Fire fan         C  ?  C  C  C  C  =  Ff
+Mura Gaburu      C  ?  C  C  C  C  =  C  MG
+
+Legend:  C - cancels          = - passes through
+         ? - unknown
+
+** Uyko's Tsubame Gaeshi produces a projectile weapon, but it travels high in
+   the air in a parabolic path.
+   [see the UNDEFINED section for more information]
+
+******************************************************************************
+                                SPECIAL MOVES
+                                =============
+
+In SS, special moves have priority over others, so therefore it is important
+to have the knowledge to know when to execute it and when not to.  The
+following chart lists priorities of special moves against each other.
+Projectile weapons will always stop a special move. [exception: see Hoahmaru]
+
+
+------------------------------------------------------------------------------
+
+Power Gradation  PG
+Slash Fount      |  SF
+Fat Bound        |  |  FB
+Fat Chainsaw     |  ?  -  FC
+Ninja Twirl      |  -  -  ?  NT
+Butcher Thrust   T  T  -  |  ?  BT
+KogetsuZan       X  !  !  !  !  !  KZ
+Hasso Happa      X  ?  ?  ?  |  ?  X  HH
+Nikkaku Ratoh    |  ?  ?  ?  ?  ?  !  ?  NR
+Chobi Jishi      -  -  -  ?  ?  ?  ?  ?  ?  CJ
+Rotating Slash   ?  ?  ?  ?  ?  ?  !  ?  ?  ?  RS
+*Mutsube         ?  -  -  ?  ?  ?  ?  ?  -  ?  ?  *M
+Yatoro Pokku     ?  ?  ?  ?  X  ?  ?  ?  -  ?  ?  |  YP
+Paguna Deos      X  ?  ?  ?  |  ?  !  ?  ?  |  ?  ?  ?  PD
+Paguna Paguna    X  ?  ?  ?  ?  ?  !  ?  ?  |  ?  ?  ?  ?  PP
+Sasame Yuki      X  ?  -  ?  |  ?  X  X  -  ?  ?  ?  ?  ?  ?  SY
+Slicing Gust     ?  ?  ?  ?  ?  ?  ?  X  ?  ?  ?  ?  ?  ?  ?  ?  SG
+
+Legend:  - - move on side has priority  | - move on top has priority
+         T - both trade damage          X - not possible
+         ! - Hoahmaru's KogetsuZan, if timed right, can go through attacks and
+             even projectile weapons because of temporary invincibility, a la
+             SF2 - dragon punch.
+
+** All the Mutsube moves done by Nakoruru are basically
+   the same and therefore have the same priorities.
+
+******************************************************************************
+                             UNDEFINED (detailed)
+                             ====================
+
+Flame Fandango
+--------------
+The Flame Fandango has great priority because it acts like a projectile
+weapon, but it doesn't move.  It can cancel all [normal] projectile weapons,
+listed above, and acts as a good air defense, too.
+
+Amube Yatoro
+------------
+The Amube Yatoro also acts like a projectile weapon, but because the bird
+travels in an air to ground attack it can't be considered a true projectile.
+The bird has good priority, so it should be able to go through most special
+moves.  Only a projectile weapon can cancel it, eg. Hoahmaru's Senpuretsuzan.
+
+Ahau Gabara
+-----------
+Because there is a fireball, it's hard to compare it to a special move.  It
+can be compared to Nakoruru's Amube Yatoro and Wan Fu's Exploding Wave.
+Because it acts like a projectile weapon, it will stop a special move.
+
+Tsubame Gaeshi
+--------------
+This attack is like a two in one, an special move with aprojectile.  The
+projectile travels in a parabolic path,depends on the when the move was
+performed.  The flaming bird has the ability to cancel other projectiles
+while, the sword should have priority over all special moves.
+
+Exploding Wave
+--------------
+This nasty chucking of a sword is the most damaging special move in the game.
+The sword acts like a projectile and goes through all attacks, projectile and
+special.  Then the sword explodes to add some more damage, like a bomb going
+off.  There is no real counter against it except to block the initial impact
+and try to play keep away with Wan Fu.  Once you see Wan Fu turn Red and jump
+into the air, all you can do is block.
+
+******************************************************************************
+Look for the upcoming: "A Samurai's Guide to Unarmed Fighting"
+
+                       "Hoahmaru Strategy Guide"
+******************************************************************************
+This article is Copyright 1993 by Jimmy Tu.  All rights reserved
+==============================================================================
+                APPENDIX 1
+
+All physical projectile attacks (stars,skulls,fans..etc) can be sliced up by th
+e
+power gradation, slash fount, hasso happa or pagna pagna. Don't know
+about non-physcial projectiles though (plasma blades, Ryuusuigetsu toh's or
+Bakuen Ryuu's).
+
+==============================================================================
+                APPENDIX 2
+
+Rasheed Rankins
+> Plasma Blade     PB
+> Rush Dog         ?  RD
+> Poison Blizzard  C  C  BB
+> Reppu Shuriken   C  ?  C  RS
+> Bakuen Ryuu      C  C  C  C  BR
+> Senpuretsuzan    C  C  C  C  C  SN
+> Suigetsu Toh     =  C  C  =  C  C  ST
+> Fire fan         C  ?  C  C  C  C  =  Ff
+> Mura Gaburu      C  ?  C  C  C  C  =  C  MG
+>
+> Legend:  C - cancels          = - passes through
+>          ? - unknown
+
+the PB, Ff, and MG all cancel out the Rush dog.  i assume the RS would,
+too.  i may try it out today.  by the way, Jubei's Nikkaku Ratoh
+(Nikko Kurato?) plows through the rush dog.
+also about the rush dog:  a few times yesterday, i played galford
+vs. kyoshiro; i landed next to him, doing the motion for the Mauling
+Dog (Rush Dog w/C).  as i completed it, Kyoshiro hit me with a fire
+fan, but poppy was poised, ready, and UNAFFECTED!  bingo, the
+aforementioned dog proceeds to avenge the fact that her master just
+got nailed.  Kyoshiro says "sayonara" to his throat.  i like it.
+
+two other things:
+
+tam tam's Ahau Gaburu WILL nail the (usually computer) foolish
+opponent who tries to jump it.  the face rising out of the flames
+ain't just for looks...
+
+also, no matter what direction Wan-fu's exploding wave hits you from,
+you must block AWAY FROM BLUBBER BOY.  makes sense in a twisted, vague
+sort of way.  i suppose.
+
+============================================================================= 

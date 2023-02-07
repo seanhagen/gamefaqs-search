@@ -1,0 +1,341 @@
+
+ Article 30564 of rec.games.video.arcade:
+ Newsgroups: rec.games.video.arcade
+ Path: news.Hawaii.Edu!ames!elroy.jpl.nasa.gov!swrinde!ringer!fsyma
+ From: fsyma@ringer.cs.utsa.edu (Frank Syma)
+ Subject: Fatal Fury Special - Combo List
+ Message-ID: <1994Feb26.013526.6136@ringer.cs.utsa.edu>
+ Organization: University of Texas at San Antonio
+ Date: Sat, 26 Feb 1994 01:35:26 GMT
+ Lines: 329
+
+
+
+	I tried to combo with every special move in
+the game, including the death moves. Some just come
+out to slow to add to the combo. Anyways before
+I list the combos I have to mention a completely
+unique move in the game. The manual calls this move
+a guard attack. What you do is guard an attack, any
+attack, and before the attack hits push forward and
+hit the A button. You will do an attack from a block
+stun which has a few frames of animation that are 
+invinsible! This is because you are still blocking.
+This move works very good against rushing attacks and
+attacks coming from the a different level (background
+to foreground or foreground to backgroud). If you want
+comfirmation on this move just attack the computer from
+another level an it will use it on you.
+
+If you get real good at this move you can do it before
+a fast fireball hits you and the fireball will pass 
+right through you.
+
+
+Now on with the combos
+---------------------------------------------------------------------
+lp = light punch = A button
+lk = light kick  = B button
+hp = heavy punch = c button
+hk = heavy kick  = D button
+
+Terry Bogard - Martial Arts Expert
+----------------------------------
+"The moment we meet, it's game over for you, pal."
+
+	- flying hk + ducking lp + crack shot
+	- flying hk + ducking lp + burning knuckle
+	- standing hp + burning knuckle (let the hp hit twice)
+	- flying hk + standing lk + rising tackle
+	- flying hk + standing hp + crack shot (difficult if hp
+                        hits twice, but still possible)
+        - flying hk + standing hp + rising tackle (hp hits once)
+	- standing lp + lp + ducking lp + burning knuckle
+	- standing lp + lp + hp + burning knuckle
+	- flying hk + lk + burning knuckle
+	- flying hk + standing hk + burning knuckle
+	- flying hk + standing lk + crack shot
+	- flying hk + standing hk + crack shot
+	- standing lp + lp + ducking lp + crack shot
+	- flying hk + standing hp + crack shot
+	- standing hp + crack shot (let the hp hit twice and
+                time the crack shot to be buffered immediately
+                after second hit and it will hit twice for a
+                4 hit stun)
+	- standing lp + lp + ducking lk + burning knucle
+	- standing lp + lp + ducking lk + crack shot
+	- ducking lp + standing lk + rising tackle ( a flying hk
+                      can start it off but only if opponent is in
+                      the corner)
+	- flying hk + standing hp + ducking lk
+    *   - power wave + burning knukle ( must have right distance 
+                      and timing)
+    *   - power wave + crack shot
+
+
+Andy Bogard - The Baron of Bone-Breaking
+----------------------------------------
+"I stand above you. Invincible and Strong. You are nothing."
+
+	- standing hp + sonic split ( Ku ha dan)
+	- standing lp + ducking lk + dragon blast ( sho ryu dan)
+	- flying hk + standing lk + sonic split
+	- flying hk + ducking lp + ducking lk + zaneiken
+	- flying hk + standing lp + sonic split
+	- flying hk + ducking lp + dragon blast
+	- flying hk + standing lp + ducking lp + zaneiken 
+	- flying hk + standing hp + zaneiken 
+	- flying hk + standing hk + zaneiken 
+	- flying hk + ducking lk + sonic split
+	- flying hk + standing lp + ducking lk + sonic split
+	- flying hk + ducking lk + dragon blast
+    *   - fireball + zaneiken ( must have right distance)
+    *?  - sonic split + zaneikan (this shouldn't work but
+                    I have gotten it a few times. I think it 
+                    is possible it just takes perfect timing.)
+
+
+
+Joe Higashi - The Kick-Boxing Demon
+-----------------------------------
+"In a world where only the strong survive I would be king."
+
+	- flying hk + standing lp + standing hk
+	- flying hk + ducking lp + ducking hk
+	- flying hk + standing lp + lp + TNT punch
+	- flying hk + standing lk + TNT punch 
+	- flying hk + ducking lk + ducking hk
+    *   - hurricane upper + slash kick
+
+
+Big Bear - The Bone-Crushing Beast
+----------------------------------
+"Even when I hold back, you are still to small and weak."
+
+	- flying hk + standing lp + bear bomb (almost impossible)
+	- flying hk + ducking hk
+
+
+Jubei - The Judo Devil
+----------------------
+"I'll win the hearts and praises of all the young ladies"
+
+	- flying hk + standing lp + cookie cutter
+	- flying hk + standing lp + slide throw
+	- flying hk + standing lk + cookie cutter
+	- flying hk + standing lk + slide throw
+	- flying hk + standing hp + cookie cutter
+	- flying hk + standing hk + cookie cutter
+	- flying hk + standing lp + twist trick (needs good timing)
+	- flying hk + standing lk + twist trick (ditto)
+	- flying hk + standing hp + slide throw
+	- flying hk + standing hk + slide throw
+	- flying hk + lp + lp + lp + cookie cutter
+	- flying hk + lp + lp + lp + slide throw
+	- standing lp + lp + lp + lp + cookie cutter
+	- standing lp + lp + lp + lp + slide throw
+    *   - flying attack + flaming pile driver (death move combo)
+
+
+
+Cheng Shinzan - The Money-Grubbing Mauler
+------------------------------------------
+"Here's a tip...Don't fight me"
+
+	- standing lp + lp + lp + roll
+	- flying hk + lp + lp + lp + roll (the flying hk will
+			hit twice if timed right making this a
+                        6 hit combo that will stun)
+    *   - fireball + roll (requires perfect distance and timing)
+
+
+Kim Kap Hwan - The Tai Kwando Genius
+-------------------------------------
+"To let men in the world know of Tai Kwan Do...glorious"
+
+(Kim has a kick with the c button where a hp would be, I refer to 
+  this move as the c kick or ck)
+
+	- flying hk + standing hk + cresent moon slash
+            (his standing hk is an axe kick that hits twice you
+             can buffer the special move after the first or second
+             hit, changing it from a 3 hit to a 4 hit combo that
+             will stun most of the time)
+	- flying hk + standing ck + cresent moon slash
+	- flying hk + lp + cresent moon slash
+	- flying hk + lk + cresent moon slash 
+	- standing lp + lp + lp + lp + cresent moon slash
+	- standing lp + lk + cresent moon slash
+	- standing lp + lp + ck + cresent moon slash (the ck from
+		this range instead of close up will hit twice)
+	- flying hk + lp + lp + ck + cresent moon slash (stuns)
+	- flying hk + ducking lp + lp + flash kick (the last lp
+                 can be ducking or standing, ie. guile combo)
+	- flying hk + ducking lk + lk + flash kick (the same goes
+                 for the last lk only it is more difficult)
+	- flying hk + ck + flask kick (the ck can be ducking or
+                 standing)
+    *   - flying hk + axe kick + flurry of kicks (death move combo.
+                 This combo will drain an opponent's full life bar
+                 down to between a lp's amout or a hp's amout of
+                 energy left and will stun, making this the only
+                 true TOD of the game.)
+
+
+Mai Shiranui - The Enchanting Ninja Maid
+-----------------------------------------
+"Andy is the ONLY one I hesitate to fight with..."
+
+	- flying hk + lp + Ryuenbu (flame fandango)
+	- flying hk + lk + Ryuenbu
+	- flying hk + lp + Fan toss
+	- flying hk + lk + Fan toss
+	- lp + Flaming Tumbleweed (death move combo. The death
+                   move can be blocked but it can't be countered,
+                   so the blocked death move will hit 3 times
+                   taking the total damage of a throw or more)
+	- flying hk + Flaming Tumbleweed (the same goes for this one)
+
+
+Tung Fu Rue - The Schiziod Martial Arts Old Guy
+-----------------------------------------------
+"With age comes wisdom, and with that comes my power."
+
+( Treat the Lunge punge as you would Cammy's Cannon Drill, if
+  blocked you can be thrown or comboed. So if you are going
+  to use it in a combo make sure all previous attacks have hit)
+
+	- flying hk + standing hk + Lunge punch
+	- flying hk + standing hp + Lunge punch
+	- flying hk + lk + lk + Lunge punch
+	- standing lp + lp + lp + lp + ducking lp + Lunge punch
+	- flying hk + lp + lp + lp + lp + Lunge punch
+	- flying hk + lp + lp + hp + Lunge punch
+	- flying hk + lp + hk + Lunge punch (The hk will hit twice 
+                     so this combo will stun)
+	- flying hk + lk + hk + Lunge punch (ditto)
+	- flying hk + hp + Fireball (Shouha)
+	- flying hk + hk + Fireball (Shouha)
+	- Standing hk + Senpu-Gou-Ken (death move combo. The death
+                     move can be blocked but not countered and will
+                     more damage than Mai's blocked death move, I think)
+	- flying hk + hp + Shenpu-Gou-Ken (same as previous combo)
+
+
+Duck King - The Brutal Break Dancer
+-----------------------------------
+"So you wanna dance, huh?"
+
+( The Beat Rush will hit up to 3 hits and the last 2 are blockable.
+ The manual refers to the neele roll as \ + D, but this will do a
+                                         0
+ slide not a needle roll. The needle roll is | + D)
+                                             0
+
+	- Standing lp + lp + lp + Duck Roll
+	- flying hk + duckking lk + Duck Roll
+	- flying hk + standing hp + Duck Roll
+	- flying hk + duckking hp + Duck Roll (The duckking hp hits
+		    twice for a 4 hit combo that stuns most of the time)
+	- flying hk + hk + Duck Roll
+	- standing lp + lp + Beat Rush 
+	- standing hp + Beat Rush
+	- duckking hp + Beat Rush
+	- flying hk + duckking hp + Beat Rush
+	- standing hk + Beat Rush
+	- flying hk + lp + Break Storm
+	- flying hk + duckking lk + Break Storm
+	- standing lp + Break Storm (The Break Storm can hit 3 times
+                  although I have had little success with it)
+	- flying hk + standing hk + Slide
+	- flying hk + duckking hp + Slide
+	- flying hk + duckking lk + Slide
+	- flying hk + duckking lp + Slide
+	- flying hk + duckking lk + Needle Roll
+	- standing lp + lp + lp + duckking lk + Dancing Dive
+	- Duckking hp + Dancing Dive
+	- flying hk + duckking hp + Dancing Dive
+	- flying hk + standing hp + Dancing Dive
+	- flying hk + lp + duckking lk + Dancing Dive
+
+
+Billy Kane - The Vengeful Pole Pounder
+--------------------------------------
+"Remember what they say, the third times a charm. Your time is up!"
+
+
+	- flying hk + lp + Club Spin
+	- flying hk + ducking lk + Club Spin
+	- standing hp + Club Spin (The hp is his pole vault kick and
+                 must be done from a certain distance)
+	- standing lp + Flaming Pole ( unsure about this one because
+                 I'm not perfect with this move)
+
+
+Axel Hawk - The Iron-Knuckled Pugilist
+--------------------------------------
+"If you don't have a big guard, then you better have a big belly!"
+
+
+	- standing lp + Axel Dance
+	- flying hp + lp + Axel Dance
+	- standing bp + Axel Dance ( the bp will hit twice)
+	- flying hp + standing bp + lp + Axel Dance
+	- lp + Tornado Upper + Axel Dance (can be blocked, but it does
+                  good damage if opponent is in the corner)
+
+Laurence Blood - The Bloodthirsty Matador
+-----------------------------------------
+"The more blood I draw, the more fun I'll have."
+
+
+	- flying hk + lp + Bloody Spin
+	- flying hk + ducking lk + Bloody Spin
+	- flying hk + standing hk + Bloody Sword
+	- flying hk + standing hp + Bloody Spin
+	- flying hk + standing hk + Bloody Spin
+	- flying hk + standing hp + Bloody Sword (very powerful, but 
+		   doesn't stun. If you do it to someone who is stunned
+                   it is guaranteed to kill)
+	- flying hk + ducking hp + Bloody Spin
+	- flying hk + Bloody Flash ( Death move combo, very difficult)
+
+
+
+Geese Howard - The Conqueror of the Underworld
+----------------------------------------------
+"Anyone who dares to stand in my way will be crushed!"
+
+	- flying hk + ducking hp + Reppuken
+	- flying hk + standing hp + Reppuken
+	- flying hk + ducking hp
+	- flying hk + lp + lp + lp + lp
+	- flying hk + standing hk ( the standing hk will hit twice on
+                   the tall people and once on everybody else)
+
+
+Wolfgang Krauser - The Dreaded "Dark Kaiser"
+--------------------------------------------
+"Who comes next to be my goat?"
+
+	- flying hk + lp + Leg Tomahawk
+	- flying hk + lk + Leg Tomahawk
+	- flying hk + standing hp + Leg Tomahawk
+	- flying hk + ducking hp + Leg Tomahawk
+	- flying hk + standing hk + Leg Tomahawk
+
+
+Well there it is. I deleted several combos but nothing you can't find for
+yourself. A lot are just different by a lk instead of a lp or a ducking
+attack instead of a standing attack. I use flying hk to start most of the
+combos off but hp works just as good for most people. Enjoy.
+-------------------------------------------------------------------------
+   @____     @____  | 	 
+   [mmmm}    [____} | SNK - "The mother of all fighting game companies"   
+  [mmmmm}   [_____} |      
+   [mmmm}    [____} |  fsyma@ringer.cs.utsa.edu
+    [mmm}     [___} |
+                    |
+--------------------------------------------------------------------------
+
+
