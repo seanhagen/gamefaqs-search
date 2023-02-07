@@ -1,0 +1,675 @@
+Castlevania II: Simon's Quest
+NES 1988
+
+******************************************************************************
+Walkthrough writen by Colby Haymond 934400
+Walkthrough Started: 12/23/10
+Walkthrough Ended: 12/24/10
+Walkthrough Updated:N/A
+
+Walkthrough Version: 1.00
+
+Contact information: Colbysh@comcast.net & 934400FAQ@gmail.com
+
+******************************************************************************
+
+
+==============================================================================
+LEGAL INFORMATION
+==============================================================================
+
+To get this out of the way. I don't want this to be seen on any other website
+than the following:
+
+www.gamefaqs.com
+www.Neoseeker.com
+www.Supercheats.com
+www.cheatplanet.com
+www.gamesradar.com
+www.conkretegaming.com
+
+
+I am fine with people printing out the walkthrough and using it that way.
+I just don't want to see it on a website that I haven't posted above.
+
+
+==============================================================================
+INTRODUCTION
+==============================================================================
+
+Hello, my name is Colby Haymond, I have written several FAQ/Walkthroughs this
+is my third walkthrough of a game, my other two are Castlevania: SOTN and
+Lemony Snicket's a series of Unfortunate events. I wrote this Walkthrough
+because I have played Simon's Quest several times and I have grown to love
+the game. At first it is a hard & confusing game but it gets more fun the
+further you play through.
+
+This is a walkthrough of the game I don't really plan on adding FAQ content
+since I'm not too experienced with all this game has to offer, this is a
+simple guide. It's intent is to help you beat the game and offer you what
+each thing does and if it's worth your time. This game is one of the black
+sheep of the Castlevania fold but it is still a fun game. I'm using the
+Virtual Console version of this game, since I don't have an NES, they should
+be the same content wise and controls.
+
+The story to this game is after Simon had beaten Dracula (castlevania one)
+he had put a curse on the land. It is for Simon to travel around the land
+apparently collecting Dracula's body parts to ressurect him and kill him so
+he can rid the curse from the land. That's essentially what the story is, you
+go around towns,kill skeleton's and collect Dracula's body parts!!! Cool,
+let's dig in!!
+
+
+
+==============================================================================
+WALKTHROUGH
+==============================================================================
+
+ITEMS
+     WHITE CRYSTAL  50
+     HOLY WATER     50
+     THORN WHIP     100
+     DAGGER         50
+     CHAIN WHIP     150
+
+TOTAL HEARTS NEEDED 400
+APPROXIMATE LEVEL: 1
+-----------------------
+
+Alright we are now in the game, when you start up the game you should start in
+the town of Jova. Now exit the city through the right hand side of the town.
+You will now be in the Jova woods, you need to collect a total of 200 hearts.
+You start out with 50 so you technically need 150, hearts in this game are the
+currency to buy things, you will then buy with your 200 hearts a thorn whip,
+white crystal and holy water. When you are collecting your hearts the day will
+turn into night making the monsters stronger requiring a couple more hits than
+before. You also get higher returns because they are stronger, making your
+adventure to 200 hearts faster. If by any chance you didn't get 200 hearts in
+the night go to the town heal up at the local church at the top part of the
+town, if you have around 100 hearts go buy the thorn whip which is located in
+a door on the left side of the town use the "up" button to go in the door.
+Once in the door press the B button or 1 button to talk to him. He will offer
+100 hearts for the thorn whip. This will make getting the other hearts easier,
+since you have a stronger whip now. After you have finally gotten the hearts
+neccesary go back to town when it's morning, if it isn't morning keep killing
+monsters to get extra hearts. When you enter town take the stairs closest to
+you go up them and you will see a guy in a grey cloak talk to him to get the
+white crystal, then go into that door to buy the holy water. FYI all of those
+guys will ask you to buy things from them this what they will look like,
+sometimes in different color cloaks. Now pause and press down to get the arrow
+on the holy water, you can now use the holy water by pressing up B/1. Now that
+the grunt work has been down we can now adventure on, go back out of town the
+same way you came in.
+
+A rule I would like to set is, when it's morning you travel and buy things in
+town. At night that is when you farm for hearts and train Simon so he can get
+levels up, on even levels such as 2,4,6 he gets a life bonus meaning he gets
+more life bars that appear on the left side. The more hearts you have and the
+less you loose all 3 lives the less time you have to take to buy the crucial
+items that you will need.
+
+The first part of the woods you will encounter skeletons and wolves, with your
+new whip it takes one hit for skeletons and two for the wolves, in night that
+is. This next area is where you meet the merman who will jump up when you jump
+to a platform, make sure that you jump and swing your whip at the same time so
+if they do jump up you can hit them before they hit you. This new area you
+will have a choice to break the bricks in front of you with the holy water
+or jump on them and take that route, take the second option. The first one
+just takes more time. In the next area you will want to take the stairs down
+to the next village, if you are still morning then go to the town and buy a
+dagger and chain whip. Which will cost you 200 hearts total. If it is still
+night by the time you get to the second town farm hearts until you get to
+200, heal at the church if you need too. When you enter the rooms you will
+notice that they are empty, the first room you will have to break the two
+bricks at the bottom right of the room to talk to the scary looking guy.
+The next guy will be at the end of town you will have to walk up stairs to
+get to him. In this room you will have to break the floor bricks and travel
+down to buy the whip. Next go out of town the way you came, the left direction
+of town.
+
+=========
+RECAP
+=========
+
+This section is where I summarize what I just explained in the particular
+area.
+
+You started out in a town, you farm for hearts up to 200 so you could buy a
+white crystal, holy water and thorn whip. Next you traveled the countryside
+until your next town where you healed at the local church and bought the
+dagger & chain whip which will help you kill monsters a lot easier. Now you
+are headed towards the first Mansion.
+
+
+==============================================================================
+SECOND TOWN TO THE FIRST MANSION
+==============================================================================
+
+ITEMS
+     OAK STAKE      50
+     RIB OF DRACULA FREE.99
+
+       TOTAL        50 HEARTS
+APPROXIMATE LEVEL: 1
+------------------------------
+
+
+After buying your goods go out of town via the left hand direction of town, go
+back up the stairs and head in the right direction once up the stairs. Make
+sure you heal soon church's will become a luxury not commonplace anymore. The
+next area you will encounter another merman jump on the platform jump off to
+the otherside and the next area will be the first mansion to get a Dracula
+body part (oh yeah can't wait.)
+
+When you enter the mansion make sure the white crystal is selected if it is
+you will see two bricks floating up and down, if not you didn't select the
+crystal. Jump on the bricks and then jump on the area where you see the knight
+with a lance. Continue pressing to the right direction, you will see two 
+stairs leading you down or up, take the stairs that lead you to the upstairs.
+If you see a couple of blobs then you are in the right spot, continue moving
+to the left direction. At the end of the hallway will be a spot for you to
+jump on platforms to make your way up. YOu will have to plan your jump right
+before you are about to fall (you will have to do this for all jumps in this
+game.) Once up the stairs go to the direction opposite of the lancer knight.
+You should encounter some blobs, duck down and when they get close hit them
+with your whip. At the end of the hallway you will encounter two skeletons and
+some spikes, if you use the holy water at the two blocks at the bottom of the
+wall you will find a message saying "A symbol of evil will appear when you
+strike the stake." Except they misspelled appear to appaer, there are several
+misspellings like that one but you just deal with it. Now go back to where
+the Lancer was.
+
+Jump to the lancer and swing your whip then go up the stairs and kill the two
+skeletons that are up there. NOW here comes a tricky part, Konami thought they
+were cool by putting bricks that really don't support your weight. You will have
+to jump but you can't jump on the first two bricks you will have to jump to
+the third one or else you will fall, there are more in this game to let you
+know. The next area you should see that guy who likes to sell you things,
+below you continue going right. YOu could go down the stairs but just jump
+down to save you some time. Go down the second stairs and head left, then jump
+over the two bricks in front of you and head up the stairs that are right next
+to you. Then if you have 50 hearts go buy the Oak Stake from him and hit the
+wall with your holy water again to get this message "Destroy the curse and
+you'll rule Brahm's Mansion." In other words you will be the owner of this
+mansion once you beat Dracula, great you now have a house to live in. 
+
+Now that you bought the Stake DON'T USE IT UNTIL I TELL YOU TOO, IT IS NOT A
+SUBWEAPON LIKE I THOUGHT IT WAS. You only use it at the end of each mansion.
+Now head down the stairs where the lone skeleton is, next you will want to go
+to the right and head down a long and narrow hallway, you should see a blob.
+Hit the wall with your holy water to get another message saying "A flame
+flickers inside the ring of fire." I'm sorry I don't know what this means at
+the current time. Now go back and head down the stairs. Now that you are
+downstairs go right but be careful in the background you will see columns, the
+second one is a good frame of reference because the two bricks below it are
+those tricky bricks you will fall if you don't jump over them and you will
+have to traverse this stupid mansion from basically the beginning. After that
+lifebreaking decision you are now at the end where you get a piece of Dracula.
+
+Make sure you do all of the following, get Simon as close as you can to the
+orb that is on the small column, make sure he is facing the orb. Next equip
+the oak stake (it is the item to the far right of the holy water) once equip
+use it like you do the holy water, it should break the orb and you should
+now "Prossess" Dracula's rib, equip the rib like you did the white crystal,
+when you aren't doing anything (like standing) a shield will be shown and you
+can reflect projectiles that come your way. Now head back and this time fall
+down where I told you to jump over this way is easier to back track since you
+don't have as much area to cover, congratulations you beat the first mansion.
+
+
+
+=========
+RECAP
+=========
+
+After you have bought the dagger and chain whip head back to the area that
+you were just at then head in the right direction. You will then be in the
+first mansion. You will essentially go in a clockwise direction in the
+mansion. You will find several riddles in the walls of the mansion. You will
+then come accross the guy who sells you things this time he wants to sell you
+an oak stake, buy it if you have the hearts, if not farm for them. You will 
+now come accross an area that is very straight, in the background is columns,
+the second one to the right is the one you are concerned with. The bricks that
+touch it are the stupid fake bricks jump over them. Then use the Oak stake and
+make sure you are in the direction of the orb when you use it, now you possess
+the rib of Dracula proceed out of the mansion and back to the town where you
+bought the chain whip and dagger to heal up.
+
+
+==============================================================================
+SECOND TOWN REVISITED TO THE SECOND MANSION
+==============================================================================
+
+ITEMS
+     GARLIC(2)       50 A PAIR
+     LAURELS (4)     50 A PAIR
+     SACRED FIRE     FREE
+     SILVER DAGGER   PRICE OF ONE GARLIC
+     OAK STAKE       50 
+     DRACULA'S HEART FREE     
+             
+             TOTAL 200 HEARTS
+APPROXIMATE LEVEL:2
+-------------------------------------- 
+
+
+Now that you made it back to the second town to get healed you now need to go
+back to the entrance of the first mansion, I'm sorry to keep you going back
+and forth this game is a very not forgiving game so healing is so worth it, if
+by some chance you don't need to get healed then head to the right direction.
+This next area will introduce you to the new monster the bat, just as annoying
+as ALL the other Castlevania's, take the upper path don't bother to break the
+rocks those paths are usually the stupid and pointless ones to take. This next
+area will also introduce you to the spider which are pretty dangerous if you 
+dwell too long by them the web can be deflected by the whip but is pretty hard
+to do so, so just hit them if they are conveient otherwise just blaze past
+them.
+
+With this new area you will be in a cave looking background, the only thing
+you have to do here is just go straight right and into the next area. This
+next area will have eyeballs and bats, they take one hit to kill. When you get
+to the bricks that are at the bottom hit them with your holy water then travel
+to the end and destroy the bricks there to gather the holy flame which is a
+very good sub weapon of killing Dracula with. Now exit to the next area.
+
+This area will have spiders and skeletons be careful of the spiders. Now go to
+the town if it is morning if it isn't keep farming for hearts and experience
+until it is. Then buy Garlic, Laurels (buy twice for 4) and at the top of the
+town trade your white crystall for a blue one they unfortunately don't have a
+church to heal so hopefully your aren't too low on health. When it is night
+time make sure you go to the graveyard that is to the right of this town, use
+the garlic you just acquired and throw it on the ground next to where you will
+walk out of. Now that everything here is taken care of go back two areas to 
+where they had stairs for you to walk down on.
+
+WHen you walk down the stairs and enter the new area you will be in the area
+that looked like you were in a cave. Jump onto the platforms and stay on the
+platforms, there are the eyeballs that may give you trouble make sure you kill
+them when you are in position, going backwards to kill them is a smart thing
+so you don't die since you can't hit them. Keep going on the upper path then
+jump down. Now you are probably thinking to yourself what in the heck is a
+water doing here and most importantly how do I cross it? Have no fear we will
+cross it together like Moses did with the people of Israel. Turn on the pause
+menu and select the blue crystall and have Simon duck down and wait for the
+water to dissappear making it possible for you to go down and into the next
+Mansion. (Konami they were creative people,LOL.)
+
+Once you are in the mansion keep going to the right and skip the stairs. You
+will then have to jump  to make it to the platforms, the second platform will
+look like you can't jump past it, but you can. Next jump over the water spots
+and continue going right. YOu will then find a moving platform, stay where you
+are wait for it to come to you then jump on it and then jump onto the platform
+that is stationary. Next go down to where the spikes are and be careful, that
+is where you will get the Oak Stake buy it from him. Next go back to where the
+moving platform is and jump onto the platform and go to the top of where you
+bought the oak stake from. You will have to be careful since there are two
+spots that align exactly with the spikes making it easy for you to die. At the
+end break the brick and you will get the message "Destroy the Curse with
+Dracula's heart." Now that you have the Oak Stake go back only past the moving
+platform, you will see a set of stairs go up them, then go up the next two.
+You will then make your descent down a couple of platforms in the right hand
+direction. Next go up the stairs that has two lancers by them. You will now
+have to make very precise jumps here or else you will fall and have to make
+your way back up since you will fall pretty far down.
+
+Now that you made it up here you will notice that this mansion is apparently
+under water or it has a pool on the roof of the mansion. Either one works for
+me. Now keep pressing in the right hand direction. At the end of the hallway
+you will break the wall and get this message "Garlic in the Graveyard summons
+a stranger." Hopefully you have already done that at the past town, the one
+that doesn't have a church to heal at. Now drop down the small hole and use
+the oak stake of the orb to receive Dracula's heart, hooreay!!! Now blow this
+popsicle stand and get out of this mansion.
+
+Now you will have the fun of backtracking all the way to Jova which is the
+first town and the one you started out on. You will have to keep going in a
+left direction you should pass the first mansion, if you do you are heading
+in the right direction.
+
+
+=========
+RECAP
+=========
+
+We did a lot in this section, you went back to the second town to get healed
+since the third town are too holy to have a church. Then you left the town in
+the left hand direction, then went up the stairs and went in the right hand
+direction. Next you will get to a town where you bought a pair of garlic and
+two pairs of Laurels which will come in hand later in the game and a chain
+whip to keep up on the ever increasing monsters. Then after you will head all 
+the way to the top left of the town and trade a guy the White Crystal for a
+Blue one. Now that it will get to be dark, go to the right of the town and
+throw down a garlic a man that looks just like the man who sells things to
+you will give you a silver knife. Now exit the graveyard and town, then go
+down the stairs which will eventually lead you to an area with water in which
+you can't cross, you will equip the blue crystal and have Simon duck. Wait for
+a second or two and the water will decrease allowing you to jump down and into
+the second mansion.
+
+In the mansion you will keep going straight (right) don't go up any stairs.
+You will then jump onto platforms and the second one will make you think that
+you are at a dead end, the bricks are fake so you can jump through them. The
+next area will be where you see two bricks that move back and forth jump onto
+them and jump to the stationary bricks jump down to buy the oak stake. Next go
+back past the moving bricks and up the stairs that are exactly past the moving
+bricks. Climb up them and you will be in a pretty straight forward position
+where you will eventually get to the orb to use the Oak Stake, then you will
+have to leave the Mansion and backtrack ALL THE WAY BACK TO JOVA WHICH was the
+first town on this game.
+
+
+==============================================================================
+JOVA REVISITED TO THIRD MANSION
+==============================================================================
+
+ITEMS
+     OAK STAKE          50
+     GOLDEN DAGGER      blood and sweat from killing death
+     DIAMOND            FREE
+     DRACULA'S EYEBALL  FREE
+             
+             TOTAL      50 HEARTS
+APPROXIMATE LEVEL:2
+-----------------------------------------------------------
+
+Now that you have painstaking backtracked make sure you are healed. We are
+going to the third mansion which is a tricky way to get there, this mansion
+was one that I did after the fifth mansion because there is a trick to getting
+there that makes it easy to forget. Now after you are ready go to the left
+hand side of the town and exit that way. You should face some pretty scary
+looking monsters, they are easy to kill but from here own are some pretty
+tough monsters to face.
+
+Further in this area is a swamp you will want to use one Laurel to get through
+it, it is a small area there is a huge one in which you will need the rest of
+the Laurels to get past. After you get past the swamp pause and switch from
+the rib to the heart, then talk to the ferryman, here is where you will get to
+the third mansion. IF you didn't equip the heart you would have gone right
+past the third mansion, crazy right?!
+
+Jump off of the ferryman and continue in the left hand direction. You will
+find yourself in the third mansion. Now head right then climb up the stairs.
+Next climb up the next two set of stairs, once up the second set of stairs
+head left and up those stairs. Then head right and up those stairs, then after
+fighting two skeletons go up the next set of stairs. If you have encounter
+those jumping gargoyle things then you are in the right spot, at this point
+go to the right, the left is a way for you to get out faster. You should now
+be in a new area that has two flying gargoyles, after killing them head down
+the stairs. At the end of the stairs will be a Lancer be careful to not get
+hit by him and fall into the spikes after you kill him use the holy water on
+the bricks in the corner which reads "Wait for a soul with a red crystal on
+Deborah cliff." I guess this is how Konami will justify a furture event that
+you will get to when you trade the blue crystal for the red one!!
+
+After receiving that insight from the riddle head to the new area to the left.
+In the new area you should see that guy who wants to sell you the coveted Oak
+Stake, buy the Stake then head down the platforms. Now head down several
+stairs. Next walk into the next room that is on the right in this hallway is
+three bats that will be overhead, go to the next room which you will encouter
+Death he throws scythe's at you, you can deflect them with your whip, the holy
+fire is a good sub weapon to use he will stop when you use it on him. After
+you defeat him you will get the golden knife which is a stronger version of
+regular and silver knife, it also requires hearts. After killing death (HAHA)
+go to the next room to get Dracula's eyeball. Now backtrack all the way back
+to the entrance of the third mansion, next go to the left. You will face some
+fairly strong enemies if you face them in the night, you will also have to
+jump on platforms to get to the other side, make sure you jump when then are
+at the peak of their height you will only be able to make it to the other one
+if you do it correctly. There is a dead end which has that same scary guy, he
+will graciously give you a diamond which really doesn't do much it is like the
+rebound stone in Symphony of the Night. Now go back to the ferryman.
+
+
+=========
+RECAP
+=========
+
+You finally made it to the first town you headed in the left hand direction.
+You equiped the heart when you came to the ferryman because of the heart he
+took you to a different place, you then made your way to the third mansion.
+While you were there you found some insight into what the red crystal does,
+(I was going to tell you) you once again found the guy and bought an oak stake
+then you fought Death who requires a lot of hitting and use of the holy fire.
+After he was dead you received the golden dagger a stronger version of the
+regular and silver dagger. You then went to the next room and use the Oak
+Stake to break the orb and get the eyeball of Dracula. You then traversed 
+through the mansion and went to the entrance of the mansion. YOu then went
+left and continued that way to find another weird guy who would give you a
+diamond which works like the rebound stone from Castlevania SYmphony of the
+Night, which is a stone that will richochet when it hits ground. You then went
+back to the ferryman and he took you to the fourth town, Aldora.
+
+
+==============================================================================
+FOURTH TOWN (ALDORA) TO FOURTH MANSION
+==============================================================================
+
+ITEMS
+     MORNING STAR     200
+     DRACULA'S TOOTH  FREE
+
+                TOTAL 200
+APPROXIMATE LEVEL:2-3
+----------------------------
+
+When you get to the ferryman stay on him, he will take you back to where you
+originally came from, stay on him because you need to go that direction. It
+may seem weird but you have to go the way we just came from to get to the
+other mansions in this game. You should now be in another town if its dark
+like it annoyingly is you will have to farm since you will soon be needing
+200 hearts for the coveted morningstar. The items we need in this town is to
+get the red crystal if you need Laurels and Garlic you can buy them but the 
+Laurels are only needed if you don't have more than 2. To get the red crystal
+talk to the guy who just like the one who traded us the white crystal for his
+blue one, he is alone and closer to the right side of the town, after doing
+that go to the left side of town and exit.
+
+In this next area you will face more blobs and skeletons that shoot fireballs
+at you, all you need to do is get close then stop so your shield can block it
+then you can swing your whip when they aren't shooting fireballs at you. In
+the next area you will find another monster which looks like the skeleton next
+to it but isn't, if you kill it you can get more hearts and experience. Next 
+go down the stairs and jump on those platforms, they do have some fake bricks
+so if you fall use one of your laurels you should be able to get accross with
+just one Laurel. Now in this next section it has very strong monsters which
+require lots of hits of your whip, be careful the blobs are going to be the
+most difficult make sure you get them before they jump too much around you,
+if you got to the end at night use a garlic if you don't go back to town and
+get one. Use the garlic and the same guy will appear and give you a silk bag
+which I believe gives you more space to get Laurels and Garlics with. Now go
+back to the next area. Once you get there you will now go left instead of
+taking the detour down to the graveyard, after you have gone a little bit you
+will find another town called Olden like usual if it is night time farm for
+hearts.
+
+When it is morning if you need laurels you get them on the right side of town.
+At the top of the town is a door which leads to you buying the Morning star,
+you SHOULD buy the morning star it is stronger and will help by requiring less
+hits from the whip. It does require 200 hearts so if you have the hearts go
+get the Morning Star, then proceed to the left side of the map.
+
+In this next area you will face the flaming head things and a mummy. Next you
+will have to jump over the bricks, like last time remember to jump when the
+bricks are at the peak of their height. After the stones comes an amazing
+event you are about to witness having the red crystal equipped go by the
+rock and duck down then wait. . . . . . . . . . . . for a Twister/Tornado to
+come and pick you up and drop you off by the fourth Mansion!!!
+
+Entering the fourth mansion you will come accross a Lancer and some skeletons.
+Climb up the next five stairs before you climb the fifth and final stair
+watch out for the fake bricks that are by it make sure to jump over them. Now
+that you are all the way up go to the right, then keep going right then you
+will choose from going down or up go to the up path and jump through the top
+two bricks to be in another area.
+
+Keep going down, after going down the two platforms you will have to quickly
+kill the skeletons before they take too much life out of you. Then go right
+and hit the 2X2 bricks at the bottom with the holy water and jump through and
+kill the skeleton. THen go right and you will go past an area that has two set
+of spikes on the ground go past and up the stairs and head left where you will
+use the holy water to break the two bricks that were previously above you.
+When you do it will be another riddle saying "The curse has killed the Laurel
+Tree." Then jump down and head right and then head down the stairs. You will
+then get to a point where you think you are at a dead end but you aren't go to
+the left and you should go past some fake bricks, then walk left there isn't
+any fake bricks in which you will drop down from you will then see the guy who
+sells the Oak Stakes. Then go left and you will drop down kill the skeleton
+and head left, then jump down and head right. Then in this room is where you
+will use the Oak Stake to get Dracula's Nail, then walk all the freakin way
+back to the entrance of this mansion.
+
+
+
+=========
+RECAP
+=========
+
+This was a big section that we accomplished, you came back to the ferryman
+to take you to the right direction not the unknown way. When you got off of
+the ferryman you went to the town of Aldora and traded your blue crystal for
+a red one. Next you went to the graveyard and dropped a garlic which appeared
+the weird guy who sells you things but he gave you a silk bag which allows you
+to hold more garlic and laurels. Next you headed out of the graveyard and in
+the direction of Oldon town in this town you hopefully bought the morningstar
+which will give you more power to rip through the enemies. With the red 
+crystal you used on Deborah cliff by ducking down and waiting for a Twister
+of all things to come and pick you up and take you directly to the fourth
+mansion.
+
+At the fourth mansion you had to go around the top of the mansion and make
+your way to the far right end of the mansion and drop down and go left to
+find that the Oak Stake guy is hiding above where you get Dracula's body part.
+You then dropped down and went right and used the stake to get Dracula's tooth
+then you left the mansion and went to the Fetra town that is on the right of
+the mansion to heal yourself then you went back to the mansion ready to take
+on the next section.
+
+
+
+
+==============================================================================
+SECOND LAKE TO FIFTH MANSION
+==============================================================================
+
+ITEMS
+     OAK STAKE        50
+     LAURELS          GIVEN TO YOU
+     DRACULA'S RING   FREE
+                
+                TOTAL 50 HEARTS
+APPROXIMATE LEVEL: 3-4 IF NOT HIGHER
+-------------------------------------
+
+Now that you are out of the mansion head in the right direction you will be in
+a fairly easy area they all take two hits, then you will be in a new town, the
+main thing you want to do is heal since getting healed is a luxury now since
+only a few towns have church's. After healing make your way back to the
+mansion, once you get there you will now go the left direction. You will come
+accross another water section just do the same thing you did last time, the
+red crystal still works like the blue one.
+
+In this next section the only main concern here is to upgrade your morningstar
+into a flaming morningstar to do this jump over the one brick and then jump
+onto the platforms that move up and down once at the end use the holy water
+to break the bricks then jump over and talk to the guy who will give you the
+best whip you can get in this game!! Next climb up the bricks and head left
+you will have to face some floating skeleton heads but that is pretty much it.
+Don't waste your time with the top part of this area.
+
+This new area will introduce you to the fireman dispatch him quickly his
+little fireballs he throws at you are hard to deflect he takes two hits. In
+this next area is what I have been preping you for, all of the laurels you
+have will pretty much go to this next spot. This is a huge swamp that will
+take a toll in your life even if you had full life it would still kill you
+to walk past it, this is where the laurels come in you will have to use about
+3 Laurels so you should be fine if you have six Laurels. Now walk through but
+don't worry about the monsters just keep walking. After crossing that swamp
+you will be at the entrance to the final Mansion!!
+
+
+In the mansion go to the right and jump on the bricks and go up the stairs.
+Once up the stairs jump onto the platform on the right and continue going to
+the right you will jump over some bricks then skip the stairs that lead down,
+jump over some more bricks and you will be in a new area. In this new area
+jump on the platforms to in the upward way, keep going right and you will come
+accross spikes if you haven't noticed until now like I did every time you buy
+an Oak stake from him he is always by spikes, except however to the guy on the
+fourth mansion but the others apply.
+
+Now that you have the Oak Stake go back to the left and go down to where you
+just entered. Next continue going down until you meet another guy but this
+time he is giving you laurels, jump ontot he platform and watch out for the
+spikes that will shoot up, if you would like you can use a laurel so you
+don't get injured. When you get past that you will now be able to enter a new
+room, this time it is a boss, but funny enough its a very easy boss. Death was
+a lot harder than this boso. 
+
+You should have no problem with this guy stand a distance away when he circles
+around jump and hit him you should be able to hit him twice when he comes
+around. After he circles around he stops and shoots fireballs that hit in a 
+certain area, just stand still and your shield will just block it, then he
+does the same thing over and over again. After you kill him you will possess
+the magic cross, now go to the next room to get Dracula's ring, then make your
+way out of this mansion and to the entrance.
+
+=========
+RECAP
+=========
+
+Not so much happened this go around you used the red crystal to draw the
+second lake dry then you went through the huge swamp using Laurels to not
+take damage. You then went through the fifth mansion grabbed the Oak Stake and
+while in there you were able to get more Laurels you fought a stupid boss to
+retrieve the holy cross that allows you to gain access into Dracula's castle.
+You then received dracula's ring using the Oak Stake and you left the Mansion.
+
+==============================================================================
+TIEING UP LOOSE ENDS TO CASTLEVANIA IN DEFEATING DRACULA
+==============================================================================
+
+Our next destination is CASTLEVANIA home of Dracula you will now have to go
+past the fourth mansion and travel for awhile to get there. If you would like
+on your way to Castlevania buy garlic & Laurels they will help you, but as of
+right now you don't need hearts anymore to buy whips or anything just those
+two items. On your travels after you have gone through several screens/areas
+you will have a choice to go right or go down the stairs and then right. 
+choose the second option the other leads to a dead end that isn't worth being
+there anyways.
+
+Once you are in the dead town of Ghulash there is no doors that are worth
+going in. Just proceed right, to Vrad's graveyard (vlad?) Now keep going right
+and you will end up at the bridge to Castlevania. Break the bricks and enter
+Dracula's castle, it will have no enemies in it since he is gone, use the holy
+water to break the bricks and soon you will be in the room ready to ressurect
+Dracula!!!
+
+Once you have traveled through his castle and get to the door you will be in
+the room where you will fight Dracula. You could if you want use the holy fire
+when Dracula gets ressurected just sit there and use the fire he won't budge
+and you can win that way. Or you can use your Laurels to become invincible
+and you can hit him using your other sub weapons like the golden knife would
+be useful since you aren't going to be needing your hearts after this point
+in the game. GOOD LUCK!!!
+
+After beating Dracula the land was rid of the curse and Simon wasn't able
+to recover from his wounds so he will die eventually. Good job in beating a
+very underrated game, now if you want you can play it again and I believe that
+you can get the best ending if you beat it in under a couple of game hours.
+
+
+==============================================================================
+CREDITS
+==============================================================================
+
+This game is really a fun game it does have its moments where it can be 
+tedious and retarded but I really enjoyed this game and I hope you do too.
+
+I wrote this guide in one day I had a lot of fun I had beat the game a second
+time the day before and thought to myself I should write this guide tomorrow.
+I did and I hope you like it, this is a great series of games and a great game
+as well.
+
+CASTLEVANIA ROCKS!!!
+
+SEE YA LATER!!
+COPYRIGHT (c) COLBY HAYMOND 2010-11

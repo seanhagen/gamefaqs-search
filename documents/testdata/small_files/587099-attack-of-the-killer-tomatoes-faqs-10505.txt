@@ -1,0 +1,25 @@
+
+
+    Original NES Game Genie codes created by:
+
+       Tony Hedstrom   t_hedstrom@yahoo.com
+
+
+   Attack of the Killer Tomatoes
+
+PAUAUYLE  start with 9 lives (instead of 3)
+
+YAUAUYLE  start with 15 lives
+
+PPUAUYLE  start with 25 lives
+
+ZLUAUYLA  start with 50 lives
+
+
+
+=====
+Tony Hedstrom
+Visit the Code Hut at:
+http://www.angelfire.com/games2/codehut/
+
+
